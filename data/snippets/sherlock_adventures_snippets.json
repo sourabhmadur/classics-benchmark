@@ -1,0 +1,609 @@
+{
+  "novel_key": "sherlock_adventures",
+  "novel_file": "sherlock_adventures.txt",
+  "text_length": 561815,
+  "chapters_detected": 14,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "I. A",
+      "start_pos": 85,
+      "end_pos": 19631,
+      "length": 19546
+    },
+    {
+      "chapter_num": 2,
+      "title": "II.\n\nA",
+      "start_pos": 19639,
+      "end_pos": 41013,
+      "length": 21374
+    },
+    {
+      "chapter_num": 3,
+      "title": "III.\n\nI",
+      "start_pos": 41022,
+      "end_pos": 46918,
+      "length": 5896
+    },
+    {
+      "chapter_num": 4,
+      "title": "II. T",
+      "start_pos": 46925,
+      "end_pos": 96167,
+      "length": 49242
+    },
+    {
+      "chapter_num": 5,
+      "title": "III. A",
+      "start_pos": 96175,
+      "end_pos": 134078,
+      "length": 37903
+    },
+    {
+      "chapter_num": 6,
+      "title": "IV. T",
+      "start_pos": 134085,
+      "end_pos": 185428,
+      "length": 51343
+    },
+    {
+      "chapter_num": 7,
+      "title": "V. T",
+      "start_pos": 185434,
+      "end_pos": 224873,
+      "length": 39439
+    },
+    {
+      "chapter_num": 8,
+      "title": "VI. T",
+      "start_pos": 224880,
+      "end_pos": 274034,
+      "length": 49154
+    },
+    {
+      "chapter_num": 9,
+      "title": "VII. T",
+      "start_pos": 274042,
+      "end_pos": 316137,
+      "length": 42095
+    },
+    {
+      "chapter_num": 10,
+      "title": "VIII. T",
+      "start_pos": 316146,
+      "end_pos": 369087,
+      "length": 52941
+    },
+    {
+      "chapter_num": 11,
+      "title": "IX. T",
+      "start_pos": 369094,
+      "end_pos": 413688,
+      "length": 44594
+    },
+    {
+      "chapter_num": 12,
+      "title": "X. T",
+      "start_pos": 413694,
+      "end_pos": 457795,
+      "length": 44101
+    },
+    {
+      "chapter_num": 13,
+      "title": "XI. T",
+      "start_pos": 457802,
+      "end_pos": 508768,
+      "length": 50966
+    },
+    {
+      "chapter_num": 14,
+      "title": "XII. T",
+      "start_pos": 508776,
+      "end_pos": 561815,
+      "length": 53039
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "I. A",
+      "start_char_pos": 6610,
+      "end_char_pos": 6981,
+      "token_count": 66,
+      "text": "For example, you have frequently seen the steps\nwhich lead up from the hall to this room.”\n\n“Frequently.”\n\n“How often?”\n\n“Well, some hundreds of times.”\n\n“Then how many are there?”\n\n“How many? I don’t know.”\n\n“Quite so! You have not observed. And yet you have seen. That is just\nmy point. Now, I know that there are seventeen steps, because I have\nboth seen and observed.",
+      "first_sentence": "For example, you have frequently seen the steps\nwhich lead up from the hall to this room."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 1,
+      "chapter_title": "I. A",
+      "start_char_pos": 13639,
+      "end_char_pos": 14039,
+      "token_count": 67,
+      "text": "To speak\nplainly, the matter implicates the great House of Ormstein, hereditary\nkings of Bohemia.”\n\n“I was also aware of that,” murmured Holmes, settling himself down in\nhis armchair and closing his eyes.\n\nOur visitor glanced with some apparent surprise at the languid,\nlounging figure of the man who had been no doubt depicted to him as the\nmost incisive reasoner and most energetic agent in Europe.",
+      "first_sentence": "To speak\nplainly, the matter implicates the great House of Ormstein, hereditary\nkings of Bohemia."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 2,
+      "chapter_title": "II.\n\nA",
+      "start_char_pos": 26797,
+      "end_char_pos": 27113,
+      "token_count": 61,
+      "text": "They were all three standing in a knot in front of the altar. I\nlounged up the side aisle like any other idler who has dropped into a\nchurch. Suddenly, to my surprise, the three at the altar faced round to\nme, and Godfrey Norton came running as hard as he could towards me.\n\n“‘Thank God,’ he cried. ‘You’ll do. Come!",
+      "first_sentence": "They were all three standing in a knot in front of the altar."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 2,
+      "chapter_title": "II.\n\nA",
+      "start_char_pos": 33905,
+      "end_char_pos": 34130,
+      "token_count": 45,
+      "text": "It is her\ncarriage. Now carry out my orders to the letter.”\n\nAs he spoke the gleam of the sidelights of a carriage came round the\ncurve of the avenue. It was a smart little landau which rattled up to\nthe door of Briony Lodge.",
+      "first_sentence": "It is her\ncarriage."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 3,
+      "chapter_title": "III.\n\nI",
+      "start_char_pos": 44032,
+      "end_char_pos": 44435,
+      "token_count": 77,
+      "text": "But, you know, I have been trained as an actress myself.\n Male costume is nothing new to me. I often take advantage of the\n freedom which it gives. I sent John, the coachman, to watch you,\n ran upstairs, got into my walking clothes, as I call them, and came\n down just as you departed.\n\n “Well, I followed you to your door, and so made sure that I was\n really an object of interest to the celebrated Mr.",
+      "first_sentence": "But, you know, I have been trained as an actress myself."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 4,
+      "chapter_title": "II. T",
+      "start_char_pos": 56801,
+      "end_char_pos": 57114,
+      "token_count": 64,
+      "text": "If my hair would only change colour, here’s a nice little crib all\nready for me to step into.’\n\n“‘Why, what is it, then?’ I asked. You see, Mr. Holmes, I am a very\nstay-at-home man, and as my business came to me instead of my having to\ngo to it, I was often weeks on end without putting my foot over the\ndoor-mat.",
+      "first_sentence": "If my hair would only change colour, here’s a nice little crib all\nready for me to step into."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 4,
+      "chapter_title": "II. T",
+      "start_char_pos": 66626,
+      "end_char_pos": 66920,
+      "token_count": 64,
+      "text": "Duncan Ross took to coming in only once of a morning, and then, after a time, he did not come in at all. Still, of course, I never dared to leave the room for an instant, for I was not sure when he might come, and the billet was such a good one, and suited me so well, that I would not risk the",
+      "first_sentence": "Duncan Ross took to coming in only once of a morning, and then, after a time, he did not come in at all."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 4,
+      "chapter_title": "II. T",
+      "start_char_pos": 76514,
+      "end_char_pos": 76809,
+      "token_count": 48,
+      "text": "There is\nMortimer’s, the tobacconist, the little newspaper shop, the Coburg\nbranch of the City and Suburban Bank, the Vegetarian Restaurant, and\nMcFarlane’s carriage-building depot. That carries us right on to the\nother block. And now, Doctor, we’ve done our work, so it’s time we had\nsome play.",
+      "first_sentence": "There is\nMortimer’s, the tobacconist, the little newspaper shop, the Coburg\nbranch of the City and Suburban Bank, the Vegetarian Restaurant, and\nMcFarlane’s carriage-building depot."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 4,
+      "chapter_title": "II. T",
+      "start_char_pos": 86344,
+      "end_char_pos": 86682,
+      "token_count": 61,
+      "text": "Our\nreserve of bullion is much larger at present than is usually kept in a\nsingle branch office, and the directors have had misgivings upon the\nsubject.”\n\n“Which were very well justified,” observed Holmes. “And now it is time\nthat we arranged our little plans. I expect that within an hour matters\nwill come to a head. In the meantime Mr.",
+      "first_sentence": "Our\nreserve of bullion is much larger at present than is usually kept in a\nsingle branch office, and the directors have had misgivings upon the\nsubject."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 5,
+      "chapter_title": "III. A",
+      "start_char_pos": 105735,
+      "end_char_pos": 106027,
+      "token_count": 56,
+      "text": "It brings me twopence a\nsheet, and I can often do from fifteen to twenty sheets in a day.”\n\n“You have made your position very clear to me,” said Holmes. “This is\nmy friend, Dr. Watson, before whom you can speak as freely as before\nmyself. Kindly tell us now all about your connection with Mr.",
+      "first_sentence": "It brings me twopence a\nsheet, and I can often do from fifteen to twenty sheets in a day."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 5,
+      "chapter_title": "III. A",
+      "start_char_pos": 115275,
+      "end_char_pos": 115671,
+      "token_count": 74,
+      "text": "Then he took down from the rack the old\nand oily clay pipe, which was to him as a counsellor, and, having lit\nit, he leaned back in his chair, with the thick blue cloud-wreaths\nspinning up from him, and a look of infinite languor in his face.\n\n“Quite an interesting study, that maiden,” he observed. “I found her\nmore interesting than her little problem, which, by the way, is rather\na trite one.",
+      "first_sentence": "Then he took down from the rack the old\nand oily clay pipe, which was to him as a counsellor, and, having lit\nit, he leaned back in his chair, with the thick blue cloud-wreaths\nspinning up from him, and a look of infinite languor in his face."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 5,
+      "chapter_title": "III. A",
+      "start_char_pos": 124719,
+      "end_char_pos": 125071,
+      "token_count": 63,
+      "text": "Windibank gave a violent start and dropped his gloves. “I am\ndelighted to hear it,” he said.\n\n“It is a curious thing,” remarked Holmes, “that a typewriter has really\nquite as much individuality as a man’s handwriting. Unless they are\nquite new, no two of them write exactly alike. Some letters get more\nworn than others, and some wear only on one side.",
+      "first_sentence": "Windibank gave a violent start and dropped his gloves."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 6,
+      "chapter_title": "IV. T",
+      "start_char_pos": 142697,
+      "end_char_pos": 143018,
+      "token_count": 57,
+      "text": "To take the first example to hand,\nI very clearly perceive that in your bedroom the window is upon the\nright-hand side, and yet I question whether Mr. Lestrade would have\nnoted even so self-evident a thing as that.”\n\n“How on earth—”\n\n“My dear fellow, I know you well. I know the military neatness which\ncharacterises you.",
+      "first_sentence": "To take the first example to hand,\nI very clearly perceive that in your bedroom the window is upon the\nright-hand side, and yet I question whether Mr."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 6,
+      "chapter_title": "IV. T",
+      "start_char_pos": 151409,
+      "end_char_pos": 151680,
+      "token_count": 55,
+      "text": "No, sir, I shall approach this case from the point of\nview that what this young man says is true, and we shall see whither\nthat hypothesis will lead us. And now here is my pocket Petrarch, and\nnot another word shall I say of this case until we are on the scene of\naction.",
+      "first_sentence": "No, sir, I shall approach this case from the point of\nview that what this young man says is true, and we shall see whither\nthat hypothesis will lead us."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 6,
+      "chapter_title": "IV. T",
+      "start_char_pos": 159817,
+      "end_char_pos": 160080,
+      "token_count": 46,
+      "text": "I did not wonder at Lestrade’s\nopinion, and yet I had so much faith in Sherlock Holmes’ insight that I\ncould not lose hope as long as every fresh fact seemed to strengthen\nhis conviction of young McCarthy’s innocence.\n\nIt was late before Sherlock Holmes returned.",
+      "first_sentence": "I did not wonder at Lestrade’s\nopinion, and yet I had so much faith in Sherlock Holmes’ insight that I\ncould not lose hope as long as every fresh fact seemed to strengthen\nhis conviction of young McCarthy’s innocence."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 6,
+      "chapter_title": "IV. T",
+      "start_char_pos": 168339,
+      "end_char_pos": 168581,
+      "token_count": 48,
+      "text": "Oh, how simple it would all have been had I\nbeen here before they came like a herd of buffalo and wallowed all over\nit. Here is where the party with the lodge-keeper came, and they have\ncovered all tracks for six or eight feet round the body.",
+      "first_sentence": "Oh, how simple it would all have been had I\nbeen here before they came like a herd of buffalo and wallowed all over\nit."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 6,
+      "chapter_title": "IV. T",
+      "start_char_pos": 177029,
+      "end_char_pos": 177278,
+      "token_count": 45,
+      "text": "His tangled beard, grizzled hair, and outstanding, drooping\neyebrows combined to give an air of dignity and power to his\nappearance, but his face was of an ashen white, while his lips and the\ncorners of his nostrils were tinged with a shade of blue.",
+      "first_sentence": "His tangled beard, grizzled hair, and outstanding, drooping\neyebrows combined to give an air of dignity and power to his\nappearance, but his face was of an ashen white, while his lips and the\ncorners of his nostrils were tinged with a shade of blue."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 7,
+      "chapter_title": "V. T",
+      "start_char_pos": 193340,
+      "end_char_pos": 193665,
+      "token_count": 67,
+      "text": "He\nbegged my father to let me live with him and he was very kind to me in\nhis way. When he was sober he used to be fond of playing backgammon and\ndraughts with me, and he would make me his representative both with the\nservants and with the tradespeople, so that by the time that I was\nsixteen I was quite master of the house.",
+      "first_sentence": "He\nbegged my father to let me live with him and he was very kind to me in\nhis way."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 7,
+      "chapter_title": "V. T",
+      "start_char_pos": 201220,
+      "end_char_pos": 201530,
+      "token_count": 61,
+      "text": "I shall take no notice of such nonsense.’\n\n“‘I should certainly speak to the police,’ I said.\n\n“‘And be laughed at for my pains. Nothing of the sort.’\n\n“‘Then let me do so?’\n\n“‘No, I forbid you. I won’t have a fuss made about such nonsense.’\n\n“It was in vain to argue with him, for he was a very obstinate man.",
+      "first_sentence": "I shall take no notice of such nonsense."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 7,
+      "chapter_title": "V. T",
+      "start_char_pos": 209179,
+      "end_char_pos": 209489,
+      "token_count": 57,
+      "text": "Save, perhaps, that. And yet this John Openshaw seems to me\nto be walking amid even greater perils than did the Sholtos.”\n\n“But have you,” I asked, “formed any definite conception as to what\nthese perils are?”\n\n“There can be no question as to their nature,” he answered.\n\n“Then what are they? Who is this K. K.",
+      "first_sentence": "Save, perhaps, that."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 7,
+      "chapter_title": "V. T",
+      "start_char_pos": 216999,
+      "end_char_pos": 217346,
+      "token_count": 68,
+      "text": "You can understand that this\nregister and diary may implicate some of the first men in the South,\nand that there may be many who will not sleep easy at night until it is\nrecovered.”\n\n“Then the page we have seen—”\n\n“Is such as we might expect. It ran, if I remember right, ‘sent the\npips to A, B, and C’—that is, sent the society’s warning to them.",
+      "first_sentence": "You can understand that this\nregister and diary may implicate some of the first men in the South,\nand that there may be many who will not sleep easy at night until it is\nrecovered."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 8,
+      "chapter_title": "VI. T",
+      "start_char_pos": 234856,
+      "end_char_pos": 235252,
+      "token_count": 75,
+      "text": "Had I been recognised in that den my life would\nnot have been worth an hour’s purchase; for I have used it before now\nfor my own purposes, and the rascally Lascar who runs it has sworn to\nhave vengeance upon me. There is a trap-door at the back of that\nbuilding, near the corner of Paul’s Wharf, which could tell some\nstrange tales of what has passed through it upon the moonless nights.”\n\n“What!",
+      "first_sentence": "Had I been recognised in that den my life would\nnot have been worth an hour’s purchase; for I have used it before now\nfor my own purposes, and the rascally Lascar who runs it has sworn to\nhave vengeance upon me."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 8,
+      "chapter_title": "VI. T",
+      "start_char_pos": 244616,
+      "end_char_pos": 244981,
+      "token_count": 68,
+      "text": "His name is Hugh\nBoone, and his hideous face is one which is familiar to every man who\ngoes much to the City. He is a professional beggar, though in order to\navoid the police regulations he pretends to a small trade in wax\nvestas. Some little distance down Threadneedle Street, upon the\nleft-hand side, there is, as you may have remarked, a small angle in\nthe wall.",
+      "first_sentence": "His name is Hugh\nBoone, and his hideous face is one which is familiar to every man who\ngoes much to the City."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 8,
+      "chapter_title": "VI. T",
+      "start_char_pos": 254581,
+      "end_char_pos": 255135,
+      "token_count": 99,
+      "text": "I had left my\nchair and was gazing at it over his shoulder. The envelope was a very\ncoarse one and was stamped with the Gravesend postmark and with the\ndate of that very day, or rather of the day before, for it was\nconsiderably after midnight.\n\n“Coarse writing,” murmured Holmes. “Surely this is not your husband’s\nwriting, madam.”\n\n“No, but the enclosure is.”\n\n“I perceive also that whoever addressed the envelope had to go and\ninquire as to the address.”\n\n“How can you tell that?”\n\n“The name, you see, is in perfectly black ink, which has dried itself.",
+      "first_sentence": "I had left my\nchair and was gazing at it over his shoulder."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 8,
+      "chapter_title": "VI. T",
+      "start_char_pos": 264264,
+      "end_char_pos": 264530,
+      "token_count": 45,
+      "text": "He was\na middle-sized man, coarsely clad as became his calling, with a\ncoloured shirt protruding through the rent in his tattered coat. He\nwas, as the inspector had said, extremely dirty, but the grime which\ncovered his face could not conceal its repulsive ugliness.",
+      "first_sentence": "He was\na middle-sized man, coarsely clad as became his calling, with a\ncoloured shirt protruding through the rent in his tattered coat."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 9,
+      "chapter_title": "VII. T",
+      "start_char_pos": 291108,
+      "end_char_pos": 291498,
+      "token_count": 76,
+      "text": "Of course it is a nucleus and focus of crime.\nEvery good stone is. They are the devil’s pet baits. In the larger and\nolder jewels every facet may stand for a bloody deed. This stone is not\nyet twenty years old. It was found in the banks of the Amoy River in\nsouthern China and is remarkable in having every characteristic of the\ncarbuncle, save that it is blue in shade instead of ruby red.",
+      "first_sentence": "Of course it is a nucleus and focus of crime."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 9,
+      "chapter_title": "VII. T",
+      "start_char_pos": 299433,
+      "end_char_pos": 299805,
+      "token_count": 69,
+      "text": "Now where did you get them from?”\n\nTo my surprise the question provoked a burst of anger from the\nsalesman.\n\n“Now, then, mister,” said he, with his head cocked and his arms akimbo,\n“what are you driving at? Let’s have it straight, now.”\n\n“It is straight enough. I should like to know who sold you the geese\nwhich you supplied to the Alpha.”\n\n“Well then, I shan’t tell you.",
+      "first_sentence": "Now where did you get them from?"
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 9,
+      "chapter_title": "VII. T",
+      "start_char_pos": 307870,
+      "end_char_pos": 308369,
+      "token_count": 99,
+      "text": "Give him an arm back into his chair, Watson. He’s not\ngot blood enough to go in for felony with impunity. Give him a dash of\nbrandy. So! Now he looks a little more human. What a shrimp it is, to\nbe sure!”\n\nFor a moment he had staggered and nearly fallen, but the brandy brought\na tinge of colour into his cheeks, and he sat staring with frightened\neyes at his accuser.\n\n“I have almost every link in my hands, and all the proofs which I could\npossibly need, so there is little which you need tell me.",
+      "first_sentence": "Give him an arm back into his chair, Watson."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 10,
+      "chapter_title": "VIII. T",
+      "start_char_pos": 325020,
+      "end_char_pos": 325490,
+      "token_count": 86,
+      "text": "The money which my\nmother had left was enough for all our wants, and there seemed to be no\nobstacle to our happiness.\n\n“But a terrible change came over our stepfather about this time.\nInstead of making friends and exchanging visits with our neighbours,\nwho had at first been overjoyed to see a Roylott of Stoke Moran back in\nthe old family seat, he shut himself up in his house and seldom came\nout save to indulge in ferocious quarrels with whoever might cross his\npath.",
+      "first_sentence": "The money which my\nmother had left was enough for all our wants, and there seemed to be no\nobstacle to our happiness."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 10,
+      "chapter_title": "VIII. T",
+      "start_char_pos": 334110,
+      "end_char_pos": 334492,
+      "token_count": 68,
+      "text": "I do not know whether the spotted\nhandkerchiefs which so many of them wear over their heads might have\nsuggested the strange adjective which she used.”\n\nHolmes shook his head like a man who is far from being satisfied.\n\n“These are very deep waters,” said he; “pray go on with your\nnarrative.”\n\n“Two years have passed since then, and my life has been until lately\nlonelier than ever.",
+      "first_sentence": "I do not know whether the spotted\nhandkerchiefs which so many of them wear over their heads might have\nsuggested the strange adjective which she used."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 10,
+      "chapter_title": "VIII. T",
+      "start_char_pos": 342738,
+      "end_char_pos": 343112,
+      "token_count": 70,
+      "text": "And now, Watson, this is too serious for\ndawdling, especially as the old man is aware that we are interesting\nourselves in his affairs; so if you are ready, we shall call a cab and\ndrive to Waterloo. I should be very much obliged if you would slip your\nrevolver into your pocket. An Eley’s No. 2 is an excellent argument\nwith gentlemen who can twist steel pokers into knots.",
+      "first_sentence": "And now, Watson, this is too serious for\ndawdling, especially as the old man is aware that we are interesting\nourselves in his affairs; so if you are ready, we shall call a cab and\ndrive to Waterloo."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 10,
+      "chapter_title": "VIII. T",
+      "start_char_pos": 351501,
+      "end_char_pos": 351822,
+      "token_count": 55,
+      "text": "Holmes walked slowly round and examined each and all of them with the\nkeenest interest.\n\n“What’s in here?” he asked, tapping the safe.\n\n“My stepfather’s business papers.”\n\n“Oh! you have seen inside, then?”\n\n“Only once, some years ago. I remember that it was full of papers.”\n\n“There isn’t a cat in it, for example?”\n\n“No.",
+      "first_sentence": "Holmes walked slowly round and examined each and all of them with the\nkeenest interest."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 10,
+      "chapter_title": "VIII. T",
+      "start_char_pos": 360429,
+      "end_char_pos": 360714,
+      "token_count": 59,
+      "text": "He would see it through the ventilator.”\n\nI nodded again.\n\n“Do not go asleep; your very life may depend upon it. Have your pistol\nready in case we should need it. I will sit on the side of the bed, and\nyou in that chair.”\n\nI took out my revolver and laid it on the corner of the table.",
+      "first_sentence": "He would see it through the ventilator."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 11,
+      "chapter_title": "IX. T",
+      "start_char_pos": 378124,
+      "end_char_pos": 378622,
+      "token_count": 84,
+      "text": "By profession I am a hydraulic engineer,\nand I have had considerable experience of my work during the seven\nyears that I was apprenticed to Venner & Matheson, the well-known firm,\nof Greenwich. Two years ago, having served my time, and having also\ncome into a fair sum of money through my poor father’s death, I\ndetermined to start in business for myself and took professional\nchambers in Victoria Street.\n\n“I suppose that everyone finds his first independent start in business\na dreary experience.",
+      "first_sentence": "By profession I am a hydraulic engineer,\nand I have had considerable experience of my work during the seven\nyears that I was apprenticed to Venner & Matheson, the well-known firm,\nof Greenwich."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 11,
+      "chapter_title": "IX. T",
+      "start_char_pos": 386969,
+      "end_char_pos": 387259,
+      "token_count": 52,
+      "text": "On the other hand, the face and manner of my patron had\nmade an unpleasant impression upon me, and I could not think that his\nexplanation of the fuller’s-earth was sufficient to explain the\nnecessity for my coming at midnight, and his extreme anxiety lest I\nshould tell anyone of my errand.",
+      "first_sentence": "On the other hand, the face and manner of my patron had\nmade an unpleasant impression upon me, and I could not think that his\nexplanation of the fuller’s-earth was sufficient to explain the\nnecessity for my coming at midnight, and his extreme anxiety lest I\nshould tell anyone of my errand."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 11,
+      "chapter_title": "IX. T",
+      "start_char_pos": 396032,
+      "end_char_pos": 396325,
+      "token_count": 54,
+      "text": "Within was a small, square room, in which the three of us\ncould hardly get at one time. Ferguson remained outside, and the\ncolonel ushered me in.\n\n“‘We are now,’ said he, ‘actually within the hydraulic press, and it\nwould be a particularly unpleasant thing for us if anyone were to turn\nit on.",
+      "first_sentence": "Within was a small, square room, in which the three of us\ncould hardly get at one time."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 11,
+      "chapter_title": "IX. T",
+      "start_char_pos": 404841,
+      "end_char_pos": 405182,
+      "token_count": 66,
+      "text": "There would be one to Reading in less than an hour. The same porter was\non duty, I found, as had been there when I arrived. I inquired of him\nwhether he had ever heard of Colonel Lysander Stark. The name was\nstrange to him. Had he observed a carriage the night before waiting for\nme? No, he had not. Was there a police-station anywhere near?",
+      "first_sentence": "There would be one to Reading in less than an hour."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 12,
+      "chapter_title": "X. T",
+      "start_char_pos": 422555,
+      "end_char_pos": 423036,
+      "token_count": 85,
+      "text": "The ceremony, as shortly\nannounced in the papers of yesterday, occurred on the previous morning;\nbut it is only now that it has been possible to confirm the strange\nrumours which have been so persistently floating about. In spite of the\nattempts of the friends to hush the matter up, so much public attention\nhas now been drawn to it that no good purpose can be served by\naffecting to disregard what is a common subject for conversation.\n\n“‘The ceremony, which was performed at St.",
+      "first_sentence": "The ceremony, as shortly\nannounced in the papers of yesterday, occurred on the previous morning;\nbut it is only now that it has been possible to confirm the strange\nrumours which have been so persistently floating about."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 12,
+      "chapter_title": "X. T",
+      "start_char_pos": 431382,
+      "end_char_pos": 431656,
+      "token_count": 50,
+      "text": "Yet when I spoke to her of the matter, she answered me\nabruptly; and in the carriage, on our way home, she seemed absurdly\nagitated over this trifling cause.”\n\n“Indeed! You say that there was a gentleman in the pew. Some of the\ngeneral public were present, then?”\n\n“Oh, yes.",
+      "first_sentence": "Yet when I spoke to her of the matter, she answered me\nabruptly; and in the carriage, on our way home, she seemed absurdly\nagitated over this trifling cause."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 12,
+      "chapter_title": "X. T",
+      "start_char_pos": 440202,
+      "end_char_pos": 440462,
+      "token_count": 56,
+      "text": "In the pocket is a card-case. In the\ncard-case is a note. And here is the very note.” He slapped it down\nupon the table in front of him. “Listen to this: ‘You will see me when\nall is ready. Come at once. F. H. M.’ Now my theory all along has been\nthat Lady St.",
+      "first_sentence": "In the pocket is a card-case."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 12,
+      "chapter_title": "X. T",
+      "start_char_pos": 449096,
+      "end_char_pos": 449411,
+      "token_count": 68,
+      "text": "I thought it was his ghost at\nfirst; but when I looked again there he was still, with a kind of\nquestion in his eyes, as if to ask me whether I were glad or sorry to\nsee him. I wonder I didn’t drop. I know that everything was turning\nround, and the words of the clergyman were just like the buzz of a bee\nin my ear.",
+      "first_sentence": "I thought it was his ghost at\nfirst; but when I looked again there he was still, with a kind of\nquestion in his eyes, as if to ask me whether I were glad or sorry to\nsee him."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 13,
+      "chapter_title": "XI. T",
+      "start_char_pos": 466439,
+      "end_char_pos": 466681,
+      "token_count": 47,
+      "text": "I leave it with you, however, with every confidence, and\nI shall call for it in person on Monday morning.’\n\n“Seeing that my client was anxious to leave, I said no more but,\ncalling for my cashier, I ordered him to pay over fifty £ 1000 notes.",
+      "first_sentence": "I leave it with you, however, with every confidence, and\nI shall call for it in person on Monday morning."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 13,
+      "chapter_title": "XI. T",
+      "start_char_pos": 474797,
+      "end_char_pos": 475148,
+      "token_count": 63,
+      "text": "I slipped out of bed, all\npalpitating with fear, and peeped round the corner of my dressing-room\ndoor.\n\n“‘Arthur!’ I screamed, ‘you villain! you thief! How dare you touch that\ncoronet?’\n\n“The gas was half up, as I had left it, and my unhappy boy, dressed\nonly in his shirt and trousers, was standing beside the light, holding\nthe coronet in his hands.",
+      "first_sentence": "I slipped out of bed, all\npalpitating with fear, and peeped round the corner of my dressing-room\ndoor."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 13,
+      "chapter_title": "XI. T",
+      "start_char_pos": 483382,
+      "end_char_pos": 483726,
+      "token_count": 65,
+      "text": "On the left ran a\nlane which led to the stables, and was not itself within the grounds at\nall, being a public, though little used, thoroughfare. Holmes left us\nstanding at the door and walked slowly all round the house, across the\nfront, down the tradesmen’s path, and so round by the garden behind\ninto the stable lane. So long was he that Mr.",
+      "first_sentence": "On the left ran a\nlane which led to the stables, and was not itself within the grounds at\nall, being a public, though little used, thoroughfare."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 13,
+      "chapter_title": "XI. T",
+      "start_char_pos": 491830,
+      "end_char_pos": 492277,
+      "token_count": 88,
+      "text": "It was not yet three\nwhen we found ourselves in our rooms once more. He hurried to his\nchamber and was down again in a few minutes dressed as a common loafer.\nWith his collar turned up, his shiny, seedy coat, his red cravat, and\nhis worn boots, he was a perfect sample of the class.\n\n“I think that this should do,” said he, glancing into the glass above\nthe fireplace. “I only wish that you could come with me, Watson, but I\nfear that it won’t do.",
+      "first_sentence": "It was not yet three\nwhen we found ourselves in our rooms once more."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 13,
+      "chapter_title": "XI. T",
+      "start_char_pos": 500424,
+      "end_char_pos": 500743,
+      "token_count": 62,
+      "text": "He saw her\nstealthily open the window, hand out the coronet to someone in the\ngloom, and then closing it once more hurry back to her room, passing\nquite close to where he stood hid behind the curtain.\n\n“As long as she was on the scene he could not take any action without a\nhorrible exposure of the woman whom he loved.",
+      "first_sentence": "He saw her\nstealthily open the window, hand out the coronet to someone in the\ngloom, and then closing it once more hurry back to her room, passing\nquite close to where he stood hid behind the curtain."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 14,
+      "chapter_title": "XII. T",
+      "start_char_pos": 517983,
+      "end_char_pos": 518342,
+      "token_count": 63,
+      "text": "As I was already in debt to my tradesmen, the advance was a\ngreat convenience, and yet there was something unnatural about the\nwhole transaction which made me wish to know a little more before I\nquite committed myself.\n\n“‘May I ask where you live, sir?’ said I.\n\n“‘Hampshire. Charming rural place. The Copper Beeches, five miles on\nthe far side of Winchester.",
+      "first_sentence": "As I was already in debt to my tradesmen, the advance was a\ngreat convenience, and yet there was something unnatural about the\nwhole transaction which made me wish to know a little more before I\nquite committed myself."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 14,
+      "chapter_title": "XII. T",
+      "start_char_pos": 526516,
+      "end_char_pos": 526893,
+      "token_count": 71,
+      "text": "As to Holmes, I observed that he sat frequently for half an\nhour on end, with knitted brows and an abstracted air, but he swept the\nmatter away with a wave of his hand when I mentioned it. “Data! data!\ndata!” he cried impatiently. “I can’t make bricks without clay.” And\nyet he would always wind up by muttering that no sister of his should\never have accepted such a situation.",
+      "first_sentence": "As to Holmes, I observed that he sat frequently for half an\nhour on end, with knitted brows and an abstracted air, but he swept the\nmatter away with a wave of his hand when I mentioned it."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 14,
+      "chapter_title": "XII. T",
+      "start_char_pos": 535336,
+      "end_char_pos": 535556,
+      "token_count": 45,
+      "text": "Twice since I have\nbeen with them he has been quite drunk, and yet Mr. Rucastle seemed to\ntake no notice of it. His wife is a very tall and strong woman with a\nsour face, as silent as Mrs. Rucastle and much less amiable.",
+      "first_sentence": "Twice since I have\nbeen with them he has been quite drunk, and yet Mr."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 14,
+      "chapter_title": "XII. T",
+      "start_char_pos": 544138,
+      "end_char_pos": 544495,
+      "token_count": 72,
+      "text": "His\ncheeks were red, his brow was all crinkled with anger, and the veins\nstood out at his temples with passion. He locked the door and hurried\npast me without a word or a look.\n\n“This aroused my curiosity, so when I went out for a walk in the\ngrounds with my charge, I strolled round to the side from which I could\nsee the windows of this part of the house.",
+      "first_sentence": "His\ncheeks were red, his brow was all crinkled with anger, and the veins\nstood out at his temples with passion."
+    }
+  ]
+}

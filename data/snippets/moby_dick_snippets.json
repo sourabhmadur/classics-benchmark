@@ -1,0 +1,1519 @@
+{
+  "novel_key": "moby_dick",
+  "novel_file": "moby_dick.txt",
+  "text_length": 1217590,
+  "chapters_detected": 144,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER 2",
+      "start_pos": 31,
+      "end_pos": 1024,
+      "length": 993
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER 40",
+      "start_pos": 1036,
+      "end_pos": 2027,
+      "length": 991
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER 70",
+      "start_pos": 2039,
+      "end_pos": 3052,
+      "length": 1013
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER 99",
+      "start_pos": 3064,
+      "end_pos": 4075,
+      "length": 1011
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER 128",
+      "start_pos": 4088,
+      "end_pos": 26371,
+      "length": 22283
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER 1",
+      "start_pos": 26382,
+      "end_pos": 38582,
+      "length": 12200
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER 2",
+      "start_pos": 38593,
+      "end_pos": 43435,
+      "length": 4842
+    },
+    {
+      "chapter_num": 8,
+      "title": "I. B",
+      "start_pos": 43440,
+      "end_pos": 46523,
+      "length": 3083
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER 3",
+      "start_pos": 46534,
+      "end_pos": 78515,
+      "length": 31981
+    },
+    {
+      "chapter_num": 10,
+      "title": "CHAPTER 4",
+      "start_pos": 78526,
+      "end_pos": 87643,
+      "length": 9117
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER 5",
+      "start_pos": 87654,
+      "end_pos": 91838,
+      "length": 4184
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER 6",
+      "start_pos": 91849,
+      "end_pos": 96657,
+      "length": 4808
+    },
+    {
+      "chapter_num": 13,
+      "title": "CHAPTER 7",
+      "start_pos": 96668,
+      "end_pos": 102036,
+      "length": 5368
+    },
+    {
+      "chapter_num": 14,
+      "title": "CHAPTER 8",
+      "start_pos": 102047,
+      "end_pos": 107449,
+      "length": 5402
+    },
+    {
+      "chapter_num": 15,
+      "title": "CHAPTER 9",
+      "start_pos": 107460,
+      "end_pos": 127160,
+      "length": 19700
+    },
+    {
+      "chapter_num": 16,
+      "title": "CHAPTER 10",
+      "start_pos": 127172,
+      "end_pos": 135867,
+      "length": 8695
+    },
+    {
+      "chapter_num": 17,
+      "title": "CHAPTER 11",
+      "start_pos": 135879,
+      "end_pos": 139818,
+      "length": 3939
+    },
+    {
+      "chapter_num": 18,
+      "title": "CHAPTER 12",
+      "start_pos": 139830,
+      "end_pos": 144707,
+      "length": 4877
+    },
+    {
+      "chapter_num": 19,
+      "title": "CHAPTER 13",
+      "start_pos": 144719,
+      "end_pos": 154404,
+      "length": 9685
+    },
+    {
+      "chapter_num": 20,
+      "title": "CHAPTER 14",
+      "start_pos": 154416,
+      "end_pos": 158746,
+      "length": 4330
+    },
+    {
+      "chapter_num": 21,
+      "title": "CHAPTER 15",
+      "start_pos": 158758,
+      "end_pos": 160652,
+      "length": 1894
+    },
+    {
+      "chapter_num": 22,
+      "title": "I. A",
+      "start_pos": 160657,
+      "end_pos": 165346,
+      "length": 4689
+    },
+    {
+      "chapter_num": 23,
+      "title": "CHAPTER 16",
+      "start_pos": 165358,
+      "end_pos": 195858,
+      "length": 30500
+    },
+    {
+      "chapter_num": 24,
+      "title": "CHAPTER 17",
+      "start_pos": 195870,
+      "end_pos": 208506,
+      "length": 12636
+    },
+    {
+      "chapter_num": 25,
+      "title": "CHAPTER 18",
+      "start_pos": 208518,
+      "end_pos": 216212,
+      "length": 7694
+    },
+    {
+      "chapter_num": 26,
+      "title": "CHAPTER 19",
+      "start_pos": 216224,
+      "end_pos": 222781,
+      "length": 6557
+    },
+    {
+      "chapter_num": 27,
+      "title": "CHAPTER 20",
+      "start_pos": 222793,
+      "end_pos": 227944,
+      "length": 5151
+    },
+    {
+      "chapter_num": 28,
+      "title": "CHAPTER 21",
+      "start_pos": 227956,
+      "end_pos": 234104,
+      "length": 6148
+    },
+    {
+      "chapter_num": 29,
+      "title": "CHAPTER 22",
+      "start_pos": 234116,
+      "end_pos": 243272,
+      "length": 9156
+    },
+    {
+      "chapter_num": 30,
+      "title": "CHAPTER 23",
+      "start_pos": 243284,
+      "end_pos": 245449,
+      "length": 2165
+    },
+    {
+      "chapter_num": 31,
+      "title": "CHAPTER 24",
+      "start_pos": 245461,
+      "end_pos": 255165,
+      "length": 9704
+    },
+    {
+      "chapter_num": 32,
+      "title": "CHAPTER 25",
+      "start_pos": 255177,
+      "end_pos": 256784,
+      "length": 1607
+    },
+    {
+      "chapter_num": 33,
+      "title": "CHAPTER 26",
+      "start_pos": 256796,
+      "end_pos": 263817,
+      "length": 7021
+    },
+    {
+      "chapter_num": 34,
+      "title": "CHAPTER 27",
+      "start_pos": 263829,
+      "end_pos": 273337,
+      "length": 9508
+    },
+    {
+      "chapter_num": 35,
+      "title": "CHAPTER 28",
+      "start_pos": 273349,
+      "end_pos": 281420,
+      "length": 8071
+    },
+    {
+      "chapter_num": 36,
+      "title": "CHAPTER 29",
+      "start_pos": 281432,
+      "end_pos": 287984,
+      "length": 6552
+    },
+    {
+      "chapter_num": 37,
+      "title": "CHAPTER 30",
+      "start_pos": 287996,
+      "end_pos": 289586,
+      "length": 1590
+    },
+    {
+      "chapter_num": 38,
+      "title": "CHAPTER 31",
+      "start_pos": 289598,
+      "end_pos": 294032,
+      "length": 4434
+    },
+    {
+      "chapter_num": 39,
+      "title": "CHAPTER 32",
+      "start_pos": 294044,
+      "end_pos": 302679,
+      "length": 8635
+    },
+    {
+      "chapter_num": 40,
+      "title": "I. T",
+      "start_pos": 302685,
+      "end_pos": 318932,
+      "length": 16247
+    },
+    {
+      "chapter_num": 41,
+      "title": "II. T",
+      "start_pos": 318938,
+      "end_pos": 323948,
+      "length": 5010
+    },
+    {
+      "chapter_num": 42,
+      "title": "CHAPTER 33",
+      "start_pos": 323960,
+      "end_pos": 329772,
+      "length": 5812
+    },
+    {
+      "chapter_num": 43,
+      "title": "CHAPTER 34",
+      "start_pos": 329784,
+      "end_pos": 342469,
+      "length": 12685
+    },
+    {
+      "chapter_num": 44,
+      "title": "CHAPTER 35",
+      "start_pos": 342481,
+      "end_pos": 357216,
+      "length": 14735
+    },
+    {
+      "chapter_num": 45,
+      "title": "CHAPTER 36",
+      "start_pos": 357228,
+      "end_pos": 373087,
+      "length": 15859
+    },
+    {
+      "chapter_num": 46,
+      "title": "CHAPTER 37",
+      "start_pos": 373099,
+      "end_pos": 375863,
+      "length": 2764
+    },
+    {
+      "chapter_num": 47,
+      "title": "CHAPTER 38",
+      "start_pos": 375875,
+      "end_pos": 377959,
+      "length": 2084
+    },
+    {
+      "chapter_num": 48,
+      "title": "CHAPTER 39",
+      "start_pos": 377971,
+      "end_pos": 379403,
+      "length": 1432
+    },
+    {
+      "chapter_num": 49,
+      "title": "CHAPTER 40",
+      "start_pos": 379415,
+      "end_pos": 388294,
+      "length": 8879
+    },
+    {
+      "chapter_num": 50,
+      "title": "CHAPTER 41",
+      "start_pos": 388306,
+      "end_pos": 410267,
+      "length": 21961
+    },
+    {
+      "chapter_num": 51,
+      "title": "CHAPTER 42",
+      "start_pos": 410279,
+      "end_pos": 431417,
+      "length": 21138
+    },
+    {
+      "chapter_num": 52,
+      "title": "CHAPTER 43",
+      "start_pos": 431429,
+      "end_pos": 433148,
+      "length": 1719
+    },
+    {
+      "chapter_num": 53,
+      "title": "CHAPTER 44",
+      "start_pos": 433160,
+      "end_pos": 445132,
+      "length": 11972
+    },
+    {
+      "chapter_num": 54,
+      "title": "CHAPTER 45",
+      "start_pos": 445144,
+      "end_pos": 465271,
+      "length": 20127
+    },
+    {
+      "chapter_num": 55,
+      "title": "CHAPTER 46",
+      "start_pos": 465283,
+      "end_pos": 471263,
+      "length": 5980
+    },
+    {
+      "chapter_num": 56,
+      "title": "CHAPTER 47",
+      "start_pos": 471275,
+      "end_pos": 476628,
+      "length": 5353
+    },
+    {
+      "chapter_num": 57,
+      "title": "CHAPTER 48",
+      "start_pos": 476640,
+      "end_pos": 499098,
+      "length": 22458
+    },
+    {
+      "chapter_num": 58,
+      "title": "CHAPTER 49",
+      "start_pos": 499110,
+      "end_pos": 503785,
+      "length": 4675
+    },
+    {
+      "chapter_num": 59,
+      "title": "CHAPTER 50",
+      "start_pos": 503797,
+      "end_pos": 509530,
+      "length": 5733
+    },
+    {
+      "chapter_num": 60,
+      "title": "CHAPTER 51",
+      "start_pos": 509542,
+      "end_pos": 518220,
+      "length": 8678
+    },
+    {
+      "chapter_num": 61,
+      "title": "CHAPTER 52",
+      "start_pos": 518232,
+      "end_pos": 522274,
+      "length": 4042
+    },
+    {
+      "chapter_num": 62,
+      "title": "CHAPTER 53",
+      "start_pos": 522286,
+      "end_pos": 531648,
+      "length": 9362
+    },
+    {
+      "chapter_num": 63,
+      "title": "CHAPTER 54",
+      "start_pos": 531660,
+      "end_pos": 576636,
+      "length": 44976
+    },
+    {
+      "chapter_num": 64,
+      "title": "CHAPTER 55",
+      "start_pos": 576648,
+      "end_pos": 587574,
+      "length": 10926
+    },
+    {
+      "chapter_num": 65,
+      "title": "CHAPTER 56",
+      "start_pos": 587586,
+      "end_pos": 595157,
+      "length": 7571
+    },
+    {
+      "chapter_num": 66,
+      "title": "CHAPTER 57",
+      "start_pos": 595169,
+      "end_pos": 600733,
+      "length": 5564
+    },
+    {
+      "chapter_num": 67,
+      "title": "CHAPTER 58",
+      "start_pos": 600745,
+      "end_pos": 606501,
+      "length": 5756
+    },
+    {
+      "chapter_num": 68,
+      "title": "CHAPTER 59",
+      "start_pos": 606513,
+      "end_pos": 611853,
+      "length": 5340
+    },
+    {
+      "chapter_num": 69,
+      "title": "CHAPTER 60",
+      "start_pos": 611865,
+      "end_pos": 620071,
+      "length": 8206
+    },
+    {
+      "chapter_num": 70,
+      "title": "CHAPTER 61",
+      "start_pos": 620083,
+      "end_pos": 631183,
+      "length": 11100
+    },
+    {
+      "chapter_num": 71,
+      "title": "CHAPTER 62",
+      "start_pos": 631195,
+      "end_pos": 634333,
+      "length": 3138
+    },
+    {
+      "chapter_num": 72,
+      "title": "CHAPTER 63",
+      "start_pos": 634345,
+      "end_pos": 637167,
+      "length": 2822
+    },
+    {
+      "chapter_num": 73,
+      "title": "CHAPTER 64",
+      "start_pos": 637179,
+      "end_pos": 653700,
+      "length": 16521
+    },
+    {
+      "chapter_num": 74,
+      "title": "CHAPTER 65",
+      "start_pos": 653712,
+      "end_pos": 659188,
+      "length": 5476
+    },
+    {
+      "chapter_num": 75,
+      "title": "CHAPTER 66",
+      "start_pos": 659200,
+      "end_pos": 662813,
+      "length": 3613
+    },
+    {
+      "chapter_num": 76,
+      "title": "CHAPTER 67",
+      "start_pos": 662825,
+      "end_pos": 667015,
+      "length": 4190
+    },
+    {
+      "chapter_num": 77,
+      "title": "CHAPTER 68",
+      "start_pos": 667027,
+      "end_pos": 673795,
+      "length": 6768
+    },
+    {
+      "chapter_num": 78,
+      "title": "CHAPTER 69",
+      "start_pos": 673807,
+      "end_pos": 676313,
+      "length": 2506
+    },
+    {
+      "chapter_num": 79,
+      "title": "CHAPTER 70",
+      "start_pos": 676325,
+      "end_pos": 681361,
+      "length": 5036
+    },
+    {
+      "chapter_num": 80,
+      "title": "CHAPTER 71",
+      "start_pos": 681373,
+      "end_pos": 694549,
+      "length": 13176
+    },
+    {
+      "chapter_num": 81,
+      "title": "CHAPTER 72",
+      "start_pos": 694561,
+      "end_pos": 703860,
+      "length": 9299
+    },
+    {
+      "chapter_num": 82,
+      "title": "CHAPTER 73",
+      "start_pos": 703872,
+      "end_pos": 715493,
+      "length": 11621
+    },
+    {
+      "chapter_num": 83,
+      "title": "CHAPTER 74",
+      "start_pos": 715505,
+      "end_pos": 724589,
+      "length": 9084
+    },
+    {
+      "chapter_num": 84,
+      "title": "CHAPTER 75",
+      "start_pos": 724601,
+      "end_pos": 731410,
+      "length": 6809
+    },
+    {
+      "chapter_num": 85,
+      "title": "CHAPTER 76",
+      "start_pos": 731422,
+      "end_pos": 736472,
+      "length": 5050
+    },
+    {
+      "chapter_num": 86,
+      "title": "CHAPTER 77",
+      "start_pos": 736484,
+      "end_pos": 740278,
+      "length": 3794
+    },
+    {
+      "chapter_num": 87,
+      "title": "CHAPTER 78",
+      "start_pos": 740290,
+      "end_pos": 749576,
+      "length": 9286
+    },
+    {
+      "chapter_num": 88,
+      "title": "CHAPTER 79",
+      "start_pos": 749588,
+      "end_pos": 754961,
+      "length": 5373
+    },
+    {
+      "chapter_num": 89,
+      "title": "CHAPTER 80",
+      "start_pos": 754973,
+      "end_pos": 760114,
+      "length": 5141
+    },
+    {
+      "chapter_num": 90,
+      "title": "CHAPTER 81",
+      "start_pos": 760126,
+      "end_pos": 784549,
+      "length": 24423
+    },
+    {
+      "chapter_num": 91,
+      "title": "CHAPTER 82",
+      "start_pos": 784561,
+      "end_pos": 791058,
+      "length": 6497
+    },
+    {
+      "chapter_num": 92,
+      "title": "CHAPTER 83",
+      "start_pos": 791070,
+      "end_pos": 795594,
+      "length": 4524
+    },
+    {
+      "chapter_num": 93,
+      "title": "CHAPTER 84",
+      "start_pos": 795606,
+      "end_pos": 800284,
+      "length": 4678
+    },
+    {
+      "chapter_num": 94,
+      "title": "CHAPTER 85",
+      "start_pos": 800296,
+      "end_pos": 811757,
+      "length": 11461
+    },
+    {
+      "chapter_num": 95,
+      "title": "CHAPTER 86",
+      "start_pos": 811769,
+      "end_pos": 822194,
+      "length": 10425
+    },
+    {
+      "chapter_num": 96,
+      "title": "CHAPTER 87",
+      "start_pos": 822206,
+      "end_pos": 849900,
+      "length": 27694
+    },
+    {
+      "chapter_num": 97,
+      "title": "CHAPTER 88",
+      "start_pos": 849912,
+      "end_pos": 857019,
+      "length": 7107
+    },
+    {
+      "chapter_num": 98,
+      "title": "CHAPTER 89",
+      "start_pos": 857031,
+      "end_pos": 858621,
+      "length": 1590
+    },
+    {
+      "chapter_num": 99,
+      "title": "I. A",
+      "start_pos": 858627,
+      "end_pos": 865205,
+      "length": 6578
+    },
+    {
+      "chapter_num": 100,
+      "title": "CHAPTER 90",
+      "start_pos": 865217,
+      "end_pos": 871112,
+      "length": 5895
+    },
+    {
+      "chapter_num": 101,
+      "title": "CHAPTER 91",
+      "start_pos": 871124,
+      "end_pos": 885216,
+      "length": 14092
+    },
+    {
+      "chapter_num": 102,
+      "title": "CHAPTER 92",
+      "start_pos": 885228,
+      "end_pos": 890740,
+      "length": 5512
+    },
+    {
+      "chapter_num": 103,
+      "title": "CHAPTER 93",
+      "start_pos": 890752,
+      "end_pos": 900006,
+      "length": 9254
+    },
+    {
+      "chapter_num": 104,
+      "title": "CHAPTER 94",
+      "start_pos": 900018,
+      "end_pos": 907320,
+      "length": 7302
+    },
+    {
+      "chapter_num": 105,
+      "title": "CHAPTER 95",
+      "start_pos": 907332,
+      "end_pos": 910145,
+      "length": 2813
+    },
+    {
+      "chapter_num": 106,
+      "title": "CHAPTER 96",
+      "start_pos": 910157,
+      "end_pos": 920407,
+      "length": 10250
+    },
+    {
+      "chapter_num": 107,
+      "title": "CHAPTER 97",
+      "start_pos": 920419,
+      "end_pos": 921761,
+      "length": 1342
+    },
+    {
+      "chapter_num": 108,
+      "title": "CHAPTER 98",
+      "start_pos": 921773,
+      "end_pos": 927588,
+      "length": 5815
+    },
+    {
+      "chapter_num": 109,
+      "title": "CHAPTER 99",
+      "start_pos": 927600,
+      "end_pos": 940951,
+      "length": 13351
+    },
+    {
+      "chapter_num": 110,
+      "title": "CHAPTER 100",
+      "start_pos": 940964,
+      "end_pos": 955857,
+      "length": 14893
+    },
+    {
+      "chapter_num": 111,
+      "title": "CHAPTER 101",
+      "start_pos": 955870,
+      "end_pos": 965785,
+      "length": 9915
+    },
+    {
+      "chapter_num": 112,
+      "title": "CHAPTER 102",
+      "start_pos": 965798,
+      "end_pos": 974870,
+      "length": 9072
+    },
+    {
+      "chapter_num": 113,
+      "title": "CHAPTER 103",
+      "start_pos": 974883,
+      "end_pos": 980079,
+      "length": 5196
+    },
+    {
+      "chapter_num": 114,
+      "title": "CHAPTER 104",
+      "start_pos": 980092,
+      "end_pos": 988460,
+      "length": 8368
+    },
+    {
+      "chapter_num": 115,
+      "title": "CHAPTER 105",
+      "start_pos": 988473,
+      "end_pos": 997540,
+      "length": 9067
+    },
+    {
+      "chapter_num": 116,
+      "title": "CHAPTER 106",
+      "start_pos": 997553,
+      "end_pos": 1003000,
+      "length": 5447
+    },
+    {
+      "chapter_num": 117,
+      "title": "CHAPTER 107",
+      "start_pos": 1003013,
+      "end_pos": 1009235,
+      "length": 6222
+    },
+    {
+      "chapter_num": 118,
+      "title": "CHAPTER 108",
+      "start_pos": 1009248,
+      "end_pos": 1017809,
+      "length": 8561
+    },
+    {
+      "chapter_num": 119,
+      "title": "CHAPTER 109",
+      "start_pos": 1017822,
+      "end_pos": 1022925,
+      "length": 5103
+    },
+    {
+      "chapter_num": 120,
+      "title": "CHAPTER 110",
+      "start_pos": 1022938,
+      "end_pos": 1035498,
+      "length": 12560
+    },
+    {
+      "chapter_num": 121,
+      "title": "CHAPTER 111",
+      "start_pos": 1035511,
+      "end_pos": 1038008,
+      "length": 2497
+    },
+    {
+      "chapter_num": 122,
+      "title": "CHAPTER 112",
+      "start_pos": 1038021,
+      "end_pos": 1043566,
+      "length": 5545
+    },
+    {
+      "chapter_num": 123,
+      "title": "CHAPTER 113",
+      "start_pos": 1043579,
+      "end_pos": 1050438,
+      "length": 6859
+    },
+    {
+      "chapter_num": 124,
+      "title": "CHAPTER 114",
+      "start_pos": 1050451,
+      "end_pos": 1054212,
+      "length": 3761
+    },
+    {
+      "chapter_num": 125,
+      "title": "CHAPTER 115",
+      "start_pos": 1054225,
+      "end_pos": 1059379,
+      "length": 5154
+    },
+    {
+      "chapter_num": 126,
+      "title": "CHAPTER 116",
+      "start_pos": 1059392,
+      "end_pos": 1062378,
+      "length": 2986
+    },
+    {
+      "chapter_num": 127,
+      "title": "CHAPTER 117",
+      "start_pos": 1062391,
+      "end_pos": 1064925,
+      "length": 2534
+    },
+    {
+      "chapter_num": 128,
+      "title": "CHAPTER 118",
+      "start_pos": 1064938,
+      "end_pos": 1069979,
+      "length": 5041
+    },
+    {
+      "chapter_num": 129,
+      "title": "CHAPTER 119",
+      "start_pos": 1069992,
+      "end_pos": 1084011,
+      "length": 14019
+    },
+    {
+      "chapter_num": 130,
+      "title": "CHAPTER 120",
+      "start_pos": 1084024,
+      "end_pos": 1085050,
+      "length": 1026
+    },
+    {
+      "chapter_num": 131,
+      "title": "CHAPTER 121",
+      "start_pos": 1085063,
+      "end_pos": 1088495,
+      "length": 3432
+    },
+    {
+      "chapter_num": 132,
+      "title": "CHAPTER 122",
+      "start_pos": 1088508,
+      "end_pos": 1095607,
+      "length": 7099
+    },
+    {
+      "chapter_num": 133,
+      "title": "CHAPTER 124",
+      "start_pos": 1095620,
+      "end_pos": 1102579,
+      "length": 6959
+    },
+    {
+      "chapter_num": 134,
+      "title": "CHAPTER 125",
+      "start_pos": 1102592,
+      "end_pos": 1108752,
+      "length": 6160
+    },
+    {
+      "chapter_num": 135,
+      "title": "CHAPTER 126",
+      "start_pos": 1108765,
+      "end_pos": 1116276,
+      "length": 7511
+    },
+    {
+      "chapter_num": 136,
+      "title": "CHAPTER 127",
+      "start_pos": 1116289,
+      "end_pos": 1120218,
+      "length": 3929
+    },
+    {
+      "chapter_num": 137,
+      "title": "CHAPTER 128",
+      "start_pos": 1120231,
+      "end_pos": 1128077,
+      "length": 7846
+    },
+    {
+      "chapter_num": 138,
+      "title": "CHAPTER 129",
+      "start_pos": 1128090,
+      "end_pos": 1131124,
+      "length": 3034
+    },
+    {
+      "chapter_num": 139,
+      "title": "CHAPTER 130",
+      "start_pos": 1131137,
+      "end_pos": 1140744,
+      "length": 9607
+    },
+    {
+      "chapter_num": 140,
+      "title": "CHAPTER 131",
+      "start_pos": 1140757,
+      "end_pos": 1143229,
+      "length": 2472
+    },
+    {
+      "chapter_num": 141,
+      "title": "CHAPTER 132",
+      "start_pos": 1143242,
+      "end_pos": 1152021,
+      "length": 8779
+    },
+    {
+      "chapter_num": 142,
+      "title": "CHAPTER 133",
+      "start_pos": 1152034,
+      "end_pos": 1172398,
+      "length": 20364
+    },
+    {
+      "chapter_num": 143,
+      "title": "CHAPTER 134",
+      "start_pos": 1172411,
+      "end_pos": 1191001,
+      "length": 18590
+    },
+    {
+      "chapter_num": 144,
+      "title": "CHAPTER 135",
+      "start_pos": 1191014,
+      "end_pos": 1217590,
+      "length": 26576
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER 2",
+      "start_char_pos": 570,
+      "end_char_pos": 992,
+      "token_count": 63,
+      "text": "The Lee Shore.\n\nCHAPTER 24. The Advocate.\n\nCHAPTER 25. Postscript.\n\nCHAPTER 26. Knights and Squires.\n\nCHAPTER 27. Knights and Squires.\n\nCHAPTER 28. Ahab.\n\nCHAPTER 29. Enter Ahab; to Him, Stubb.\n\nCHAPTER 30. The Pipe.\n\nCHAPTER 31. Queen Mab.\n\nCHAPTER 32. Cetology.\n\nCHAPTER 33. The Specksnyder.\n\nCHAPTER 34. The Cabin-Table.\n\nCHAPTER 35. The Mast-Head.\n\nCHAPTER 36. The Quarter-Deck.\n\nCHAPTER 37. Sunset.\n\nCHAPTER 38. Dusk.",
+      "first_sentence": "The Lee Shore."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER 70",
+      "start_char_pos": 2558,
+      "end_char_pos": 2986,
+      "token_count": 63,
+      "text": "Jonah Historically Regarded.\n\nCHAPTER 84. Pitchpoling.\n\nCHAPTER 85. The Fountain.\n\nCHAPTER 86. The Tail.\n\nCHAPTER 87. The Grand Armada.\n\nCHAPTER 88. Schools and Schoolmasters.\n\nCHAPTER 89. Fast-Fish and Loose-Fish.\n\nCHAPTER 90. Heads or Tails.\n\nCHAPTER 91. The Pequod Meets The Rose-Bud.\n\nCHAPTER 92. Ambergris.\n\nCHAPTER 93. The Castaway.\n\nCHAPTER 94. A Squeeze of the Hand.\n\nCHAPTER 95. The Cassock.\n\nCHAPTER 96. The Try-Works.",
+      "first_sentence": "Jonah Historically Regarded."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER 1",
+      "start_char_pos": 32494,
+      "end_char_pos": 32980,
+      "token_count": 83,
+      "text": "It is quite as much as I can do to take care of myself,\nwithout taking care of ships, barques, brigs, schooners, and what not.\nAnd as for going as cook,—though I confess there is considerable glory\nin that, a cook being a sort of officer on ship-board—yet, somehow, I\nnever fancied broiling fowls;—though once broiled, judiciously\nbuttered, and judgmatically salted and peppered, there is no one who\nwill speak more respectfully, not to say reverentially, of a broiled\nfowl than I will.",
+      "first_sentence": "It is quite as much as I can do to take care of myself,\nwithout taking care of ships, barques, brigs, schooners, and what not."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER 3",
+      "start_char_pos": 62667,
+      "end_char_pos": 62917,
+      "token_count": 47,
+      "text": "Hecla in a\nsnow-storm—“landlord, stop whittling. You and I must understand one\nanother, and that too without delay. I come to your house and want a\nbed; you tell me you can only give me half a one; that the other half\nbelongs to a certain harpooneer.",
+      "first_sentence": "Hecla in a\nsnow-storm—“landlord, stop whittling."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER 6",
+      "start_char_pos": 94272,
+      "end_char_pos": 94641,
+      "token_count": 70,
+      "text": "But think not that this famous town has only harpooneers, cannibals,\nand bumpkins to show her visitors. Not at all. Still New Bedford is a\nqueer place. Had it not been for us whalemen, that tract of land would\nthis day perhaps have been in as howling condition as the coast of\nLabrador. As it is, parts of her back country are enough to frighten\none, they look so bony.",
+      "first_sentence": "But think not that this famous town has only harpooneers, cannibals,\nand bumpkins to show her visitors."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 15,
+      "chapter_title": "CHAPTER 9",
+      "start_char_pos": 117809,
+      "end_char_pos": 118299,
+      "token_count": 86,
+      "text": "That ship, my friends, was the first of recorded\nsmugglers! the contraband was Jonah. But the sea rebels; he will not\nbear the wicked burden. A dreadful storm comes on, the ship is like to\nbreak. But now when the boatswain calls all hands to lighten her; when\nboxes, bales, and jars are clattering overboard; when the wind is\nshrieking, and the men are yelling, and every plank thunders with\ntrampling feet right over Jonah’s head; in all this raging tumult,\nJonah sleeps his hideous sleep.",
+      "first_sentence": "That ship, my friends, was the first of recorded\nsmugglers!"
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER 12",
+      "start_char_pos": 142507,
+      "end_char_pos": 142901,
+      "token_count": 73,
+      "text": "Arrived at last in old Sag Harbor; and seeing what the\nsailors did there; and then going on to Nantucket, and seeing how they\nspent their wages in that place also, poor Queequeg gave it up for\nlost. Thought he, it’s a wicked world in all meridians; I’ll die a\npagan.\n\nAnd thus an old idolator at heart, he yet lived among these Christians,\nwore their clothes, and tried to talk their gibberish.",
+      "first_sentence": "Arrived at last in old Sag Harbor; and seeing what the\nsailors did there; and then going on to Nantucket, and seeing how they\nspent their wages in that place also, poor Queequeg gave it up for\nlost."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER 15",
+      "start_char_pos": 159910,
+      "end_char_pos": 160250,
+      "token_count": 61,
+      "text": "However, by dint of beating about a little in\nthe dark, and now and then knocking up a peaceable inhabitant to\ninquire the way, we at last came to something which there was no\nmistaking.\n\nTwo enormous wooden pots painted black, and suspended by asses’ ears,\nswung from the cross-trees of an old top-mast, planted in front of an\nold doorway.",
+      "first_sentence": "However, by dint of beating about a little in\nthe dark, and now and then knocking up a peaceable inhabitant to\ninquire the way, we at last came to something which there was no\nmistaking."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 24,
+      "chapter_title": "CHAPTER 17",
+      "start_char_pos": 202193,
+      "end_char_pos": 202605,
+      "token_count": 79,
+      "text": "Hussey,” said I, “he’s alive at all events; so leave us, if you\nplease, and I will see to this strange affair myself.”\n\nClosing the door upon the landlady, I endeavored to prevail upon\nQueequeg to take a chair; but in vain. There he sat; and all he could\ndo—for all my polite arts and blandishments—he would not move a peg,\nnor say a single word, nor even look at me, nor notice my presence in\nthe slightest way.",
+      "first_sentence": "Hussey,” said I, “he’s alive at all events; so leave us, if you\nplease, and I will see to this strange affair myself."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 27,
+      "chapter_title": "CHAPTER 20",
+      "start_char_pos": 225558,
+      "end_char_pos": 225909,
+      "token_count": 66,
+      "text": "At one time she would come on board with a\njar of pickles for the steward’s pantry; another time with a bunch of\nquills for the chief mate’s desk, where he kept his log; a third time\nwith a roll of flannel for the small of some one’s rheumatic back.\nNever did any woman better deserve her name, which was Charity—Aunt\nCharity, as everybody called her.",
+      "first_sentence": "At one time she would come on board with a\njar of pickles for the steward’s pantry; another time with a bunch of\nquills for the chief mate’s desk, where he kept his log; a third time\nwith a roll of flannel for the small of some one’s rheumatic back."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 30,
+      "chapter_title": "CHAPTER 23",
+      "start_char_pos": 244437,
+      "end_char_pos": 244720,
+      "token_count": 48,
+      "text": "With all her might she crowds all sail off shore; in so doing,\nfights ’gainst the very winds that fain would blow her homeward; seeks\nall the lashed sea’s landlessness again; for refuge’s sake forlornly\nrushing into peril; her only friend her bitterest foe!\n\nKnow ye now, Bulkington?",
+      "first_sentence": "With all her might she crowds all sail off shore; in so doing,\nfights ’gainst the very winds that fain would blow her homeward; seeks\nall the lashed sea’s landlessness again; for refuge’s sake forlornly\nrushing into peril; her only friend her bitterest foe!"
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 32,
+      "chapter_title": "CHAPTER 25",
+      "start_char_pos": 256186,
+      "end_char_pos": 256575,
+      "token_count": 71,
+      "text": "In truth, a mature man\nwho uses hair-oil, unless medicinally, that man has probably got a\nquoggy spot in him somewhere. As a general rule, he can’t amount to\nmuch in his totality.\n\nBut the only thing to be considered here, is this—what kind of oil is\nused at coronations? Certainly it cannot be olive oil, nor macassar\noil, nor castor oil, nor bear’s oil, nor train oil, nor cod-liver oil.",
+      "first_sentence": "In truth, a mature man\nwho uses hair-oil, unless medicinally, that man has probably got a\nquoggy spot in him somewhere."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 35,
+      "chapter_title": "CHAPTER 28",
+      "start_char_pos": 277639,
+      "end_char_pos": 277986,
+      "token_count": 51,
+      "text": "Yet, this\nwild hint seemed inferentially negatived, by what a grey Manxman\ninsinuated, an old sepulchral man, who, having never before sailed out\nof Nantucket, had never ere this laid eye upon wild Ahab. Nevertheless,\nthe old sea-traditions, the immemorial credulities, popularly invested\nthis old Manxman with preternatural powers of discernment.",
+      "first_sentence": "Yet, this\nwild hint seemed inferentially negatived, by what a grey Manxman\ninsinuated, an old sepulchral man, who, having never before sailed out\nof Nantucket, had never ere this laid eye upon wild Ahab."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 38,
+      "chapter_title": "CHAPTER 31",
+      "start_char_pos": 291981,
+      "end_char_pos": 292303,
+      "token_count": 60,
+      "text": "Seeing he wasn’t going to\nstop saying over his ‘wise Stubb, wise Stubb,’ I thought I might as\nwell fall to kicking the pyramid again. But I had only just lifted my\nfoot for it, when he roared out, ‘Stop that kicking!’ ‘Halloa,’ says I,\n‘what’s the matter now, old fellow?’ ‘Look ye here,’ says he; ‘let’s\nargue the insult.",
+      "first_sentence": "Seeing he wasn’t going to\nstop saying over his ‘wise Stubb, wise Stubb,’ I thought I might as\nwell fall to kicking the pyramid again."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 41,
+      "chapter_title": "II. T",
+      "start_char_pos": 321525,
+      "end_char_pos": 321928,
+      "token_count": 76,
+      "text": "He has no fins on his back (most other porpoises\nhave), he has a lovely tail, and sentimental Indian eyes of a hazel\nhue. But his mealy-mouth spoils all. Though his entire back down to his\nside fins is of a deep sable, yet a boundary line, distinct as the mark\nin a ship’s hull, called the “bright waist,” that line streaks him from\nstem to stern, with two separate colours, black above and white below.",
+      "first_sentence": "He has no fins on his back (most other porpoises\nhave), he has a lovely tail, and sentimental Indian eyes of a hazel\nhue."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 44,
+      "chapter_title": "CHAPTER 35",
+      "start_char_pos": 349925,
+      "end_char_pos": 350344,
+      "token_count": 65,
+      "text": "In\nthe fireside narrative of Captain Sleet, entitled “A Voyage among the\nIcebergs, in quest of the Greenland Whale, and incidentally for the\nre-discovery of the Lost Icelandic Colonies of Old Greenland;” in this\nadmirable volume, all standers of mast-heads are furnished with a\ncharmingly circumstantial account of the then recently invented\ncrow’s-nest of the Glacier, which was the name of Captain Sleet’s\ngood craft.",
+      "first_sentence": "In\nthe fireside narrative of Captain Sleet, entitled “A Voyage among the\nIcebergs, in quest of the Greenland Whale, and incidentally for the\nre-discovery of the Lost Icelandic Colonies of Old Greenland;” in this\nadmirable volume, all standers of mast-heads are furnished with a\ncharmingly circumstantial account of the then recently invented\ncrow’s-nest of the Glacier, which was the name of Captain Sleet’s\ngood craft."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 47,
+      "chapter_title": "CHAPTER 38",
+      "start_char_pos": 377062,
+      "end_char_pos": 377501,
+      "token_count": 72,
+      "text": "Whelped somewhere by the sharkish sea. The white\nwhale is their demigorgon. Hark! the infernal orgies! that revelry is\nforward! mark the unfaltering silence aft! Methinks it pictures life.\nForemost through the sparkling sea shoots on the gay, embattled,\nbantering bow, but only to drag dark Ahab after it, where he broods\nwithin his sternward cabin, builded over the dead water of the wake,\nand further on, hunted by its wolfish gurglings.",
+      "first_sentence": "Whelped somewhere by the sharkish sea."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 50,
+      "chapter_title": "CHAPTER 41",
+      "start_char_pos": 399338,
+      "end_char_pos": 399862,
+      "token_count": 90,
+      "text": "These were his prominent\nfeatures; the tokens whereby, even in the limitless, uncharted seas, he\nrevealed his identity, at a long distance, to those who knew him.\n\nThe rest of his body was so streaked, and spotted, and marbled with the\nsame shrouded hue, that, in the end, he had gained his distinctive\nappellation of the White Whale; a name, indeed, literally justified by\nhis vivid aspect, when seen gliding at high noon through a dark blue\nsea, leaving a milky-way wake of creamy foam, all spangled with golden\ngleamings.",
+      "first_sentence": "These were his prominent\nfeatures; the tokens whereby, even in the limitless, uncharted seas, he\nrevealed his identity, at a long distance, to those who knew him."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 53,
+      "chapter_title": "CHAPTER 44",
+      "start_char_pos": 439164,
+      "end_char_pos": 439615,
+      "token_count": 68,
+      "text": "And where Ahab’s chances of accomplishing\nhis object have hitherto been spoken of, allusion has only been made to\nwhatever way-side, antecedent, extra prospects were his, ere a\nparticular set time or place were attained, when all possibilities\nwould become probabilities, and, as Ahab fondly thought, every\npossibility the next thing to a certainty. That particular set time and\nplace were conjoined in the one technical phrase—the\nSeason-on-the-Line.",
+      "first_sentence": "And where Ahab’s chances of accomplishing\nhis object have hitherto been spoken of, allusion has only been made to\nwhatever way-side, antecedent, extra prospects were his, ere a\nparticular set time or place were attained, when all possibilities\nwould become probabilities, and, as Ahab fondly thought, every\npossibility the next thing to a certainty."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 56,
+      "chapter_title": "CHAPTER 47",
+      "start_char_pos": 474004,
+      "end_char_pos": 474412,
+      "token_count": 72,
+      "text": "His body was reaching eagerly\nforward, his hand stretched out like a wand, and at brief sudden\nintervals he continued his cries. To be sure the same sound was that\nvery moment perhaps being heard all over the seas, from hundreds of\nwhalemen’s look-outs perched as high in the air; but from few of those\nlungs could that accustomed old cry have derived such a marvellous\ncadence as from Tashtego the Indian’s.",
+      "first_sentence": "His body was reaching eagerly\nforward, his hand stretched out like a wand, and at brief sudden\nintervals he continued his cries."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 59,
+      "chapter_title": "CHAPTER 50",
+      "start_char_pos": 507125,
+      "end_char_pos": 507470,
+      "token_count": 60,
+      "text": "But almost everybody supposed that this\nparticular preparative heedfulness in Ahab must only be with a view to\nthe ultimate chase of Moby Dick; for he had already revealed his\nintention to hunt that mortal monster in person. But such a supposition\ndid by no means involve the remotest suspicion as to any boat’s crew\nbeing assigned to that boat.",
+      "first_sentence": "But almost everybody supposed that this\nparticular preparative heedfulness in Ahab must only be with a view to\nthe ultimate chase of Moby Dick; for he had already revealed his\nintention to hunt that mortal monster in person."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 61,
+      "chapter_title": "CHAPTER 52",
+      "start_char_pos": 520450,
+      "end_char_pos": 520953,
+      "token_count": 89,
+      "text": "This is the\nPequod, bound round the world! Tell them to address all future letters\nto the Pacific ocean! and this time three years, if I am not at home,\ntell them to address them to ——”\n\nAt that moment the two wakes were fairly crossed, and instantly, then,\nin accordance with their singular ways, shoals of small harmless fish,\nthat for some days before had been placidly swimming by our side,\ndarted away with what seemed shuddering fins, and ranged themselves\nfore and aft with the stranger’s flanks.",
+      "first_sentence": "This is the\nPequod, bound round the world!"
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 63,
+      "chapter_title": "CHAPTER 54",
+      "start_char_pos": 562483,
+      "end_char_pos": 562805,
+      "token_count": 64,
+      "text": "Take that gag from his mouth, and let us hear what he can say for himself.’ “For a moment the exhausted mutineer made a tremulous motion of his cramped jaws, and then painfully twisting round his head, said in a sort of hiss, ‘What I say is this—and mind it well—if you flog me, I murder you!’ “‘Say ye so? then see how ye",
+      "first_sentence": "Take that gag from his mouth, and let us hear what he can say for himself."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 66,
+      "chapter_title": "CHAPTER 57",
+      "start_char_pos": 598129,
+      "end_char_pos": 598520,
+      "token_count": 69,
+      "text": "Wooden whales, or whales cut in profile out of the small dark slabs of\nthe noble South Sea war-wood, are frequently met with in the\nforecastles of American whalers. Some of them are done with much\naccuracy.\n\nAt some old gable-roofed country houses you will see brass whales hung\nby the tail for knockers to the road-side door. When the porter is\nsleepy, the anvil-headed whale would be best.",
+      "first_sentence": "Wooden whales, or whales cut in profile out of the small dark slabs of\nthe noble South Sea war-wood, are frequently met with in the\nforecastles of American whalers."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 69,
+      "chapter_title": "CHAPTER 60",
+      "start_char_pos": 616103,
+      "end_char_pos": 616643,
+      "token_count": 100,
+      "text": "Before lowering the boat for the chase, the upper end of the line is\ntaken aft from the tub, and passing round the loggerhead there, is\nagain carried forward the entire length of the boat, resting crosswise\nupon the loom or handle of every man’s oar, so that it jogs against his\nwrist in rowing; and also passing between the men, as they alternately\nsit at the opposite gunwales, to the leaded chocks or grooves in the\nextreme pointed prow of the boat, where a wooden pin or skewer the size\nof a common quill, prevents it from slipping out.",
+      "first_sentence": "Before lowering the boat for the chase, the upper end of the line is\ntaken aft from the tub, and passing round the loggerhead there, is\nagain carried forward the entire length of the boat, resting crosswise\nupon the loom or handle of every man’s oar, so that it jogs against his\nwrist in rowing; and also passing between the men, as they alternately\nsit at the opposite gunwales, to the leaded chocks or grooves in the\nextreme pointed prow of the boat, where a wooden pin or skewer the size\nof a common quill, prevents it from slipping out."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 72,
+      "chapter_title": "CHAPTER 63",
+      "start_char_pos": 635894,
+      "end_char_pos": 636164,
+      "token_count": 44,
+      "text": "Tumbled into the\nwater, it accordingly is in such cases; the spare coils of box line\n(mentioned in a preceding chapter) making this feat, in most instances,\nprudently practicable. But this critical act is not always unattended\nwith the saddest and most fatal casualties.",
+      "first_sentence": "Tumbled into the\nwater, it accordingly is in such cases; the spare coils of box line\n(mentioned in a preceding chapter) making this feat, in most instances,\nprudently practicable."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 75,
+      "chapter_title": "CHAPTER 66",
+      "start_char_pos": 661291,
+      "end_char_pos": 661720,
+      "token_count": 72,
+      "text": "But in the foamy\nconfusion of their mixed and struggling hosts, the marksmen could not\nalways hit their mark; and this brought about new revelations of the\nincredible ferocity of the foe. They viciously snapped, not only at\neach other’s disembowelments, but like flexible bows, bent round, and\nbit their own; till those entrails seemed swallowed over and over again\nby the same mouth, to be oppositely voided by the gaping wound.",
+      "first_sentence": "But in the foamy\nconfusion of their mixed and struggling hosts, the marksmen could not\nalways hit their mark; and this brought about new revelations of the\nincredible ferocity of the foe."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 78,
+      "chapter_title": "CHAPTER 69",
+      "start_char_pos": 675081,
+      "end_char_pos": 675464,
+      "token_count": 64,
+      "text": "Oh, horrible vultureism of earth! from which not the mightiest whale is free. Nor is this the end. Desecrated as the body is, a vengeful ghost survives and hovers over it to scare. Espied by some timid man-of-war or blundering discovery-vessel from afar, when the distance obscuring the swarming fowls, nevertheless still shows the white mass floating in the sun, and the white spray",
+      "first_sentence": "Oh, horrible vultureism of earth!"
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 81,
+      "chapter_title": "CHAPTER 72",
+      "start_char_pos": 699327,
+      "end_char_pos": 699727,
+      "token_count": 70,
+      "text": "And right in among those sharks was Queequeg; who often pushed them\naside with his floundering feet. A thing altogether incredible were it\nnot that attracted by such prey as a dead whale, the otherwise\nmiscellaneously carnivorous shark will seldom touch a man.\n\nNevertheless, it may well be believed that since they have such a\nravenous finger in the pie, it is deemed but wise to look sharp to\nthem.",
+      "first_sentence": "And right in among those sharks was Queequeg; who often pushed them\naside with his floundering feet."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 84,
+      "chapter_title": "CHAPTER 75",
+      "start_char_pos": 728021,
+      "end_char_pos": 728240,
+      "token_count": 41,
+      "text": "At any rate, if we yield to it, we\nmust grant a far greater age to the Right Whale than at first glance\nwill seem reasonable.\n\nIn old times, there seem to have prevailed the most curious fancies\nconcerning these blinds.",
+      "first_sentence": "At any rate, if we yield to it, we\nmust grant a far greater age to the Right Whale than at first glance\nwill seem reasonable."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 87,
+      "chapter_title": "CHAPTER 78",
+      "start_char_pos": 745006,
+      "end_char_pos": 745497,
+      "token_count": 80,
+      "text": "Almost in the same instant, with a thunder-boom, the enormous mass\ndropped into the sea, like Niagara’s Table-Rock into the whirlpool; the\nsuddenly relieved hull rolled away from it, to far down her glittering\ncopper; and all caught their breath, as half swinging—now over the\nsailors’ heads, and now over the water—Daggoo, through a thick mist of\nspray, was dimly beheld clinging to the pendulous tackles, while poor,\nburied-alive Tashtego was sinking utterly down to the bottom of the\nsea!",
+      "first_sentence": "Almost in the same instant, with a thunder-boom, the enormous mass\ndropped into the sea, like Niagara’s Table-Rock into the whirlpool; the\nsuddenly relieved hull rolled away from it, to far down her glittering\ncopper; and all caught their breath, as half swinging—now over the\nsailors’ heads, and now over the water—Daggoo, through a thick mist of\nspray, was dimly beheld clinging to the pendulous tackles, while poor,\nburied-alive Tashtego was sinking utterly down to the bottom of the\nsea!"
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 89,
+      "chapter_title": "CHAPTER 80",
+      "start_char_pos": 757562,
+      "end_char_pos": 757942,
+      "token_count": 62,
+      "text": "If you attentively regard almost any quadruped’s spine, you\nwill be struck with the resemblance of its vertebræ to a strung\nnecklace of dwarfed skulls, all bearing rudimental resemblance to the\nskull proper. It is a German conceit, that the vertebræ are absolutely\nundeveloped skulls. But the curious external resemblance, I take it the\nGermans were not the first men to perceive.",
+      "first_sentence": "If you attentively regard almost any quadruped’s spine, you\nwill be struck with the resemblance of its vertebræ to a strung\nnecklace of dwarfed skulls, all bearing rudimental resemblance to the\nskull proper."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 92,
+      "chapter_title": "CHAPTER 83",
+      "start_char_pos": 793625,
+      "end_char_pos": 794033,
+      "token_count": 71,
+      "text": "Poor Sag-Harbor, therefore, seems worsted all\nround. But he had still another reason for his want of faith. It was\nthis, if I remember right: Jonah was swallowed by the whale in the\nMediterranean Sea, and after three days he was vomited up somewhere\nwithin three days’ journey of Nineveh, a city on the Tigris, very much\nmore than three days’ journey across from the nearest point of the\nMediterranean coast.",
+      "first_sentence": "Poor Sag-Harbor, therefore, seems worsted all\nround."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 95,
+      "chapter_title": "CHAPTER 86",
+      "start_char_pos": 817038,
+      "end_char_pos": 817365,
+      "token_count": 58,
+      "text": "This delicacy is chiefly evinced in the action of\nsweeping, when in maidenly gentleness the whale with a certain soft\nslowness moves his immense flukes from side to side upon the surface of\nthe sea; and if he feel but a sailor’s whisker, woe to that sailor,\nwhiskers and all. What tenderness there is in that preliminary touch!",
+      "first_sentence": "This delicacy is chiefly evinced in the action of\nsweeping, when in maidenly gentleness the whale with a certain soft\nslowness moves his immense flukes from side to side upon the surface of\nthe sea; and if he feel but a sailor’s whisker, woe to that sailor,\nwhiskers and all."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 98,
+      "chapter_title": "CHAPTER 89",
+      "start_char_pos": 857998,
+      "end_char_pos": 858489,
+      "token_count": 77,
+      "text": "Perhaps the only formal whaling code authorized by legislative\nenactment, was that of Holland. It was decreed by the States-General in\nA.D. 1695. But though no other nation has ever had any written whaling\nlaw, yet the American fishermen have been their own legislators and\nlawyers in this matter. They have provided a system which for terse\ncomprehensiveness surpasses Justinian’s Pandects and the By-laws of the\nChinese Society for the Suppression of Meddling with other People’s\nBusiness.",
+      "first_sentence": "Perhaps the only formal whaling code authorized by legislative\nenactment, was that of Holland."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 101,
+      "chapter_title": "CHAPTER 91",
+      "start_char_pos": 878195,
+      "end_char_pos": 878569,
+      "token_count": 68,
+      "text": "The sailors, in tasselled caps of red worsted, were\ngetting the heavy tackles in readiness for the whales. But they worked\nrather slow and talked very fast, and seemed in anything but a good\nhumor. All their noses upwardly projected from their faces like so many\njib-booms. Now and then pairs of them would drop their work, and run up\nto the mast-head to get some fresh air.",
+      "first_sentence": "The sailors, in tasselled caps of red worsted, were\ngetting the heavy tackles in readiness for the whales."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 104,
+      "chapter_title": "CHAPTER 94",
+      "start_char_pos": 903671,
+      "end_char_pos": 904119,
+      "token_count": 72,
+      "text": "It\nis tough with congealed tendons—a wad of muscle—but still contains some\noil. After being severed from the whale, the white-horse is first cut\ninto portable oblongs ere going to the mincer. They look much like\nblocks of Berkshire marble.\n\nPlum-pudding is the term bestowed upon certain fragmentary parts of the\nwhale’s flesh, here and there adhering to the blanket of blubber, and\noften participating to a considerable degree in its unctuousness.",
+      "first_sentence": "It\nis tough with congealed tendons—a wad of muscle—but still contains some\noil."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 107,
+      "chapter_title": "CHAPTER 97",
+      "start_char_pos": 921210,
+      "end_char_pos": 921609,
+      "token_count": 68,
+      "text": "See with what entire freedom the whaleman takes his handful of\nlamps—often but old bottles and vials, though—to the copper cooler at\nthe try-works, and replenishes them there, as mugs of ale at a vat. He\nburns, too, the purest of oil, in its unmanufactured, and, therefore,\nunvitiated state; a fluid unknown to solar, lunar, or astral\ncontrivances ashore. It is sweet as early grass butter in April.",
+      "first_sentence": "See with what entire freedom the whaleman takes his handful of\nlamps—often but old bottles and vials, though—to the copper cooler at\nthe try-works, and replenishes them there, as mugs of ale at a vat."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 110,
+      "chapter_title": "CHAPTER 100",
+      "start_char_pos": 948644,
+      "end_char_pos": 948914,
+      "token_count": 42,
+      "text": "Bunger, ship’s surgeon:\nBunger, my lad,—the captain). Now, Bunger boy, spin your part of the\nyarn.”\n\nThe professional gentleman thus familiarly pointed out, had been all\nthe time standing near them, with nothing specific visible, to denote\nhis gentlemanly rank on board.",
+      "first_sentence": "Bunger, ship’s surgeon:\nBunger, my lad,—the captain)."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 113,
+      "chapter_title": "CHAPTER 103",
+      "start_char_pos": 977564,
+      "end_char_pos": 977890,
+      "token_count": 56,
+      "text": "From\nthat part, the remaining ribs diminished, till the tenth and last only\nspanned five feet and some inches. In general thickness, they all bore\na seemly correspondence to their length. The middle ribs were the most\narched. In some of the Arsacides they are used for beams whereon to lay\nfootpath bridges over small streams.",
+      "first_sentence": "From\nthat part, the remaining ribs diminished, till the tenth and last only\nspanned five feet and some inches."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 116,
+      "chapter_title": "CHAPTER 106",
+      "start_char_pos": 1000478,
+      "end_char_pos": 1001040,
+      "token_count": 95,
+      "text": "The ineffaceable, sad\nbirth-mark in the brow of man, is but the stamp of sorrow in the\nsigners.\n\nUnwittingly here a secret has been divulged, which perhaps might more\nproperly, in set way, have been disclosed before. With many other\nparticulars concerning Ahab, always had it remained a mystery to some,\nwhy it was, that for a certain period, both before and after the\nsailing of the Pequod, he had hidden himself away with such\nGrand-Lama-like exclusiveness; and, for that one interval, sought\nspeechless refuge, as it were, among the marble senate of the dead.",
+      "first_sentence": "The ineffaceable, sad\nbirth-mark in the brow of man, is but the stamp of sorrow in the\nsigners."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 118,
+      "chapter_title": "CHAPTER 108",
+      "start_char_pos": 1013540,
+      "end_char_pos": 1013822,
+      "token_count": 46,
+      "text": "What art thou sneezing about?\n\nBone is rather dusty, sir.\n\nTake the hint, then; and when thou art dead, never bury thyself under\nliving people’s noses.\n\nSir?—oh! ah!—I guess so;—yes—oh, dear!\n\nLook ye, carpenter, I dare say thou callest thyself a right good\nworkmanlike workman, eh?",
+      "first_sentence": "What art thou sneezing about?"
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 121,
+      "chapter_title": "CHAPTER 111",
+      "start_char_pos": 1037000,
+      "end_char_pos": 1037238,
+      "token_count": 41,
+      "text": "Thus this mysterious, divine\nPacific zones the world’s whole bulk about; makes all coasts one bay to\nit; seems the tide-beating heart of earth. Lifted by those eternal\nswells, you needs must own the seductive god, bowing your head to Pan.",
+      "first_sentence": "Thus this mysterious, divine\nPacific zones the world’s whole bulk about; makes all coasts one bay to\nit; seems the tide-beating heart of earth."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 124,
+      "chapter_title": "CHAPTER 114",
+      "start_char_pos": 1052359,
+      "end_char_pos": 1052783,
+      "token_count": 77,
+      "text": "But if these secret golden keys did seem\nto open in him his own secret golden treasuries, yet did his breath\nupon them prove but tarnishing.\n\nOh, grassy glades! oh, ever vernal endless landscapes in the soul; in\nye,—though long parched by the dead drought of the earthy life,—in ye,\nmen yet may roll, like young horses in new morning clover; and for some\nfew fleeting moments, feel the cool dew of the life immortal on them.",
+      "first_sentence": "But if these secret golden keys did seem\nto open in him his own secret golden treasuries, yet did his breath\nupon them prove but tarnishing."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 127,
+      "chapter_title": "CHAPTER 117",
+      "start_char_pos": 1064012,
+      "end_char_pos": 1064371,
+      "token_count": 70,
+      "text": "Such a\nsight we shall not soon see.”\n\n“Believe it or not, thou canst not die till it be seen, old man.”\n\n“And what was that saying about thyself?”\n\n“Though it come to the last, I shall still go before thee thy pilot.”\n\n“And when thou art so gone before—if that ever befall—then ere I can\nfollow, thou must still appear to me, to pilot me still?—Was it not so?",
+      "first_sentence": "Such a\nsight we shall not soon see."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 130,
+      "chapter_title": "CHAPTER 120",
+      "start_char_pos": 1084557,
+      "end_char_pos": 1084932,
+      "token_count": 63,
+      "text": "Quick, and see to it.—By\nmasts and keels! he takes me for the hunch-backed skipper of some\ncoasting smack. Send down my main-top-sail yard! Ho, gluepots! Loftiest\ntrucks were made for wildest winds, and this brain-truck of mine now\nsails amid the cloud-scud. Shall I strike that? Oh, none but cowards\nsend down their brain-trucks in tempest time. What a hooroosh aloft\nthere!",
+      "first_sentence": "Quick, and see to it."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 133,
+      "chapter_title": "CHAPTER 124",
+      "start_char_pos": 1099124,
+      "end_char_pos": 1099515,
+      "token_count": 62,
+      "text": "The yards were hard up; and once more the Pequod\nthrust her undaunted bows into the opposing wind, for the supposed fair\none had only been juggling her.\n\nMeanwhile, whatever were his own secret thoughts, Starbuck said\nnothing, but quietly he issued all requisite orders; while Stubb and\nFlask—who in some small degree seemed then to be sharing his\nfeelings—likewise unmurmuringly acquiesced.",
+      "first_sentence": "The yards were hard up; and once more the Pequod\nthrust her undaunted bows into the opposing wind, for the supposed fair\none had only been juggling her."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 136,
+      "chapter_title": "CHAPTER 127",
+      "start_char_pos": 1118276,
+      "end_char_pos": 1118638,
+      "token_count": 63,
+      "text": "Hast thou ever helped carry a bier, and heard the coffin knock against\nthe churchyard gate, going in?\n\n“Faith, sir, I’ve——”\n\n“Faith? What’s that?”\n\n“Why, faith, sir, it’s only a sort of exclamation-like—that’s all,\nsir.”\n\n“Um, um; go on.”\n\n“I was about to say, sir, that——”\n\n“Art thou a silk-worm? Dost thou spin thy own shroud out of thyself?\nLook at thy bosom!",
+      "first_sentence": "Hast thou ever helped carry a bier, and heard the coffin knock against\nthe churchyard gate, going in?"
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 139,
+      "chapter_title": "CHAPTER 130",
+      "start_char_pos": 1135962,
+      "end_char_pos": 1136328,
+      "token_count": 64,
+      "text": "For be this Parsee what he may, all rib and keel was solid Ahab. At the first faintest glimmering of the dawn, his iron voice was heard from aft,—“Man the mast-heads!”—and all through the day, till after sunset and after twilight, the same voice every hour, at the striking of the helmsman’s bell, was heard—“What d’ye see?—sharp! sharp!” But when three or four days",
+      "first_sentence": "For be this Parsee what he may, all rib and keel was solid Ahab."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 142,
+      "chapter_title": "CHAPTER 133",
+      "start_char_pos": 1162473,
+      "end_char_pos": 1162920,
+      "token_count": 77,
+      "text": "As now he thus vainly strove, the jaw slipped from him; the\nfrail gunwales bent in, collapsed, and snapped, as both jaws, like an\nenormous shears, sliding further aft, bit the craft completely in\ntwain, and locked themselves fast again in the sea, midway between the\ntwo floating wrecks. These floated aside, the broken ends drooping, the\ncrew at the stern-wreck clinging to the gunwales, and striving to hold\nfast to the oars to lash them across.",
+      "first_sentence": "As now he thus vainly strove, the jaw slipped from him; the\nfrail gunwales bent in, collapsed, and snapped, as both jaws, like an\nenormous shears, sliding further aft, bit the craft completely in\ntwain, and locked themselves fast again in the sea, midway between the\ntwo floating wrecks."
+    }
+  ]
+}

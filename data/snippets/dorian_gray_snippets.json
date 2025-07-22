@@ -1,0 +1,665 @@
+{
+  "novel_key": "dorian_gray",
+  "novel_file": "dorian_gray.txt",
+  "text_length": 429040,
+  "chapters_detected": 22,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER II",
+      "start_pos": 22,
+      "end_pos": 2352,
+      "length": 2330
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER I",
+      "start_pos": 2363,
+      "end_pos": 29058,
+      "length": 26695
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER II",
+      "start_pos": 29070,
+      "end_pos": 59302,
+      "length": 30232
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER III",
+      "start_pos": 59315,
+      "end_pos": 84015,
+      "length": 24700
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER IV",
+      "start_pos": 84027,
+      "end_pos": 114138,
+      "length": 30111
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER V",
+      "start_pos": 114149,
+      "end_pos": 137628,
+      "length": 23479
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER VI",
+      "start_pos": 137640,
+      "end_pos": 153050,
+      "length": 15410
+    },
+    {
+      "chapter_num": 8,
+      "title": "CHAPTER VII",
+      "start_pos": 153063,
+      "end_pos": 177027,
+      "length": 23964
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER VIII",
+      "start_pos": 177041,
+      "end_pos": 205435,
+      "length": 28394
+    },
+    {
+      "chapter_num": 10,
+      "title": "CHAPTER IX",
+      "start_pos": 205447,
+      "end_pos": 225984,
+      "length": 20537
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER X",
+      "start_pos": 225995,
+      "end_pos": 243519,
+      "length": 17524
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER XI",
+      "start_pos": 243531,
+      "end_pos": 285349,
+      "length": 41818
+    },
+    {
+      "chapter_num": 13,
+      "title": "CHAPTER XII",
+      "start_pos": 285362,
+      "end_pos": 299861,
+      "length": 14499
+    },
+    {
+      "chapter_num": 14,
+      "title": "CHAPTER XIII",
+      "start_pos": 299875,
+      "end_pos": 313276,
+      "length": 13401
+    },
+    {
+      "chapter_num": 15,
+      "title": "CHAPTER XIV",
+      "start_pos": 313289,
+      "end_pos": 320219,
+      "length": 6930
+    },
+    {
+      "chapter_num": 16,
+      "title": "did.\n\nH",
+      "start_pos": 320227,
+      "end_pos": 337726,
+      "length": 17499
+    },
+    {
+      "chapter_num": 17,
+      "title": "CHAPTER XV",
+      "start_pos": 337738,
+      "end_pos": 355124,
+      "length": 17386
+    },
+    {
+      "chapter_num": 18,
+      "title": "CHAPTER XVI",
+      "start_pos": 355137,
+      "end_pos": 371900,
+      "length": 16763
+    },
+    {
+      "chapter_num": 19,
+      "title": "CHAPTER XVII",
+      "start_pos": 371914,
+      "end_pos": 382052,
+      "length": 10138
+    },
+    {
+      "chapter_num": 20,
+      "title": "CHAPTER XVIII",
+      "start_pos": 382067,
+      "end_pos": 399815,
+      "length": 17748
+    },
+    {
+      "chapter_num": 21,
+      "title": "CHAPTER XIX",
+      "start_pos": 399828,
+      "end_pos": 418870,
+      "length": 19042
+    },
+    {
+      "chapter_num": 22,
+      "title": "CHAPTER XX",
+      "start_pos": 418882,
+      "end_pos": 429040,
+      "length": 10158
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 1289,
+      "end_char_pos": 1651,
+      "token_count": 63,
+      "text": "No artist desires to prove\nanything. Even things that are true can be proved. No artist has\nethical sympathies. An ethical sympathy in an artist is an unpardonable\nmannerism of style. No artist is ever morbid. The artist can express\neverything. Thought and language are to the artist instruments of an\nart. Vice and virtue are to the artist materials for an art.",
+      "first_sentence": "No artist desires to prove\nanything."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 9159,
+      "end_char_pos": 9509,
+      "token_count": 69,
+      "text": "I\nnever know where my wife is, and my wife never knows what I am doing.\nWhen we meet—we do meet occasionally, when we dine out together, or go\ndown to the Duke’s—we tell each other the most absurd stories with the\nmost serious faces. My wife is very good at it—much better, in fact,\nthan I am. She never gets confused over her dates, and I always do.",
+      "first_sentence": "I\nnever know where my wife is, and my wife never knows what I am doing."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 15798,
+      "end_char_pos": 16201,
+      "token_count": 70,
+      "text": "I simply fled. I\nlike to find out people for myself. But Lady Brandon treats her guests\nexactly as an auctioneer treats his goods. She either explains them\nentirely away, or tells one everything about them except what one wants\nto know.”\n\n“Poor Lady Brandon! You are hard on her, Harry!” said Hallward\nlistlessly.\n\n“My dear fellow, she tried to found a salon, and only succeeded in\nopening a restaurant.",
+      "first_sentence": "I simply fled."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 22384,
+      "end_char_pos": 22604,
+      "token_count": 45,
+      "text": "He is never more present in my work than when no image of him is there.\nHe is a suggestion, as I have said, of a new manner. I find him in the\ncurves of certain lines, in the loveliness and subtleties of certain\ncolours.",
+      "first_sentence": "He is never more present in my work than when no image of him is there."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 35712,
+      "end_char_pos": 36052,
+      "token_count": 63,
+      "text": "But the bravest man amongst us is afraid of himself. The\nmutilation of the savage has its tragic survival in the self-denial\nthat mars our lives. We are punished for our refusals. Every impulse\nthat we strive to strangle broods in the mind and poisons us. The body\nsins once, and has done with its sin, for action is a mode of\npurification.",
+      "first_sentence": "But the bravest man amongst us is afraid of himself."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 41180,
+      "end_char_pos": 41549,
+      "token_count": 62,
+      "text": "He could not help liking\nthe tall, graceful young man who was standing by him. His romantic,\nolive-coloured face and worn expression interested him. There was\nsomething in his low languid voice that was absolutely fascinating. His\ncool, white, flowerlike hands, even, had a curious charm. They moved,\nas he spoke, like music, and seemed to have a language of their own.",
+      "first_sentence": "He could not help liking\nthe tall, graceful young man who was standing by him."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 47217,
+      "end_char_pos": 47544,
+      "token_count": 58,
+      "text": "The only\ndifference between a caprice and a lifelong passion is that the caprice\nlasts a little longer.”\n\nAs they entered the studio, Dorian Gray put his hand upon Lord Henry’s\narm. “In that case, let our friendship be a caprice,” he murmured,\nflushing at his own boldness, then stepped up on the platform and\nresumed his pose.",
+      "first_sentence": "The only\ndifference between a caprice and a lifelong passion is that the caprice\nlasts a little longer."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 53563,
+      "end_char_pos": 53886,
+      "token_count": 60,
+      "text": "What is it but canvas and colour? I will\nnot let it come across our three lives and mar them.”\n\nDorian Gray lifted his golden head from the pillow, and with pallid\nface and tear-stained eyes, looked at him as he walked over to the deal\npainting-table that was set beneath the high curtained window. What was\nhe doing there?",
+      "first_sentence": "What is it but canvas and colour?"
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 65523,
+      "end_char_pos": 65770,
+      "token_count": 46,
+      "text": "Told me so himself. She laughed at\nhim, and there wasn’t a girl in London at the time who wasn’t after\nhim. And by the way, Harry, talking about silly marriages, what is this\nhumbug your father tells me about Dartmoor wanting to marry an\nAmerican?",
+      "first_sentence": "Told me so himself."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 71724,
+      "end_char_pos": 71982,
+      "token_count": 42,
+      "text": "Opposite was the Duchess of Harley, a lady of admirable good-nature and\ngood temper, much liked by every one who knew her, and of those ample\narchitectural proportions that in women who are not duchesses are\ndescribed by contemporary historians as stoutness.",
+      "first_sentence": "Opposite was the Duchess of Harley, a lady of admirable good-nature and\ngood temper, much liked by every one who knew her, and of those ample\narchitectural proportions that in women who are not duchesses are\ndescribed by contemporary historians as stoutness."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 77997,
+      "end_char_pos": 78352,
+      "token_count": 64,
+      "text": "Lord Henry looked over at Mr. Erskine. “Humanity takes itself too\nseriously. It is the world’s original sin. If the caveman had known how\nto laugh, history would have been different.”\n\n“You are really very comforting,” warbled the duchess. “I have always\nfelt rather guilty when I came to see your dear aunt, for I take no\ninterest at all in the East End.",
+      "first_sentence": "Lord Henry looked over at Mr."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 90112,
+      "end_char_pos": 90477,
+      "token_count": 66,
+      "text": "The plain women are very useful. If you want to gain a\nreputation for respectability, you have merely to take them down to\nsupper. The other women are very charming. They commit one mistake,\nhowever. They paint in order to try and look young. Our grandmothers\npainted in order to try and talk brilliantly. Rouge and esprit used\nto go together. That is all over now.",
+      "first_sentence": "The plain women are very useful."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 96172,
+      "end_char_pos": 96473,
+      "token_count": 60,
+      "text": "She was the loveliest thing I had ever seen\nin my life. You said to me once that pathos left you unmoved, but that\nbeauty, mere beauty, could fill your eyes with tears. I tell you,\nHarry, I could hardly see this girl for the mist of tears that came\nacross me. And her voice—I never heard such a voice.",
+      "first_sentence": "She was the loveliest thing I had ever seen\nin my life."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 102205,
+      "end_char_pos": 102548,
+      "token_count": 66,
+      "text": "He would insist on calling me ‘My Lord,’ so I had to assure\nSibyl that I was not anything of the kind. She said quite simply to me,\n‘You look more like a prince. I must call you Prince Charming.’”\n\n“Upon my word, Dorian, Miss Sibyl knows how to pay compliments.”\n\n“You don’t understand her, Harry. She regarded me merely as a person in\na play.",
+      "first_sentence": "He would insist on calling me ‘My Lord,’ so I had to assure\nSibyl that I was not anything of the kind."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 108131,
+      "end_char_pos": 108525,
+      "token_count": 71,
+      "text": "Certainly few people had ever interested him so much as\nDorian Gray, and yet the lad’s mad adoration of some one else caused\nhim not the slightest pang of annoyance or jealousy. He was pleased by\nit. It made him a more interesting study. He had been always enthralled\nby the methods of natural science, but the ordinary subject-matter of\nthat science had seemed to him trivial and of no import.",
+      "first_sentence": "Certainly few people had ever interested him so much as\nDorian Gray, and yet the lad’s mad adoration of some one else caused\nhim not the slightest pang of annoyance or jealousy."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 120063,
+      "end_char_pos": 120430,
+      "token_count": 70,
+      "text": "It is very sweet of you to let me have your last afternoon. Where\nshall we go? Let us go to the park.”\n\n“I am too shabby,” he answered, frowning. “Only swell people go to the\npark.”\n\n“Nonsense, Jim,” she whispered, stroking the sleeve of his coat.\n\nHe hesitated for a moment. “Very well,” he said at last, “but don’t be\ntoo long dressing.” She danced out of the door.",
+      "first_sentence": "It is very sweet of you to let me have your last afternoon."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 125957,
+      "end_char_pos": 126307,
+      "token_count": 71,
+      "text": "Of course, she would fall in love with him, and he with\nher, and they would get married, and come home, and live in an immense\nhouse in London. Yes, there were delightful things in store for him.\nBut he must be very good, and not lose his temper, or spend his money\nfoolishly. She was only a year older than he was, but she knew so much\nmore of life.",
+      "first_sentence": "Of course, she would fall in love with him, and he with\nher, and they would get married, and come home, and live in an immense\nhouse in London."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 131765,
+      "end_char_pos": 132085,
+      "token_count": 58,
+      "text": "He repeated his words. They cut the air\nlike a dagger. The people round began to gape. A lady standing close to\nher tittered.\n\n“Come away, Jim; come away,” she whispered. He followed her doggedly as\nshe passed through the crowd. He felt glad at what he had said.\n\nWhen they reached the Achilles Statue, she turned round.",
+      "first_sentence": "He repeated his words."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 142988,
+      "end_char_pos": 143393,
+      "token_count": 79,
+      "text": "You let Harry know.”\n\n“And I don’t forgive you for being late for dinner,” broke in Lord\nHenry, putting his hand on the lad’s shoulder and smiling as he spoke.\n“Come, let us sit down and try what the new chef here is like, and\nthen you will tell us how it all came about.”\n\n“There is really not much to tell,” cried Dorian as they took their\nseats at the small round table. “What happened was simply this.",
+      "first_sentence": "You let Harry know."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 147957,
+      "end_char_pos": 148227,
+      "token_count": 50,
+      "text": "All your theories, in fact, Harry.”\n\n“Pleasure is the only thing worth having a theory about,” he answered\nin his slow melodious voice. “But I am afraid I cannot claim my theory\nas my own. It belongs to Nature, not to me. Pleasure is Nature’s test,\nher sign of approval.",
+      "first_sentence": "All your theories, in fact, Harry."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 159140,
+      "end_char_pos": 159533,
+      "token_count": 68,
+      "text": "It was\nnot nervousness. Indeed, so far from being nervous, she was absolutely\nself-contained. It was simply bad art. She was a complete failure.\n\nEven the common uneducated audience of the pit and gallery lost their\ninterest in the play. They got restless, and began to talk loudly and\nto whistle. The Jew manager, who was standing at the back of the\ndress-circle, stamped and swore with rage.",
+      "first_sentence": "It was\nnot nervousness."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 165077,
+      "end_char_pos": 165416,
+      "token_count": 68,
+      "text": "Even if I could do it, it\nwould be profanation for me to play at being in love. You have made me\nsee that.”\n\nHe flung himself down on the sofa and turned away his face. “You have\nkilled my love,” he muttered.\n\nShe looked at him in wonder and laughed. He made no answer. She came\nacross to him, and with her little fingers stroked his hair.",
+      "first_sentence": "Even if I could do it, it\nwould be profanation for me to play at being in love."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 171080,
+      "end_char_pos": 171451,
+      "token_count": 65,
+      "text": "He turned them out and,\nhaving thrown his hat and cape on the table, passed through the library\ntowards the door of his bedroom, a large octagonal chamber on the\nground floor that, in his new-born feeling for luxury, he had just had\ndecorated for himself and hung with some curious Renaissance tapestries\nthat had been discovered stored in a disused attic at Selby Royal.",
+      "first_sentence": "He turned them out and,\nhaving thrown his hat and cape on the table, passed through the library\ntowards the door of his bedroom, a large octagonal chamber on the\nground floor that, in his new-born feeling for luxury, he had just had\ndecorated for himself and hung with some curious Renaissance tapestries\nthat had been discovered stored in a disused attic at Selby Royal."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 184251,
+      "end_char_pos": 184662,
+      "token_count": 77,
+      "text": "He jumped up, drew the screen hastily across the picture,\nand unlocked the door.\n\n“I am so sorry for it all, Dorian,” said Lord Henry as he entered. “But\nyou must not think too much about it.”\n\n“Do you mean about Sibyl Vane?” asked the lad.\n\n“Yes, of course,” answered Lord Henry, sinking into a chair and slowly\npulling off his yellow gloves. “It is dreadful, from one point of view,\nbut it was not your fault.",
+      "first_sentence": "He jumped up, drew the screen hastily across the picture,\nand unlocked the door."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 191280,
+      "end_char_pos": 191658,
+      "token_count": 62,
+      "text": "I remember your saying once that there is a fatality about good\nresolutions—that they are always made too late. Mine certainly were.”\n\n“Good resolutions are useless attempts to interfere with scientific\nlaws. Their origin is pure vanity. Their result is absolutely nil.\nThey give us, now and then, some of those luxurious sterile emotions\nthat have a certain charm for the weak.",
+      "first_sentence": "I remember your saying once that there is a fatality about good\nresolutions—that they are always made too late."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 212311,
+      "end_char_pos": 212645,
+      "token_count": 68,
+      "text": "I am\ndifferent, but you must not like me less. I am changed, but you must\nalways be my friend. Of course, I am very fond of Harry. But I know\nthat you are better than he is. You are not stronger—you are too much\nafraid of life—but you are better. And how happy we used to be\ntogether! Don’t leave me, Basil, and don’t quarrel with me.",
+      "first_sentence": "I am\ndifferent, but you must not like me less."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 219205,
+      "end_char_pos": 219510,
+      "token_count": 59,
+      "text": "I was dominated, soul, brain, and\npower, by you. You became to me the visible incarnation of that unseen\nideal whose memory haunts us artists like an exquisite dream. I\nworshipped you. I grew jealous of every one to whom you spoke. I wanted\nto have you all to myself. I was only happy when I was with you.",
+      "first_sentence": "I was dominated, soul, brain, and\npower, by you."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 231925,
+      "end_char_pos": 232214,
+      "token_count": 60,
+      "text": "I shall certainly drop in and look at the frame—though I don’t\ngo in much at present for religious art—but to-day I only want a\npicture carried to the top of the house for me. It is rather heavy, so\nI thought I would ask you to lend me a couple of your men.”\n\n“No trouble at all, Mr. Gray.",
+      "first_sentence": "I shall certainly drop in and look at the frame—though I don’t\ngo in much at present for religious art—but to-day I only want a\npicture carried to the top of the house for me."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 237727,
+      "end_char_pos": 238089,
+      "token_count": 66,
+      "text": "On a little table of dark\nperfumed wood thickly incrusted with nacre, a present from Lady Radley,\nhis guardian’s wife, a pretty professional invalid, who had spent the\npreceding winter in Cairo, was lying a note from Lord Henry, and beside\nit was a book bound in yellow paper, the cover slightly torn and the\nedges soiled. A copy of the third edition of _The St.",
+      "first_sentence": "On a little table of dark\nperfumed wood thickly incrusted with nacre, a present from Lady Radley,\nhis guardian’s wife, a pretty professional invalid, who had spent the\npreceding winter in Cairo, was lying a note from Lord Henry, and beside\nit was a book bound in yellow paper, the cover slightly torn and the\nedges soiled."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 250780,
+      "end_char_pos": 251353,
+      "token_count": 97,
+      "text": "As he looked back upon man moving through\nhistory, he was haunted by a feeling of loss. So much had been\nsurrendered! and to such little purpose! There had been mad wilful\nrejections, monstrous forms of self-torture and self-denial, whose\norigin was fear and whose result was a degradation infinitely more\nterrible than that fancied degradation from which, in their ignorance,\nthey had sought to escape; Nature, in her wonderful irony, driving out\nthe anchorite to feed with the wild animals of the desert and giving to\nthe hermit the beasts of the field as his companions.",
+      "first_sentence": "As he looked back upon man moving through\nhistory, he was haunted by a feeling of loss."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 257584,
+      "end_char_pos": 257943,
+      "token_count": 64,
+      "text": "He saw that there was no mood of the mind that had not its counterpart in the sensuous life, and set himself to discover their true relations, wondering what there was in frankincense that made one mystical, and in ambergris that stirred one’s passions, and in violets that woke the memory of dead romances, and in musk that troubled the brain, and in champak",
+      "first_sentence": "He saw that there was no mood of the mind that had not its counterpart in the sensuous life, and set..."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 264493,
+      "end_char_pos": 264838,
+      "token_count": 63,
+      "text": "The King of Malabar had shown to a certain Venetian a\nrosary of three hundred and four pearls, one for every god that he\nworshipped.\n\nWhen the Duke de Valentinois, son of Alexander VI., visited Louis XII.\nof France, his horse was loaded with gold leaves, according to\nBrantome, and his cap had double rows of rubies that threw out a great\nlight.",
+      "first_sentence": "The King of Malabar had shown to a certain Venetian a\nrosary of three hundred and four pearls, one for every god that he\nworshipped."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 271466,
+      "end_char_pos": 271812,
+      "token_count": 63,
+      "text": "In the mystic offices\nto which such things were put, there was something that quickened his\nimagination.\n\nFor these treasures, and everything that he collected in his lovely\nhouse, were to be to him means of forgetfulness, modes by which he\ncould escape, for a season, from the fear that seemed to him at times\nto be almost too great to be borne.",
+      "first_sentence": "In the mystic offices\nto which such things were put, there was something that quickened his\nimagination."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 278413,
+      "end_char_pos": 278771,
+      "token_count": 66,
+      "text": "Were his own actions merely the dreams\nthat the dead man had not dared to realize? Here, from the fading\ncanvas, smiled Lady Elizabeth Devereux, in her gauze hood, pearl\nstomacher, and pink slashed sleeves. A flower was in her right hand,\nand her left clasped an enamelled collar of white and damask roses. On\na table by her side lay a mandolin and an apple.",
+      "first_sentence": "Were his own actions merely the dreams\nthat the dead man had not dared to realize?"
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 290229,
+      "end_char_pos": 290564,
+      "token_count": 62,
+      "text": "Every gentleman is interested in his\ngood name. You don’t want people to talk of you as something vile and\ndegraded. Of course, you have your position, and your wealth, and all\nthat kind of thing. But position and wealth are not everything. Mind\nyou, I don’t believe these rumours at all. At least, I can’t believe\nthem when I see you.",
+      "first_sentence": "Every gentleman is interested in his\ngood name."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 295060,
+      "end_char_pos": 295392,
+      "token_count": 61,
+      "text": "Then there are\nother stories—stories that you have been seen creeping at dawn out of\ndreadful houses and slinking in disguise into the foulest dens in\nLondon. Are they true? Can they be true? When I first heard them, I\nlaughed. I hear them now, and they make me shudder. What about your\ncountry-house and the life that is led there?",
+      "first_sentence": "Then there are\nother stories—stories that you have been seen creeping at dawn out of\ndreadful houses and slinking in disguise into the foulest dens in\nLondon."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 14,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 304421,
+      "end_char_pos": 304803,
+      "token_count": 74,
+      "text": "It has destroyed me.”\n\n“I don’t believe it is my picture.”\n\n“Can’t you see your ideal in it?” said Dorian bitterly.\n\n“My ideal, as you call it...”\n\n“As you called it.”\n\n“There was nothing evil in it, nothing shameful. You were to me such an\nideal as I shall never meet again. This is the face of a satyr.”\n\n“It is the face of my soul.”\n\n“Christ! what a thing I must have worshipped!",
+      "first_sentence": "It has destroyed me."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 14,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 308823,
+      "end_char_pos": 309170,
+      "token_count": 65,
+      "text": "He felt strangely calm, and walking\nover to the window, opened it and stepped out on the balcony. The wind\nhad blown the fog away, and the sky was like a monstrous peacock’s\ntail, starred with myriads of golden eyes. He looked down and saw the\npoliceman going his rounds and flashing the long beam of his lantern on\nthe doors of the silent houses.",
+      "first_sentence": "He felt strangely calm, and walking\nover to the window, opened it and stepped out on the balcony."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 15,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 316800,
+      "end_char_pos": 317192,
+      "token_count": 64,
+      "text": "It was Gautier’s “Émaux et Camées”, Charpentier’s Japanese-paper edition, with the Jacquemart etching. The binding was of citron-green leather, with a design of gilt trellis-work and dotted pomegranates. It had been given to him by Adrian Singleton. As he turned over the pages, his eye fell on the poem about the hand of Lacenaire, the cold yellow hand “_du supplice encore mal lavée_,” with",
+      "first_sentence": "It was Gautier’s “Émaux et Camées”, Charpentier’s Japanese-paper edition, with the Jacquemart etching."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 16,
+      "chapter_title": "did.\n\nH",
+      "start_char_pos": 326091,
+      "end_char_pos": 326468,
+      "token_count": 74,
+      "text": "When he is missed, there must\nbe no trace of him found here. You, Alan, you must change him, and\neverything that belongs to him, into a handful of ashes that I may\nscatter in the air.”\n\n“You are mad, Dorian.”\n\n“Ah! I was waiting for you to call me Dorian.”\n\n“You are mad, I tell you—mad to imagine that I would raise a finger to\nhelp you, mad to make this monstrous confession.",
+      "first_sentence": "When he is missed, there must\nbe no trace of him found here."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 16,
+      "chapter_title": "did.\n\nH",
+      "start_char_pos": 331898,
+      "end_char_pos": 332322,
+      "token_count": 76,
+      "text": "It was intolerable. It seemed to crush him.\n\n“Come, Alan, you must decide at once.”\n\n“I cannot do it,” he said, mechanically, as though words could alter\nthings.\n\n“You must. You have no choice. Don’t delay.”\n\nHe hesitated a moment. “Is there a fire in the room upstairs?”\n\n“Yes, there is a gas-fire with asbestos.”\n\n“I shall have to go home and get some things from the laboratory.”\n\n“No, Alan, you must not leave the house.",
+      "first_sentence": "It was intolerable."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 343545,
+      "end_char_pos": 343970,
+      "token_count": 70,
+      "text": "She is really wonderful, and\nfull of surprises. Her capacity for family affection is extraordinary.\nWhen her third husband died, her hair turned quite gold from grief.”\n\n“How can you, Harry!” cried Dorian.\n\n“It is a most romantic explanation,” laughed the hostess. “But her\nthird husband, Lord Henry! You don’t mean to say Ferrol is the fourth?”\n\n“Certainly, Lady Narborough.”\n\n“I don’t believe a word of it.”\n\n“Well, ask Mr.",
+      "first_sentence": "She is really wonderful, and\nfull of surprises."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 349344,
+      "end_char_pos": 349636,
+      "token_count": 54,
+      "text": "A smile curved Lord Henry’s lips, and he turned round and looked at\nDorian.\n\n“Are you better, my dear fellow?” he asked. “You seemed rather out of\nsorts at dinner.”\n\n“I am quite well, Harry. I am tired. That is all.”\n\n“You were charming last night. The little duchess is quite devoted to\nyou.",
+      "first_sentence": "A smile curved Lord Henry’s lips, and he turned round and looked at\nDorian."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER XVI",
+      "start_char_pos": 360832,
+      "end_char_pos": 361271,
+      "token_count": 72,
+      "text": "He dragged it aside and entered a long low room which looked as\nif it had once been a third-rate dancing-saloon. Shrill flaring\ngas-jets, dulled and distorted in the fly-blown mirrors that faced\nthem, were ranged round the walls. Greasy reflectors of ribbed tin\nbacked them, making quivering disks of light. The floor was covered\nwith ochre-coloured sawdust, trampled here and there into mud, and\nstained with dark rings of spilled liquor.",
+      "first_sentence": "He dragged it aside and entered a long low room which looked as\nif it had once been a third-rate dancing-saloon."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER XVI",
+      "start_char_pos": 366420,
+      "end_char_pos": 366771,
+      "token_count": 62,
+      "text": "Men and women at such moments lose the freedom of their will.\nThey move to their terrible end as automatons move. Choice is taken\nfrom them, and conscience is either killed, or, if it lives at all,\nlives but to give rebellion its fascination and disobedience its charm.\nFor all sins, as theologians weary not of reminding us, are sins of\ndisobedience.",
+      "first_sentence": "Men and women at such moments lose the freedom of their will."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 19,
+      "chapter_title": "CHAPTER XVII",
+      "start_char_pos": 377076,
+      "end_char_pos": 377429,
+      "token_count": 67,
+      "text": "Gray, I assure you. Usually because I\ncome in at ten minutes to nine and tell her that I must be dressed by\nhalf-past eight.”\n\n“How unreasonable of her! You should give her warning.”\n\n“I daren’t, Mr. Gray. Why, she invents hats for me. You remember the\none I wore at Lady Hilstone’s garden-party? You don’t, but it is nice\nof you to pretend that you do.",
+      "first_sentence": "Gray, I assure you."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 20,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 388030,
+      "end_char_pos": 388363,
+      "token_count": 58,
+      "text": "The wood seemed to him to have become suddenly alive with\nfaces. There was the trampling of myriad feet and the low buzz of\nvoices. A great copper-breasted pheasant came beating through the\nboughs overhead.\n\nAfter a few moments—that were to him, in his perturbed state, like\nendless hours of pain—he felt a hand laid on his shoulder.",
+      "first_sentence": "The wood seemed to him to have become suddenly alive with\nfaces."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 20,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 393912,
+      "end_char_pos": 394207,
+      "token_count": 60,
+      "text": "That is\nall. I am afraid I walked too far this morning. I didn’t hear what\nHarry said. Was it very bad? You must tell me some other time. I think\nI must go and lie down. You will excuse me, won’t you?”\n\nThey had reached the great flight of steps that led from the\nconservatory on to the terrace.",
+      "first_sentence": "That is\nall."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 406362,
+      "end_char_pos": 406585,
+      "token_count": 42,
+      "text": "Why should he have been murdered? He was not clever enough to\nhave enemies. Of course, he had a wonderful genius for painting. But a\nman can paint like Velasquez and yet be as dull as possible. Basil was\nreally rather dull.",
+      "first_sentence": "Why should he have been murdered?"
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 412549,
+      "end_char_pos": 412946,
+      "token_count": 72,
+      "text": "You are really wonderful,\nDorian. You have never looked more charming than you do to-night. You\nremind me of the day I saw you first. You were rather cheeky, very shy,\nand absolutely extraordinary. You have changed, of course, but not in\nappearance. I wish you would tell me your secret. To get back my youth\nI would do anything in the world, except take exercise, get up early,\nor be respectable.",
+      "first_sentence": "You are really wonderful,\nDorian."
+    }
+  ]
+}

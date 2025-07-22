@@ -1,0 +1,686 @@
+{
+  "novel_key": "scarlet_letter",
+  "novel_file": "scarlet_letter.txt",
+  "text_length": 480194,
+  "chapters_detected": 25,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "I. T",
+      "start_pos": 97,
+      "end_pos": 86498,
+      "length": 86401
+    },
+    {
+      "chapter_num": 2,
+      "title": "I.\nT",
+      "start_pos": 86504,
+      "end_pos": 89353,
+      "length": 2849
+    },
+    {
+      "chapter_num": 3,
+      "title": "II.\nT",
+      "start_pos": 89360,
+      "end_pos": 109441,
+      "length": 20081
+    },
+    {
+      "chapter_num": 4,
+      "title": "III.\nT",
+      "start_pos": 109449,
+      "end_pos": 127779,
+      "length": 18330
+    },
+    {
+      "chapter_num": 5,
+      "title": "IV.\nT",
+      "start_pos": 127786,
+      "end_pos": 140987,
+      "length": 13201
+    },
+    {
+      "chapter_num": 6,
+      "title": "V.\nH",
+      "start_pos": 140993,
+      "end_pos": 160933,
+      "length": 19940
+    },
+    {
+      "chapter_num": 7,
+      "title": "VI.\nP",
+      "start_pos": 160940,
+      "end_pos": 181092,
+      "length": 20152
+    },
+    {
+      "chapter_num": 8,
+      "title": "VII.\nT",
+      "start_pos": 181100,
+      "end_pos": 195605,
+      "length": 14505
+    },
+    {
+      "chapter_num": 9,
+      "title": "VIII.\nT",
+      "start_pos": 195614,
+      "end_pos": 213438,
+      "length": 17824
+    },
+    {
+      "chapter_num": 10,
+      "title": "IX.\nT",
+      "start_pos": 213445,
+      "end_pos": 234216,
+      "length": 20771
+    },
+    {
+      "chapter_num": 11,
+      "title": "X.\nT",
+      "start_pos": 234222,
+      "end_pos": 253460,
+      "length": 19238
+    },
+    {
+      "chapter_num": 12,
+      "title": "XI.\nT",
+      "start_pos": 253467,
+      "end_pos": 267785,
+      "length": 14318
+    },
+    {
+      "chapter_num": 13,
+      "title": "XII.\nT",
+      "start_pos": 267793,
+      "end_pos": 289819,
+      "length": 22026
+    },
+    {
+      "chapter_num": 14,
+      "title": "XIII.\nA",
+      "start_pos": 289828,
+      "end_pos": 306648,
+      "length": 16820
+    },
+    {
+      "chapter_num": 15,
+      "title": "XIV.\nH",
+      "start_pos": 306656,
+      "end_pos": 318922,
+      "length": 12266
+    },
+    {
+      "chapter_num": 16,
+      "title": "XV.\nH",
+      "start_pos": 318929,
+      "end_pos": 331839,
+      "length": 12910
+    },
+    {
+      "chapter_num": 17,
+      "title": "XVI.\nA",
+      "start_pos": 331847,
+      "end_pos": 344263,
+      "length": 12416
+    },
+    {
+      "chapter_num": 18,
+      "title": "XVII.\nT",
+      "start_pos": 344272,
+      "end_pos": 362606,
+      "length": 18334
+    },
+    {
+      "chapter_num": 19,
+      "title": "XVIII.\nA",
+      "start_pos": 362616,
+      "end_pos": 374646,
+      "length": 12030
+    },
+    {
+      "chapter_num": 20,
+      "title": "XIX.\nT",
+      "start_pos": 374654,
+      "end_pos": 388373,
+      "length": 13719
+    },
+    {
+      "chapter_num": 21,
+      "title": "XX.\nT",
+      "start_pos": 388380,
+      "end_pos": 410643,
+      "length": 22263
+    },
+    {
+      "chapter_num": 22,
+      "title": "XXI.\nT",
+      "start_pos": 410651,
+      "end_pos": 428795,
+      "length": 18144
+    },
+    {
+      "chapter_num": 23,
+      "title": "XXII.\nT",
+      "start_pos": 428804,
+      "end_pos": 450363,
+      "length": 21559
+    },
+    {
+      "chapter_num": 24,
+      "title": "XXIII.\nT",
+      "start_pos": 450373,
+      "end_pos": 467832,
+      "length": 17459
+    },
+    {
+      "chapter_num": 25,
+      "title": "XXIV.\nC",
+      "start_pos": 467841,
+      "end_pos": 480194,
+      "length": 12353
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 8952,
+      "end_char_pos": 9426,
+      "token_count": 80,
+      "text": "These old\ngentlemen—seated, like Matthew at the receipt of custom, but not very\nliable to be summoned thence, like him, for apostolic errands—were\nCustom-House officers.\n\nFurthermore, on the left hand as you enter the front door, is a certain\nroom or office, about fifteen feet square, and of a lofty height, with\ntwo of its arched windows commanding a view of the aforesaid\ndilapidated wharf, and the third looking across a narrow lane, and\nalong a portion of Derby Street.",
+      "first_sentence": "These old\ngentlemen—seated, like Matthew at the receipt of custom, but not very\nliable to be summoned thence, like him, for apostolic errands—were\nCustom-House officers."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 17572,
+      "end_char_pos": 17872,
+      "token_count": 56,
+      "text": "It is no matter that the\nplace is joyless for him; that he is weary of the old wooden houses,\nthe mud and dust, the dead level of site and sentiment, the chill east\nwind, and the chillest of social atmospheres;—all these, and whatever\nfaults besides he may see or imagine, are nothing to the purpose.",
+      "first_sentence": "It is no matter that the\nplace is joyless for him; that he is weary of the old wooden houses,\nthe mud and dust, the dead level of site and sentiment, the chill east\nwind, and the chillest of social atmospheres;—all these, and whatever\nfaults besides he may see or imagine, are nothing to the purpose."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 26073,
+      "end_char_pos": 26476,
+      "token_count": 68,
+      "text": "It was pleasant in the summer forenoons—when the fervent\nheat, that almost liquefied the rest of the human family, merely\ncommunicated a genial warmth to their half torpid systems—it was\npleasant to hear them chatting in the back entry, a row of them all\ntipped against the wall, as usual; while the frozen witticisms of past\ngenerations were thawed out, and came bubbling with laughter from their\nlips.",
+      "first_sentence": "It was pleasant in the summer forenoons—when the fervent\nheat, that almost liquefied the rest of the human family, merely\ncommunicated a genial warmth to their half torpid systems—it was\npleasant to hear them chatting in the back entry, a row of them all\ntipped against the wall, as usual; while the frozen witticisms of past\ngenerations were thawed out, and came bubbling with laughter from their\nlips."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 34838,
+      "end_char_pos": 35308,
+      "token_count": 75,
+      "text": "There is one likeness, without which my gallery of Custom-House\nportraits would be strangely incomplete, but which my comparatively few\nopportunities for observation enable me to sketch only in the merest\noutline. It is that of the Collector, our gallant old General, who,\nafter his brilliant military service, subsequently to which he had\nruled over a wild Western territory, had come hither, twenty years\nbefore, to spend the decline of his varied and honourable life.",
+      "first_sentence": "There is one likeness, without which my gallery of Custom-House\nportraits would be strangely incomplete, but which my comparatively few\nopportunities for observation enable me to sketch only in the merest\noutline."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 43376,
+      "end_char_pos": 43837,
+      "token_count": 79,
+      "text": "The accidents of my\nlife have often afforded me this advantage, but never with more fulness\nand variety than during my continuance in office. There was one man,\nespecially, the observation of whose character gave me a new idea of\ntalent. His gifts were emphatically those of a man of business; prompt,\nacute, clear-minded; with an eye that saw through all perplexities, and\na faculty of arrangement that made them vanish as by the waving of an\nenchanter’s wand.",
+      "first_sentence": "The accidents of my\nlife have often afforded me this advantage, but never with more fulness\nand variety than during my continuance in office."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 51984,
+      "end_char_pos": 52239,
+      "token_count": 48,
+      "text": "It was sorrowful to think how\nmany days, and weeks, and months, and years of toil had been wasted on\nthese musty papers, which were now only an encumbrance on earth, and\nwere hidden away in this forgotten corner, never more to be glanced at\nby human eyes.",
+      "first_sentence": "It was sorrowful to think how\nmany days, and weeks, and months, and years of toil had been wasted on\nthese musty papers, which were now only an encumbrance on earth, and\nwere hidden away in this forgotten corner, never more to be glanced at\nby human eyes."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 60618,
+      "end_char_pos": 61071,
+      "token_count": 78,
+      "text": "It had been her habit, from an almost immemorial date, to go\nabout the country as a kind of voluntary nurse, and doing whatever\nmiscellaneous good she might; taking upon herself, likewise, to give\nadvice in all matters, especially those of the heart, by which means—as\na person of such propensities inevitably must—she gained from many\npeople the reverence due to an angel, but, I should imagine, was looked\nupon by others as an intruder and a nuisance.",
+      "first_sentence": "It had been her habit, from an almost immemorial date, to go\nabout the country as a kind of voluntary nurse, and doing whatever\nmiscellaneous good she might; taking upon herself, likewise, to give\nadvice in all matters, especially those of the heart, by which means—as\na person of such propensities inevitably must—she gained from many\npeople the reverence due to an angel, but, I should imagine, was looked\nupon by others as an intruder and a nuisance."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 69357,
+      "end_char_pos": 69722,
+      "token_count": 64,
+      "text": "But, for myself, during the whole of my Custom-House experience,\nmoonlight and sunshine, and the glow of firelight, were just alike in\nmy regard; and neither of them was of one whit more avail than the\ntwinkle of a tallow-candle. An entire class of susceptibilities, and a\ngift connected with them—of no great richness or value, but the best I\nhad—was gone from me.",
+      "first_sentence": "But, for myself, during the whole of my Custom-House experience,\nmoonlight and sunshine, and the glow of firelight, were just alike in\nmy regard; and neither of them was of one whit more avail than the\ntwinkle of a tallow-candle."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 77979,
+      "end_char_pos": 78469,
+      "token_count": 82,
+      "text": "There are few uglier traits of human nature\nthan this tendency—which I now witnessed in men no worse than their\nneighbours—to grow cruel, merely because they possessed the power of\ninflicting harm. If the guillotine, as applied to office-holders, were\na literal fact, instead of one of the most apt of metaphors, it is my\nsincere belief that the active members of the victorious party were\nsufficiently excited to have chopped off all our heads, and have\nthanked Heaven for the opportunity!",
+      "first_sentence": "There are few uglier traits of human nature\nthan this tendency—which I now witnessed in men no worse than their\nneighbours—to grow cruel, merely because they possessed the power of\ninflicting harm."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 2,
+      "chapter_title": "I.\nT",
+      "start_char_pos": 88185,
+      "end_char_pos": 88558,
+      "token_count": 72,
+      "text": "But\non one side of the portal, and rooted almost at the threshold, was a\nwild rose-bush, covered, in this month of June, with its delicate gems,\nwhich might be imagined to offer their fragrance and fragile beauty to\nthe prisoner as he went in, and to the condemned criminal as he came\nforth to his doom, in token that the deep heart of Nature could pity\nand be kind to him.",
+      "first_sentence": "But\non one side of the portal, and rooted almost at the threshold, was a\nwild rose-bush, covered, in this month of June, with its delicate gems,\nwhich might be imagined to offer their fragrance and fragile beauty to\nthe prisoner as he went in, and to the condemned criminal as he came\nforth to his doom, in token that the deep heart of Nature could pity\nand be kind to him."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 3,
+      "chapter_title": "II.\nT",
+      "start_char_pos": 96195,
+      "end_char_pos": 96501,
+      "token_count": 54,
+      "text": "When the young woman—the mother of this child—stood fully revealed\nbefore the crowd, it seemed to be her first impulse to clasp the infant\nclosely to her bosom; not so much by an impulse of motherly affection,\nas that she might thereby conceal a certain token, which was wrought or\nfastened into her dress.",
+      "first_sentence": "When the young woman—the mother of this child—stood fully revealed\nbefore the crowd, it seemed to be her first impulse to clasp the infant\nclosely to her bosom; not so much by an impulse of motherly affection,\nas that she might thereby conceal a certain token, which was wrought or\nfastened into her dress."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 3,
+      "chapter_title": "II.\nT",
+      "start_char_pos": 102820,
+      "end_char_pos": 103173,
+      "token_count": 64,
+      "text": "Knowing well her part, she ascended a flight of wooden steps, and was thus displayed to the surrounding multitude, at about the height of a man’s shoulders above the street. Had there been a Papist among the crowd of Puritans, he might have seen in this beautiful woman, so picturesque in her attire and mien, and with the infant at her bosom, an object",
+      "first_sentence": "Knowing well her part, she ascended a flight of wooden steps, and was thus displayed to the surrounding multitude, at about the height of a man’s shoulders above the street."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 4,
+      "chapter_title": "III.\nT",
+      "start_char_pos": 115588,
+      "end_char_pos": 116047,
+      "token_count": 78,
+      "text": "But he will be known—he will be known!—he will be known!”\n\nHe bowed courteously to the communicative townsman, and whispering a\nfew words to his Indian attendant, they both made their way through the\ncrowd.\n\nWhile this passed, Hester Prynne had been standing on her pedestal,\nstill with a fixed gaze towards the stranger—so fixed a gaze that, at\nmoments of intense absorption, all other objects in the visible world\nseemed to vanish, leaving only him and her.",
+      "first_sentence": "But he will be known—he will be known!"
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 4,
+      "chapter_title": "III.\nT",
+      "start_char_pos": 121686,
+      "end_char_pos": 122055,
+      "token_count": 61,
+      "text": "His eloquence and religious fervour had already\ngiven the earnest of high eminence in his profession. He was a person\nof very striking aspect, with a white, lofty, and impending brow;\nlarge, brown, melancholy eyes, and a mouth which, unless when he\nforcibly compressed it, was apt to be tremulous, expressing both\nnervous sensibility and a vast power of self restraint.",
+      "first_sentence": "His eloquence and religious fervour had already\ngiven the earnest of high eminence in his profession."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 5,
+      "chapter_title": "IV.\nT",
+      "start_char_pos": 134839,
+      "end_char_pos": 135251,
+      "token_count": 73,
+      "text": "The reason is not far to seek. It was my folly,\nand thy weakness. I—a man of thought—the book-worm of great libraries—a\nman already in decay, having given my best years to feed the hungry\ndream of knowledge—what had I to do with youth and beauty like thine\nown? Misshapen from my birth-hour, how could I delude myself with the\nidea that intellectual gifts might veil physical deformity in a young\ngirl’s fantasy?",
+      "first_sentence": "The reason is not far to seek."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 6,
+      "chapter_title": "V.\nH",
+      "start_char_pos": 147834,
+      "end_char_pos": 148215,
+      "token_count": 66,
+      "text": "Lonely as was Hester’s situation, and without a friend on earth who\ndared to show himself, she, however, incurred no risk of want. She\npossessed an art that sufficed, even in a land that afforded\ncomparatively little scope for its exercise, to supply food for her\nthriving infant and herself. It was the art, then, as now, almost the\nonly one within a woman’s grasp—of needle-work.",
+      "first_sentence": "Lonely as was Hester’s situation, and without a friend on earth who\ndared to show himself, she, however, incurred no risk of want."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 6,
+      "chapter_title": "V.\nH",
+      "start_char_pos": 154358,
+      "end_char_pos": 154912,
+      "token_count": 94,
+      "text": "The poor,\nas we have already said, whom she sought out to be the objects of her\nbounty, often reviled the hand that was stretched forth to succour\nthem. Dames of elevated rank, likewise, whose doors she entered in the\nway of her occupation, were accustomed to distil drops of bitterness\ninto her heart; sometimes through that alchemy of quiet malice, by\nwhich women can concoct a subtle poison from ordinary trifles; and\nsometimes, also, by a coarser expression, that fell upon the sufferer’s\ndefenceless breast like a rough blow upon an ulcerated wound.",
+      "first_sentence": "The poor,\nas we have already said, whom she sought out to be the objects of her\nbounty, often reviled the hand that was stretched forth to succour\nthem."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 7,
+      "chapter_title": "VI.\nP",
+      "start_char_pos": 167810,
+      "end_char_pos": 168238,
+      "token_count": 72,
+      "text": "Beholding it, Hester was constrained to rush\ntowards the child—to pursue the little elf in the flight which she\ninvariably began—to snatch her to her bosom with a close pressure and\nearnest kisses—not so much from overflowing love as to assure herself\nthat Pearl was flesh and blood, and not utterly delusive. But Pearl’s\nlaugh, when she was caught, though full of merriment and music, made\nher mother more doubtful than before.",
+      "first_sentence": "Beholding it, Hester was constrained to rush\ntowards the child—to pursue the little elf in the flight which she\ninvariably began—to snatch her to her bosom with a close pressure and\nearnest kisses—not so much from overflowing love as to assure herself\nthat Pearl was flesh and blood, and not utterly delusive."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 7,
+      "chapter_title": "VI.\nP",
+      "start_char_pos": 174402,
+      "end_char_pos": 174849,
+      "token_count": 80,
+      "text": "She never created a friend, but seemed always to be sowing\nbroadcast the dragon’s teeth, whence sprung a harvest of armed enemies,\nagainst whom she rushed to battle. It was inexpressibly sad—then what\ndepth of sorrow to a mother, who felt in her own heart the cause—to\nobserve, in one so young, this constant recognition of an adverse\nworld, and so fierce a training of the energies that were to make good\nher cause in the contest that must ensue.",
+      "first_sentence": "She never created a friend, but seemed always to be sowing\nbroadcast the dragon’s teeth, whence sprung a harvest of armed enemies,\nagainst whom she rushed to battle."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 8,
+      "chapter_title": "VII.\nT",
+      "start_char_pos": 186102,
+      "end_char_pos": 186561,
+      "token_count": 78,
+      "text": "Come, therefore, and let us fling mud at them!”\n\nBut Pearl, who was a dauntless child, after frowning, stamping her\nfoot, and shaking her little hand with a variety of threatening\ngestures, suddenly made a rush at the knot of her enemies, and put them\nall to flight. She resembled, in her fierce pursuit of them, an infant\npestilence—the scarlet fever, or some such half-fledged angel of\njudgment—whose mission was to punish the sins of the rising generation.",
+      "first_sentence": "Come, therefore, and let us fling mud at them!"
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 8,
+      "chapter_title": "VII.\nT",
+      "start_char_pos": 191042,
+      "end_char_pos": 191471,
+      "token_count": 75,
+      "text": "On the table—in token that the\nsentiment of old English hospitality had not been left behind—stood a\nlarge pewter tankard, at the bottom of which, had Hester or Pearl\npeeped into it, they might have seen the frothy remnant of a recent\ndraught of ale.\n\nOn the wall hung a row of portraits, representing the forefathers of\nthe Bellingham lineage, some with armour on their breasts, and others\nwith stately ruffs and robes of peace.",
+      "first_sentence": "On the table—in token that the\nsentiment of old English hospitality had not been left behind—stood a\nlarge pewter tankard, at the bottom of which, had Hester or Pearl\npeeped into it, they might have seen the frothy remnant of a recent\ndraught of ale."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\nT",
+      "start_char_pos": 201744,
+      "end_char_pos": 201980,
+      "token_count": 43,
+      "text": "But the child, unaccustomed to the touch\nor familiarity of any but her mother, escaped through the open window,\nand stood on the upper step, looking like a wild tropical bird of rich\nplumage, ready to take flight into the upper air. Mr.",
+      "first_sentence": "But the child, unaccustomed to the touch\nor familiarity of any but her mother, escaped through the open window,\nand stood on the upper step, looking like a wild tropical bird of rich\nplumage, ready to take flight into the upper air."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\nT",
+      "start_char_pos": 207586,
+      "end_char_pos": 207853,
+      "token_count": 52,
+      "text": "This\nchild of its father’s guilt and its mother’s shame has come from the\nhand of God, to work in many ways upon her heart, who pleads so\nearnestly and with such bitterness of spirit the right to keep her. It\nwas meant for a blessing—for the one blessing of her life!",
+      "first_sentence": "This\nchild of its father’s guilt and its mother’s shame has come from the\nhand of God, to work in many ways upon her heart, who pleads so\nearnestly and with such bitterness of spirit the right to keep her."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 10,
+      "chapter_title": "IX.\nT",
+      "start_char_pos": 220496,
+      "end_char_pos": 220909,
+      "token_count": 67,
+      "text": "This idea was countenanced by the strong interest which the physician\never manifested in the young clergyman; he attached himself to him as a\nparishioner, and sought to win a friendly regard and confidence from\nhis naturally reserved sensibility. He expressed great alarm at his\npastor’s state of health, but was anxious to attempt the cure, and, if\nearly undertaken, seemed not despondent of a favourable result.",
+      "first_sentence": "This idea was countenanced by the strong interest which the physician\never manifested in the young clergyman; he attached himself to him as a\nparishioner, and sought to win a friendly regard and confidence from\nhis naturally reserved sensibility."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 10,
+      "chapter_title": "IX.\nT",
+      "start_char_pos": 227718,
+      "end_char_pos": 228149,
+      "token_count": 75,
+      "text": "The latter had his suspicions,\nindeed, that even the nature of Mr. Dimmesdale’s bodily disease had\nnever fairly been revealed to him. It was a strange reserve!\n\nAfter a time, at a hint from Roger Chillingworth, the friends of Mr.\nDimmesdale effected an arrangement by which the two were lodged in the\nsame house; so that every ebb and flow of the minister’s life-tide\nmight pass under the eye of his anxious and attached physician.",
+      "first_sentence": "The latter had his suspicions,\nindeed, that even the nature of Mr."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 11,
+      "chapter_title": "X.\nT",
+      "start_char_pos": 240653,
+      "end_char_pos": 240952,
+      "token_count": 53,
+      "text": "Why\nshould a wretched man—guilty, we will say, of murder—prefer to keep the\ndead corpse buried in his own heart, rather than fling it forth at\nonce, and let the universe take care of it!”\n\n“Yet some men bury their secrets thus,” observed the calm physician.\n\n“True; there are such men,” answered Mr.",
+      "first_sentence": "Why\nshould a wretched man—guilty, we will say, of murder—prefer to keep the\ndead corpse buried in his own heart, rather than fling it forth at\nonce, and let the universe take care of it!"
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 11,
+      "chapter_title": "X.\nT",
+      "start_char_pos": 247054,
+      "end_char_pos": 247288,
+      "token_count": 47,
+      "text": "Looking daily at you, my good sir, and watching the tokens of your\naspect now for months gone by, I should deem you a man sore sick, it\nmay be, yet not so sick but that an instructed and watchful physician\nmight well hope to cure you.",
+      "first_sentence": "Looking daily at you, my good sir, and watching the tokens of your\naspect now for months gone by, I should deem you a man sore sick, it\nmay be, yet not so sick but that an instructed and watchful physician\nmight well hope to cure you."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 12,
+      "chapter_title": "XI.\nT",
+      "start_char_pos": 260784,
+      "end_char_pos": 261125,
+      "token_count": 57,
+      "text": "The aged members of his flock, beholding Mr.\nDimmesdale’s frame so feeble, while they were themselves so rugged in\ntheir infirmity, believed that he would go heavenward before them, and\nenjoined it upon their children that their old bones should be buried\nclose to their young pastor’s holy grave. And all this time, perchance,\nwhen poor Mr.",
+      "first_sentence": "The aged members of his flock, beholding Mr."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 13,
+      "chapter_title": "XII.\nT",
+      "start_char_pos": 275149,
+      "end_char_pos": 275616,
+      "token_count": 78,
+      "text": "The venerable Father Wilson continued to\nstep slowly onward, looking carefully at the muddy pathway before his\nfeet, and never once turning his head towards the guilty platform. When\nthe light of the glimmering lantern had faded quite away, the minister\ndiscovered, by the faintness which came over him, that the last few\nmoments had been a crisis of terrible anxiety, although his mind had\nmade an involuntary effort to relieve itself by a kind of lurid\nplayfulness.",
+      "first_sentence": "The venerable Father Wilson continued to\nstep slowly onward, looking carefully at the muddy pathway before his\nfeet, and never once turning his head towards the guilty platform."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 13,
+      "chapter_title": "XII.\nT",
+      "start_char_pos": 282684,
+      "end_char_pos": 283095,
+      "token_count": 72,
+      "text": "Thus, a blazing spear, a sword\nof flame, a bow, or a sheaf of arrows seen in the midnight sky,\nprefigured Indian warfare. Pestilence was known to have been foreboded\nby a shower of crimson light. We doubt whether any marked event, for\ngood or evil, ever befell New England, from its settlement down to\nrevolutionary times, of which the inhabitants had not been previously\nwarned by some spectacle of its nature.",
+      "first_sentence": "Thus, a blazing spear, a sword\nof flame, a bow, or a sheaf of arrows seen in the midnight sky,\nprefigured Indian warfare."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 14,
+      "chapter_title": "XIII.\nA",
+      "start_char_pos": 295513,
+      "end_char_pos": 295905,
+      "token_count": 70,
+      "text": "This might be pride, but was so like humility, that it produced all the\nsoftening influence of the latter quality on the public mind. The\npublic is despotic in its temper; it is capable of denying common\njustice when too strenuously demanded as a right; but quite as\nfrequently it awards more than justice, when the appeal is made, as\ndespots love to have it made, entirely to its generosity.",
+      "first_sentence": "This might be pride, but was so like humility, that it produced all the\nsoftening influence of the latter quality on the public mind."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 14,
+      "chapter_title": "XIII.\nA",
+      "start_char_pos": 301205,
+      "end_char_pos": 301567,
+      "token_count": 62,
+      "text": "It is remarkable that persons who speculate the most boldly often\nconform with the most perfect quietude to the external regulations of\nsociety. The thought suffices them, without investing itself in the\nflesh and blood of action. So it seemed to be with Hester. Yet, had\nlittle Pearl never come to her from the spiritual world, it might have\nbeen far otherwise.",
+      "first_sentence": "It is remarkable that persons who speculate the most boldly often\nconform with the most perfect quietude to the external regulations of\nsociety."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 15,
+      "chapter_title": "XIV.\nH",
+      "start_char_pos": 312845,
+      "end_char_pos": 313210,
+      "token_count": 68,
+      "text": "Oh, I\ncould reveal a goodly secret! But enough. What art can do, I have\nexhausted on him. That he now breathes and creeps about on earth is\nowing all to me!”\n\n“Better he had died at once!” said Hester Prynne.\n\n“Yea, woman, thou sayest truly!” cried old Roger Chillingworth, letting\nthe lurid fire of his heart blaze out before her eyes. “Better had he\ndied at once!",
+      "first_sentence": "Oh, I\ncould reveal a goodly secret!"
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 16,
+      "chapter_title": "XV.\nH",
+      "start_char_pos": 325471,
+      "end_char_pos": 325888,
+      "token_count": 73,
+      "text": "But dost thou know,\nmy child, what this letter means which thy mother is doomed to wear?”\n\n“Yes, mother,” said the child. “It is the great letter A. Thou hast\ntaught me in the horn-book.”\n\nHester looked steadily into her little face; but though there was that\nsingular expression which she had so often remarked in her black eyes,\nshe could not satisfy herself whether Pearl really attached any meaning\nto the symbol.",
+      "first_sentence": "But dost thou know,\nmy child, what this letter means which thy mother is doomed to wear?"
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 17,
+      "chapter_title": "XVI.\nA",
+      "start_char_pos": 338071,
+      "end_char_pos": 338414,
+      "token_count": 66,
+      "text": "And dost thou\ngo to meet him in the nighttime?”\n\n“Didst thou ever awake and find thy mother gone?” asked Hester.\n\n“Not that I remember,” said the child. “If thou fearest to leave me in\nour cottage, thou mightest take me along with thee. I would very gladly\ngo! But, mother, tell me now! Is there such a Black Man? And didst thou\never meet him?",
+      "first_sentence": "And dost thou\ngo to meet him in the nighttime?"
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 18,
+      "chapter_title": "XVII.\nT",
+      "start_char_pos": 350430,
+      "end_char_pos": 350874,
+      "token_count": 84,
+      "text": "She conquered her fears, and spoke:\n\n“Such a friend as thou hast even now wished for,” said she, “with whom\nto weep over thy sin, thou hast in me, the partner of it!” Again she\nhesitated, but brought out the words with an effort.—“Thou hast long\nhad such an enemy, and dwellest with him, under the same roof!”\n\nThe minister started to his feet, gasping for breath, and clutching at\nhis heart, as if he would have torn it out of his bosom.\n\n“Ha!",
+      "first_sentence": "She conquered her fears, and spoke:\n\n“Such a friend as thou hast even now wished for,” said she, “with whom\nto weep over thy sin, thou hast in me, the partner of it!"
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 18,
+      "chapter_title": "XVII.\nT",
+      "start_char_pos": 356498,
+      "end_char_pos": 356918,
+      "token_count": 73,
+      "text": "The boughs were tossing\nheavily above their heads; while one solemn old tree groaned dolefully\nto another, as if telling the sad story of the pair that sat beneath,\nor constrained to forbode evil to come.\n\nAnd yet they lingered. How dreary looked the forest-track that led\nbackward to the settlement, where Hester Prynne must take up again the\nburden of her ignominy and the minister the hollow mockery of his good\nname!",
+      "first_sentence": "The boughs were tossing\nheavily above their heads; while one solemn old tree groaned dolefully\nto another, as if telling the sad story of the pair that sat beneath,\nor constrained to forbode evil to come."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 19,
+      "chapter_title": "XVIII.\nA",
+      "start_char_pos": 368697,
+      "end_char_pos": 369114,
+      "token_count": 69,
+      "text": "But there lay the embroidered letter, glittering like a lost jewel,\nwhich some ill-fated wanderer might pick up, and thenceforth be haunted\nby strange phantoms of guilt, sinkings of the heart, and unaccountable\nmisfortune.\n\nThe stigma gone, Hester heaved a long, deep sigh, in which the burden\nof shame and anguish departed from her spirit. O exquisite relief! She\nhad not known the weight until she felt the freedom!",
+      "first_sentence": "But there lay the embroidered letter, glittering like a lost jewel,\nwhich some ill-fated wanderer might pick up, and thenceforth be haunted\nby strange phantoms of guilt, sinkings of the heart, and unaccountable\nmisfortune."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 20,
+      "chapter_title": "XIX.\nT",
+      "start_char_pos": 381766,
+      "end_char_pos": 382280,
+      "token_count": 84,
+      "text": "Else I must come to\nthee!”\n\nBut Pearl, not a whit startled at her mother’s threats any more than\nmollified by her entreaties, now suddenly burst into a fit of passion,\ngesticulating violently, and throwing her small figure into the most\nextravagant contortions. She accompanied this wild outbreak with\npiercing shrieks, which the woods reverberated on all sides, so that,\nalone as she was in her childish and unreasonable wrath, it seemed as\nif a hidden multitude were lending her their sympathy and\nencouragement.",
+      "first_sentence": "Else I must come to\nthee!"
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 21,
+      "chapter_title": "XX.\nT",
+      "start_char_pos": 396014,
+      "end_char_pos": 396313,
+      "token_count": 53,
+      "text": "Never was there a more beautiful\nexample of how the majesty of age and wisdom may comport with the\nobeisance and respect enjoined upon it, as from a lower social rank,\nand inferior order of endowment, towards a higher. Now, during a\nconversation of some two or three moments between the Reverend Mr.",
+      "first_sentence": "Never was there a more beautiful\nexample of how the majesty of age and wisdom may comport with the\nobeisance and respect enjoined upon it, as from a lower social rank,\nand inferior order of endowment, towards a higher."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 21,
+      "chapter_title": "XX.\nT",
+      "start_char_pos": 403320,
+      "end_char_pos": 403789,
+      "token_count": 85,
+      "text": "I went not\ninto the forest to seek a potentate, neither do I, at any future time,\ndesign a visit thither, with a view to gaining the favour of such\npersonage. My one sufficient object was to greet that pious friend of\nmine, the Apostle Eliot, and rejoice with him over the many precious\nsouls he hath won from heathendom!”\n\n“Ha, ha, ha!” cackled the old witch-lady, still nodding her high\nhead-dress at the minister. “Well, well! we must needs talk thus in the\ndaytime!",
+      "first_sentence": "I went not\ninto the forest to seek a potentate, neither do I, at any future time,\ndesign a visit thither, with a view to gaining the favour of such\npersonage."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 22,
+      "chapter_title": "XXI.\nT",
+      "start_char_pos": 416997,
+      "end_char_pos": 417308,
+      "token_count": 65,
+      "text": "And in\nthe deep forest, where only the old trees can hear, and the strip of\nsky see it, he talks with thee, sitting on a heap of moss! And he\nkisses my forehead, too, so that the little brook would hardly wash it\noff! But, here, in the sunny day, and among all the people, he knows us\nnot; nor must we know him!",
+      "first_sentence": "And in\nthe deep forest, where only the old trees can hear, and the strip of\nsky see it, he talks with thee, sitting on a heap of moss!"
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 22,
+      "chapter_title": "XXI.\nT",
+      "start_char_pos": 422882,
+      "end_char_pos": 423261,
+      "token_count": 58,
+      "text": "A party of Indians—in their savage\nfinery of curiously embroidered deerskin robes, wampum-belts, red and\nyellow ochre, and feathers, and armed with the bow and arrow and\nstone-headed spear—stood apart with countenances of inflexible gravity,\nbeyond what even the Puritan aspect could attain. Nor, wild as were\nthese painted barbarians, were they the wildest feature of the scene.",
+      "first_sentence": "A party of Indians—in their savage\nfinery of curiously embroidered deerskin robes, wampum-belts, red and\nyellow ochre, and feathers, and armed with the bow and arrow and\nstone-headed spear—stood apart with countenances of inflexible gravity,\nbeyond what even the Puritan aspect could attain."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 23,
+      "chapter_title": "XXII.\nT",
+      "start_char_pos": 436207,
+      "end_char_pos": 436717,
+      "token_count": 88,
+      "text": "Her spirit\nsank with the idea that all must have been a delusion, and that,\nvividly as she had dreamed it, there could be no real bond betwixt the\nclergyman and herself. And thus much of woman was there in Hester, that\nshe could scarcely forgive him—least of all now, when the heavy\nfootstep of their approaching Fate might be heard, nearer, nearer,\nnearer!—for being able so completely to withdraw himself from their\nmutual world—while she groped darkly, and stretched forth her cold\nhands, and found him not.",
+      "first_sentence": "Her spirit\nsank with the idea that all must have been a delusion, and that,\nvividly as she had dreamed it, there could be no real bond betwixt the\nclergyman and herself."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 23,
+      "chapter_title": "XXII.\nT",
+      "start_char_pos": 443290,
+      "end_char_pos": 443754,
+      "token_count": 79,
+      "text": "At times this deep strain of pathos was all that could be heard,\nand scarcely heard sighing amid a desolate silence. But even when the\nminister’s voice grew high and commanding—when it gushed irrepressibly\nupward—when it assumed its utmost breadth and power, so overfilling the\nchurch as to burst its way through the solid walls, and diffuse itself\nin the open air—still, if the auditor listened intently, and for the\npurpose, he could detect the same cry of pain.",
+      "first_sentence": "At times this deep strain of pathos was all that could be heard,\nand scarcely heard sighing amid a desolate silence."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 24,
+      "chapter_title": "XXIII.\nT",
+      "start_char_pos": 456225,
+      "end_char_pos": 456676,
+      "token_count": 76,
+      "text": "How feeble and pale he looked,\namid all his triumph! The energy—or say, rather, the inspiration which\nhad held him up, until he should have delivered the sacred message that\nhad brought its own strength along with it from heaven—was withdrawn,\nnow that it had so faithfully performed its office. The glow, which\nthey had just before beheld burning on his cheek, was extinguished,\nlike a flame that sinks down hopelessly among the late decaying embers.",
+      "first_sentence": "How feeble and pale he looked,\namid all his triumph!"
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 24,
+      "chapter_title": "XXIII.\nT",
+      "start_char_pos": 462075,
+      "end_char_pos": 462583,
+      "token_count": 87,
+      "text": "For, Hester, I am a dying man. So let me make haste to take\nmy shame upon me!”\n\nPartly supported by Hester Prynne, and holding one hand of little\nPearl’s, the Reverend Mr. Dimmesdale turned to the dignified and\nvenerable rulers; to the holy ministers, who were his brethren; to the\npeople, whose great heart was thoroughly appalled yet overflowing with\ntearful sympathy, as knowing that some deep life-matter—which, if full\nof sin, was full of anguish and repentance likewise—was now to be laid\nopen to them.",
+      "first_sentence": "For, Hester, I am a dying man."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 25,
+      "chapter_title": "XXIV.\nC",
+      "start_char_pos": 474285,
+      "end_char_pos": 474640,
+      "token_count": 61,
+      "text": "But, in no long time after the physician’s death, the wearer\nof the scarlet letter disappeared, and Pearl along with her. For many\nyears, though a vague report would now and then find its way across the\nsea—like a shapeless piece of driftwood tossed ashore with the initials\nof a name upon it—yet no tidings of them unquestionably authentic were\nreceived.",
+      "first_sentence": "But, in no long time after the physician’s death, the wearer\nof the scarlet letter disappeared, and Pearl along with her."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 43376,
+      "end_char_pos": 43837,
+      "token_count": 79,
+      "text": "The accidents of my\nlife have often afforded me this advantage, but never with more fulness\nand variety than during my continuance in office. There was one man,\nespecially, the observation of whose character gave me a new idea of\ntalent. His gifts were emphatically those of a man of business; prompt,\nacute, clear-minded; with an eye that saw through all perplexities, and\na faculty of arrangement that made them vanish as by the waving of an\nenchanter’s wand.",
+      "first_sentence": "The accidents of my\nlife have often afforded me this advantage, but never with more fulness\nand variety than during my continuance in office."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 43376,
+      "end_char_pos": 43837,
+      "token_count": 79,
+      "text": "The accidents of my\nlife have often afforded me this advantage, but never with more fulness\nand variety than during my continuance in office. There was one man,\nespecially, the observation of whose character gave me a new idea of\ntalent. His gifts were emphatically those of a man of business; prompt,\nacute, clear-minded; with an eye that saw through all perplexities, and\na faculty of arrangement that made them vanish as by the waving of an\nenchanter’s wand.",
+      "first_sentence": "The accidents of my\nlife have often afforded me this advantage, but never with more fulness\nand variety than during my continuance in office."
+    }
+  ]
+}

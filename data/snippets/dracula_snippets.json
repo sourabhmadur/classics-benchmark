@@ -1,0 +1,721 @@
+{
+  "novel_key": "dracula",
+  "novel_file": "dracula.txt",
+  "text_length": 840134,
+  "chapters_detected": 30,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER II",
+      "start_pos": 47,
+      "end_pos": 1457,
+      "length": 1410
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER I",
+      "start_pos": 1468,
+      "end_pos": 32162,
+      "length": 30694
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER II",
+      "start_pos": 32174,
+      "end_pos": 60763,
+      "length": 28589
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER III",
+      "start_pos": 60776,
+      "end_pos": 90675,
+      "length": 29899
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER IV",
+      "start_pos": 90687,
+      "end_pos": 121130,
+      "length": 30443
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER V",
+      "start_pos": 121141,
+      "end_pos": 139251,
+      "length": 18110
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER VI",
+      "start_pos": 139263,
+      "end_pos": 163594,
+      "length": 24331
+    },
+    {
+      "chapter_num": 8,
+      "title": "ill. L",
+      "start_pos": 163601,
+      "end_pos": 168659,
+      "length": 5058
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER VII",
+      "start_pos": 168672,
+      "end_pos": 170730,
+      "length": 2058
+    },
+    {
+      "chapter_num": 10,
+      "title": "I. w",
+      "start_pos": 170735,
+      "end_pos": 198908,
+      "length": 28173
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER VIII",
+      "start_pos": 198922,
+      "end_pos": 231768,
+      "length": 32846
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER IX",
+      "start_pos": 231780,
+      "end_pos": 262155,
+      "length": 30375
+    },
+    {
+      "chapter_num": 13,
+      "title": "CHAPTER X",
+      "start_pos": 262166,
+      "end_pos": 293090,
+      "length": 30924
+    },
+    {
+      "chapter_num": 14,
+      "title": "CHAPTER XI",
+      "start_pos": 293102,
+      "end_pos": 320151,
+      "length": 27049
+    },
+    {
+      "chapter_num": 15,
+      "title": "CHAPTER XII",
+      "start_pos": 320164,
+      "end_pos": 358206,
+      "length": 38042
+    },
+    {
+      "chapter_num": 16,
+      "title": "CHAPTER XIII",
+      "start_pos": 358220,
+      "end_pos": 392553,
+      "length": 34333
+    },
+    {
+      "chapter_num": 17,
+      "title": "CHAPTER XIV",
+      "start_pos": 392566,
+      "end_pos": 425331,
+      "length": 32765
+    },
+    {
+      "chapter_num": 18,
+      "title": "CHAPTER XV",
+      "start_pos": 425343,
+      "end_pos": 455223,
+      "length": 29880
+    },
+    {
+      "chapter_num": 19,
+      "title": "CHAPTER XVI",
+      "start_pos": 455236,
+      "end_pos": 479222,
+      "length": 23986
+    },
+    {
+      "chapter_num": 20,
+      "title": "CHAPTER XVII",
+      "start_pos": 479236,
+      "end_pos": 508480,
+      "length": 29244
+    },
+    {
+      "chapter_num": 21,
+      "title": "CHAPTER XVIII",
+      "start_pos": 508495,
+      "end_pos": 544544,
+      "length": 36049
+    },
+    {
+      "chapter_num": 22,
+      "title": "CHAPTER XIX",
+      "start_pos": 544557,
+      "end_pos": 574085,
+      "length": 29528
+    },
+    {
+      "chapter_num": 23,
+      "title": "CHAPTER XX",
+      "start_pos": 574097,
+      "end_pos": 605462,
+      "length": 31365
+    },
+    {
+      "chapter_num": 24,
+      "title": "CHAPTER XXI",
+      "start_pos": 605475,
+      "end_pos": 637776,
+      "length": 32301
+    },
+    {
+      "chapter_num": 25,
+      "title": "CHAPTER XXII",
+      "start_pos": 637790,
+      "end_pos": 665986,
+      "length": 28196
+    },
+    {
+      "chapter_num": 26,
+      "title": "CHAPTER XXIII",
+      "start_pos": 666001,
+      "end_pos": 695646,
+      "length": 29645
+    },
+    {
+      "chapter_num": 27,
+      "title": "CHAPTER XXIV",
+      "start_pos": 695660,
+      "end_pos": 727879,
+      "length": 32219
+    },
+    {
+      "chapter_num": 28,
+      "title": "CHAPTER XXV",
+      "start_pos": 727892,
+      "end_pos": 760655,
+      "length": 32763
+    },
+    {
+      "chapter_num": 29,
+      "title": "CHAPTER XXVI",
+      "start_pos": 760669,
+      "end_pos": 797957,
+      "length": 37288
+    },
+    {
+      "chapter_num": 30,
+      "title": "CHAPTER XXVII",
+      "start_pos": 797972,
+      "end_pos": 840134,
+      "length": 42162
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 762,
+      "end_char_pos": 1238,
+      "token_count": 75,
+      "text": "Jonathan Harker’s Journal\nCHAPTER XXIII. Dr. Seward’s Diary\nCHAPTER XXIV. Dr. Seward’s Phonograph Diary, spoken by Van Helsing\nCHAPTER XXV. Dr. Seward’s Diary\nCHAPTER XXVI. Dr. Seward’s Diary\nCHAPTER XXVII. Mina Harker’s Journal\n\nHow these papers have been placed in sequence will be made manifest in\nthe reading of them. All needless matters have been eliminated, so that\na history almost at variance with the possibilities of later-day belief\nmay stand forth as simple fact.",
+      "first_sentence": "Jonathan Harker’s Journal\nCHAPTER XXIII."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 11947,
+      "end_char_pos": 12198,
+      "token_count": 52,
+      "text": "I am not sleepy, and, as I am not to be called till I awake,\nnaturally I write till sleep comes. There are many odd things to put\ndown, and, lest who reads them may fancy that I dined too well before I\nleft Bistritz, let me put down my dinner exactly.",
+      "first_sentence": "I am not sleepy, and, as I am not to be called till I awake,\nnaturally I write till sleep comes."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 22229,
+      "end_char_pos": 22475,
+      "token_count": 48,
+      "text": "The Herr is not expected after all. He will\nnow come on to Bukovina, and return to-morrow or the next day; better\nthe next day.” Whilst he was speaking the horses began to neigh and\nsnort and plunge wildly, so that the driver had to hold them up.",
+      "first_sentence": "The Herr is not expected after all."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 41888,
+      "end_char_pos": 42173,
+      "token_count": 57,
+      "text": "Your bedroom is all ready, and to-morrow you\nshall sleep as late as you will. I have to be away till the afternoon;\nso sleep well and dream well!” With a courteous bow, he opened for me\nhimself the door to the octagonal room, and I entered my bedroom....\n\nI am all in a sea of wonders.",
+      "first_sentence": "Your bedroom is all ready, and to-morrow you\nshall sleep as late as you will."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 51284,
+      "end_char_pos": 51614,
+      "token_count": 61,
+      "text": "When I go there\nI shall be all alone, and my friend Harker Jonathan--nay, pardon me, I\nfall into my country’s habit of putting your patronymic first--my friend\nJonathan Harker will not be by my side to correct and aid me. He will be\nin Exeter, miles away, probably working at papers of the law with my\nother friend, Peter Hawkins.",
+      "first_sentence": "When I go there\nI shall be all alone, and my friend Harker Jonathan--nay, pardon me, I\nfall into my country’s habit of putting your patronymic first--my friend\nJonathan Harker will not be by my side to correct and aid me."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 71064,
+      "end_char_pos": 71417,
+      "token_count": 68,
+      "text": "I explained all these things to him to the best of my ability,\nand he certainly left me under the impression that he would have made a\nwonderful solicitor, for there was nothing that he did not think of or\nforesee. For a man who was never in the country, and who did not\nevidently do much in the way of business, his knowledge and acumen were\nwonderful.",
+      "first_sentence": "I explained all these things to him to the best of my ability,\nand he certainly left me under the impression that he would have made a\nwonderful solicitor, for there was nothing that he did not think of or\nforesee."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 80921,
+      "end_char_pos": 81301,
+      "token_count": 69,
+      "text": "To the\nwest was a great valley, and then, rising far away, great jagged\nmountain fastnesses, rising peak on peak, the sheer rock studded with\nmountain ash and thorn, whose roots clung in cracks and crevices and\ncrannies of the stone. This was evidently the portion of the castle\noccupied by the ladies in bygone days, for the furniture had more air of\ncomfort than any I had seen.",
+      "first_sentence": "To the\nwest was a great valley, and then, rising far away, great jagged\nmountain fastnesses, rising peak on peak, the sheer rock studded with\nmountain ash and thorn, whose roots clung in cracks and crevices and\ncrannies of the stone."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 100877,
+      "end_char_pos": 101194,
+      "token_count": 60,
+      "text": "I thought I would watch for the Count’s return, and for a long time sat\ndoggedly at the window. Then I began to notice that there were some\nquaint little specks floating in the rays of the moonlight. They were\nlike the tiniest grains of dust, and they whirled round and gathered in\nclusters in a nebulous sort of way.",
+      "first_sentence": "I thought I would watch for the Count’s return, and for a long time sat\ndoggedly at the window."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 110993,
+      "end_char_pos": 111264,
+      "token_count": 51,
+      "text": "When they have gone, my carriage shall come for you, and shall\nbear you to the Borgo Pass to meet the diligence from Bukovina to\nBistritz. But I am in hopes that I shall see more of you at Castle\nDracula.” I suspected him, and determined to test his sincerity.\nSincerity!",
+      "first_sentence": "When they have gone, my carriage shall come for you, and shall\nbear you to the Borgo Pass to meet the diligence from Bukovina to\nBistritz."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 130308,
+      "end_char_pos": 130537,
+      "token_count": 48,
+      "text": "Morris found me alone. It seems that a man always does find a girl\nalone. No, he doesn’t, for Arthur tried twice to make a chance, and I\nhelping him all I could; I am not ashamed to say it now. I must tell you\nbeforehand that Mr.",
+      "first_sentence": "Morris found me alone."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 8,
+      "chapter_title": "ill. L",
+      "start_char_pos": 166366,
+      "end_char_pos": 166705,
+      "token_count": 73,
+      "text": "We\naud folks that be daffled, and with one foot abaft the krok-hooal, don’t\naltogether like to think of it, and we don’t want to feel scart of it;\nan’ that’s why I’ve took to makin’ light of it, so that I’d cheer up my\nown heart a bit. But, Lord love ye, miss, I ain’t afraid of dyin’, not a\nbit; only I don’t want to die if I can help it.",
+      "first_sentence": "We\naud folks that be daffled, and with one foot abaft the krok-hooal, don’t\naltogether like to think of it, and we don’t want to feel scart of it;\nan’ that’s why I’ve took to makin’ light of it, so that I’d cheer up my\nown heart a bit."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 170009,
+      "end_char_pos": 170586,
+      "token_count": 96,
+      "text": "The approach of sunset was so very\nbeautiful, so grand in its masses of splendidly-coloured clouds, that\nthere was quite an assemblage on the walk along the cliff in the old\nchurchyard to enjoy the beauty. Before the sun dipped below the black\nmass of Kettleness, standing boldly athwart the western sky, its\ndownward way was marked by myriad clouds of every sunset-colour--flame,\npurple, pink, green, violet, and all the tints of gold; with here and\nthere masses not large, but of seemingly absolute blackness, in all\nsorts of shapes, as well outlined as colossal silhouettes.",
+      "first_sentence": "The approach of sunset was so very\nbeautiful, so grand in its masses of splendidly-coloured clouds, that\nthere was quite an assemblage on the walk along the cliff in the old\nchurchyard to enjoy the beauty."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 10,
+      "chapter_title": "I. w",
+      "start_char_pos": 180126,
+      "end_char_pos": 180441,
+      "token_count": 56,
+      "text": "The coastguard said\nthe man must have tied up his own hands, fastening the knots with his\nteeth. The fact that a coastguard was the first on board may save some\ncomplications, later on, in the Admiralty Court; for coastguards cannot\nclaim the salvage which is the right of the first civilian entering on a\nderelict.",
+      "first_sentence": "The coastguard said\nthe man must have tied up his own hands, fastening the knots with his\nteeth."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 10,
+      "chapter_title": "I. w",
+      "start_char_pos": 189535,
+      "end_char_pos": 189955,
+      "token_count": 93,
+      "text": "One more gone. Lord, help us! Mate says we must be past Straits\nof Dover, as in a moment of fog lifting he saw North Foreland, just as\nhe heard the man cry out. If so we are now off in the North Sea, and\nonly God can guide us in the fog, which seems to move with us; and God\nseems to have deserted us.\n\n * * * * *\n\n_3 August_.--At midnight I went to relieve the man at the wheel, and\nwhen I got to it found no one there.",
+      "first_sentence": "One more gone."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 209974,
+      "end_char_pos": 210284,
+      "token_count": 61,
+      "text": "Lucy seems more restful than she\nhas been for some time, and fell asleep at once. I shall lock the door\nand secure the key the same as before, though I do not expect any\ntrouble to-night.\n\n * * * * *\n\n_12 August._--My expectations were wrong, for twice during the night I\nwas wakened by Lucy trying to get out.",
+      "first_sentence": "Lucy seems more restful than she\nhas been for some time, and fell asleep at once."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 220880,
+      "end_char_pos": 221280,
+      "token_count": 81,
+      "text": "Then I had a vague memory of something long and\ndark with red eyes, just as we saw in the sunset, and something very\nsweet and very bitter all around me at once; and then I seemed sinking\ninto deep green water, and there was a singing in my ears, as I have\nheard there is to drowning men; and then everything seemed passing away\nfrom me; my soul seemed to go out from my body and float about the air.",
+      "first_sentence": "Then I had a vague memory of something long and\ndark with red eyes, just as we saw in the sunset, and something very\nsweet and very bitter all around me at once; and then I seemed sinking\ninto deep green water, and there was a singing in my ears, as I have\nheard there is to drowning men; and then everything seemed passing away\nfrom me; my soul seemed to go out from my body and float about the air."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 241911,
+      "end_char_pos": 242282,
+      "token_count": 69,
+      "text": "We\nshall give him a chance, and have the men ready to follow in case they\nare required....\n\n * * * * *\n\n_23 August._--“The unexpected always happens.” How well Disraeli knew\nlife. Our bird when he found the cage open would not fly, so all our\nsubtle arrangements were for nought. At any rate, we have proved one\nthing; that the spells of quietness last a reasonable time.",
+      "first_sentence": "We\nshall give him a chance, and have the men ready to follow in case they\nare required...."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 252043,
+      "end_char_pos": 252346,
+      "token_count": 66,
+      "text": "But it\nis pleasure added to do for him, your friend; it is to you that I come.\nHave then rooms for me at the Great Eastern Hotel, so that I may be near\nto hand, and please it so arrange that we may see the young lady not too\nlate on to-morrow, for it is likely that I may have to return here that\nnight.",
+      "first_sentence": "But it\nis pleasure added to do for him, your friend; it is to you that I come."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 272522,
+      "end_char_pos": 272798,
+      "token_count": 50,
+      "text": "Friend John, help to me!” So neither of us looked whilst\nhe bent over her.\n\nVan Helsing turning to me, said:\n\n“He is so young and strong and of blood so pure that we need not\ndefibrinate it.”\n\nThen with swiftness, but with absolute method, Van Helsing performed the\noperation.",
+      "first_sentence": "Friend John, help to me!"
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 282785,
+      "end_char_pos": 283029,
+      "token_count": 45,
+      "text": "There on the bed, seemingly in a swoon, lay poor Lucy, more horribly\nwhite and wan-looking than ever. Even the lips were white, and the gums\nseemed to have shrunken back from the teeth, as we sometimes see in a\ncorpse after a prolonged illness.",
+      "first_sentence": "There on the bed, seemingly in a swoon, lay poor Lucy, more horribly\nwhite and wan-looking than ever."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 14,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 311135,
+      "end_char_pos": 311466,
+      "token_count": 60,
+      "text": "Come along, Bersicker.”\n\nHe took the wolf and locked him up in a cage, with a piece of meat that\nsatisfied, in quantity at any rate, the elementary conditions of the\nfatted calf, and went off to report.\n\nI came off, too, to report the only exclusive information that is given\nto-day regarding the strange escapade at the Zoo.\n\n_Dr.",
+      "first_sentence": "Come along, Bersicker."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 15,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 332933,
+      "end_char_pos": 333261,
+      "token_count": 65,
+      "text": "When we were alone, he said\nto me:--\n\n“Jack Seward, I don’t want to shove myself in anywhere where I’ve no\nright to be; but this is no ordinary case. You know I loved that girl\nand wanted to marry her; but, although that’s all past and gone, I can’t\nhelp feeling anxious about her all the same. What is it that’s wrong\nwith her?",
+      "first_sentence": "When we were alone, he said\nto me:--\n\n“Jack Seward, I don’t want to shove myself in anywhere where I’ve no\nright to be; but this is no ordinary case."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 15,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 345543,
+      "end_char_pos": 345973,
+      "token_count": 82,
+      "text": "I’ll fight for my Lord and Master!’ and\nall sorts of similar incoherent ravings. It was with very considerable\ndifficulty that they got him back to the house and put him in the padded\nroom. One of the attendants, Hardy, had a finger broken. However, I set\nit all right; and he is going on well.\n\n“The two carriers were at first loud in their threats of actions for\ndamages, and promised to rain all the penalties of the law on us.",
+      "first_sentence": "I’ll fight for my Lord and Master!"
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 16,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 369678,
+      "end_char_pos": 370120,
+      "token_count": 79,
+      "text": "Van Helsing ordered the former arrangement to be adhered to,\nexplaining that, as Lord Godalming was coming very soon, it would be\nless harrowing to his feelings to see all that was left of his fiancée\nquite alone. The undertaker seemed shocked at his own stupidity and\nexerted himself to restore things to the condition in which we left them\nthe night before, so that when Arthur came such shocks to his feelings\nas we could avoid were saved.",
+      "first_sentence": "Van Helsing ordered the former arrangement to be adhered to,\nexplaining that, as Lord Godalming was coming very soon, it would be\nless harrowing to his feelings to see all that was left of his fiancée\nquite alone."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 16,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 381253,
+      "end_char_pos": 381549,
+      "token_count": 59,
+      "text": "I don’t like this lapsing into\nforgetfulness; it may make or continue some injury to the brain. I must\nnot ask him, for fear I shall do more harm than good; but I must somehow\nlearn the facts of his journey abroad. The time is come, I fear, when I\nmust open that parcel, and know what is written.",
+      "first_sentence": "I don’t like this lapsing into\nforgetfulness; it may make or continue some injury to the brain."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 403494,
+      "end_char_pos": 403760,
+      "token_count": 56,
+      "text": "When I came back, I found him walking hurriedly up and down\nthe room, his face all ablaze with excitement. He rushed up to me and\ntook me by both hands.\n\n“Oh, Madam Mina,” he said, “how can I say what I owe to you? This paper\nis as sunshine. It opens the gate to me.",
+      "first_sentence": "When I came back, I found him walking hurriedly up and down\nthe room, his face all ablaze with excitement."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 414491,
+      "end_char_pos": 414773,
+      "token_count": 62,
+      "text": "You\nwill give me your hand, will you not? And let us be friends for all our\nlives.”\n\nWe shook hands, and he was so earnest and so kind that it made me quite\nchoky.\n\n“And now,” he said, “may I ask you for some more help? I have a great\ntask to do, and at the beginning it is to know.",
+      "first_sentence": "You\nwill give me your hand, will you not?"
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 435409,
+      "end_char_pos": 435780,
+      "token_count": 68,
+      "text": "Suddenly, as I turned round, I thought I saw something like a white\nstreak, moving between two dark yew-trees at the side of the churchyard\nfarthest from the tomb; at the same time a dark mass moved from the\nProfessor’s side of the ground, and hurriedly went towards it. Then I\ntoo moved; but I had to go round headstones and railed-off tombs, and I\nstumbled over graves.",
+      "first_sentence": "Suddenly, as I turned round, I thought I saw something like a white\nstreak, moving between two dark yew-trees at the side of the churchyard\nfarthest from the tomb; at the same time a dark mass moved from the\nProfessor’s side of the ground, and hurriedly went towards it."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 445408,
+      "end_char_pos": 445715,
+      "token_count": 59,
+      "text": "I go alone to watch in\nthat churchyard. It pleases me that the Un-Dead, Miss Lucy, shall not\nleave to-night, that so on the morrow night she may be more eager.\nTherefore I shall fix some things she like not--garlic and a\ncrucifix--and so seal up the door of the tomb. She is young as Un-Dead,\nand will heed.",
+      "first_sentence": "I go alone to watch in\nthat churchyard."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 19,
+      "chapter_title": "CHAPTER XVI",
+      "start_char_pos": 467316,
+      "end_char_pos": 467614,
+      "token_count": 59,
+      "text": "You are now in the bitter\nwaters, my child. By this time to-morrow you will, please God, have\npassed them, and have drunk of the sweet waters; so do not mourn\novermuch. Till then I shall not ask you to forgive me.”\n\nArthur and Quincey came home with me, and we tried to cheer each other\non the way.",
+      "first_sentence": "You are now in the bitter\nwaters, my child."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 20,
+      "chapter_title": "CHAPTER XVII",
+      "start_char_pos": 498857,
+      "end_char_pos": 499152,
+      "token_count": 53,
+      "text": "The opportunities of acquiring an abnormal thirst had been here\nlimited; a noble use of them had, however, been made, and again I was\ncompelled to deal with the result in an _ex post facto_ manner.\n\nFrom thence I went on to Carter Paterson’s central office, where I met\nwith the utmost courtesy.",
+      "first_sentence": "The opportunities of acquiring an abnormal thirst had been here\nlimited; a noble use of them had, however, been made, and again I was\ncompelled to deal with the result in an _ex post facto_ manner."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 520809,
+      "end_char_pos": 521129,
+      "token_count": 65,
+      "text": "How then are we to\nbegin our strike to destroy him? How shall we find his where; and having\nfound it, how can we destroy? My friends, this is much; it is a terrible\ntask that we undertake, and there may be consequence to make the brave\nshudder. For if we fail in this our fight he must surely win; and then\nwhere end we?",
+      "first_sentence": "How then are we to\nbegin our strike to destroy him?"
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 532570,
+      "end_char_pos": 532867,
+      "token_count": 64,
+      "text": "We shall tell you all in good time. We are men and are able to bear; but you must be our star and our hope, and we shall act all the more free that you are not in the danger, such as we are.” All the men, even Jonathan, seemed relieved; but it did not seem to me good that they should brave danger",
+      "first_sentence": "We shall tell you all in good time."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 22,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 554528,
+      "end_char_pos": 554924,
+      "token_count": 71,
+      "text": "We all instinctively drew\nback. The whole place was becoming alive with rats.\n\nFor a moment or two we stood appalled, all save Lord Godalming, who was\nseemingly prepared for such an emergency. Rushing over to the great\niron-bound oaken door, which Dr. Seward had described from the outside,\nand which I had seen myself, he turned the key in the lock, drew the\nhuge bolts, and swung the door open.",
+      "first_sentence": "We all instinctively drew\nback."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 22,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 564359,
+      "end_char_pos": 564556,
+      "token_count": 40,
+      "text": "Though we shall much miss her help, it\nis better so.”\n\n“I agree with you with all my heart,” I answered earnestly, for I did\nnot want him to weaken in this matter. “Mrs. Harker is better out of it.",
+      "first_sentence": "Though we shall much miss her help, it\nis better so."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 23,
+      "chapter_title": "CHAPTER XX",
+      "start_char_pos": 584607,
+      "end_char_pos": 584965,
+      "token_count": 67,
+      "text": "I would have given a good deal to have\nbeen able to see the notice-board intact, as it would, perhaps, have\ngiven some clue to the ownership of the house. I remembered my\nexperience of the investigation and purchase of Carfax, and I could not\nbut feel that if I could find the former owner there might be some means\ndiscovered of gaining access to the house.",
+      "first_sentence": "I would have given a good deal to have\nbeen able to see the notice-board intact, as it would, perhaps, have\ngiven some clue to the ownership of the house."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 23,
+      "chapter_title": "CHAPTER XX",
+      "start_char_pos": 595070,
+      "end_char_pos": 595433,
+      "token_count": 69,
+      "text": "Besides, I am glad to have anything\nto help to pass the time. Harker is out, following up clues; and so are\nLord Godalming and Quincey. Van Helsing sits in my study poring over the\nrecord prepared by the Harkers; he seems to think that by accurate\nknowledge of all details he will light upon some clue. He does not wish\nto be disturbed in the work, without cause.",
+      "first_sentence": "Besides, I am glad to have anything\nto help to pass the time."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 24,
+      "chapter_title": "CHAPTER XXI",
+      "start_char_pos": 617059,
+      "end_char_pos": 617431,
+      "token_count": 77,
+      "text": "I was about to call him\nback to the point, but Van Helsing whispered to me: “Let him go on. Do\nnot interrupt him; he cannot go back, and maybe could not proceed at all\nif once he lost the thread of his thought.” He proceeded:--\n\n“All day I waited to hear from him, but he did not send me anything, not\neven a blow-fly, and when the moon got up I was pretty angry with him.",
+      "first_sentence": "I was about to call him\nback to the point, but Van Helsing whispered to me: “Let him go on."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 24,
+      "chapter_title": "CHAPTER XXI",
+      "start_char_pos": 627130,
+      "end_char_pos": 627438,
+      "token_count": 60,
+      "text": "The instant she\nsaw it she drew back, with a low wail, and whispered, amidst choking\nsobs:--\n\n“Unclean, unclean! I must touch him or kiss him no more. Oh, that it\nshould be that it is I who am now his worst enemy, and whom he may have\nmost cause to fear.” To this he spoke out resolutely:--\n\n“Nonsense, Mina.",
+      "first_sentence": "The instant she\nsaw it she drew back, with a low wail, and whispered, amidst choking\nsobs:--\n\n“Unclean, unclean!"
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 25,
+      "chapter_title": "CHAPTER XXII",
+      "start_char_pos": 647587,
+      "end_char_pos": 647964,
+      "token_count": 71,
+      "text": "Your\npolice must indeed be zealous men and clever--oh, so clever!--in reading\nthe heart, that they trouble themselves in such matter. No, no, my\nfriend Jonathan, you go take the lock off a hundred empty house in this\nyour London, or of any city in the world; and if you do it as such\nthings are rightly done, and at the time such things are rightly done,\nno one will interfere.",
+      "first_sentence": "Your\npolice must indeed be zealous men and clever--oh, so clever!"
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 26,
+      "chapter_title": "CHAPTER XXIII",
+      "start_char_pos": 675967,
+      "end_char_pos": 676355,
+      "token_count": 74,
+      "text": "As the Count saw us, a\nhorrible sort of snarl passed over his face, showing the eye-teeth long\nand pointed; but the evil smile as quickly passed into a cold stare of\nlion-like disdain. His expression again changed as, with a single\nimpulse, we all advanced upon him. It was a pity that we had not some\nbetter organised plan of attack, for even at the moment I wondered what\nwe were to do.",
+      "first_sentence": "As the Count saw us, a\nhorrible sort of snarl passed over his face, showing the eye-teeth long\nand pointed; but the evil smile as quickly passed into a cold stare of\nlion-like disdain."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 26,
+      "chapter_title": "CHAPTER XXIII",
+      "start_char_pos": 685768,
+      "end_char_pos": 686145,
+      "token_count": 69,
+      "text": "Godalming has already turned in,\nfor his is the second watch. Now that my work is done I, too, shall go\nto bed.\n\n_Jonathan Harker’s Journal._\n\n_3-4 October, close to midnight._--I thought yesterday would never end.\nThere was over me a yearning for sleep, in some sort of blind belief\nthat to wake would be to find things changed, and that any change must\nnow be for the better.",
+      "first_sentence": "Godalming has already turned in,\nfor his is the second watch."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 27,
+      "chapter_title": "CHAPTER XXIV",
+      "start_char_pos": 706471,
+      "end_char_pos": 706820,
+      "token_count": 67,
+      "text": "All this have I told these others; you, my\ndear Madam Mina, will learn it in the phonograph of my friend John, or\nin that of your husband. I have told them how the measure of leaving his\nown barren land--barren of peoples--and coming to a new land where life\nof man teems till they are like the multitude of standing corn, was the\nwork of centuries.",
+      "first_sentence": "All this have I told these others; you, my\ndear Madam Mina, will learn it in the phonograph of my friend John, or\nin that of your husband."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 27,
+      "chapter_title": "CHAPTER XXIV",
+      "start_char_pos": 717144,
+      "end_char_pos": 717482,
+      "token_count": 57,
+      "text": "Under the circumstances we\nagreed, by a questioning look and answer, with finger on lip, to\npreserve silence in our suspicions, until we should have been able to\nconfer alone again. We went at once into our Plan of Campaign. Van\nHelsing roughly put the facts before us first:--\n\n“The _Czarina Catherine_ left the Thames yesterday morning.",
+      "first_sentence": "Under the circumstances we\nagreed, by a questioning look and answer, with finger on lip, to\npreserve silence in our suspicions, until we should have been able to\nconfer alone again."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 28,
+      "chapter_title": "CHAPTER XXV",
+      "start_char_pos": 738853,
+      "end_char_pos": 739187,
+      "token_count": 63,
+      "text": "Van Helsing says that our chance will be to get\non the boat between sunrise and sunset. The Count, even if he takes the\nform of a bat, cannot cross the running water of his own volition, and\nso cannot leave the ship. As he dare not change to man’s form without\nsuspicion--which he evidently wishes to avoid--he must remain in the\nbox.",
+      "first_sentence": "Van Helsing says that our chance will be to get\non the boat between sunrise and sunset."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 28,
+      "chapter_title": "CHAPTER XXV",
+      "start_char_pos": 749803,
+      "end_char_pos": 750183,
+      "token_count": 79,
+      "text": "Morris Quincey, you see the Vice-Consul, and get\nhis aid with his fellow in Galatz and all he can do to make our way\nsmooth, so that no times be lost when over the Danube. John will stay\nwith Madam Mina and me, and we shall consult. For so if time be long you\nmay be delayed; and it will not matter when the sun set, since I am here\nwith Madam to make report.”\n\n“And I,” said Mrs.",
+      "first_sentence": "Morris Quincey, you see the Vice-Consul, and get\nhis aid with his fellow in Galatz and all he can do to make our way\nsmooth, so that no times be lost when over the Danube."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 29,
+      "chapter_title": "CHAPTER XXVI",
+      "start_char_pos": 773201,
+      "end_char_pos": 773559,
+      "token_count": 72,
+      "text": "This he was to\ngive in charge to a certain Petrof Skinsky, who dealt with the Slovaks\nwho traded down the river to the port. He had been paid for his work by\nan English bank note, which had been duly cashed for gold at the Danube\nInternational Bank. When Skinsky had come to him, he had taken him to\nthe ship and handed over the box, so as to save porterage.",
+      "first_sentence": "This he was to\ngive in charge to a certain Petrof Skinsky, who dealt with the Slovaks\nwho traded down the river to the port."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 29,
+      "chapter_title": "CHAPTER XXVI",
+      "start_char_pos": 785788,
+      "end_char_pos": 786103,
+      "token_count": 58,
+      "text": "Not for the world! Not for Heaven or\nHell!” He became almost speechless for a minute, and then went on:--\n\n“Do you know what the place is? Have you seen that awful den of hellish\ninfamy--with the very moonlight alive with grisly shapes, and every\nspeck of dust that whirls in the wind a devouring monster in embryo?",
+      "first_sentence": "Not for the world!"
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 30,
+      "chapter_title": "CHAPTER XXVII",
+      "start_char_pos": 808591,
+      "end_char_pos": 808946,
+      "token_count": 68,
+      "text": "But all was indeed changed; the frowning\nmountains seemed further away, and we were near the top of a\nsteep-rising hill, on summit of which was such a castle as Jonathan tell\nof in his diary. At once I exulted and feared; for now, for good or ill,\nthe end was near.\n\nI woke Madam Mina, and again tried to hypnotise her; but alas!\nunavailing till too late.",
+      "first_sentence": "But all was indeed changed; the frowning\nmountains seemed further away, and we were near the top of a\nsteep-rising hill, on summit of which was such a castle as Jonathan tell\nof in his diary."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 30,
+      "chapter_title": "CHAPTER XXVII",
+      "start_char_pos": 819112,
+      "end_char_pos": 819412,
+      "token_count": 57,
+      "text": "Yes, I was moved--I, Van Helsing,\nwith all my purpose and with my motive for hate--I was moved to a\nyearning for delay which seemed to paralyse my faculties and to clog my\nvery soul. It may have been that the need of natural sleep, and the\nstrange oppression of the air were beginning to overcome me.",
+      "first_sentence": "Yes, I was moved--I, Van Helsing,\nwith all my purpose and with my motive for hate--I was moved to a\nyearning for delay which seemed to paralyse my faculties and to clog my\nvery soul."
+    }
+  ]
+}

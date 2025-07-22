@@ -1,0 +1,3108 @@
+{
+  "novel_key": "war_and_peace",
+  "novel_file": "war_and_peace.txt",
+  "text_length": 3204392,
+  "chapters_detected": 371,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER II",
+      "start_pos": 22,
+      "end_pos": 1015,
+      "length": 993
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER III",
+      "start_pos": 1029,
+      "end_pos": 2026,
+      "length": 997
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER VIII",
+      "start_pos": 2041,
+      "end_pos": 3030,
+      "length": 989
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER XIX",
+      "start_pos": 3044,
+      "end_pos": 4039,
+      "length": 995
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER XIII",
+      "start_pos": 4054,
+      "end_pos": 5047,
+      "length": 993
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER VI",
+      "start_pos": 5060,
+      "end_pos": 16841,
+      "length": 11781
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER II",
+      "start_pos": 16853,
+      "end_pos": 24627,
+      "length": 7774
+    },
+    {
+      "chapter_num": 8,
+      "title": "CHAPTER III",
+      "start_pos": 24640,
+      "end_pos": 33203,
+      "length": 8563
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER IV",
+      "start_pos": 33215,
+      "end_pos": 41211,
+      "length": 7996
+    },
+    {
+      "chapter_num": 10,
+      "title": "CHAPTER V",
+      "start_pos": 41222,
+      "end_pos": 52226,
+      "length": 11004
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER VI",
+      "start_pos": 52238,
+      "end_pos": 59950,
+      "length": 7712
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER VII",
+      "start_pos": 59963,
+      "end_pos": 65642,
+      "length": 5679
+    },
+    {
+      "chapter_num": 13,
+      "title": "CHAPTER VIII",
+      "start_pos": 65656,
+      "end_pos": 72411,
+      "length": 6755
+    },
+    {
+      "chapter_num": 14,
+      "title": "CHAPTER IX",
+      "start_pos": 72423,
+      "end_pos": 84394,
+      "length": 11971
+    },
+    {
+      "chapter_num": 15,
+      "title": "CHAPTER X",
+      "start_pos": 84405,
+      "end_pos": 94056,
+      "length": 9651
+    },
+    {
+      "chapter_num": 16,
+      "title": "CHAPTER XI",
+      "start_pos": 94068,
+      "end_pos": 99022,
+      "length": 4954
+    },
+    {
+      "chapter_num": 17,
+      "title": "CHAPTER XII",
+      "start_pos": 99035,
+      "end_pos": 106698,
+      "length": 7663
+    },
+    {
+      "chapter_num": 18,
+      "title": "CHAPTER XIII",
+      "start_pos": 106712,
+      "end_pos": 110775,
+      "length": 4063
+    },
+    {
+      "chapter_num": 19,
+      "title": "CHAPTER XIV",
+      "start_pos": 110788,
+      "end_pos": 119238,
+      "length": 8450
+    },
+    {
+      "chapter_num": 20,
+      "title": "CHAPTER XV",
+      "start_pos": 119250,
+      "end_pos": 127750,
+      "length": 8500
+    },
+    {
+      "chapter_num": 21,
+      "title": "CHAPTER XVI",
+      "start_pos": 127763,
+      "end_pos": 138052,
+      "length": 10289
+    },
+    {
+      "chapter_num": 22,
+      "title": "CHAPTER XVII",
+      "start_pos": 138066,
+      "end_pos": 142105,
+      "length": 4039
+    },
+    {
+      "chapter_num": 23,
+      "title": "CHAPTER XVIII",
+      "start_pos": 142120,
+      "end_pos": 155529,
+      "length": 13409
+    },
+    {
+      "chapter_num": 24,
+      "title": "CHAPTER XIX",
+      "start_pos": 155542,
+      "end_pos": 162053,
+      "length": 6511
+    },
+    {
+      "chapter_num": 25,
+      "title": "CHAPTER XX",
+      "start_pos": 162065,
+      "end_pos": 173672,
+      "length": 11607
+    },
+    {
+      "chapter_num": 26,
+      "title": "CHAPTER XXI",
+      "start_pos": 173685,
+      "end_pos": 189006,
+      "length": 15321
+    },
+    {
+      "chapter_num": 27,
+      "title": "CHAPTER XXII",
+      "start_pos": 189020,
+      "end_pos": 198988,
+      "length": 9968
+    },
+    {
+      "chapter_num": 28,
+      "title": "CHAPTER XXIII",
+      "start_pos": 199003,
+      "end_pos": 209149,
+      "length": 10146
+    },
+    {
+      "chapter_num": 29,
+      "title": "CHAPTER XXIV",
+      "start_pos": 209163,
+      "end_pos": 218433,
+      "length": 9270
+    },
+    {
+      "chapter_num": 30,
+      "title": "CHAPTER XXV",
+      "start_pos": 218446,
+      "end_pos": 238522,
+      "length": 20076
+    },
+    {
+      "chapter_num": 31,
+      "title": "CHAPTER XXVI",
+      "start_pos": 238536,
+      "end_pos": 249649,
+      "length": 11113
+    },
+    {
+      "chapter_num": 32,
+      "title": "CHAPTER XXVII",
+      "start_pos": 249664,
+      "end_pos": 258725,
+      "length": 9061
+    },
+    {
+      "chapter_num": 33,
+      "title": "CHAPTER XXVIII",
+      "start_pos": 258741,
+      "end_pos": 276790,
+      "length": 18049
+    },
+    {
+      "chapter_num": 34,
+      "title": "CHAPTER I",
+      "start_pos": 276801,
+      "end_pos": 286663,
+      "length": 9862
+    },
+    {
+      "chapter_num": 35,
+      "title": "CHAPTER II",
+      "start_pos": 286675,
+      "end_pos": 302115,
+      "length": 15440
+    },
+    {
+      "chapter_num": 36,
+      "title": "CHAPTER III",
+      "start_pos": 302128,
+      "end_pos": 316151,
+      "length": 14023
+    },
+    {
+      "chapter_num": 37,
+      "title": "CHAPTER IV",
+      "start_pos": 316163,
+      "end_pos": 333229,
+      "length": 17066
+    },
+    {
+      "chapter_num": 38,
+      "title": "CHAPTER V",
+      "start_pos": 333240,
+      "end_pos": 339849,
+      "length": 6609
+    },
+    {
+      "chapter_num": 39,
+      "title": "CHAPTER VI",
+      "start_pos": 339861,
+      "end_pos": 345271,
+      "length": 5410
+    },
+    {
+      "chapter_num": 40,
+      "title": "CHAPTER VII",
+      "start_pos": 345284,
+      "end_pos": 355266,
+      "length": 9982
+    },
+    {
+      "chapter_num": 41,
+      "title": "CHAPTER VIII",
+      "start_pos": 355280,
+      "end_pos": 373863,
+      "length": 18583
+    },
+    {
+      "chapter_num": 42,
+      "title": "CHAPTER IX",
+      "start_pos": 373875,
+      "end_pos": 384401,
+      "length": 10526
+    },
+    {
+      "chapter_num": 43,
+      "title": "CHAPTER X",
+      "start_pos": 384412,
+      "end_pos": 396557,
+      "length": 12145
+    },
+    {
+      "chapter_num": 44,
+      "title": "CHAPTER XI",
+      "start_pos": 396569,
+      "end_pos": 401677,
+      "length": 5108
+    },
+    {
+      "chapter_num": 45,
+      "title": "CHAPTER XII",
+      "start_pos": 401690,
+      "end_pos": 412915,
+      "length": 11225
+    },
+    {
+      "chapter_num": 46,
+      "title": "CHAPTER XIII",
+      "start_pos": 412929,
+      "end_pos": 425306,
+      "length": 12377
+    },
+    {
+      "chapter_num": 47,
+      "title": "CHAPTER XIV",
+      "start_pos": 425319,
+      "end_pos": 431910,
+      "length": 6591
+    },
+    {
+      "chapter_num": 48,
+      "title": "CHAPTER XV",
+      "start_pos": 431922,
+      "end_pos": 444013,
+      "length": 12091
+    },
+    {
+      "chapter_num": 49,
+      "title": "CHAPTER XVI",
+      "start_pos": 444026,
+      "end_pos": 449063,
+      "length": 5037
+    },
+    {
+      "chapter_num": 50,
+      "title": "CHAPTER XVII",
+      "start_pos": 449077,
+      "end_pos": 459657,
+      "length": 10580
+    },
+    {
+      "chapter_num": 51,
+      "title": "CHAPTER XVIII",
+      "start_pos": 459672,
+      "end_pos": 469321,
+      "length": 9649
+    },
+    {
+      "chapter_num": 52,
+      "title": "CHAPTER XIX",
+      "start_pos": 469334,
+      "end_pos": 480898,
+      "length": 11564
+    },
+    {
+      "chapter_num": 53,
+      "title": "CHAPTER XX",
+      "start_pos": 480910,
+      "end_pos": 493563,
+      "length": 12653
+    },
+    {
+      "chapter_num": 54,
+      "title": "CHAPTER XXI",
+      "start_pos": 493576,
+      "end_pos": 509957,
+      "length": 16381
+    },
+    {
+      "chapter_num": 55,
+      "title": "CHAPTER I",
+      "start_pos": 509968,
+      "end_pos": 529032,
+      "length": 19064
+    },
+    {
+      "chapter_num": 56,
+      "title": "CHAPTER II",
+      "start_pos": 529044,
+      "end_pos": 547921,
+      "length": 18877
+    },
+    {
+      "chapter_num": 57,
+      "title": "CHAPTER III",
+      "start_pos": 547934,
+      "end_pos": 565516,
+      "length": 17582
+    },
+    {
+      "chapter_num": 58,
+      "title": "CHAPTER IV",
+      "start_pos": 565528,
+      "end_pos": 582321,
+      "length": 16793
+    },
+    {
+      "chapter_num": 59,
+      "title": "CHAPTER V",
+      "start_pos": 582332,
+      "end_pos": 594396,
+      "length": 12064
+    },
+    {
+      "chapter_num": 60,
+      "title": "CHAPTER VI",
+      "start_pos": 594408,
+      "end_pos": 606748,
+      "length": 12340
+    },
+    {
+      "chapter_num": 61,
+      "title": "CHAPTER VII",
+      "start_pos": 606761,
+      "end_pos": 625164,
+      "length": 18403
+    },
+    {
+      "chapter_num": 62,
+      "title": "CHAPTER VIII",
+      "start_pos": 625178,
+      "end_pos": 635185,
+      "length": 10007
+    },
+    {
+      "chapter_num": 63,
+      "title": "CHAPTER IX",
+      "start_pos": 635197,
+      "end_pos": 648699,
+      "length": 13502
+    },
+    {
+      "chapter_num": 64,
+      "title": "CHAPTER X",
+      "start_pos": 648710,
+      "end_pos": 659515,
+      "length": 10805
+    },
+    {
+      "chapter_num": 65,
+      "title": "CHAPTER XI",
+      "start_pos": 659527,
+      "end_pos": 668296,
+      "length": 8769
+    },
+    {
+      "chapter_num": 66,
+      "title": "CHAPTER XII",
+      "start_pos": 668309,
+      "end_pos": 681862,
+      "length": 13553
+    },
+    {
+      "chapter_num": 67,
+      "title": "CHAPTER XIII",
+      "start_pos": 681876,
+      "end_pos": 693644,
+      "length": 11768
+    },
+    {
+      "chapter_num": 68,
+      "title": "CHAPTER XIV",
+      "start_pos": 693657,
+      "end_pos": 705123,
+      "length": 11466
+    },
+    {
+      "chapter_num": 69,
+      "title": "CHAPTER XV",
+      "start_pos": 705135,
+      "end_pos": 717645,
+      "length": 12510
+    },
+    {
+      "chapter_num": 70,
+      "title": "CHAPTER XVI",
+      "start_pos": 717658,
+      "end_pos": 725948,
+      "length": 8290
+    },
+    {
+      "chapter_num": 71,
+      "title": "CHAPTER XVII",
+      "start_pos": 725962,
+      "end_pos": 736795,
+      "length": 10833
+    },
+    {
+      "chapter_num": 72,
+      "title": "CHAPTER XVIII",
+      "start_pos": 736810,
+      "end_pos": 751262,
+      "length": 14452
+    },
+    {
+      "chapter_num": 73,
+      "title": "CHAPTER XIX",
+      "start_pos": 751275,
+      "end_pos": 760351,
+      "length": 9076
+    },
+    {
+      "chapter_num": 74,
+      "title": "CHAPTER I",
+      "start_pos": 760362,
+      "end_pos": 776668,
+      "length": 16306
+    },
+    {
+      "chapter_num": 75,
+      "title": "CHAPTER II",
+      "start_pos": 776680,
+      "end_pos": 789436,
+      "length": 12756
+    },
+    {
+      "chapter_num": 76,
+      "title": "CHAPTER III",
+      "start_pos": 789449,
+      "end_pos": 800501,
+      "length": 11052
+    },
+    {
+      "chapter_num": 77,
+      "title": "CHAPTER IV",
+      "start_pos": 800513,
+      "end_pos": 811128,
+      "length": 10615
+    },
+    {
+      "chapter_num": 78,
+      "title": "CHAPTER V",
+      "start_pos": 811139,
+      "end_pos": 816044,
+      "length": 4905
+    },
+    {
+      "chapter_num": 79,
+      "title": "CHAPTER VI",
+      "start_pos": 816056,
+      "end_pos": 825924,
+      "length": 9868
+    },
+    {
+      "chapter_num": 80,
+      "title": "CHAPTER VII",
+      "start_pos": 825937,
+      "end_pos": 832843,
+      "length": 6906
+    },
+    {
+      "chapter_num": 81,
+      "title": "CHAPTER VIII",
+      "start_pos": 832857,
+      "end_pos": 841857,
+      "length": 9000
+    },
+    {
+      "chapter_num": 82,
+      "title": "CHAPTER IX",
+      "start_pos": 841869,
+      "end_pos": 846845,
+      "length": 4976
+    },
+    {
+      "chapter_num": 83,
+      "title": "CHAPTER X",
+      "start_pos": 846856,
+      "end_pos": 854037,
+      "length": 7181
+    },
+    {
+      "chapter_num": 84,
+      "title": "CHAPTER XI",
+      "start_pos": 854049,
+      "end_pos": 859189,
+      "length": 5140
+    },
+    {
+      "chapter_num": 85,
+      "title": "CHAPTER XII",
+      "start_pos": 859202,
+      "end_pos": 865982,
+      "length": 6780
+    },
+    {
+      "chapter_num": 86,
+      "title": "CHAPTER XIII",
+      "start_pos": 865996,
+      "end_pos": 872422,
+      "length": 6426
+    },
+    {
+      "chapter_num": 87,
+      "title": "CHAPTER XIV",
+      "start_pos": 872435,
+      "end_pos": 878325,
+      "length": 5890
+    },
+    {
+      "chapter_num": 88,
+      "title": "CHAPTER XV",
+      "start_pos": 878337,
+      "end_pos": 885509,
+      "length": 7172
+    },
+    {
+      "chapter_num": 89,
+      "title": "CHAPTER XVI",
+      "start_pos": 885522,
+      "end_pos": 892471,
+      "length": 6949
+    },
+    {
+      "chapter_num": 90,
+      "title": "CHAPTER I",
+      "start_pos": 892482,
+      "end_pos": 899588,
+      "length": 7106
+    },
+    {
+      "chapter_num": 91,
+      "title": "CHAPTER II",
+      "start_pos": 899600,
+      "end_pos": 912286,
+      "length": 12686
+    },
+    {
+      "chapter_num": 92,
+      "title": "CHAPTER III",
+      "start_pos": 912299,
+      "end_pos": 927099,
+      "length": 14800
+    },
+    {
+      "chapter_num": 93,
+      "title": "CHAPTER IV",
+      "start_pos": 927111,
+      "end_pos": 935159,
+      "length": 8048
+    },
+    {
+      "chapter_num": 94,
+      "title": "CHAPTER V",
+      "start_pos": 935170,
+      "end_pos": 939003,
+      "length": 3833
+    },
+    {
+      "chapter_num": 95,
+      "title": "CHAPTER VI",
+      "start_pos": 939015,
+      "end_pos": 948574,
+      "length": 9559
+    },
+    {
+      "chapter_num": 96,
+      "title": "CHAPTER VII",
+      "start_pos": 948587,
+      "end_pos": 951817,
+      "length": 3230
+    },
+    {
+      "chapter_num": 97,
+      "title": "CHAPTER VIII",
+      "start_pos": 951831,
+      "end_pos": 960685,
+      "length": 8854
+    },
+    {
+      "chapter_num": 98,
+      "title": "CHAPTER IX",
+      "start_pos": 960697,
+      "end_pos": 972249,
+      "length": 11552
+    },
+    {
+      "chapter_num": 99,
+      "title": "CHAPTER X",
+      "start_pos": 972260,
+      "end_pos": 982323,
+      "length": 10063
+    },
+    {
+      "chapter_num": 100,
+      "title": "CHAPTER XI",
+      "start_pos": 982335,
+      "end_pos": 999546,
+      "length": 17211
+    },
+    {
+      "chapter_num": 101,
+      "title": "CHAPTER XII",
+      "start_pos": 999559,
+      "end_pos": 1007164,
+      "length": 7605
+    },
+    {
+      "chapter_num": 102,
+      "title": "CHAPTER XIII",
+      "start_pos": 1007178,
+      "end_pos": 1015417,
+      "length": 8239
+    },
+    {
+      "chapter_num": 103,
+      "title": "CHAPTER XIV",
+      "start_pos": 1015430,
+      "end_pos": 1020118,
+      "length": 4688
+    },
+    {
+      "chapter_num": 104,
+      "title": "CHAPTER XV",
+      "start_pos": 1020130,
+      "end_pos": 1029404,
+      "length": 9274
+    },
+    {
+      "chapter_num": 105,
+      "title": "CHAPTER XVI",
+      "start_pos": 1029417,
+      "end_pos": 1040495,
+      "length": 11078
+    },
+    {
+      "chapter_num": 106,
+      "title": "CHAPTER XVII",
+      "start_pos": 1040509,
+      "end_pos": 1048058,
+      "length": 7549
+    },
+    {
+      "chapter_num": 107,
+      "title": "CHAPTER XVIII",
+      "start_pos": 1048073,
+      "end_pos": 1053928,
+      "length": 5855
+    },
+    {
+      "chapter_num": 108,
+      "title": "CHAPTER XIX",
+      "start_pos": 1053941,
+      "end_pos": 1062643,
+      "length": 8702
+    },
+    {
+      "chapter_num": 109,
+      "title": "CHAPTER XX",
+      "start_pos": 1062655,
+      "end_pos": 1070632,
+      "length": 7977
+    },
+    {
+      "chapter_num": 110,
+      "title": "CHAPTER XXI",
+      "start_pos": 1070645,
+      "end_pos": 1080744,
+      "length": 10099
+    },
+    {
+      "chapter_num": 111,
+      "title": "CHAPTER XXII",
+      "start_pos": 1080758,
+      "end_pos": 1087095,
+      "length": 6337
+    },
+    {
+      "chapter_num": 112,
+      "title": "CHAPTER II",
+      "start_pos": 1087107,
+      "end_pos": 1092703,
+      "length": 5596
+    },
+    {
+      "chapter_num": 113,
+      "title": "CHAPTER III",
+      "start_pos": 1092716,
+      "end_pos": 1097814,
+      "length": 5098
+    },
+    {
+      "chapter_num": 114,
+      "title": "CHAPTER IV",
+      "start_pos": 1097826,
+      "end_pos": 1104406,
+      "length": 6580
+    },
+    {
+      "chapter_num": 115,
+      "title": "CHAPTER V",
+      "start_pos": 1104417,
+      "end_pos": 1115802,
+      "length": 11385
+    },
+    {
+      "chapter_num": 116,
+      "title": "CHAPTER VI",
+      "start_pos": 1115814,
+      "end_pos": 1122471,
+      "length": 6657
+    },
+    {
+      "chapter_num": 117,
+      "title": "CHAPTER VII",
+      "start_pos": 1122484,
+      "end_pos": 1132050,
+      "length": 9566
+    },
+    {
+      "chapter_num": 118,
+      "title": "CHAPTER VIII",
+      "start_pos": 1132064,
+      "end_pos": 1138816,
+      "length": 6752
+    },
+    {
+      "chapter_num": 119,
+      "title": "CHAPTER IX",
+      "start_pos": 1138828,
+      "end_pos": 1144267,
+      "length": 5439
+    },
+    {
+      "chapter_num": 120,
+      "title": "CHAPTER X",
+      "start_pos": 1144278,
+      "end_pos": 1154910,
+      "length": 10632
+    },
+    {
+      "chapter_num": 121,
+      "title": "CHAPTER XI",
+      "start_pos": 1154922,
+      "end_pos": 1162877,
+      "length": 7955
+    },
+    {
+      "chapter_num": 122,
+      "title": "CHAPTER XII",
+      "start_pos": 1162890,
+      "end_pos": 1168185,
+      "length": 5295
+    },
+    {
+      "chapter_num": 123,
+      "title": "CHAPTER XIII",
+      "start_pos": 1168199,
+      "end_pos": 1175843,
+      "length": 7644
+    },
+    {
+      "chapter_num": 124,
+      "title": "CHAPTER XIV",
+      "start_pos": 1175856,
+      "end_pos": 1183555,
+      "length": 7699
+    },
+    {
+      "chapter_num": 125,
+      "title": "CHAPTER XV",
+      "start_pos": 1183567,
+      "end_pos": 1189684,
+      "length": 6117
+    },
+    {
+      "chapter_num": 126,
+      "title": "CHAPTER XVI",
+      "start_pos": 1189697,
+      "end_pos": 1197739,
+      "length": 8042
+    },
+    {
+      "chapter_num": 127,
+      "title": "CHAPTER XVII",
+      "start_pos": 1197753,
+      "end_pos": 1202041,
+      "length": 4288
+    },
+    {
+      "chapter_num": 128,
+      "title": "CHAPTER XVIII",
+      "start_pos": 1202056,
+      "end_pos": 1212179,
+      "length": 10123
+    },
+    {
+      "chapter_num": 129,
+      "title": "CHAPTER XIX",
+      "start_pos": 1212192,
+      "end_pos": 1216084,
+      "length": 3892
+    },
+    {
+      "chapter_num": 130,
+      "title": "CHAPTER XX",
+      "start_pos": 1216096,
+      "end_pos": 1222932,
+      "length": 6836
+    },
+    {
+      "chapter_num": 131,
+      "title": "CHAPTER XXI",
+      "start_pos": 1222945,
+      "end_pos": 1229332,
+      "length": 6387
+    },
+    {
+      "chapter_num": 132,
+      "title": "CHAPTER XXII",
+      "start_pos": 1229346,
+      "end_pos": 1237240,
+      "length": 7894
+    },
+    {
+      "chapter_num": 133,
+      "title": "CHAPTER XXIII",
+      "start_pos": 1237255,
+      "end_pos": 1249428,
+      "length": 12173
+    },
+    {
+      "chapter_num": 134,
+      "title": "CHAPTER XXIV",
+      "start_pos": 1249442,
+      "end_pos": 1255698,
+      "length": 6256
+    },
+    {
+      "chapter_num": 135,
+      "title": "CHAPTER XXV",
+      "start_pos": 1255711,
+      "end_pos": 1263386,
+      "length": 7675
+    },
+    {
+      "chapter_num": 136,
+      "title": "CHAPTER XXVI",
+      "start_pos": 1263400,
+      "end_pos": 1270759,
+      "length": 7359
+    },
+    {
+      "chapter_num": 137,
+      "title": "CHAPTER I",
+      "start_pos": 1270770,
+      "end_pos": 1280384,
+      "length": 9614
+    },
+    {
+      "chapter_num": 138,
+      "title": "CHAPTER II",
+      "start_pos": 1280396,
+      "end_pos": 1284548,
+      "length": 4152
+    },
+    {
+      "chapter_num": 139,
+      "title": "CHAPTER III",
+      "start_pos": 1284561,
+      "end_pos": 1290576,
+      "length": 6015
+    },
+    {
+      "chapter_num": 140,
+      "title": "CHAPTER IV",
+      "start_pos": 1290588,
+      "end_pos": 1302712,
+      "length": 12124
+    },
+    {
+      "chapter_num": 141,
+      "title": "CHAPTER V",
+      "start_pos": 1302723,
+      "end_pos": 1312690,
+      "length": 9967
+    },
+    {
+      "chapter_num": 142,
+      "title": "CHAPTER VI",
+      "start_pos": 1312702,
+      "end_pos": 1327117,
+      "length": 14415
+    },
+    {
+      "chapter_num": 143,
+      "title": "CHAPTER VII",
+      "start_pos": 1327130,
+      "end_pos": 1345602,
+      "length": 18472
+    },
+    {
+      "chapter_num": 144,
+      "title": "CHAPTER VIII",
+      "start_pos": 1345616,
+      "end_pos": 1352474,
+      "length": 6858
+    },
+    {
+      "chapter_num": 145,
+      "title": "CHAPTER IX",
+      "start_pos": 1352486,
+      "end_pos": 1360490,
+      "length": 8004
+    },
+    {
+      "chapter_num": 146,
+      "title": "CHAPTER X",
+      "start_pos": 1360501,
+      "end_pos": 1378115,
+      "length": 17614
+    },
+    {
+      "chapter_num": 147,
+      "title": "CHAPTER XI",
+      "start_pos": 1378127,
+      "end_pos": 1386564,
+      "length": 8437
+    },
+    {
+      "chapter_num": 148,
+      "title": "CHAPTER XII",
+      "start_pos": 1386577,
+      "end_pos": 1392882,
+      "length": 6305
+    },
+    {
+      "chapter_num": 149,
+      "title": "CHAPTER XIII",
+      "start_pos": 1392896,
+      "end_pos": 1399550,
+      "length": 6654
+    },
+    {
+      "chapter_num": 150,
+      "title": "CHAPTER I",
+      "start_pos": 1399561,
+      "end_pos": 1410632,
+      "length": 11071
+    },
+    {
+      "chapter_num": 151,
+      "title": "CHAPTER II",
+      "start_pos": 1410644,
+      "end_pos": 1418884,
+      "length": 8240
+    },
+    {
+      "chapter_num": 152,
+      "title": "CHAPTER III",
+      "start_pos": 1418897,
+      "end_pos": 1430834,
+      "length": 11937
+    },
+    {
+      "chapter_num": 153,
+      "title": "CHAPTER IV",
+      "start_pos": 1430846,
+      "end_pos": 1436103,
+      "length": 5257
+    },
+    {
+      "chapter_num": 154,
+      "title": "CHAPTER V",
+      "start_pos": 1436114,
+      "end_pos": 1446052,
+      "length": 9938
+    },
+    {
+      "chapter_num": 155,
+      "title": "CHAPTER VI",
+      "start_pos": 1446064,
+      "end_pos": 1452919,
+      "length": 6855
+    },
+    {
+      "chapter_num": 156,
+      "title": "CHAPTER VII",
+      "start_pos": 1452932,
+      "end_pos": 1460883,
+      "length": 7951
+    },
+    {
+      "chapter_num": 157,
+      "title": "CHAPTER VIII",
+      "start_pos": 1460897,
+      "end_pos": 1469138,
+      "length": 8241
+    },
+    {
+      "chapter_num": 158,
+      "title": "CHAPTER IX",
+      "start_pos": 1469150,
+      "end_pos": 1480257,
+      "length": 11107
+    },
+    {
+      "chapter_num": 159,
+      "title": "CHAPTER X",
+      "start_pos": 1480268,
+      "end_pos": 1487389,
+      "length": 7121
+    },
+    {
+      "chapter_num": 160,
+      "title": "CHAPTER XI",
+      "start_pos": 1487401,
+      "end_pos": 1492589,
+      "length": 5188
+    },
+    {
+      "chapter_num": 161,
+      "title": "CHAPTER XII",
+      "start_pos": 1492602,
+      "end_pos": 1499593,
+      "length": 6991
+    },
+    {
+      "chapter_num": 162,
+      "title": "CHAPTER XIII",
+      "start_pos": 1499607,
+      "end_pos": 1506206,
+      "length": 6599
+    },
+    {
+      "chapter_num": 163,
+      "title": "CHAPTER XIV",
+      "start_pos": 1506219,
+      "end_pos": 1512526,
+      "length": 6307
+    },
+    {
+      "chapter_num": 164,
+      "title": "CHAPTER XV",
+      "start_pos": 1512538,
+      "end_pos": 1523324,
+      "length": 10786
+    },
+    {
+      "chapter_num": 165,
+      "title": "CHAPTER XVI",
+      "start_pos": 1523337,
+      "end_pos": 1534243,
+      "length": 10906
+    },
+    {
+      "chapter_num": 166,
+      "title": "CHAPTER XVII",
+      "start_pos": 1534257,
+      "end_pos": 1539305,
+      "length": 5048
+    },
+    {
+      "chapter_num": 167,
+      "title": "CHAPTER XVIII",
+      "start_pos": 1539320,
+      "end_pos": 1546207,
+      "length": 6887
+    },
+    {
+      "chapter_num": 168,
+      "title": "CHAPTER XIX",
+      "start_pos": 1546220,
+      "end_pos": 1554031,
+      "length": 7811
+    },
+    {
+      "chapter_num": 169,
+      "title": "CHAPTER XX",
+      "start_pos": 1554043,
+      "end_pos": 1560549,
+      "length": 6506
+    },
+    {
+      "chapter_num": 170,
+      "title": "CHAPTER XXI",
+      "start_pos": 1560562,
+      "end_pos": 1568907,
+      "length": 8345
+    },
+    {
+      "chapter_num": 171,
+      "title": "CHAPTER XXII",
+      "start_pos": 1568921,
+      "end_pos": 1575084,
+      "length": 6163
+    },
+    {
+      "chapter_num": 172,
+      "title": "CHAPTER I",
+      "start_pos": 1575095,
+      "end_pos": 1585324,
+      "length": 10229
+    },
+    {
+      "chapter_num": 173,
+      "title": "CHAPTER II",
+      "start_pos": 1585336,
+      "end_pos": 1593963,
+      "length": 8627
+    },
+    {
+      "chapter_num": 174,
+      "title": "CHAPTER III",
+      "start_pos": 1593976,
+      "end_pos": 1602179,
+      "length": 8203
+    },
+    {
+      "chapter_num": 175,
+      "title": "CHAPTER IV",
+      "start_pos": 1602191,
+      "end_pos": 1611140,
+      "length": 8949
+    },
+    {
+      "chapter_num": 176,
+      "title": "CHAPTER V",
+      "start_pos": 1611151,
+      "end_pos": 1616031,
+      "length": 4880
+    },
+    {
+      "chapter_num": 177,
+      "title": "CHAPTER VI",
+      "start_pos": 1616043,
+      "end_pos": 1631468,
+      "length": 15425
+    },
+    {
+      "chapter_num": 178,
+      "title": "CHAPTER VII",
+      "start_pos": 1631481,
+      "end_pos": 1638444,
+      "length": 6963
+    },
+    {
+      "chapter_num": 179,
+      "title": "CHAPTER VIII",
+      "start_pos": 1638458,
+      "end_pos": 1651976,
+      "length": 13518
+    },
+    {
+      "chapter_num": 180,
+      "title": "CHAPTER IX",
+      "start_pos": 1651988,
+      "end_pos": 1668441,
+      "length": 16453
+    },
+    {
+      "chapter_num": 181,
+      "title": "CHAPTER X",
+      "start_pos": 1668452,
+      "end_pos": 1676238,
+      "length": 7786
+    },
+    {
+      "chapter_num": 182,
+      "title": "CHAPTER XI",
+      "start_pos": 1676250,
+      "end_pos": 1687624,
+      "length": 11374
+    },
+    {
+      "chapter_num": 183,
+      "title": "CHAPTER XII",
+      "start_pos": 1687637,
+      "end_pos": 1696986,
+      "length": 9349
+    },
+    {
+      "chapter_num": 184,
+      "title": "CHAPTER XIII",
+      "start_pos": 1697000,
+      "end_pos": 1703265,
+      "length": 6265
+    },
+    {
+      "chapter_num": 185,
+      "title": "CHAPTER XIV",
+      "start_pos": 1703278,
+      "end_pos": 1710141,
+      "length": 6863
+    },
+    {
+      "chapter_num": 186,
+      "title": "CHAPTER XV",
+      "start_pos": 1710153,
+      "end_pos": 1717297,
+      "length": 7144
+    },
+    {
+      "chapter_num": 187,
+      "title": "CHAPTER XVI",
+      "start_pos": 1717310,
+      "end_pos": 1723987,
+      "length": 6677
+    },
+    {
+      "chapter_num": 188,
+      "title": "CHAPTER XVII",
+      "start_pos": 1724001,
+      "end_pos": 1731756,
+      "length": 7755
+    },
+    {
+      "chapter_num": 189,
+      "title": "CHAPTER XVIII",
+      "start_pos": 1731771,
+      "end_pos": 1743415,
+      "length": 11644
+    },
+    {
+      "chapter_num": 190,
+      "title": "CHAPTER XIX",
+      "start_pos": 1743428,
+      "end_pos": 1751478,
+      "length": 8050
+    },
+    {
+      "chapter_num": 191,
+      "title": "CHAPTER XX",
+      "start_pos": 1751490,
+      "end_pos": 1763875,
+      "length": 12385
+    },
+    {
+      "chapter_num": 192,
+      "title": "CHAPTER XXI",
+      "start_pos": 1763888,
+      "end_pos": 1775562,
+      "length": 11674
+    },
+    {
+      "chapter_num": 193,
+      "title": "CHAPTER XXII",
+      "start_pos": 1775576,
+      "end_pos": 1788046,
+      "length": 12470
+    },
+    {
+      "chapter_num": 194,
+      "title": "CHAPTER XXIII",
+      "start_pos": 1788061,
+      "end_pos": 1792152,
+      "length": 4091
+    },
+    {
+      "chapter_num": 195,
+      "title": "CHAPTER I",
+      "start_pos": 1792163,
+      "end_pos": 1804364,
+      "length": 12201
+    },
+    {
+      "chapter_num": 196,
+      "title": "CHAPTER II",
+      "start_pos": 1804376,
+      "end_pos": 1813740,
+      "length": 9364
+    },
+    {
+      "chapter_num": 197,
+      "title": "CHAPTER III",
+      "start_pos": 1813753,
+      "end_pos": 1819200,
+      "length": 5447
+    },
+    {
+      "chapter_num": 198,
+      "title": "CHAPTER IV",
+      "start_pos": 1819212,
+      "end_pos": 1842120,
+      "length": 22908
+    },
+    {
+      "chapter_num": 199,
+      "title": "CHAPTER V",
+      "start_pos": 1842131,
+      "end_pos": 1857600,
+      "length": 15469
+    },
+    {
+      "chapter_num": 200,
+      "title": "CHAPTER VI",
+      "start_pos": 1857612,
+      "end_pos": 1866754,
+      "length": 9142
+    },
+    {
+      "chapter_num": 201,
+      "title": "CHAPTER VII",
+      "start_pos": 1866767,
+      "end_pos": 1874049,
+      "length": 7282
+    },
+    {
+      "chapter_num": 202,
+      "title": "CHAPTER VIII",
+      "start_pos": 1874063,
+      "end_pos": 1892467,
+      "length": 18404
+    },
+    {
+      "chapter_num": 203,
+      "title": "CHAPTER IX",
+      "start_pos": 1892479,
+      "end_pos": 1903523,
+      "length": 11044
+    },
+    {
+      "chapter_num": 204,
+      "title": "CHAPTER X",
+      "start_pos": 1903534,
+      "end_pos": 1914532,
+      "length": 10998
+    },
+    {
+      "chapter_num": 205,
+      "title": "CHAPTER XI",
+      "start_pos": 1914544,
+      "end_pos": 1920081,
+      "length": 5537
+    },
+    {
+      "chapter_num": 206,
+      "title": "CHAPTER XII",
+      "start_pos": 1920094,
+      "end_pos": 1924657,
+      "length": 4563
+    },
+    {
+      "chapter_num": 207,
+      "title": "CHAPTER XIII",
+      "start_pos": 1924671,
+      "end_pos": 1932815,
+      "length": 8144
+    },
+    {
+      "chapter_num": 208,
+      "title": "CHAPTER XIV",
+      "start_pos": 1932828,
+      "end_pos": 1943192,
+      "length": 10364
+    },
+    {
+      "chapter_num": 209,
+      "title": "CHAPTER XV",
+      "start_pos": 1943204,
+      "end_pos": 1957043,
+      "length": 13839
+    },
+    {
+      "chapter_num": 210,
+      "title": "CHAPTER XVI",
+      "start_pos": 1957056,
+      "end_pos": 1964437,
+      "length": 7381
+    },
+    {
+      "chapter_num": 211,
+      "title": "CHAPTER XVII",
+      "start_pos": 1964451,
+      "end_pos": 1973808,
+      "length": 9357
+    },
+    {
+      "chapter_num": 212,
+      "title": "CHAPTER XVIII",
+      "start_pos": 1973823,
+      "end_pos": 1984286,
+      "length": 10463
+    },
+    {
+      "chapter_num": 213,
+      "title": "CHAPTER XIX",
+      "start_pos": 1984299,
+      "end_pos": 1995558,
+      "length": 11259
+    },
+    {
+      "chapter_num": 214,
+      "title": "CHAPTER XX",
+      "start_pos": 1995570,
+      "end_pos": 2003538,
+      "length": 7968
+    },
+    {
+      "chapter_num": 215,
+      "title": "CHAPTER XXI",
+      "start_pos": 2003551,
+      "end_pos": 2013538,
+      "length": 9987
+    },
+    {
+      "chapter_num": 216,
+      "title": "CHAPTER XXII",
+      "start_pos": 2013552,
+      "end_pos": 2021230,
+      "length": 7678
+    },
+    {
+      "chapter_num": 217,
+      "title": "CHAPTER XXIII",
+      "start_pos": 2021245,
+      "end_pos": 2025298,
+      "length": 4053
+    },
+    {
+      "chapter_num": 218,
+      "title": "CHAPTER XXIV",
+      "start_pos": 2025312,
+      "end_pos": 2031263,
+      "length": 5951
+    },
+    {
+      "chapter_num": 219,
+      "title": "CHAPTER XXV",
+      "start_pos": 2031276,
+      "end_pos": 2047866,
+      "length": 16590
+    },
+    {
+      "chapter_num": 220,
+      "title": "CHAPTER XXVI",
+      "start_pos": 2047880,
+      "end_pos": 2056375,
+      "length": 8495
+    },
+    {
+      "chapter_num": 221,
+      "title": "CHAPTER XXVII",
+      "start_pos": 2056390,
+      "end_pos": 2063689,
+      "length": 7299
+    },
+    {
+      "chapter_num": 222,
+      "title": "CHAPTER XXVIII",
+      "start_pos": 2063705,
+      "end_pos": 2069871,
+      "length": 6166
+    },
+    {
+      "chapter_num": 223,
+      "title": "CHAPTER XXIX",
+      "start_pos": 2069885,
+      "end_pos": 2075775,
+      "length": 5890
+    },
+    {
+      "chapter_num": 224,
+      "title": "CHAPTER XXX",
+      "start_pos": 2075788,
+      "end_pos": 2082564,
+      "length": 6776
+    },
+    {
+      "chapter_num": 225,
+      "title": "CHAPTER XXXI",
+      "start_pos": 2082578,
+      "end_pos": 2099239,
+      "length": 16661
+    },
+    {
+      "chapter_num": 226,
+      "title": "CHAPTER XXXII",
+      "start_pos": 2099254,
+      "end_pos": 2103315,
+      "length": 4061
+    },
+    {
+      "chapter_num": 227,
+      "title": "CHAPTER XXXIII",
+      "start_pos": 2103331,
+      "end_pos": 2110562,
+      "length": 7231
+    },
+    {
+      "chapter_num": 228,
+      "title": "CHAPTER XXXIV",
+      "start_pos": 2110577,
+      "end_pos": 2114733,
+      "length": 4156
+    },
+    {
+      "chapter_num": 229,
+      "title": "M. d",
+      "start_pos": 2114739,
+      "end_pos": 2120864,
+      "length": 6125
+    },
+    {
+      "chapter_num": 230,
+      "title": "CHAPTER XXXV",
+      "start_pos": 2120878,
+      "end_pos": 2129769,
+      "length": 8891
+    },
+    {
+      "chapter_num": 231,
+      "title": "CHAPTER XXXVI",
+      "start_pos": 2129784,
+      "end_pos": 2140900,
+      "length": 11116
+    },
+    {
+      "chapter_num": 232,
+      "title": "CHAPTER XXXVII",
+      "start_pos": 2140916,
+      "end_pos": 2147418,
+      "length": 6502
+    },
+    {
+      "chapter_num": 233,
+      "title": "CHAPTER XXXVIII",
+      "start_pos": 2147435,
+      "end_pos": 2154839,
+      "length": 7404
+    },
+    {
+      "chapter_num": 234,
+      "title": "CHAPTER XXXIX",
+      "start_pos": 2154854,
+      "end_pos": 2161007,
+      "length": 6153
+    },
+    {
+      "chapter_num": 235,
+      "title": "CHAPTER I",
+      "start_pos": 2161018,
+      "end_pos": 2168638,
+      "length": 7620
+    },
+    {
+      "chapter_num": 236,
+      "title": "CHAPTER II",
+      "start_pos": 2168650,
+      "end_pos": 2176196,
+      "length": 7546
+    },
+    {
+      "chapter_num": 237,
+      "title": "CHAPTER III",
+      "start_pos": 2176209,
+      "end_pos": 2182282,
+      "length": 6073
+    },
+    {
+      "chapter_num": 238,
+      "title": "CHAPTER IV",
+      "start_pos": 2182294,
+      "end_pos": 2190300,
+      "length": 8006
+    },
+    {
+      "chapter_num": 239,
+      "title": "CHAPTER V",
+      "start_pos": 2190311,
+      "end_pos": 2196256,
+      "length": 5945
+    },
+    {
+      "chapter_num": 240,
+      "title": "CHAPTER VI",
+      "start_pos": 2196268,
+      "end_pos": 2203896,
+      "length": 7628
+    },
+    {
+      "chapter_num": 241,
+      "title": "CHAPTER VII",
+      "start_pos": 2203909,
+      "end_pos": 2212580,
+      "length": 8671
+    },
+    {
+      "chapter_num": 242,
+      "title": "CHAPTER VIII",
+      "start_pos": 2212594,
+      "end_pos": 2217096,
+      "length": 4502
+    },
+    {
+      "chapter_num": 243,
+      "title": "CHAPTER IX",
+      "start_pos": 2217108,
+      "end_pos": 2223880,
+      "length": 6772
+    },
+    {
+      "chapter_num": 244,
+      "title": "CHAPTER X",
+      "start_pos": 2223891,
+      "end_pos": 2231304,
+      "length": 7413
+    },
+    {
+      "chapter_num": 245,
+      "title": "CHAPTER XI",
+      "start_pos": 2231316,
+      "end_pos": 2235988,
+      "length": 4672
+    },
+    {
+      "chapter_num": 246,
+      "title": "CHAPTER XII",
+      "start_pos": 2236001,
+      "end_pos": 2244767,
+      "length": 8766
+    },
+    {
+      "chapter_num": 247,
+      "title": "CHAPTER XIII",
+      "start_pos": 2244781,
+      "end_pos": 2252451,
+      "length": 7670
+    },
+    {
+      "chapter_num": 248,
+      "title": "CHAPTER XIV",
+      "start_pos": 2252464,
+      "end_pos": 2258593,
+      "length": 6129
+    },
+    {
+      "chapter_num": 249,
+      "title": "CHAPTER XV",
+      "start_pos": 2258605,
+      "end_pos": 2265882,
+      "length": 7277
+    },
+    {
+      "chapter_num": 250,
+      "title": "CHAPTER XVI",
+      "start_pos": 2265895,
+      "end_pos": 2276397,
+      "length": 10502
+    },
+    {
+      "chapter_num": 251,
+      "title": "CHAPTER XVII",
+      "start_pos": 2276411,
+      "end_pos": 2286237,
+      "length": 9826
+    },
+    {
+      "chapter_num": 252,
+      "title": "CHAPTER XVIII",
+      "start_pos": 2286252,
+      "end_pos": 2293364,
+      "length": 7112
+    },
+    {
+      "chapter_num": 253,
+      "title": "CHAPTER XIX",
+      "start_pos": 2293377,
+      "end_pos": 2302794,
+      "length": 9417
+    },
+    {
+      "chapter_num": 254,
+      "title": "CHAPTER XX",
+      "start_pos": 2302806,
+      "end_pos": 2308044,
+      "length": 5238
+    },
+    {
+      "chapter_num": 255,
+      "title": "CHAPTER XXI",
+      "start_pos": 2308057,
+      "end_pos": 2313835,
+      "length": 5778
+    },
+    {
+      "chapter_num": 256,
+      "title": "CHAPTER XXII",
+      "start_pos": 2313849,
+      "end_pos": 2318823,
+      "length": 4974
+    },
+    {
+      "chapter_num": 257,
+      "title": "CHAPTER XXIII",
+      "start_pos": 2318838,
+      "end_pos": 2327882,
+      "length": 9044
+    },
+    {
+      "chapter_num": 258,
+      "title": "CHAPTER XXIV",
+      "start_pos": 2327896,
+      "end_pos": 2336538,
+      "length": 8642
+    },
+    {
+      "chapter_num": 259,
+      "title": "CHAPTER XXV",
+      "start_pos": 2336551,
+      "end_pos": 2356815,
+      "length": 20264
+    },
+    {
+      "chapter_num": 260,
+      "title": "CHAPTER XXVI",
+      "start_pos": 2356829,
+      "end_pos": 2368905,
+      "length": 12076
+    },
+    {
+      "chapter_num": 261,
+      "title": "CHAPTER XXVII",
+      "start_pos": 2368920,
+      "end_pos": 2377774,
+      "length": 8854
+    },
+    {
+      "chapter_num": 262,
+      "title": "CHAPTER XXVIII",
+      "start_pos": 2377790,
+      "end_pos": 2383962,
+      "length": 6172
+    },
+    {
+      "chapter_num": 263,
+      "title": "CHAPTER XXIX",
+      "start_pos": 2383976,
+      "end_pos": 2405448,
+      "length": 21472
+    },
+    {
+      "chapter_num": 264,
+      "title": "CHAPTER XXX",
+      "start_pos": 2405461,
+      "end_pos": 2409081,
+      "length": 3620
+    },
+    {
+      "chapter_num": 265,
+      "title": "CHAPTER XXXI",
+      "start_pos": 2409095,
+      "end_pos": 2418669,
+      "length": 9574
+    },
+    {
+      "chapter_num": 266,
+      "title": "CHAPTER XXXII",
+      "start_pos": 2418684,
+      "end_pos": 2432042,
+      "length": 13358
+    },
+    {
+      "chapter_num": 267,
+      "title": "CHAPTER XXXIII",
+      "start_pos": 2432058,
+      "end_pos": 2446236,
+      "length": 14178
+    },
+    {
+      "chapter_num": 268,
+      "title": "CHAPTER XXXIV",
+      "start_pos": 2446251,
+      "end_pos": 2455745,
+      "length": 9494
+    },
+    {
+      "chapter_num": 269,
+      "title": "CHAPTER I",
+      "start_pos": 2455756,
+      "end_pos": 2464064,
+      "length": 8308
+    },
+    {
+      "chapter_num": 270,
+      "title": "CHAPTER II",
+      "start_pos": 2464076,
+      "end_pos": 2469618,
+      "length": 5542
+    },
+    {
+      "chapter_num": 271,
+      "title": "CHAPTER III",
+      "start_pos": 2469631,
+      "end_pos": 2475588,
+      "length": 5957
+    },
+    {
+      "chapter_num": 272,
+      "title": "CHAPTER IV",
+      "start_pos": 2475600,
+      "end_pos": 2486738,
+      "length": 11138
+    },
+    {
+      "chapter_num": 273,
+      "title": "CHAPTER V",
+      "start_pos": 2486749,
+      "end_pos": 2493781,
+      "length": 7032
+    },
+    {
+      "chapter_num": 274,
+      "title": "CHAPTER VI",
+      "start_pos": 2493793,
+      "end_pos": 2503020,
+      "length": 9227
+    },
+    {
+      "chapter_num": 275,
+      "title": "CHAPTER VII",
+      "start_pos": 2503033,
+      "end_pos": 2512767,
+      "length": 9734
+    },
+    {
+      "chapter_num": 276,
+      "title": "CHAPTER VIII",
+      "start_pos": 2512781,
+      "end_pos": 2521462,
+      "length": 8681
+    },
+    {
+      "chapter_num": 277,
+      "title": "CHAPTER IX",
+      "start_pos": 2521474,
+      "end_pos": 2526300,
+      "length": 4826
+    },
+    {
+      "chapter_num": 278,
+      "title": "CHAPTER X",
+      "start_pos": 2526311,
+      "end_pos": 2534663,
+      "length": 8352
+    },
+    {
+      "chapter_num": 279,
+      "title": "CHAPTER XI",
+      "start_pos": 2534675,
+      "end_pos": 2542971,
+      "length": 8296
+    },
+    {
+      "chapter_num": 280,
+      "title": "CHAPTER XII",
+      "start_pos": 2542984,
+      "end_pos": 2554932,
+      "length": 11948
+    },
+    {
+      "chapter_num": 281,
+      "title": "CHAPTER XIII",
+      "start_pos": 2554946,
+      "end_pos": 2561275,
+      "length": 6329
+    },
+    {
+      "chapter_num": 282,
+      "title": "CHAPTER XIV",
+      "start_pos": 2561288,
+      "end_pos": 2572768,
+      "length": 11480
+    },
+    {
+      "chapter_num": 283,
+      "title": "CHAPTER XV",
+      "start_pos": 2572780,
+      "end_pos": 2581340,
+      "length": 8560
+    },
+    {
+      "chapter_num": 284,
+      "title": "CHAPTER XVI",
+      "start_pos": 2581353,
+      "end_pos": 2593497,
+      "length": 12144
+    },
+    {
+      "chapter_num": 285,
+      "title": "CHAPTER I",
+      "start_pos": 2593508,
+      "end_pos": 2600655,
+      "length": 7147
+    },
+    {
+      "chapter_num": 286,
+      "title": "CHAPTER II",
+      "start_pos": 2600667,
+      "end_pos": 2605375,
+      "length": 4708
+    },
+    {
+      "chapter_num": 287,
+      "title": "CHAPTER III",
+      "start_pos": 2605388,
+      "end_pos": 2611651,
+      "length": 6263
+    },
+    {
+      "chapter_num": 288,
+      "title": "CHAPTER IV",
+      "start_pos": 2611663,
+      "end_pos": 2615878,
+      "length": 4215
+    },
+    {
+      "chapter_num": 289,
+      "title": "CHAPTER V",
+      "start_pos": 2615889,
+      "end_pos": 2619065,
+      "length": 3176
+    },
+    {
+      "chapter_num": 290,
+      "title": "CHAPTER VI",
+      "start_pos": 2619077,
+      "end_pos": 2626729,
+      "length": 7652
+    },
+    {
+      "chapter_num": 291,
+      "title": "CHAPTER VII",
+      "start_pos": 2626742,
+      "end_pos": 2631502,
+      "length": 4760
+    },
+    {
+      "chapter_num": 292,
+      "title": "CHAPTER VIII",
+      "start_pos": 2631516,
+      "end_pos": 2636067,
+      "length": 4551
+    },
+    {
+      "chapter_num": 293,
+      "title": "CHAPTER IX",
+      "start_pos": 2636079,
+      "end_pos": 2644027,
+      "length": 7948
+    },
+    {
+      "chapter_num": 294,
+      "title": "CHAPTER X",
+      "start_pos": 2644038,
+      "end_pos": 2651538,
+      "length": 7500
+    },
+    {
+      "chapter_num": 295,
+      "title": "CHAPTER XI",
+      "start_pos": 2651550,
+      "end_pos": 2660658,
+      "length": 9108
+    },
+    {
+      "chapter_num": 296,
+      "title": "CHAPTER XII",
+      "start_pos": 2660671,
+      "end_pos": 2666809,
+      "length": 6138
+    },
+    {
+      "chapter_num": 297,
+      "title": "CHAPTER XIII",
+      "start_pos": 2666823,
+      "end_pos": 2673982,
+      "length": 7159
+    },
+    {
+      "chapter_num": 298,
+      "title": "CHAPTER XIV",
+      "start_pos": 2673995,
+      "end_pos": 2683944,
+      "length": 9949
+    },
+    {
+      "chapter_num": 299,
+      "title": "CHAPTER XV",
+      "start_pos": 2683956,
+      "end_pos": 2689340,
+      "length": 5384
+    },
+    {
+      "chapter_num": 300,
+      "title": "CHAPTER XVI",
+      "start_pos": 2689353,
+      "end_pos": 2690629,
+      "length": 1276
+    },
+    {
+      "chapter_num": 301,
+      "title": "ill. P",
+      "start_pos": 2690636,
+      "end_pos": 2695044,
+      "length": 4408
+    },
+    {
+      "chapter_num": 302,
+      "title": "CHAPTER XVII",
+      "start_pos": 2695058,
+      "end_pos": 2701482,
+      "length": 6424
+    },
+    {
+      "chapter_num": 303,
+      "title": "CHAPTER XVIII",
+      "start_pos": 2701497,
+      "end_pos": 2705455,
+      "length": 3958
+    },
+    {
+      "chapter_num": 304,
+      "title": "CHAPTER XIX",
+      "start_pos": 2705468,
+      "end_pos": 2710123,
+      "length": 4655
+    },
+    {
+      "chapter_num": 305,
+      "title": "CHAPTER I",
+      "start_pos": 2710134,
+      "end_pos": 2717005,
+      "length": 6871
+    },
+    {
+      "chapter_num": 306,
+      "title": "CHAPTER II",
+      "start_pos": 2717017,
+      "end_pos": 2722319,
+      "length": 5302
+    },
+    {
+      "chapter_num": 307,
+      "title": "CHAPTER III",
+      "start_pos": 2722332,
+      "end_pos": 2728558,
+      "length": 6226
+    },
+    {
+      "chapter_num": 308,
+      "title": "CHAPTER IV",
+      "start_pos": 2728570,
+      "end_pos": 2736149,
+      "length": 7579
+    },
+    {
+      "chapter_num": 309,
+      "title": "CHAPTER V",
+      "start_pos": 2736160,
+      "end_pos": 2743896,
+      "length": 7736
+    },
+    {
+      "chapter_num": 310,
+      "title": "CHAPTER VI",
+      "start_pos": 2743908,
+      "end_pos": 2748791,
+      "length": 4883
+    },
+    {
+      "chapter_num": 311,
+      "title": "CHAPTER VII",
+      "start_pos": 2748804,
+      "end_pos": 2756624,
+      "length": 7820
+    },
+    {
+      "chapter_num": 312,
+      "title": "CHAPTER VIII",
+      "start_pos": 2756638,
+      "end_pos": 2761652,
+      "length": 5014
+    },
+    {
+      "chapter_num": 313,
+      "title": "CHAPTER IX",
+      "start_pos": 2761664,
+      "end_pos": 2768587,
+      "length": 6923
+    },
+    {
+      "chapter_num": 314,
+      "title": "CHAPTER X",
+      "start_pos": 2768598,
+      "end_pos": 2777294,
+      "length": 8696
+    },
+    {
+      "chapter_num": 315,
+      "title": "CHAPTER XI",
+      "start_pos": 2777306,
+      "end_pos": 2783604,
+      "length": 6298
+    },
+    {
+      "chapter_num": 316,
+      "title": "CHAPTER XII",
+      "start_pos": 2783617,
+      "end_pos": 2790663,
+      "length": 7046
+    },
+    {
+      "chapter_num": 317,
+      "title": "CHAPTER XIII",
+      "start_pos": 2790677,
+      "end_pos": 2797347,
+      "length": 6670
+    },
+    {
+      "chapter_num": 318,
+      "title": "CHAPTER XIV",
+      "start_pos": 2797360,
+      "end_pos": 2800637,
+      "length": 3277
+    },
+    {
+      "chapter_num": 319,
+      "title": "CHAPTER XV",
+      "start_pos": 2800649,
+      "end_pos": 2805886,
+      "length": 5237
+    },
+    {
+      "chapter_num": 320,
+      "title": "CHAPTER XVI",
+      "start_pos": 2805899,
+      "end_pos": 2809531,
+      "length": 3632
+    },
+    {
+      "chapter_num": 321,
+      "title": "CHAPTER XVII",
+      "start_pos": 2809545,
+      "end_pos": 2813350,
+      "length": 3805
+    },
+    {
+      "chapter_num": 322,
+      "title": "CHAPTER XVIII",
+      "start_pos": 2813365,
+      "end_pos": 2817095,
+      "length": 3730
+    },
+    {
+      "chapter_num": 323,
+      "title": "CHAPTER XIX",
+      "start_pos": 2817108,
+      "end_pos": 2827318,
+      "length": 10210
+    },
+    {
+      "chapter_num": 324,
+      "title": "CHAPTER I",
+      "start_pos": 2827329,
+      "end_pos": 2836075,
+      "length": 8746
+    },
+    {
+      "chapter_num": 325,
+      "title": "CHAPTER II",
+      "start_pos": 2836087,
+      "end_pos": 2840926,
+      "length": 4839
+    },
+    {
+      "chapter_num": 326,
+      "title": "CHAPTER III",
+      "start_pos": 2840939,
+      "end_pos": 2846792,
+      "length": 5853
+    },
+    {
+      "chapter_num": 327,
+      "title": "CHAPTER IV",
+      "start_pos": 2846804,
+      "end_pos": 2853720,
+      "length": 6916
+    },
+    {
+      "chapter_num": 328,
+      "title": "CHAPTER V",
+      "start_pos": 2853731,
+      "end_pos": 2861054,
+      "length": 7323
+    },
+    {
+      "chapter_num": 329,
+      "title": "CHAPTER VI",
+      "start_pos": 2861066,
+      "end_pos": 2867406,
+      "length": 6340
+    },
+    {
+      "chapter_num": 330,
+      "title": "CHAPTER VII",
+      "start_pos": 2867419,
+      "end_pos": 2872631,
+      "length": 5212
+    },
+    {
+      "chapter_num": 331,
+      "title": "CHAPTER VIII",
+      "start_pos": 2872645,
+      "end_pos": 2880607,
+      "length": 7962
+    },
+    {
+      "chapter_num": 332,
+      "title": "CHAPTER IX",
+      "start_pos": 2880619,
+      "end_pos": 2885637,
+      "length": 5018
+    },
+    {
+      "chapter_num": 333,
+      "title": "CHAPTER X",
+      "start_pos": 2885648,
+      "end_pos": 2897768,
+      "length": 12120
+    },
+    {
+      "chapter_num": 334,
+      "title": "CHAPTER XI",
+      "start_pos": 2897780,
+      "end_pos": 2901323,
+      "length": 3543
+    },
+    {
+      "chapter_num": 335,
+      "title": "CHAPTER XII",
+      "start_pos": 2901336,
+      "end_pos": 2907699,
+      "length": 6363
+    },
+    {
+      "chapter_num": 336,
+      "title": "CHAPTER XIII",
+      "start_pos": 2907713,
+      "end_pos": 2919286,
+      "length": 11573
+    },
+    {
+      "chapter_num": 337,
+      "title": "CHAPTER XIV",
+      "start_pos": 2919299,
+      "end_pos": 2924330,
+      "length": 5031
+    },
+    {
+      "chapter_num": 338,
+      "title": "CHAPTER XV",
+      "start_pos": 2924342,
+      "end_pos": 2931196,
+      "length": 6854
+    },
+    {
+      "chapter_num": 339,
+      "title": "CHAPTER XVI",
+      "start_pos": 2931209,
+      "end_pos": 2936602,
+      "length": 5393
+    },
+    {
+      "chapter_num": 340,
+      "title": "CHAPTER XVII",
+      "start_pos": 2936616,
+      "end_pos": 2947418,
+      "length": 10802
+    },
+    {
+      "chapter_num": 341,
+      "title": "CHAPTER XVIII",
+      "start_pos": 2947433,
+      "end_pos": 2958179,
+      "length": 10746
+    },
+    {
+      "chapter_num": 342,
+      "title": "CHAPTER XIX",
+      "start_pos": 2958192,
+      "end_pos": 2962246,
+      "length": 4054
+    },
+    {
+      "chapter_num": 343,
+      "title": "CHAPTER XX",
+      "start_pos": 2962258,
+      "end_pos": 2965427,
+      "length": 3169
+    },
+    {
+      "chapter_num": 344,
+      "title": "CHAPTER I",
+      "start_pos": 2965438,
+      "end_pos": 2972032,
+      "length": 6594
+    },
+    {
+      "chapter_num": 345,
+      "title": "CHAPTER II",
+      "start_pos": 2972044,
+      "end_pos": 2976128,
+      "length": 4084
+    },
+    {
+      "chapter_num": 346,
+      "title": "CHAPTER III",
+      "start_pos": 2976141,
+      "end_pos": 2986222,
+      "length": 10081
+    },
+    {
+      "chapter_num": 347,
+      "title": "CHAPTER IV",
+      "start_pos": 2986234,
+      "end_pos": 2991635,
+      "length": 5401
+    },
+    {
+      "chapter_num": 348,
+      "title": "CHAPTER V",
+      "start_pos": 2991646,
+      "end_pos": 2998710,
+      "length": 7064
+    },
+    {
+      "chapter_num": 349,
+      "title": "CHAPTER VI",
+      "start_pos": 2998722,
+      "end_pos": 3007645,
+      "length": 8923
+    },
+    {
+      "chapter_num": 350,
+      "title": "CHAPTER VII",
+      "start_pos": 3007658,
+      "end_pos": 3014872,
+      "length": 7214
+    },
+    {
+      "chapter_num": 351,
+      "title": "CHAPTER VIII",
+      "start_pos": 3014886,
+      "end_pos": 3022673,
+      "length": 7787
+    },
+    {
+      "chapter_num": 352,
+      "title": "CHAPTER IX",
+      "start_pos": 3022685,
+      "end_pos": 3034460,
+      "length": 11775
+    },
+    {
+      "chapter_num": 353,
+      "title": "CHAPTER X",
+      "start_pos": 3034471,
+      "end_pos": 3045327,
+      "length": 10856
+    },
+    {
+      "chapter_num": 354,
+      "title": "CHAPTER XI",
+      "start_pos": 3045339,
+      "end_pos": 3052357,
+      "length": 7018
+    },
+    {
+      "chapter_num": 355,
+      "title": "CHAPTER XII",
+      "start_pos": 3052370,
+      "end_pos": 3062556,
+      "length": 10186
+    },
+    {
+      "chapter_num": 356,
+      "title": "CHAPTER XIII",
+      "start_pos": 3062570,
+      "end_pos": 3069885,
+      "length": 7315
+    },
+    {
+      "chapter_num": 357,
+      "title": "CHAPTER XIV",
+      "start_pos": 3069898,
+      "end_pos": 3081158,
+      "length": 11260
+    },
+    {
+      "chapter_num": 358,
+      "title": "CHAPTER XV",
+      "start_pos": 3081170,
+      "end_pos": 3091315,
+      "length": 10145
+    },
+    {
+      "chapter_num": 359,
+      "title": "CHAPTER XVI",
+      "start_pos": 3091328,
+      "end_pos": 3101940,
+      "length": 10612
+    },
+    {
+      "chapter_num": 360,
+      "title": "CHAPTER I",
+      "start_pos": 3101951,
+      "end_pos": 3112329,
+      "length": 10378
+    },
+    {
+      "chapter_num": 361,
+      "title": "CHAPTER II",
+      "start_pos": 3112341,
+      "end_pos": 3122189,
+      "length": 9848
+    },
+    {
+      "chapter_num": 362,
+      "title": "CHAPTER III",
+      "start_pos": 3122202,
+      "end_pos": 3127212,
+      "length": 5010
+    },
+    {
+      "chapter_num": 363,
+      "title": "CHAPTER IV",
+      "start_pos": 3127224,
+      "end_pos": 3141126,
+      "length": 13902
+    },
+    {
+      "chapter_num": 364,
+      "title": "CHAPTER V",
+      "start_pos": 3141137,
+      "end_pos": 3147534,
+      "length": 6397
+    },
+    {
+      "chapter_num": 365,
+      "title": "CHAPTER VI",
+      "start_pos": 3147546,
+      "end_pos": 3155477,
+      "length": 7931
+    },
+    {
+      "chapter_num": 366,
+      "title": "CHAPTER VII",
+      "start_pos": 3155490,
+      "end_pos": 3162876,
+      "length": 7386
+    },
+    {
+      "chapter_num": 367,
+      "title": "CHAPTER VIII",
+      "start_pos": 3162890,
+      "end_pos": 3172623,
+      "length": 9733
+    },
+    {
+      "chapter_num": 368,
+      "title": "CHAPTER IX",
+      "start_pos": 3172635,
+      "end_pos": 3184783,
+      "length": 12148
+    },
+    {
+      "chapter_num": 369,
+      "title": "CHAPTER X",
+      "start_pos": 3184794,
+      "end_pos": 3195977,
+      "length": 11183
+    },
+    {
+      "chapter_num": 370,
+      "title": "CHAPTER XI",
+      "start_pos": 3195989,
+      "end_pos": 3199502,
+      "length": 3513
+    },
+    {
+      "chapter_num": 371,
+      "title": "CHAPTER XII",
+      "start_pos": 3199515,
+      "end_pos": 3204392,
+      "length": 4877
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 5484,
+      "end_char_pos": 5803,
+      "token_count": 61,
+      "text": "But I warn you, if you don’t tell me that this means war,\nif you still try to defend the infamies and horrors perpetrated by that\nAntichrist—I really believe he is Antichrist—I will have nothing\nmore to do with you and you are no longer my friend, no longer my\n‘faithful slave,’ as you call yourself! But how do you do?",
+      "first_sentence": "But I warn you, if you don’t tell me that this means war,\nif you still try to defend the infamies and horrors perpetrated by that\nAntichrist—I really believe he is Antichrist—I will have nothing\nmore to do with you and you are no longer my friend, no longer my\n‘faithful slave,’ as you call yourself!"
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 29210,
+      "end_char_pos": 29513,
+      "token_count": 49,
+      "text": "Prince Hippolyte, having brought the workbag, joined the circle and\nmoving a chair close to hers seated himself beside her.\n\nLe charmant Hippolyte was surprising by his extraordinary resemblance\nto his beautiful sister, but yet more by the fact that in spite of\nthis resemblance he was exceedingly ugly.",
+      "first_sentence": "Prince Hippolyte, having brought the workbag, joined the circle and\nmoving a chair close to hers seated himself beside her."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 15,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 89458,
+      "end_char_pos": 89816,
+      "token_count": 64,
+      "text": "The conversation was on the chief topic of the day: the illness of the wealthy and celebrated beau of Catherine’s day, Count Bezúkhov, and about his illegitimate son Pierre, the one who had behaved so improperly at Anna Pávlovna’s reception. “I am so sorry for the poor count,” said the visitor. “He is in such bad health, and now this vexation about his son",
+      "first_sentence": "The conversation was on the chief topic of the day: the illness of the wealthy and celebrated beau of Catherine’s day, Count Bezúkhov, and about his illegitimate son Pierre, the one who had behaved so improperly at Anna Pávlovna’s reception."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 23,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 148841,
+      "end_char_pos": 149253,
+      "token_count": 65,
+      "text": "I suppose it’s very\ninteresting.”\n\n“Very interesting.”\n\nThe countess exchanged glances with Anna Mikháylovna. The latter\nunderstood that she was being asked to entertain this young man, and\nsitting down beside him she began to speak about his father; but he\nanswered her, as he had the countess, only in monosyllables. The other\nguests were all conversing with one another. “The Razumóvskis... It\nwas charming...",
+      "first_sentence": "I suppose it’s very\ninteresting."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 30,
+      "chapter_title": "CHAPTER XXV",
+      "start_char_pos": 228583,
+      "end_char_pos": 228938,
+      "token_count": 68,
+      "text": "To say nothing of my brothers, this\nwar has deprived me of one of the associations nearest my heart. I mean\nyoung Nicholas Rostóv, who with his enthusiasm could not bear to remain\ninactive and has left the university to join the army. I will confess to\nyou, dear Mary, that in spite of his extreme youth his departure for\nthe army was a great grief to me.",
+      "first_sentence": "To say nothing of my brothers, this\nwar has deprived me of one of the associations nearest my heart."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 38,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 336684,
+      "end_char_pos": 337077,
+      "token_count": 70,
+      "text": "Am I not right, Denísov? It’s not the\nsame!”\n\nDenísov remained silent and did not move, but occasionally looked with\nhis glittering black eyes at Rostóv.\n\n“You value your own pride and don’t wish to apologize,” continued\nthe staff captain, “but we old fellows, who have grown up in and, God\nwilling, are going to die in the regiment, we prize the honor of the\nregiment, and Bogdánich knows it.",
+      "first_sentence": "Am I not right, Denísov?"
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 45,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 407461,
+      "end_char_pos": 407795,
+      "token_count": 62,
+      "text": "Listening to Bilíbin he was already imagining how on reaching the army\nhe would give an opinion at the war council which would be the only one\nthat could save the army, and how he alone would be entrusted with the\nexecuting of the plan.\n\n“Stop this jesting,” he said.\n\n“I am not jesting,” Bilíbin went on. “Nothing is truer or sadder.",
+      "first_sentence": "Listening to Bilíbin he was already imagining how on reaching the army\nhe would give an opinion at the war council which would be the only one\nthat could save the army, and how he alone would be entrusted with the\nexecuting of the plan."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 52,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 475551,
+      "end_char_pos": 475914,
+      "token_count": 69,
+      "text": "Rook pulled at the\nreins and started of his own accord.\n\nBefore him, on the right, Rostóv saw the front lines of his hussars and\nstill farther ahead a dark line which he could not see distinctly but\ntook to be the enemy. Shots could be heard, but some way off.\n\n“Faster!” came the word of command, and Rostóv felt Rook’s flanks\ndrooping as he broke into a gallop.",
+      "first_sentence": "Rook pulled at the\nreins and started of his own accord."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 60,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 600668,
+      "end_char_pos": 601250,
+      "token_count": 97,
+      "text": "I’m not going to.”\n\n“Why should you be ashamed?”\n\n“Well, I don’t know. It’s awkward and would make me ashamed.”\n\n“And I know why she’d be ashamed,” said Pétya, offended by\nNatásha’s previous remark. “It’s because she was in love with\nthat fat one in spectacles” (that was how Pétya described his\nnamesake, the new Count Bezúkhov) “and now she’s in love with that\nsinger” (he meant Natásha’s Italian singing master), “that’s\nwhy she’s ashamed!”\n\n“Pétya, you’re stupid!” said Natásha.\n\n“Not more stupid than you, madam,” said the nine-year-old Pétya,\nwith the air of an old brigadier.",
+      "first_sentence": "I’m not going to."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 67,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 687773,
+      "end_char_pos": 688088,
+      "token_count": 55,
+      "text": "Rostóv, still looking round toward the fires and the shouts, rode with\nthe sergeant to meet some mounted men who were riding along the line.\nOne was on a white horse. Prince Bagratión and Prince Dolgorúkov with\ntheir adjutants had come to witness the curious phenomenon of the\nlights and shouts in the enemy’s camp.",
+      "first_sentence": "Rostóv, still looking round toward the fires and the shouts, rode with\nthe sergeant to meet some mounted men who were riding along the line."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 75,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 783207,
+      "end_char_pos": 783744,
+      "token_count": 91,
+      "text": "He’s not there himself, so you’ll\nhave to go in and ask the princesses; and from there go on to the\nRasgulyáy—the coachman Ipátka knows—and look up the gypsy\nIlyúshka, the one who danced at Count Orlóv’s, you remember, in a\nwhite Cossack coat, and bring him along to me.”\n\n“And am I to bring the gypsy girls along with him?” asked Nicholas,\nlaughing. “Dear, dear!...”\n\nAt that moment, with noiseless footsteps and with the businesslike,\npreoccupied, yet meekly Christian look which never left her face, Anna\nMikháylovna entered the hall.",
+      "first_sentence": "He’s not there himself, so you’ll\nhave to go in and ask the princesses; and from there go on to the\nRasgulyáy—the coachman Ipátka knows—and look up the gypsy\nIlyúshka, the one who danced at Count Orlóv’s, you remember, in a\nwhite Cossack coat, and bring him along to me."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 82,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 844469,
+      "end_char_pos": 844811,
+      "token_count": 64,
+      "text": "Prince Andrew turned to him, but the doctor gave him a bewildered look and passed by without a word. A woman rushed out and seeing Prince Andrew stopped, hesitating on the threshold. He went into his wife’s room. She was lying dead, in the same position he had seen her in five minutes before and, despite the fixed eyes and the pallor of the",
+      "first_sentence": "Prince Andrew turned to him, but the doctor gave him a bewildered look and passed by without a word."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 90,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 896182,
+      "end_char_pos": 896506,
+      "token_count": 59,
+      "text": "His servant handed him a half-cut novel, in the form of letters, by\nMadame de Souza. He began reading about the sufferings and virtuous\nstruggles of a certain Emilie de Mansfeld. “And why did she resist\nher seducer when she loved him?” he thought. “God could not have put\ninto her heart an impulse that was against His will.",
+      "first_sentence": "His servant handed him a half-cut novel, in the form of letters, by\nMadame de Souza."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 97,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 956323,
+      "end_char_pos": 956891,
+      "token_count": 100,
+      "text": "The curtains were drawn, and a single candle was burning on\nthe table, screened by a bound music book so that the light did not fall\non the cot.\n\n“My dear,” said Princess Mary, addressing her brother from beside\nthe cot where she was standing, “better wait a bit... later...”\n\n“Oh, leave off, you always talk nonsense and keep putting things\noff—and this is what comes of it!” said Prince Andrew in an\nexasperated whisper, evidently meaning to wound his sister.\n\n“My dear, really... it’s better not to wake him... he’s asleep,”\nsaid the princess in a tone of entreaty.",
+      "first_sentence": "The curtains were drawn, and a single candle was burning on\nthe table, screened by a bound music book so that the light did not fall\non the cot."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 104,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 1024822,
+      "end_char_pos": 1025220,
+      "token_count": 68,
+      "text": "Everything had been eaten up and the inhabitants had all fled—if any\nremained, they were worse than beggars and nothing more could be taken\nfrom them; even the soldiers, usually pitiless enough, instead of taking\nanything from them, often gave them the last of their rations.\n\nThe Pávlograd regiment had had only two men wounded in action, but had\nlost nearly half its men from hunger and sickness.",
+      "first_sentence": "Everything had been eaten up and the inhabitants had all fled—if any\nremained, they were worse than beggars and nothing more could be taken\nfrom them; even the soldiers, usually pitiless enough, instead of taking\nanything from them, often gave them the last of their rations."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 112,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 1089942,
+      "end_char_pos": 1090394,
+      "token_count": 83,
+      "text": "Just before the window was a row of pollard trees, looking\nblack on one side and with a silvery light on the other. Beneath the\ntrees grew some kind of lush, wet, bushy vegetation with silver-lit\nleaves and stems here and there. Farther back beyond the dark trees a\nroof glittered with dew, to the right was a leafy tree with brilliantly\nwhite trunk and branches, and above it shone the moon, nearly at its\nfull, in a pale, almost starless, spring sky.",
+      "first_sentence": "Just before the window was a row of pollard trees, looking\nblack on one side and with a silvery light on the other."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 119,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 1141594,
+      "end_char_pos": 1141938,
+      "token_count": 53,
+      "text": "Pierre during\nthe last two years, as a result of his continual absorption in abstract\ninterests and his sincere contempt for all else, had acquired in his\nwife’s circle, which did not interest him, that air of unconcern,\nindifference, and benevolence toward all, which cannot be acquired\nartificially and therefore inspires involuntary respect.",
+      "first_sentence": "Pierre during\nthe last two years, as a result of his continual absorption in abstract\ninterests and his sincere contempt for all else, had acquired in his\nwife’s circle, which did not interest him, that air of unconcern,\nindifference, and benevolence toward all, which cannot be acquired\nartificially and therefore inspires involuntary respect."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 127,
+      "chapter_title": "CHAPTER XVII",
+      "start_char_pos": 1200085,
+      "end_char_pos": 1200454,
+      "token_count": 65,
+      "text": "She did go first to her cousin.\n\n“What rubbish sometimes enters one’s head!” thought Prince Andrew,\n“but what is certain is that that girl is so charming, so original,\nthat she won’t be dancing here a month before she will be married....\nSuch as she are rare here,” he thought, as Natásha, readjusting a\nrose that was slipping on her bodice, settled herself beside him.",
+      "first_sentence": "She did go first to her cousin."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 134,
+      "chapter_title": "CHAPTER XXIV",
+      "start_char_pos": 1252737,
+      "end_char_pos": 1253046,
+      "token_count": 56,
+      "text": "When Prince Andrew\nspoke (he could tell a story very well), Natásha listened to him\nwith pride; when she spoke she noticed with fear and joy that he gazed\nattentively and scrutinizingly at her. She asked herself in perplexity:\n“What does he look for in me? He is trying to discover something by\nlooking at me!",
+      "first_sentence": "When Prince Andrew\nspoke (he could tell a story very well), Natásha listened to him\nwith pride; when she spoke she noticed with fear and joy that he gazed\nattentively and scrutinizingly at her."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 141,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 1307740,
+      "end_char_pos": 1308125,
+      "token_count": 68,
+      "text": "Nicholas could already see not far in front of him the\nwood where the wolf would certainly escape should she reach it. But,\ncoming toward him, he saw hounds and a huntsman galloping almost\nstraight at the wolf. There was still hope. A long, yellowish\nyoung borzoi, one Nicholas did not know, from another leash, rushed\nimpetuously at the wolf from in front and almost knocked her over.",
+      "first_sentence": "Nicholas could already see not far in front of him the\nwood where the wolf would certainly escape should she reach it."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 149,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 1396272,
+      "end_char_pos": 1396660,
+      "token_count": 73,
+      "text": "Be quiet, be quiet, be quiet, I\ntell you!...” she almost screamed, so as to drown his voice.\n\n“Mamma darling, it’s not at all so... my poor, sweet darling,” she\nsaid to her mother, who conscious that they had been on the brink of\na rupture gazed at her son with terror, but in the obstinacy and\nexcitement of the conflict could not and would not give way.\n\n“Nicholas, I’ll explain to you.",
+      "first_sentence": "Be quiet, be quiet, be quiet, I\ntell you!..."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 156,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 1456941,
+      "end_char_pos": 1457373,
+      "token_count": 68,
+      "text": "Natásha felt offended by the hesitation she had noticed in\nthe anteroom, by her father’s nervousness, and by the unnatural manner\nof the princess who—she thought—was making a favor of receiving her,\nand so everything displeased her. She did not like Princess Mary, whom\nshe thought very plain, affected, and dry. Natásha suddenly shrank\ninto herself and involuntarily assumed an offhand air which alienated\nPrincess Mary still more.",
+      "first_sentence": "Natásha felt offended by the hesitation she had noticed in\nthe anteroom, by her father’s nervousness, and by the unnatural manner\nof the princess who—she thought—was making a favor of receiving her,\nand so everything displeased her."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 164,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 1517938,
+      "end_char_pos": 1518248,
+      "token_count": 58,
+      "text": "How dare you\nsay he is dishonorable? Don’t you know that I love him?” screamed\nNatásha. “Go away, Sónya! I don’t want to quarrel with you, but\ngo, for God’s sake go! You see how I am suffering!” Natásha cried\nangrily, in a voice of despair and repressed irritation. Sónya burst\ninto sobs and ran from the room.",
+      "first_sentence": "How dare you\nsay he is dishonorable?"
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 171,
+      "chapter_title": "CHAPTER XXII",
+      "start_char_pos": 1572365,
+      "end_char_pos": 1572641,
+      "token_count": 56,
+      "text": "I am not worth it!” exclaimed Natásha and\nturned to leave the room, but Pierre held her hand.\n\nHe knew he had something more to say to her. But when he said it he was\namazed at his own words.\n\n“Stop, stop! You have your whole life before you,” said he to her.\n\n“Before me? No!",
+      "first_sentence": "I am not worth it!"
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 179,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 1645330,
+      "end_char_pos": 1645782,
+      "token_count": 84,
+      "text": "The old prince said that if he was ill it was only because of Princess\nMary: that she purposely worried and irritated him, and that by\nindulgence and silly talk she was spoiling little Prince Nicholas. The\nold prince knew very well that he tormented his daughter and that her\nlife was very hard, but he also knew that he could not help tormenting\nher and that she deserved it. “Why does Prince Andrew, who sees this,\nsay nothing to me about his sister?",
+      "first_sentence": "The old prince said that if he was ill it was only because of Princess\nMary: that she purposely worried and irritated him, and that by\nindulgence and silly talk she was spoiling little Prince Nicholas."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 186,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 1713743,
+      "end_char_pos": 1714136,
+      "token_count": 70,
+      "text": "His pale and mud-stained face—fair and\nyoung, with a dimple in the chin and light-blue eyes—was not an enemy’s\nface at all suited to a battlefield, but a most ordinary, homelike face.\nBefore Rostóv had decided what to do with him, the officer cried, “I\nsurrender!” He hurriedly but vainly tried to get his foot out of the\nstirrup and did not remove his frightened blue eyes from Rostóv’s face.",
+      "first_sentence": "His pale and mud-stained face—fair and\nyoung, with a dimple in the chin and light-blue eyes—was not an enemy’s\nface at all suited to a battlefield, but a most ordinary, homelike face."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 193,
+      "chapter_title": "CHAPTER XXII",
+      "start_char_pos": 1782321,
+      "end_char_pos": 1782739,
+      "token_count": 74,
+      "text": "I imagine,” he went on, warming to his\nsubject, “that the Emperor himself would not be satisfied to find in us\nmerely owners of serfs whom we are willing to devote to his service, and\nchair à canon * we are ready to make of ourselves—and not to obtain from\nus any co-co-counsel.”\n\n * “Food for cannon.”\n\nMany persons withdrew from the circle, noticing the senator’s sarcastic\nsmile and the freedom of Pierre’s remarks.",
+      "first_sentence": "I imagine,” he went on, warming to his\nsubject, “that the Emperor himself would not be satisfied to find in us\nmerely owners of serfs whom we are willing to devote to his service, and\nchair à canon * we are ready to make of ourselves—and not to obtain from\nus any co-co-counsel."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 201,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 1870594,
+      "end_char_pos": 1871035,
+      "token_count": 76,
+      "text": "Finding himself in the company of Napoleon, whose identity he had easily\nand surely recognized, Lavrúshka was not in the least abashed but merely\ndid his utmost to gain his new master’s favor.\n\nHe knew very well that this was Napoleon, but Napoleon’s presence could\nno more intimidate him than Rostóv’s, or a sergeant major’s with the\nrods, would have done, for he had nothing that either the sergeant major\nor Napoleon could deprive him of.",
+      "first_sentence": "Finding himself in the company of Napoleon, whose identity he had easily\nand surely recognized, Lavrúshka was not in the least abashed but merely\ndid his utmost to gain his new master’s favor."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 208,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 1938051,
+      "end_char_pos": 1938399,
+      "token_count": 64,
+      "text": "The two bound men were led off to the master’s house. The two drunken\npeasants followed them.\n\n“Aye, when I look at you!...” said one of them to Karp.\n\n“How can one talk to the masters like that? What were you thinking of,\nyou fool?” added the other—“A real fool!”\n\nTwo hours later the carts were standing in the courtyard of the\nBoguchárovo house.",
+      "first_sentence": "The two bound men were led off to the master’s house."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 216,
+      "chapter_title": "CHAPTER XXII",
+      "start_char_pos": 2017654,
+      "end_char_pos": 2018045,
+      "token_count": 65,
+      "text": "Kutúzov noticed Pierre’s figure and the group gathered round him.\n\n“Call him to me,” said Kutúzov.\n\nAn adjutant told Pierre of his Serene Highness’ wish, and Pierre went\ntoward Kutúzov’s bench. But a militiaman got there before him. It was\nDólokhov.\n\n“How did that fellow get here?” asked Pierre.\n\n“He’s a creature that wriggles in anywhere!” was the answer. “He\nhas been degraded, you know.",
+      "first_sentence": "Kutúzov noticed Pierre’s figure and the group gathered round him."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 223,
+      "chapter_title": "CHAPTER XXIX",
+      "start_char_pos": 2072860,
+      "end_char_pos": 2073177,
+      "token_count": 61,
+      "text": "Corvisart gave me these lozenges but\nthey don’t help at all. What can doctors cure? One can’t cure anything.\nOur body is a machine for living. It is organized for that, it is its\nnature. Let life go on in it unhindered and let it defend itself, it\nwill do more than if you paralyze it by encumbering it with remedies.",
+      "first_sentence": "Corvisart gave me these lozenges but\nthey don’t help at all."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 231,
+      "chapter_title": "CHAPTER XXXVI",
+      "start_char_pos": 2135500,
+      "end_char_pos": 2135923,
+      "token_count": 73,
+      "text": "From the other side a battalion commander rode up.\n\n“Look out!” came a frightened cry from a soldier and, like a bird\nwhirring in rapid flight and alighting on the ground, a shell dropped\nwith little noise within two steps of Prince Andrew and close to the\nbattalion commander’s horse. The horse first, regardless of whether it\nwas right or wrong to show fear, snorted, reared almost throwing the\nmajor, and galloped aside.",
+      "first_sentence": "From the other side a battalion commander rode up."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 238,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 2186330,
+      "end_char_pos": 2186675,
+      "token_count": 60,
+      "text": "The discussion began. Bennigsen did not yet consider his game lost.\nAdmitting the view of Barclay and others that a defensive battle at\nFilí was impossible, but imbued with Russian patriotism and the love\nof Moscow, he proposed to move troops from the right to the left flank\nduring the night and attack the French right flank the following day.",
+      "first_sentence": "The discussion began."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 245,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 2233671,
+      "end_char_pos": 2234008,
+      "token_count": 64,
+      "text": "And I will knock the nonsense out of anybody”—but\nprobably realizing that he was shouting at Bezúkhov who so far was not\nguilty of anything, he added, taking Pierre’s hand in a friendly manner,\n“We are on the eve of a public disaster and I haven’t time to be polite\nto everybody who has business with me. My head is sometimes in a whirl.",
+      "first_sentence": "And I will knock the nonsense out of anybody”—but\nprobably realizing that he was shouting at Bezúkhov who so far was not\nguilty of anything, he added, taking Pierre’s hand in a friendly manner,\n“We are on the eve of a public disaster and I haven’t time to be polite\nto everybody who has business with me."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 253,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 2298376,
+      "end_char_pos": 2298627,
+      "token_count": 50,
+      "text": "I will tell the deputation that I did not,\nand do not, desire war, that I have waged war only against the false\npolicy of their court; that I love and respect Alexander and that in\nMoscow I will accept terms of peace worthy of myself and of my people.",
+      "first_sentence": "I will tell the deputation that I did not,\nand do not, desire war, that I have waged war only against the false\npolicy of their court; that I love and respect Alexander and that in\nMoscow I will accept terms of peace worthy of myself and of my people."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 260,
+      "chapter_title": "CHAPTER XXVI",
+      "start_char_pos": 2362962,
+      "end_char_pos": 2363277,
+      "token_count": 64,
+      "text": "The aim of each man when he left Moscow was no longer, as it had been, to conquer, but merely to keep what he had acquired. Like a monkey which puts its paw into the narrow neck of a jug, and having seized a handful of nuts will not open its fist for fear of losing what it holds, and therefore perishes, the French",
+      "first_sentence": "The aim of each man when he left Moscow was no longer, as it had been, to conquer, but merely to keep what he had acquired."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 268,
+      "chapter_title": "CHAPTER XXXIV",
+      "start_char_pos": 2451033,
+      "end_char_pos": 2451489,
+      "token_count": 83,
+      "text": "The old man was already sitting barefoot. The little Frenchman had\nsecured his second boot and was slapping one boot against the other.\nThe old man was saying something in a voice broken by sobs, but Pierre\ncaught but a glimpse of this, his whole attention was directed to the\nFrenchman in the frieze gown who meanwhile, swaying slowly from side to\nside, had drawn nearer to the young woman and taking his hands from his\npockets had seized her by the neck.",
+      "first_sentence": "The old man was already sitting barefoot."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 275,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 2507944,
+      "end_char_pos": 2508276,
+      "token_count": 62,
+      "text": "Why was I in such a hurry with Sónya?” And he\ninvoluntarily compared the two: the lack of spirituality in the one and\nthe abundance of it in the other—a spirituality he himself lacked and\ntherefore valued most highly. He tried to picture what would happen were\nhe free. How he would propose to her and how she would become his wife.",
+      "first_sentence": "Why was I in such a hurry with Sónya?"
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 282,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 2567131,
+      "end_char_pos": 2567481,
+      "token_count": 68,
+      "text": "Hardly\nknowing how she did it, she contrived to utter a few polite phrases in\nFrench in the same tone as those that had been addressed to her, and\nasked: “How is he?”\n\n“The doctor says that he is not in danger,” said the countess, but as\nshe spoke she raised her eyes with a sigh, and her gesture conveyed a\ncontradiction of her words.\n\n“Where is he?",
+      "first_sentence": "Hardly\nknowing how she did it, she contrived to utter a few polite phrases in\nFrench in the same tone as those that had been addressed to her, and\nasked: “How is he?"
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 290,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 2623050,
+      "end_char_pos": 2623405,
+      "token_count": 57,
+      "text": "All his men\nfelt the same excitement.\n\n“Mount!” he commanded in a whisper. The men took their places and\ncrossed themselves.... “Forward, with God’s aid!”\n\n“Hurrah-ah-ah!” reverberated in the forest, and the Cossack companies,\ntrailing their lances and advancing one after another as if poured out\nof a sack, dashed gaily across the brook toward the camp.",
+      "first_sentence": "All his men\nfelt the same excitement."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 297,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 2670524,
+      "end_char_pos": 2670949,
+      "token_count": 68,
+      "text": "Pierre told him about the sick man.\n\n“He’ll manage to walk, devil take him!” said the captain. “Pass on, pass\non!” he continued without looking at Pierre.\n\n“But he is dying,” Pierre again began.\n\n“Be so good...” shouted the captain, frowning angrily.\n\n“Dram-da-da-dam, dam-dam...” rattled the drums, and Pierre understood\nthat this mysterious force completely controlled these men and that it\nwas now useless to say any more.",
+      "first_sentence": "Pierre told him about the sick man."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 305,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 2713631,
+      "end_char_pos": 2714142,
+      "token_count": 89,
+      "text": "That was a misfortune no one could remedy,\nfor the peasants of the district burned their hay rather than let the\nFrench have it.\n\nThe victory gained did not bring the usual results because the peasants\nKarp and Vlas (who after the French had evacuated Moscow drove in their\ncarts to pillage the town, and in general personally failed to manifest\nany heroic feelings), and the whole innumerable multitude of such\npeasants, did not bring their hay to Moscow for the high price offered\nthem, but burned it instead.",
+      "first_sentence": "That was a misfortune no one could remedy,\nfor the peasants of the district burned their hay rather than let the\nFrench have it."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 312,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 2759231,
+      "end_char_pos": 2759567,
+      "token_count": 59,
+      "text": "Would it be difficult for you to send thirty or\nthwee hundwed men to town under escort, instead of staining—I speak\nbluntly—staining the honor of a soldier?”\n\n“That kind of amiable talk would be suitable from this young count of\nsixteen,” said Dólokhov with cold irony, “but it’s time for you to drop\nit.”\n\n“Why, I’ve not said anything!",
+      "first_sentence": "Would it be difficult for you to send thirty or\nthwee hundwed men to town under escort, instead of staining—I speak\nbluntly—staining the honor of a soldier?"
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 320,
+      "chapter_title": "CHAPTER XVI",
+      "start_char_pos": 2807732,
+      "end_char_pos": 2808169,
+      "token_count": 75,
+      "text": "During the last few days many of the men have been\nseen to throw away their cartridges and their arms. In such a state\nof affairs, whatever your ultimate plans may be, the interest of Your\nMajesty’s service demands that the army should be rallied at Smolénsk\nand should first of all be freed from ineffectives, such as dismounted\ncavalry, unnecessary baggage, and artillery material that is no longer\nin proportion to the present forces.",
+      "first_sentence": "During the last few days many of the men have been\nseen to throw away their cartridges and their arms."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 327,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 2850512,
+      "end_char_pos": 2850822,
+      "token_count": 50,
+      "text": "This longing to distinguish themselves, to maneuver, to overthrow, and\nto cut off showed itself particularly whenever the Russians stumbled on\nthe French army.\n\nSo it was at Krásnoe, where they expected to find one of the three\nFrench columns and stumbled instead on Napoleon himself with sixteen\nthousand men.",
+      "first_sentence": "This longing to distinguish themselves, to maneuver, to overthrow, and\nto cut off showed itself particularly whenever the Russians stumbled on\nthe French army."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 334,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 2899736,
+      "end_char_pos": 2900104,
+      "token_count": 61,
+      "text": "With this object his staff was gradually reconstructed and its real\nstrength removed and transferred to the Emperor. Toll, Konovnítsyn, and\nErmólov received fresh appointments. Everyone spoke loudly of the field\nmarshal’s great weakness and failing health.\n\nHis health had to be bad for his place to be taken away and given to\nanother. And in fact his health was poor.",
+      "first_sentence": "With this object his staff was gradually reconstructed and its real\nstrength removed and transferred to the Emperor."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 342,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 2960354,
+      "end_char_pos": 2960662,
+      "token_count": 54,
+      "text": "When it was suggested to him that he should enter the civil service,\nor when the war or any general political affairs were discussed on the\nassumption that everybody’s welfare depended on this or that issue\nof events, he would listen with a mild and pitying smile and surprise\npeople by his strange comments.",
+      "first_sentence": "When it was suggested to him that he should enter the civil service,\nor when the war or any general political affairs were discussed on the\nassumption that everybody’s welfare depended on this or that issue\nof events, he would listen with a mild and pitying smile and surprise\npeople by his strange comments."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 349,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 3003273,
+      "end_char_pos": 3003657,
+      "token_count": 69,
+      "text": "Her first glance at Nicholas’ face told her that he had only come to\nfulfill the demands of politeness, and she firmly resolved to maintain\nthe tone in which he addressed her.\n\nThey spoke of the countess’ health, of their mutual friends, of the\nlatest war news, and when the ten minutes required by propriety had\nelapsed after which a visitor may rise, Nicholas got up to say good-by.",
+      "first_sentence": "Her first glance at Nicholas’ face told her that he had only come to\nfulfill the demands of politeness, and she firmly resolved to maintain\nthe tone in which he addressed her."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 357,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 3075548,
+      "end_char_pos": 3075970,
+      "token_count": 74,
+      "text": "His face\ndarkened and he went up to the boy.\n\n“Why are you here?”\n\n“Why? Let him be,” said Pierre, taking Nicholas by the arm and\ncontinuing. “That is not enough, I told them. Something else is needed.\nWhen you stand expecting the overstrained string to snap at any moment,\nwhen everyone is expecting the inevitable catastrophe, as many as\npossible must join hands as closely as they can to withstand the general\ncalamity.",
+      "first_sentence": "His face\ndarkened and he went up to the boy."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 364,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 3144407,
+      "end_char_pos": 3144856,
+      "token_count": 71,
+      "text": "If the realm of human knowledge were confined to abstract reasoning,\nthen having subjected to criticism the explanation of “power” that\njuridical science gives us, humanity would conclude that power is merely\na word and has no real existence. But to understand phenomena man\nhas, besides abstract reasoning, experience by which he verifies his\nreflections. And experience tells us that power is not merely a word but\nan actually existing phenomenon.",
+      "first_sentence": "If the realm of human knowledge were confined to abstract reasoning,\nthen having subjected to criticism the explanation of “power” that\njuridical science gives us, humanity would conclude that power is merely\na word and has no real existence."
+    }
+  ]
+}

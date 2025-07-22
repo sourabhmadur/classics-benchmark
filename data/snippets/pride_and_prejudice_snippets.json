@@ -1,0 +1,938 @@
+{
+  "novel_key": "pride_and_prejudice",
+  "novel_file": "pride_and_prejudice.txt",
+  "text_length": 690050,
+  "chapters_detected": 61,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER II",
+      "start_pos": 7621,
+      "end_pos": 11933,
+      "length": 4312
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER III",
+      "start_pos": 11946,
+      "end_pos": 21539,
+      "length": 9593
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER IV",
+      "start_pos": 21551,
+      "end_pos": 27497,
+      "length": 5946
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER V",
+      "start_pos": 27508,
+      "end_pos": 32804,
+      "length": 5296
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER VI",
+      "start_pos": 32816,
+      "end_pos": 45853,
+      "length": 13037
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER VII",
+      "start_pos": 45866,
+      "end_pos": 57089,
+      "length": 11223
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER VIII",
+      "start_pos": 57103,
+      "end_pos": 68113,
+      "length": 11010
+    },
+    {
+      "chapter_num": 8,
+      "title": "CHAPTER IX",
+      "start_pos": 68125,
+      "end_pos": 77907,
+      "length": 9782
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER X",
+      "start_pos": 77918,
+      "end_pos": 90438,
+      "length": 12520
+    },
+    {
+      "chapter_num": 10,
+      "title": "CHAPTER XI",
+      "start_pos": 90450,
+      "end_pos": 99414,
+      "length": 8964
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER XII",
+      "start_pos": 99427,
+      "end_pos": 103388,
+      "length": 3961
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER XIII",
+      "start_pos": 103402,
+      "end_pos": 112771,
+      "length": 9369
+    },
+    {
+      "chapter_num": 13,
+      "title": "CHAPTER XIV",
+      "start_pos": 112784,
+      "end_pos": 119261,
+      "length": 6477
+    },
+    {
+      "chapter_num": 14,
+      "title": "CHAPTER XV",
+      "start_pos": 119273,
+      "end_pos": 129088,
+      "length": 9815
+    },
+    {
+      "chapter_num": 15,
+      "title": "CHAPTER XVI",
+      "start_pos": 129101,
+      "end_pos": 148146,
+      "length": 19045
+    },
+    {
+      "chapter_num": 16,
+      "title": "CHAPTER XVII",
+      "start_pos": 148160,
+      "end_pos": 155467,
+      "length": 7307
+    },
+    {
+      "chapter_num": 17,
+      "title": "CHAPTER XVIII",
+      "start_pos": 155482,
+      "end_pos": 184655,
+      "length": 29173
+    },
+    {
+      "chapter_num": 18,
+      "title": "CHAPTER XIX",
+      "start_pos": 184668,
+      "end_pos": 195362,
+      "length": 10694
+    },
+    {
+      "chapter_num": 19,
+      "title": "CHAPTER XX",
+      "start_pos": 195374,
+      "end_pos": 204583,
+      "length": 9209
+    },
+    {
+      "chapter_num": 20,
+      "title": "CHAPTER XXI",
+      "start_pos": 204596,
+      "end_pos": 215908,
+      "length": 11312
+    },
+    {
+      "chapter_num": 21,
+      "title": "CHAPTER XXII",
+      "start_pos": 215922,
+      "end_pos": 225952,
+      "length": 10030
+    },
+    {
+      "chapter_num": 22,
+      "title": "CHAPTER XXIII",
+      "start_pos": 225967,
+      "end_pos": 235315,
+      "length": 9348
+    },
+    {
+      "chapter_num": 23,
+      "title": "CHAPTER XXIV",
+      "start_pos": 235329,
+      "end_pos": 246187,
+      "length": 10858
+    },
+    {
+      "chapter_num": 24,
+      "title": "CHAPTER XXV",
+      "start_pos": 246200,
+      "end_pos": 254814,
+      "length": 8614
+    },
+    {
+      "chapter_num": 25,
+      "title": "CHAPTER XXVI",
+      "start_pos": 254828,
+      "end_pos": 267644,
+      "length": 12816
+    },
+    {
+      "chapter_num": 26,
+      "title": "CHAPTER XXVII",
+      "start_pos": 267659,
+      "end_pos": 274879,
+      "length": 7220
+    },
+    {
+      "chapter_num": 27,
+      "title": "CHAPTER XXVIII",
+      "start_pos": 274895,
+      "end_pos": 283152,
+      "length": 8257
+    },
+    {
+      "chapter_num": 28,
+      "title": "CHAPTER XXIX",
+      "start_pos": 283166,
+      "end_pos": 296885,
+      "length": 13719
+    },
+    {
+      "chapter_num": 29,
+      "title": "CHAPTER XXX",
+      "start_pos": 296898,
+      "end_pos": 303983,
+      "length": 7085
+    },
+    {
+      "chapter_num": 30,
+      "title": "CHAPTER XXXI",
+      "start_pos": 303997,
+      "end_pos": 312774,
+      "length": 8777
+    },
+    {
+      "chapter_num": 31,
+      "title": "CHAPTER XXXII",
+      "start_pos": 312789,
+      "end_pos": 321264,
+      "length": 8475
+    },
+    {
+      "chapter_num": 32,
+      "title": "CHAPTER XXXIII",
+      "start_pos": 321280,
+      "end_pos": 331693,
+      "length": 10413
+    },
+    {
+      "chapter_num": 33,
+      "title": "CHAPTER XXXIV",
+      "start_pos": 331708,
+      "end_pos": 343727,
+      "length": 12019
+    },
+    {
+      "chapter_num": 34,
+      "title": "CHAPTER XXXV",
+      "start_pos": 343741,
+      "end_pos": 360748,
+      "length": 17007
+    },
+    {
+      "chapter_num": 35,
+      "title": "CHAPTER XXXVI",
+      "start_pos": 360763,
+      "end_pos": 372572,
+      "length": 11809
+    },
+    {
+      "chapter_num": 36,
+      "title": "CHAPTER XXXVII",
+      "start_pos": 372588,
+      "end_pos": 380390,
+      "length": 7802
+    },
+    {
+      "chapter_num": 37,
+      "title": "CHAPTER XXXVIII",
+      "start_pos": 380407,
+      "end_pos": 386377,
+      "length": 5970
+    },
+    {
+      "chapter_num": 38,
+      "title": "CHAPTER XXXIX",
+      "start_pos": 386392,
+      "end_pos": 395199,
+      "length": 8807
+    },
+    {
+      "chapter_num": 39,
+      "title": "CHAPTER XL",
+      "start_pos": 395211,
+      "end_pos": 404422,
+      "length": 9211
+    },
+    {
+      "chapter_num": 40,
+      "title": "CHAPTER XLI",
+      "start_pos": 404435,
+      "end_pos": 417463,
+      "length": 13028
+    },
+    {
+      "chapter_num": 41,
+      "title": "CHAPTER XLII",
+      "start_pos": 417477,
+      "end_pos": 428131,
+      "length": 10654
+    },
+    {
+      "chapter_num": 42,
+      "title": "CHAPTER XLIII",
+      "start_pos": 428146,
+      "end_pos": 455681,
+      "length": 27535
+    },
+    {
+      "chapter_num": 43,
+      "title": "CHAPTER XLIV",
+      "start_pos": 455695,
+      "end_pos": 469083,
+      "length": 13388
+    },
+    {
+      "chapter_num": 44,
+      "title": "CHAPTER XLV",
+      "start_pos": 469096,
+      "end_pos": 479228,
+      "length": 10132
+    },
+    {
+      "chapter_num": 45,
+      "title": "Chapter XLVI",
+      "start_pos": 479242,
+      "end_pos": 496188,
+      "length": 16946
+    },
+    {
+      "chapter_num": 46,
+      "title": "CHAPTER XLVII",
+      "start_pos": 496203,
+      "end_pos": 513720,
+      "length": 17517
+    },
+    {
+      "chapter_num": 47,
+      "title": "did. H",
+      "start_pos": 513727,
+      "end_pos": 518574,
+      "length": 4847
+    },
+    {
+      "chapter_num": 48,
+      "title": "CHAPTER XLVIII",
+      "start_pos": 518590,
+      "end_pos": 531229,
+      "length": 12639
+    },
+    {
+      "chapter_num": 49,
+      "title": "CHAPTER XLIX",
+      "start_pos": 531243,
+      "end_pos": 543560,
+      "length": 12317
+    },
+    {
+      "chapter_num": 50,
+      "title": "CHAPTER L",
+      "start_pos": 543571,
+      "end_pos": 556080,
+      "length": 12509
+    },
+    {
+      "chapter_num": 51,
+      "title": "CHAPTER LI",
+      "start_pos": 556092,
+      "end_pos": 567343,
+      "length": 11251
+    },
+    {
+      "chapter_num": 52,
+      "title": "CHAPTER LII",
+      "start_pos": 567356,
+      "end_pos": 584055,
+      "length": 16699
+    },
+    {
+      "chapter_num": 53,
+      "title": "CHAPTER LIII",
+      "start_pos": 584069,
+      "end_pos": 600174,
+      "length": 16105
+    },
+    {
+      "chapter_num": 54,
+      "title": "CHAPTER LIV",
+      "start_pos": 600187,
+      "end_pos": 609044,
+      "length": 8857
+    },
+    {
+      "chapter_num": 55,
+      "title": "CHAPTER LV",
+      "start_pos": 609056,
+      "end_pos": 622081,
+      "length": 13025
+    },
+    {
+      "chapter_num": 56,
+      "title": "CHAPTER LVI",
+      "start_pos": 622094,
+      "end_pos": 637438,
+      "length": 15344
+    },
+    {
+      "chapter_num": 57,
+      "title": "CHAPTER LVII",
+      "start_pos": 637452,
+      "end_pos": 646852,
+      "length": 9400
+    },
+    {
+      "chapter_num": 58,
+      "title": "CHAPTER LVIII",
+      "start_pos": 646867,
+      "end_pos": 660528,
+      "length": 13661
+    },
+    {
+      "chapter_num": 59,
+      "title": "CHAPTER LIX",
+      "start_pos": 660541,
+      "end_pos": 674105,
+      "length": 13564
+    },
+    {
+      "chapter_num": 60,
+      "title": "CHAPTER LX",
+      "start_pos": 674117,
+      "end_pos": 682849,
+      "length": 8732
+    },
+    {
+      "chapter_num": 61,
+      "title": "CHAPTER LXI",
+      "start_pos": 682862,
+      "end_pos": 690050,
+      "length": 7188
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 9808,
+      "end_char_pos": 10065,
+      "token_count": 44,
+      "text": "Bennet said only, “Nonsense,\nnonsense!”\n\n“What can be the meaning of that emphatic exclamation?” cried he. “Do\nyou consider the forms of introduction, and the stress that is laid on\nthem, as nonsense? I cannot quite agree with you there. What say you,\nMary?",
+      "first_sentence": "Bennet said only, “Nonsense,\nnonsense!"
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 16785,
+      "end_char_pos": 17040,
+      "token_count": 46,
+      "text": "I hate to see you\nstanding about by yourself in this stupid manner. You had much better\ndance.”\n\n“I certainly shall not. You know how I detest it, unless I am\nparticularly acquainted with my partner. At such an assembly as this, it\nwould be insupportable.",
+      "first_sentence": "I hate to see you\nstanding about by yourself in this stupid manner."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 24615,
+      "end_char_pos": 25111,
+      "token_count": 91,
+      "text": "Bingley inherited property to the amount of nearly a hundred\nthousand pounds from his father, who had intended to purchase an estate,\nbut did not live to do it. Mr. Bingley intended it likewise, and\nsometimes made choice of his county; but, as he was now provided with a\ngood house and the liberty of a manor, it was doubtful to many of those\nwho best knew the easiness of his temper, whether he might not spend the\nremainder of his days at Netherfield, and leave the next generation to\npurchase.",
+      "first_sentence": "Bingley inherited property to the amount of nearly a hundred\nthousand pounds from his father, who had intended to purchase an estate,\nbut did not live to do it."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 30207,
+      "end_char_pos": 30680,
+      "token_count": 87,
+      "text": "Long told me last night that he\nsat close to her for half an hour without once opening his lips.”\n\n]\n\n“Are you quite sure, ma’am? Is not there a little mistake?” said Jane.\n“I certainly saw Mr. Darcy speaking to her.”\n\n“Ay, because she asked him at last how he liked Netherfield, and he\ncould not help answering her; but she said he seemed very angry at being\nspoke to.”\n\n“Miss Bingley told me,” said Jane, “that he never speaks much unless\namong his intimate acquaintance.",
+      "first_sentence": "Long told me last night that he\nsat close to her for half an hour without once opening his lips."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 51560,
+      "end_char_pos": 51922,
+      "token_count": 65,
+      "text": "Her hopes were answered; Jane had not been gone long before it\nrained hard. Her sisters were uneasy for her, but her mother was\ndelighted. The rain continued the whole evening without intermission;\nJane certainly could not come back.\n\n“This was a lucky idea of mine, indeed!” said Mrs. Bennet, more than\nonce, as if the credit of making it rain were all her own.",
+      "first_sentence": "Her hopes were answered; Jane had not been gone long before it\nrained hard."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 62834,
+      "end_char_pos": 63223,
+      "token_count": 70,
+      "text": "What a delightful library you have at\nPemberley, Mr. Darcy!”\n\n“It ought to be good,” he replied: “it has been the work of many\ngenerations.”\n\n“And then you have added so much to it yourself--you are always buying\nbooks.”\n\n“I cannot comprehend the neglect of a family library in such days as\nthese.”\n\n“Neglect! I am sure you neglect nothing that can add to the beauties of\nthat noble place.",
+      "first_sentence": "What a delightful library you have at\nPemberley, Mr."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 73129,
+      "end_char_pos": 73561,
+      "token_count": 70,
+      "text": "I know we dine with four-and-twenty families.”\n\nNothing but concern for Elizabeth could enable Bingley to keep his\ncountenance. His sister was less delicate, and directed her eye towards\nMr. Darcy with a very expressive smile. Elizabeth, for the sake of\nsaying something that might turn her mother’s thoughts, now asked her if\nCharlotte Lucas had been at Longbourn since her coming away.\n\n“Yes, she called yesterday with her father.",
+      "first_sentence": "I know we dine with four-and-twenty families."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 84189,
+      "end_char_pos": 84546,
+      "token_count": 64,
+      "text": "But in general and ordinary cases, between friend and friend, where one of them is desired by the other to change a resolution of no very great moment, should you think ill of that person for complying with the desire, without waiting to be argued into it?” “Will it not be advisable, before we proceed on this subject, to arrange with rather more precision",
+      "first_sentence": "But in general and ordinary cases, between friend and friend, where one of them is desired by the other to change a resolution of no very great moment, should you think ill of that person for complying with the desire, without waiting to be argued into it?"
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 101666,
+      "end_char_pos": 101992,
+      "token_count": 58,
+      "text": "Steady to his purpose, he scarcely spoke\nten words to her through the whole of Saturday: and though they were at\none time left by themselves for half an hour, he adhered most\nconscientiously to his book, and would not even look at her.\n\nOn Sunday, after morning service, the separation, so agreeable to almost\nall, took place.",
+      "first_sentence": "Steady to his purpose, he scarcely spoke\nten words to her through the whole of Saturday: and though they were at\none time left by themselves for half an hour, he adhered most\nconscientiously to his book, and would not even look at her."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 108238,
+      "end_char_pos": 108635,
+      "token_count": 64,
+      "text": "I remain, dear sir, with respectful compliments to your lady and daughters, your well-wisher and friend, “WILLIAM COLLINS.” “At four o’clock, therefore, we may expect this peace-making gentleman,” said Mr. Bennet, as he folded up the letter. “He seems to be a most conscientious and polite young man, upon my word; and, I doubt not, will prove a valuable acquaintance, especially if Lady Catherine",
+      "first_sentence": "I remain, dear sir, with respectful compliments to your lady and daughters, your well-wisher and friend, “WILLIAM COLLINS."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 116182,
+      "end_char_pos": 116560,
+      "token_count": 67,
+      "text": "I have more than once observed to Lady Catherine, that her\ncharming daughter seemed born to be a duchess; and that the most\nelevated rank, instead of giving her consequence, would be adorned by\nher. These are the kind of little things which please her Ladyship, and\nit is a sort of attention which I conceive myself peculiarly bound to\npay.”\n\n“You judge very properly,” said Mr.",
+      "first_sentence": "I have more than once observed to Lady Catherine, that her\ncharming daughter seemed born to be a duchess; and that the most\nelevated rank, instead of giving her consequence, would be adorned by\nher."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 14,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 124197,
+      "end_char_pos": 124575,
+      "token_count": 68,
+      "text": "Wickham, who had returned with him the day\nbefore from town, and, he was happy to say, had accepted a commission in\ntheir corps. This was exactly as it should be; for the young man wanted\nonly regimentals to make him completely charming. His appearance was\ngreatly in his favour: he had all the best parts of beauty, a fine\ncountenance, a good figure, and very pleasing address.",
+      "first_sentence": "Wickham, who had returned with him the day\nbefore from town, and, he was happy to say, had accepted a commission in\ntheir corps."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 16,
+      "chapter_title": "CHAPTER XVII",
+      "start_char_pos": 151985,
+      "end_char_pos": 152307,
+      "token_count": 61,
+      "text": "Wickham,\nhe was by no means the only partner who could satisfy them, and a ball\nwas, at any rate, a ball. And even Mary could assure her family that she\nhad no disinclination for it.\n\n“While I can have my mornings to myself,” said she, “it is enough. I\nthink it is no sacrifice to join occasionally in evening engagements.",
+      "first_sentence": "Wickham,\nhe was by no means the only partner who could satisfy them, and a ball\nwas, at any rate, a ball."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 165304,
+      "end_char_pos": 165587,
+      "token_count": 49,
+      "text": "She said no more, and they went down the other dance and parted in\nsilence; on each side dissatisfied, though not to an equal degree; for\nin Darcy’s breast there was a tolerably powerful feeling towards her,\nwhich soon procured her pardon, and directed all his anger against\nanother.",
+      "first_sentence": "She said no more, and they went down the other dance and parted in\nsilence; on each side dissatisfied, though not to an equal degree; for\nin Darcy’s breast there was a tolerably powerful feeling towards her,\nwhich soon procured her pardon, and directed all his anger against\nanother."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 174969,
+      "end_char_pos": 175258,
+      "token_count": 56,
+      "text": "His being such\na charming young man, and so rich, and living but three miles from them,\nwere the first points of self-gratulation; and then it was such a\ncomfort to think how fond the two sisters were of Jane, and to be\ncertain that they must desire the connection as much as she could do.",
+      "first_sentence": "His being such\na charming young man, and so rich, and living but three miles from them,\nwere the first points of self-gratulation; and then it was such a\ncomfort to think how fond the two sisters were of Jane, and to be\ncertain that they must desire the connection as much as she could do."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 190078,
+      "end_char_pos": 190405,
+      "token_count": 59,
+      "text": "On that head,\ntherefore, I shall be uniformly silent: and you may assure yourself that\nno ungenerous reproach shall ever pass my lips when we are married.”\n\nIt was absolutely necessary to interrupt him now.\n\n“You are too hasty, sir,” she cried. “You forget that I have made no\nanswer. Let me do it without further loss of time.",
+      "first_sentence": "On that head,\ntherefore, I shall be uniformly silent: and you may assure yourself that\nno ungenerous reproach shall ever pass my lips when we are married."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 20,
+      "chapter_title": "CHAPTER XXI",
+      "start_char_pos": 210311,
+      "end_char_pos": 210589,
+      "token_count": 56,
+      "text": "It must be his own doing; he is his own master.\nBut you do not know all. I will read you the passage which\nparticularly hurts me. I will have no reserves from you. ‘Mr. Darcy is\nimpatient to see his sister; and to confess the truth, we are scarcely\nless eager to meet her again.",
+      "first_sentence": "It must be his own doing; he is his own master."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER XXII",
+      "start_char_pos": 221033,
+      "end_char_pos": 221443,
+      "token_count": 71,
+      "text": "Bennet, with great politeness and\ncordiality, said how happy they should be to see him at Longbourn again,\nwhenever his other engagements might allow him to visit them.\n\n“My dear madam,” he replied, “this invitation is particularly\ngratifying, because it is what I have been hoping to receive; and you\nmay be very certain that I shall avail myself of it as soon as\npossible.”\n\nThey were all astonished; and Mr.",
+      "first_sentence": "Bennet, with great politeness and\ncordiality, said how happy they should be to see him at Longbourn again,\nwhenever his other engagements might allow him to visit them."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 22,
+      "chapter_title": "CHAPTER XXIII",
+      "start_char_pos": 231087,
+      "end_char_pos": 231517,
+      "token_count": 74,
+      "text": "Collins’s return into Hertfordshire was no longer a matter of\npleasure to Mrs. Bennet. On the contrary, she was as much disposed to\ncomplain of it as her husband. It was very strange that he should come\nto Longbourn instead of to Lucas Lodge; it was also very inconvenient\nand exceedingly troublesome. She hated having visitors in the house\nwhile her health was so indifferent, and lovers were of all people the\nmost disagreeable.",
+      "first_sentence": "Collins’s return into Hertfordshire was no longer a matter of\npleasure to Mrs."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 23,
+      "chapter_title": "CHAPTER XXIV",
+      "start_char_pos": 240811,
+      "end_char_pos": 241197,
+      "token_count": 65,
+      "text": "You shall not, for the sake of one individual,\nchange the meaning of principle and integrity, nor endeavour to persuade\nyourself or me, that selfishness is prudence, and insensibility of\ndanger security for happiness.”\n\n“I must think your language too strong in speaking of both,” replied\nJane; “and I hope you will be convinced of it, by seeing them happy\ntogether. But enough of this.",
+      "first_sentence": "You shall not, for the sake of one individual,\nchange the meaning of principle and integrity, nor endeavour to persuade\nyourself or me, that selfishness is prudence, and insensibility of\ndanger security for happiness."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 25,
+      "chapter_title": "CHAPTER XXVI",
+      "start_char_pos": 261322,
+      "end_char_pos": 261645,
+      "token_count": 62,
+      "text": "I was right, therefore; my last letter had never reached her.\nI inquired after their brother, of course. He was well, but so much\nengaged with Mr. Darcy that they scarcely ever saw him. I found that\nMiss Darcy was expected to dinner: I wish I could see her. My visit was\nnot long, as Caroline and Mrs. Hurst were going out.",
+      "first_sentence": "I was right, therefore; my last letter had never reached her."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 26,
+      "chapter_title": "CHAPTER XXVII",
+      "start_char_pos": 271292,
+      "end_char_pos": 271618,
+      "token_count": 51,
+      "text": "It was reasonable, however, to\nhope that they would not continue long. Mrs. Gardiner gave her the\nparticulars also of Miss Bingley’s visit in Gracechurch Street, and\nrepeated conversations occurring at different times between Jane and\nherself, which proved that the former had, from her heart, given up the\nacquaintance.\n\nMrs.",
+      "first_sentence": "It was reasonable, however, to\nhope that they would not continue long."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 27,
+      "chapter_title": "CHAPTER XXVIII",
+      "start_char_pos": 279090,
+      "end_char_pos": 279389,
+      "token_count": 51,
+      "text": "Collins could be\nforgotten, there was really a great air of comfort throughout, and by\nCharlotte’s evident enjoyment of it, Elizabeth supposed he must be often\nforgotten.\n\nShe had already learnt that Lady Catherine was still in the country. It\nwas spoken of again while they were at dinner, when Mr.",
+      "first_sentence": "Collins could be\nforgotten, there was really a great air of comfort throughout, and by\nCharlotte’s evident enjoyment of it, Elizabeth supposed he must be often\nforgotten."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 28,
+      "chapter_title": "CHAPTER XXIX",
+      "start_char_pos": 290288,
+      "end_char_pos": 290704,
+      "token_count": 73,
+      "text": "She inquired into Charlotte’s domestic\nconcerns familiarly and minutely, and gave her a great deal of advice as\nto the management of them all; told her how everything ought to be\nregulated in so small a family as hers, and instructed her as to the\ncare of her cows and her poultry. Elizabeth found that nothing was\nbeneath this great lady’s attention which could furnish her with an\noccasion for dictating to others.",
+      "first_sentence": "She inquired into Charlotte’s domestic\nconcerns familiarly and minutely, and gave her a great deal of advice as\nto the management of them all; told her how everything ought to be\nregulated in so small a family as hers, and instructed her as to the\ncare of her cows and her poultry."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 30,
+      "chapter_title": "CHAPTER XXXI",
+      "start_char_pos": 308928,
+      "end_char_pos": 309273,
+      "token_count": 64,
+      "text": "I am particularly unlucky in meeting with a person so well able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit. Indeed, Mr. Darcy, it is very ungenerous in you to mention all that you knew to my disadvantage in Hertfordshire--and, give me leave to say, very impolitic too--for",
+      "first_sentence": "I am particularly unlucky in meeting with a person so well able to expose my real character, in a part of the world where I had hoped to pass myself off with some degree of credit."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 31,
+      "chapter_title": "CHAPTER XXXII",
+      "start_char_pos": 317048,
+      "end_char_pos": 317442,
+      "token_count": 67,
+      "text": "Collins have a comfortable income, but not\nsuch a one as will allow of frequent journeys--and I am persuaded my\nfriend would not call herself near her family under less than half\nthe present distance.”\n\nMr. Darcy drew his chair a little towards her, and said, “You cannot\nhave a right to such very strong local attachment. You cannot have\nbeen always at Longbourn.”\n\nElizabeth looked surprised.",
+      "first_sentence": "Collins have a comfortable income, but not\nsuch a one as will allow of frequent journeys--and I am persuaded my\nfriend would not call herself near her family under less than half\nthe present distance."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 32,
+      "chapter_title": "CHAPTER XXXIII",
+      "start_char_pos": 326520,
+      "end_char_pos": 326832,
+      "token_count": 55,
+      "text": "Their brother is a pleasant, gentlemanlike\nman--he is a great friend of Darcy’s.”\n\n“Oh yes,” said Elizabeth drily--“Mr. Darcy is uncommonly kind to Mr.\nBingley, and takes a prodigious deal of care of him.”\n\n“Care of him! Yes, I really believe Darcy does take care of him in\nthose points where he most wants care.",
+      "first_sentence": "Their brother is a pleasant, gentlemanlike\nman--he is a great friend of Darcy’s."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 34,
+      "chapter_title": "CHAPTER XXXV",
+      "start_char_pos": 352277,
+      "end_char_pos": 352668,
+      "token_count": 72,
+      "text": "To persuade\nhim against returning into Hertfordshire, when that conviction had been\ngiven, was scarcely the work of a moment. I cannot blame myself for\nhaving done thus much. There is but one part of my conduct, in the whole\naffair, on which I do not reflect with satisfaction; it is that I\ncondescended to adopt the measures of art so far as to conceal from him\nyour sister’s being in town.",
+      "first_sentence": "To persuade\nhim against returning into Hertfordshire, when that conviction had been\ngiven, was scarcely the work of a moment."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 35,
+      "chapter_title": "CHAPTER XXXVI",
+      "start_char_pos": 366700,
+      "end_char_pos": 367065,
+      "token_count": 64,
+      "text": "Many of his expressions were still fresh in her memory. She was now\nstruck with the impropriety of such communications to a stranger, and\nwondered it had escaped her before. She saw the indelicacy of putting\nhimself forward as he had done, and the inconsistency of his professions\nwith his conduct. She remembered that he had boasted of having no fear\nof seeing Mr.",
+      "first_sentence": "Many of his expressions were still fresh in her memory."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 36,
+      "chapter_title": "CHAPTER XXXVII",
+      "start_char_pos": 376548,
+      "end_char_pos": 377015,
+      "token_count": 83,
+      "text": "He keeps a man-servant, does he? I am very glad you\nhave somebody who thinks of those things. Where shall you change horses?\nOh, Bromley, of course. If you mention my name at the Bell, you will be\nattended to.”\n\nLady Catherine had many other questions to ask respecting their journey;\nand as she did not answer them all herself attention was\nnecessary--which Elizabeth believed to be lucky for her; or, with a\nmind so occupied, she might have forgotten where she was.",
+      "first_sentence": "He keeps a man-servant, does he?"
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 37,
+      "chapter_title": "CHAPTER XXXVIII",
+      "start_char_pos": 383474,
+      "end_char_pos": 383800,
+      "token_count": 60,
+      "text": "She was not sorry, however, to\nhave the recital of them interrupted by the entrance of the lady from\nwhom they sprang. Poor Charlotte! it was melancholy to leave her to such\nsociety! But she had chosen it with her eyes open; and though evidently\nregretting that her visitors were to go, she did not seem to ask for\ncompassion.",
+      "first_sentence": "She was not sorry, however, to\nhave the recital of them interrupted by the entrance of the lady from\nwhom they sprang."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 39,
+      "chapter_title": "CHAPTER XL",
+      "start_char_pos": 399846,
+      "end_char_pos": 400209,
+      "token_count": 66,
+      "text": "What is your own opinion?”\n\n“That it ought not to be attempted. Mr. Darcy has not authorized me to\nmake his communication public. On the contrary, every particular\nrelative to his sister was meant to be kept as much as possible to\nmyself; and if I endeavour to undeceive people as to the rest of his\nconduct, who will believe me? The general prejudice against Mr.",
+      "first_sentence": "What is your own opinion?"
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 40,
+      "chapter_title": "CHAPTER XLI",
+      "start_char_pos": 411038,
+      "end_char_pos": 411425,
+      "token_count": 65,
+      "text": "It was not\nin her nature, however, to increase her vexations by dwelling on them.\nShe was confident of having performed her duty; and to fret over\nunavoidable evils, or augment them by anxiety, was no part of her\ndisposition.\n\nHad Lydia and her mother known the substance of her conference with her\nfather, their indignation would hardly have found expression in their\nunited volubility.",
+      "first_sentence": "It was not\nin her nature, however, to increase her vexations by dwelling on them."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 41,
+      "chapter_title": "CHAPTER XLII",
+      "start_char_pos": 422892,
+      "end_char_pos": 423124,
+      "token_count": 40,
+      "text": "The time fixed for the beginning of their northern tour was now fast\napproaching; and a fortnight only was wanting of it, when a letter\narrived from Mrs. Gardiner, which at once delayed its commencement and\ncurtailed its extent. Mr.",
+      "first_sentence": "The time fixed for the beginning of their northern tour was now fast\napproaching; and a fortnight only was wanting of it, when a letter\narrived from Mrs."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 42,
+      "chapter_title": "CHAPTER XLIII",
+      "start_char_pos": 437466,
+      "end_char_pos": 437892,
+      "token_count": 74,
+      "text": "There\nis nothing he would not do for her.”\n\nThe picture gallery, and two or three of the principal bed-rooms, were\nall that remained to be shown. In the former were many good paintings:\nbut Elizabeth knew nothing of the art; and from such as had been already\nvisible below, she had willingly turned to look at some drawings of Miss\nDarcy’s, in crayons, whose subjects were usually more interesting, and\nalso more intelligible.",
+      "first_sentence": "There\nis nothing he would not do for her."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 43,
+      "chapter_title": "CHAPTER XLIV",
+      "start_char_pos": 462525,
+      "end_char_pos": 462961,
+      "token_count": 73,
+      "text": "Never, even in the\ncompany of his dear friends at Netherfield, or his dignified relations\nat Rosings, had she seen him so desirous to please, so free from\nself-consequence or unbending reserve, as now, when no importance could\nresult from the success of his endeavours, and when even the\nacquaintance of those to whom his attentions were addressed, would draw\ndown the ridicule and censure of the ladies both of Netherfield and\nRosings.",
+      "first_sentence": "Never, even in the\ncompany of his dear friends at Netherfield, or his dignified relations\nat Rosings, had she seen him so desirous to please, so free from\nself-consequence or unbending reserve, as now, when no importance could\nresult from the success of his endeavours, and when even the\nacquaintance of those to whom his attentions were addressed, would draw\ndown the ridicule and censure of the ladies both of Netherfield and\nRosings."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 44,
+      "chapter_title": "CHAPTER XLV",
+      "start_char_pos": 474255,
+      "end_char_pos": 474645,
+      "token_count": 64,
+      "text": "While she spoke, an involuntary glance showed her Darcy with a heightened complexion, earnestly looking at her, and his sister overcome with confusion, and unable to lift up her eyes. Had Miss Bingley known what pain she was then giving her beloved friend, she undoubtedly would have refrained from the hint; but she had merely intended to discompose Elizabeth, by bringing forward the idea",
+      "first_sentence": "While she spoke, an involuntary glance showed her Darcy with a heightened complexion, earnestly looking at her, and his sister overcome with confusion, and unable to lift up her eyes."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 45,
+      "chapter_title": "Chapter XLVI",
+      "start_char_pos": 487781,
+      "end_char_pos": 488103,
+      "token_count": 60,
+      "text": "They are gone off together from Brighton. You know him too\nwell to doubt the rest. She has no money, no connections, nothing that\ncan tempt him to--she is lost for ever.”\n\nDarcy was fixed in astonishment.\n\n“When I consider,” she added, in a yet more agitated voice, “that I\nmight have prevented it! I who knew what he was.",
+      "first_sentence": "They are gone off together from Brighton."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 46,
+      "chapter_title": "CHAPTER XLVII",
+      "start_char_pos": 504961,
+      "end_char_pos": 505295,
+      "token_count": 58,
+      "text": "He merely added, that he should not write\nagain, till he had something of importance to mention.”\n\n“And my mother--how is she? How are you all?”\n\n“My mother is tolerably well, I trust; though her spirits are greatly\nshaken. She is upstairs, and will have great satisfaction in seeing you\nall. She does not yet leave her dressing-room.",
+      "first_sentence": "He merely added, that he should not write\nagain, till he had something of importance to mention."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 48,
+      "chapter_title": "CHAPTER XLVIII",
+      "start_char_pos": 525001,
+      "end_char_pos": 525439,
+      "token_count": 72,
+      "text": "They agree with me in apprehending that this false step in one\n daughter will be injurious to the fortunes of all the others: for\n who, as Lady Catherine herself condescendingly says, will connect\n themselves with such a family? And this consideration leads me,\n moreover, to reflect, with augmented satisfaction, on a certain\n event of last November; for had it been otherwise, I must have been\n involved in all your sorrow and disgrace.",
+      "first_sentence": "They agree with me in apprehending that this false step in one\n daughter will be injurious to the fortunes of all the others: for\n who, as Lady Catherine herself condescendingly says, will connect\n themselves with such a family?"
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 49,
+      "chapter_title": "CHAPTER XLIX",
+      "start_char_pos": 537479,
+      "end_char_pos": 537844,
+      "token_count": 66,
+      "text": "Their father then went to the\nlibrary to write, and the girls walked into the breakfast-room.\n\n“And they are really to be married!” cried Elizabeth, as soon as they\nwere by themselves. “How strange this is! and for this we are to be\nthankful. That they should marry, small as is their chance of happiness,\nand wretched as is his character, we are forced to rejoice!",
+      "first_sentence": "Their father then went to the\nlibrary to write, and the girls walked into the breakfast-room."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 50,
+      "chapter_title": "CHAPTER L",
+      "start_char_pos": 549876,
+      "end_char_pos": 550204,
+      "token_count": 57,
+      "text": "There were\nfew people on whose secrecy she would have more confidently depended;\nbut at the same time there was no one whose knowledge of a sister’s\nfrailty would have mortified her so much. Not, however, from any fear of\ndisadvantage from it individually to herself; for at any rate there\nseemed a gulf impassable between them.",
+      "first_sentence": "There were\nfew people on whose secrecy she would have more confidently depended;\nbut at the same time there was no one whose knowledge of a sister’s\nfrailty would have mortified her so much."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 51,
+      "chapter_title": "CHAPTER LI",
+      "start_char_pos": 561752,
+      "end_char_pos": 562062,
+      "token_count": 59,
+      "text": "No one but Mrs. Bennet regretted that their stay would be so short; and\nshe made the most of the time by visiting about with her daughter, and\nhaving very frequent parties at home. These parties were acceptable to\nall; to avoid a family circle was even more desirable to such as did\nthink than such as did not.",
+      "first_sentence": "No one but Mrs."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 53,
+      "chapter_title": "CHAPTER LIII",
+      "start_char_pos": 592129,
+      "end_char_pos": 592448,
+      "token_count": 58,
+      "text": "Darcy, and her resolution to be\ncivil to him only as Mr. Bingley’s friend, without being heard by either\nof them. But Elizabeth had sources of uneasiness which could not yet be\nsuspected by Jane, to whom she had never yet had courage to show Mrs.\nGardiner’s letter, or to relate her own change of sentiment towards\nhim.",
+      "first_sentence": "Darcy, and her resolution to be\ncivil to him only as Mr."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 54,
+      "chapter_title": "CHAPTER LIV",
+      "start_char_pos": 604640,
+      "end_char_pos": 604883,
+      "token_count": 47,
+      "text": "And on the gentlemen’s approaching, one of\nthe girls moved closer to her than ever, and said, in a whisper,--\n\n“The men shan’t come and part us, I am determined. We want none of them;\ndo we?”\n\nDarcy had walked away to another part of the room.",
+      "first_sentence": "And on the gentlemen’s approaching, one of\nthe girls moved closer to her than ever, and said, in a whisper,--\n\n“The men shan’t come and part us, I am determined."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 55,
+      "chapter_title": "CHAPTER LV",
+      "start_char_pos": 615998,
+      "end_char_pos": 616231,
+      "token_count": 42,
+      "text": "She will be down in a moment, I dare say.”\n\nHe then shut the door, and, coming up to her, claimed the good wishes\nand affection of a sister. Elizabeth honestly and heartily expressed her\ndelight in the prospect of their relationship.",
+      "first_sentence": "She will be down in a moment, I dare say."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 56,
+      "chapter_title": "CHAPTER LVI",
+      "start_char_pos": 629822,
+      "end_char_pos": 630194,
+      "token_count": 73,
+      "text": "Are you lost to every feeling of\npropriety and delicacy? Have you not heard me say, that from his\nearliest hours he was destined for his cousin?”\n\n“Yes; and I had heard it before. But what is that to me? If there is no\nother objection to my marrying your nephew, I shall certainly not be\nkept from it by knowing that his mother and aunt wished him to marry\nMiss de Bourgh.",
+      "first_sentence": "Are you lost to every feeling of\npropriety and delicacy?"
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 58,
+      "chapter_title": "CHAPTER LVIII",
+      "start_char_pos": 653728,
+      "end_char_pos": 654087,
+      "token_count": 64,
+      "text": "I hope you have destroyed the letter. There was one part, especially the opening of it, which I should dread your having the power of reading again. I can remember some expressions which might justly make you hate me.” “The letter shall certainly be burnt, if you believe it essential to the preservation of my regard; but, though we have both reason to think",
+      "first_sentence": "I hope you have destroyed the letter."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 59,
+      "chapter_title": "CHAPTER LIX",
+      "start_char_pos": 667500,
+      "end_char_pos": 667898,
+      "token_count": 72,
+      "text": "Darcy appeared again, when,\nlooking at him, she was a little relieved by his smile. In a few minutes\nhe approached the table where she was sitting with Kitty; and, while\npretending to admire her work, said in a whisper, “Go to your father; he\nwants you in the library.” She was gone directly.\n\nHer father was walking about the room, looking grave and anxious.\n“Lizzy,” said he, “what are you doing?",
+      "first_sentence": "Darcy appeared again, when,\nlooking at him, she was a little relieved by his smile."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 60,
+      "chapter_title": "CHAPTER LX",
+      "start_char_pos": 678522,
+      "end_char_pos": 678996,
+      "token_count": 83,
+      "text": "Darcy\nhad been overrated, Elizabeth had never yet answered Mrs. Gardiner’s\nlong letter; but now, having that to communicate which she knew would\nbe most welcome, she was almost ashamed to find that her uncle and aunt\nhad already lost three days of happiness, and immediately wrote as\nfollows:--\n\n“I would have thanked you before, my dear aunt, as I ought to have done,\nfor your long, kind, satisfactory detail of particulars; but, to say the\ntruth, I was too cross to write.",
+      "first_sentence": "Darcy\nhad been overrated, Elizabeth had never yet answered Mrs."
+    }
+  ]
+}

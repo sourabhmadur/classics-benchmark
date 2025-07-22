@@ -1,0 +1,700 @@
+{
+  "novel_key": "frankenstein",
+  "novel_file": "frankenstein.txt",
+  "text_length": 418968,
+  "chapters_detected": 27,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "Chapter 2",
+      "start_pos": 20,
+      "end_pos": 31366,
+      "length": 31346
+    },
+    {
+      "chapter_num": 2,
+      "title": "Chapter 1",
+      "start_pos": 31377,
+      "end_pos": 41521,
+      "length": 10144
+    },
+    {
+      "chapter_num": 3,
+      "title": "Chapter 2",
+      "start_pos": 41532,
+      "end_pos": 54226,
+      "length": 12694
+    },
+    {
+      "chapter_num": 4,
+      "title": "Chapter 3",
+      "start_pos": 54237,
+      "end_pos": 69498,
+      "length": 15261
+    },
+    {
+      "chapter_num": 5,
+      "title": "Chapter 4",
+      "start_pos": 69509,
+      "end_pos": 83927,
+      "length": 14418
+    },
+    {
+      "chapter_num": 6,
+      "title": "Chapter 5",
+      "start_pos": 83938,
+      "end_pos": 96914,
+      "length": 12976
+    },
+    {
+      "chapter_num": 7,
+      "title": "Chapter 6",
+      "start_pos": 96925,
+      "end_pos": 106932,
+      "length": 10007
+    },
+    {
+      "chapter_num": 8,
+      "title": "M. K",
+      "start_pos": 106938,
+      "end_pos": 112421,
+      "length": 5483
+    },
+    {
+      "chapter_num": 9,
+      "title": "Chapter 7",
+      "start_pos": 112432,
+      "end_pos": 132269,
+      "length": 19837
+    },
+    {
+      "chapter_num": 10,
+      "title": "Chapter 8",
+      "start_pos": 132280,
+      "end_pos": 149540,
+      "length": 17260
+    },
+    {
+      "chapter_num": 11,
+      "title": "Chapter 9",
+      "start_pos": 149551,
+      "end_pos": 161975,
+      "length": 12424
+    },
+    {
+      "chapter_num": 12,
+      "title": "Chapter 10",
+      "start_pos": 161987,
+      "end_pos": 174953,
+      "length": 12966
+    },
+    {
+      "chapter_num": 13,
+      "title": "Chapter 11",
+      "start_pos": 174965,
+      "end_pos": 190876,
+      "length": 15911
+    },
+    {
+      "chapter_num": 14,
+      "title": "Chapter 12",
+      "start_pos": 190888,
+      "end_pos": 202850,
+      "length": 11962
+    },
+    {
+      "chapter_num": 15,
+      "title": "Chapter 13",
+      "start_pos": 202862,
+      "end_pos": 214430,
+      "length": 11568
+    },
+    {
+      "chapter_num": 16,
+      "title": "Chapter 14",
+      "start_pos": 214442,
+      "end_pos": 224876,
+      "length": 10434
+    },
+    {
+      "chapter_num": 17,
+      "title": "Chapter 15",
+      "start_pos": 224888,
+      "end_pos": 242008,
+      "length": 17120
+    },
+    {
+      "chapter_num": 18,
+      "title": "Chapter 16",
+      "start_pos": 242020,
+      "end_pos": 259560,
+      "length": 17540
+    },
+    {
+      "chapter_num": 19,
+      "title": "Chapter 17",
+      "start_pos": 259572,
+      "end_pos": 269814,
+      "length": 10242
+    },
+    {
+      "chapter_num": 20,
+      "title": "Chapter 18",
+      "start_pos": 269826,
+      "end_pos": 285957,
+      "length": 16131
+    },
+    {
+      "chapter_num": 21,
+      "title": "Chapter 19",
+      "start_pos": 285969,
+      "end_pos": 290080,
+      "length": 4111
+    },
+    {
+      "chapter_num": 22,
+      "title": "I. h",
+      "start_pos": 290085,
+      "end_pos": 300772,
+      "length": 10687
+    },
+    {
+      "chapter_num": 23,
+      "title": "Chapter 20",
+      "start_pos": 300784,
+      "end_pos": 319808,
+      "length": 19024
+    },
+    {
+      "chapter_num": 24,
+      "title": "Chapter 21",
+      "start_pos": 319820,
+      "end_pos": 340263,
+      "length": 20443
+    },
+    {
+      "chapter_num": 25,
+      "title": "Chapter 22",
+      "start_pos": 340275,
+      "end_pos": 359293,
+      "length": 19018
+    },
+    {
+      "chapter_num": 26,
+      "title": "Chapter 23",
+      "start_pos": 359305,
+      "end_pos": 373333,
+      "length": 14028
+    },
+    {
+      "chapter_num": 27,
+      "title": "Chapter 24",
+      "start_pos": 373345,
+      "end_pos": 418968,
+      "length": 45623
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 6292,
+      "end_char_pos": 6659,
+      "token_count": 68,
+      "text": "I have no\nambition to lose my life on the post-road between St. Petersburgh and\nArchangel.\n\nI shall depart for the latter town in a fortnight or three weeks; and my\nintention is to hire a ship there, which can easily be done by paying the\ninsurance for the owner, and to engage as many sailors as I think necessary\namong those who are accustomed to the whale-fishing.",
+      "first_sentence": "I have no\nambition to lose my life on the post-road between St."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 1,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 12558,
+      "end_char_pos": 12961,
+      "token_count": 70,
+      "text": "The\nwinter has been dreadfully severe, but the spring promises well, and it\nis considered as a remarkably early season, so that perhaps I may sail\nsooner than I expected. I shall do nothing rashly: you know me\nsufficiently to confide in my prudence and considerateness whenever the\nsafety of others is committed to my care.\n\nI cannot describe to you my sensations on the near prospect of my\nundertaking.",
+      "first_sentence": "The\nwinter has been dreadfully severe, but the spring promises well, and it\nis considered as a remarkably early season, so that perhaps I may sail\nsooner than I expected."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 1,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 19249,
+      "end_char_pos": 19618,
+      "token_count": 62,
+      "text": "I\nreplied, however, that we were on a voyage of discovery towards the\nnorthern pole.\n\nUpon hearing this he appeared satisfied and consented to come on board.\nGood God! Margaret, if you had seen the man who thus capitulated for\nhis safety, your surprise would have been boundless. His limbs were\nnearly frozen, and his body dreadfully emaciated by fatigue and\nsuffering.",
+      "first_sentence": "I\nreplied, however, that we were on a voyage of discovery towards the\nnorthern pole."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 1,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 25208,
+      "end_char_pos": 25563,
+      "token_count": 64,
+      "text": "As I spoke, a\ndark gloom spread over my listener’s countenance. At first I\nperceived that he tried to suppress his emotion; he placed his hands before\nhis eyes, and my voice quivered and failed me as I beheld tears trickle\nfast from between his fingers; a groan burst from his heaving breast. I\npaused; at length he spoke, in broken accents: “Unhappy man!",
+      "first_sentence": "As I spoke, a\ndark gloom spread over my listener’s countenance."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 2,
+      "chapter_title": "Chapter 1",
+      "start_char_pos": 36459,
+      "end_char_pos": 36723,
+      "token_count": 45,
+      "text": "Much as they were attached to each\nother, they seemed to draw inexhaustible stores of affection from a very\nmine of love to bestow them upon me. My mother’s tender caresses and\nmy father’s smile of benevolent pleasure while regarding me are my\nfirst recollections.",
+      "first_sentence": "Much as they were attached to each\nother, they seemed to draw inexhaustible stores of affection from a very\nmine of love to bestow them upon me."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 3,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 45803,
+      "end_char_pos": 46159,
+      "token_count": 61,
+      "text": "And\nClerval—could aught ill entrench on the noble spirit of Clerval? Yet\nhe might not have been so perfectly humane, so thoughtful in his\ngenerosity, so full of kindness and tenderness amidst his passion for\nadventurous exploit, had she not unfolded to him the real loveliness of\nbeneficence and made the doing good the end and aim of his soaring\nambition.",
+      "first_sentence": "And\nClerval—could aught ill entrench on the noble spirit of Clerval?"
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 3,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 50206,
+      "end_char_pos": 50529,
+      "token_count": 55,
+      "text": "My father was not scientific, and I was left to struggle with a\nchild’s blindness, added to a student’s thirst for knowledge.\nUnder the guidance of my new preceptors I entered with the greatest\ndiligence into the search of the philosopher’s stone and the elixir\nof life; but the latter soon obtained my undivided attention.",
+      "first_sentence": "My father was not scientific, and I was left to struggle with a\nchild’s blindness, added to a student’s thirst for knowledge."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 4,
+      "chapter_title": "Chapter 3",
+      "start_char_pos": 59331,
+      "end_char_pos": 59661,
+      "token_count": 57,
+      "text": "I threw myself into the chaise that was to convey me away and indulged in\nthe most melancholy reflections. I, who had ever been surrounded by\namiable companions, continually engaged in endeavouring to bestow mutual\npleasure—I was now alone. In the university whither I was going I\nmust form my own friends and be my own protector.",
+      "first_sentence": "I threw myself into the chaise that was to convey me away and indulged in\nthe most melancholy reflections."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 4,
+      "chapter_title": "Chapter 3",
+      "start_char_pos": 64435,
+      "end_char_pos": 64709,
+      "token_count": 50,
+      "text": "He appeared about fifty years of age, but with an\naspect expressive of the greatest benevolence; a few grey hairs covered his\ntemples, but those at the back of his head were nearly black. His person\nwas short but remarkably erect and his voice the sweetest I had ever heard.",
+      "first_sentence": "He appeared about fifty years of age, but with an\naspect expressive of the greatest benevolence; a few grey hairs covered his\ntemples, but those at the back of his head were nearly black."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 5,
+      "chapter_title": "Chapter 4",
+      "start_char_pos": 74460,
+      "end_char_pos": 74897,
+      "token_count": 75,
+      "text": "Remember, I am not recording the vision of a madman. The sun does not\nmore certainly shine in the heavens than that which I now affirm is\ntrue. Some miracle might have produced it, yet the stages of the\ndiscovery were distinct and probable. After days and nights of\nincredible labour and fatigue, I succeeded in discovering the cause of\ngeneration and life; nay, more, I became myself capable of bestowing\nanimation upon lifeless matter.",
+      "first_sentence": "Remember, I am not recording the vision of a madman."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 5,
+      "chapter_title": "Chapter 4",
+      "start_char_pos": 79295,
+      "end_char_pos": 79654,
+      "token_count": 65,
+      "text": "Who shall conceive\nthe horrors of my secret toil as I dabbled among the unhallowed damps\nof the grave or tortured the living animal to animate the lifeless\nclay? My limbs now tremble, and my eyes swim with the remembrance; but\nthen a resistless and almost frantic impulse urged me forward; I seemed\nto have lost all soul or sensation but for this one pursuit.",
+      "first_sentence": "Who shall conceive\nthe horrors of my secret toil as I dabbled among the unhallowed damps\nof the grave or tortured the living animal to animate the lifeless\nclay?"
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 6,
+      "chapter_title": "Chapter 5",
+      "start_char_pos": 88426,
+      "end_char_pos": 88807,
+      "token_count": 69,
+      "text": "I did not dare return to the apartment which I inhabited, but\nfelt impelled to hurry on, although drenched by the rain which poured\nfrom a black and comfortless sky.\n\nI continued walking in this manner for some time, endeavouring by\nbodily exercise to ease the load that weighed upon my mind. I\ntraversed the streets without any clear conception of where I was or\nwhat I was doing.",
+      "first_sentence": "I did not dare return to the apartment which I inhabited, but\nfelt impelled to hurry on, although drenched by the rain which poured\nfrom a black and comfortless sky."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 6,
+      "chapter_title": "Chapter 5",
+      "start_char_pos": 92729,
+      "end_char_pos": 93080,
+      "token_count": 64,
+      "text": "We ascended into my room, and the servant presently brought breakfast;\nbut I was unable to contain myself. It was not joy only that possessed\nme; I felt my flesh tingle with excess of sensitiveness, and my pulse\nbeat rapidly. I was unable to remain for a single instant in the same\nplace; I jumped over the chairs, clapped my hands, and laughed aloud.",
+      "first_sentence": "We ascended into my room, and the servant presently brought breakfast;\nbut I was unable to contain myself."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 7,
+      "chapter_title": "Chapter 6",
+      "start_char_pos": 101948,
+      "end_char_pos": 102365,
+      "token_count": 71,
+      "text": "She was a Roman Catholic; and I believe her confessor\nconfirmed the idea which she had conceived. Accordingly, a few months\nafter your departure for Ingolstadt, Justine was called home by her\nrepentant mother. Poor girl! She wept when she quitted our house; she\nwas much altered since the death of my aunt; grief had given softness\nand a winning mildness to her manners, which had before been remarkable\nfor vivacity.",
+      "first_sentence": "She was a Roman Catholic; and I believe her confessor\nconfirmed the idea which she had conceived."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 8,
+      "chapter_title": "M. K",
+      "start_char_pos": 109838,
+      "end_char_pos": 110245,
+      "token_count": 70,
+      "text": "The winter, however, was spent\ncheerfully; and although the spring was uncommonly late, when it came\nits beauty compensated for its dilatoriness.\n\nThe month of May had already commenced, and I expected the letter daily\nwhich was to fix the date of my departure, when Henry proposed a\npedestrian tour in the environs of Ingolstadt, that I might bid a\npersonal farewell to the country I had so long inhabited.",
+      "first_sentence": "The winter, however, was spent\ncheerfully; and although the spring was uncommonly late, when it came\nits beauty compensated for its dilatoriness."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 9,
+      "chapter_title": "Chapter 7",
+      "start_char_pos": 119132,
+      "end_char_pos": 119471,
+      "token_count": 63,
+      "text": "The road ran by the side of the lake, which became narrower as I\napproached my native town. I discovered more distinctly the black\nsides of Jura, and the bright summit of Mont Blanc. I wept like a\nchild. “Dear mountains! my own beautiful lake! how do you welcome your\nwanderer? Your summits are clear; the sky and lake are blue and\nplacid.",
+      "first_sentence": "The road ran by the side of the lake, which became narrower as I\napproached my native town."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 9,
+      "chapter_title": "Chapter 7",
+      "start_char_pos": 125760,
+      "end_char_pos": 126058,
+      "token_count": 54,
+      "text": "Six years had elapsed, passed in a dream but for one indelible trace, and I\nstood in the same place where I had last embraced my father before my\ndeparture for Ingolstadt. Beloved and venerable parent! He still remained\nto me. I gazed on the picture of my mother, which stood over the\nmantel-piece.",
+      "first_sentence": "Six years had elapsed, passed in a dream but for one indelible trace, and I\nstood in the same place where I had last embraced my father before my\ndeparture for Ingolstadt."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 8",
+      "start_char_pos": 138294,
+      "end_char_pos": 138683,
+      "token_count": 64,
+      "text": "Elizabeth saw even this last resource, her excellent\ndispositions and irreproachable conduct, about to fail the accused,\nwhen, although violently agitated, she desired permission to address\nthe court.\n\n“I am,” said she, “the cousin of the unhappy child who\nwas murdered, or rather his sister, for I was educated by and have lived\nwith his parents ever since and even long before his birth.",
+      "first_sentence": "Elizabeth saw even this last resource, her excellent\ndispositions and irreproachable conduct, about to fail the accused,\nwhen, although violently agitated, she desired permission to address\nthe court."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 8",
+      "start_char_pos": 143959,
+      "end_char_pos": 144263,
+      "token_count": 57,
+      "text": "I confessed, that I might\nobtain absolution; but now that falsehood lies heavier at my heart than\nall my other sins. The God of heaven forgive me! Ever since I was\ncondemned, my confessor has besieged me; he threatened and menaced,\nuntil I almost began to think that I was the monster that he said I\nwas.",
+      "first_sentence": "I confessed, that I might\nobtain absolution; but now that falsehood lies heavier at my heart than\nall my other sins."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 11,
+      "chapter_title": "Chapter 9",
+      "start_char_pos": 155805,
+      "end_char_pos": 156125,
+      "token_count": 65,
+      "text": "For the sake\nof a few jewels, to have murdered the son of her benefactor and friend,\na child whom she had nursed from its birth, and appeared to love as if\nit had been her own! I could not consent to the death of any human\nbeing, but certainly I should have thought such a creature unfit to\nremain in the society of men.",
+      "first_sentence": "For the sake\nof a few jewels, to have murdered the son of her benefactor and friend,\na child whom she had nursed from its birth, and appeared to love as if\nit had been her own!"
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 12,
+      "chapter_title": "Chapter 10",
+      "start_char_pos": 166325,
+      "end_char_pos": 166707,
+      "token_count": 70,
+      "text": "It was nearly noon when I arrived at the top of the ascent. For some\ntime I sat upon the rock that overlooks the sea of ice. A mist covered\nboth that and the surrounding mountains. Presently a breeze dissipated\nthe cloud, and I descended upon the glacier. The surface is very\nuneven, rising like the waves of a troubled sea, descending low, and\ninterspersed by rifts that sink deep.",
+      "first_sentence": "It was nearly noon when I arrived at the top of the ascent."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 12,
+      "chapter_title": "Chapter 10",
+      "start_char_pos": 170697,
+      "end_char_pos": 171050,
+      "token_count": 68,
+      "text": "Everywhere I see bliss, from which I\nalone am irrevocably excluded. I was benevolent and good; misery made\nme a fiend. Make me happy, and I shall again be virtuous.”\n\n“Begone! I will not hear you. There can be no community between you\nand me; we are enemies. Begone, or let us try our strength in a fight,\nin which one must fall.”\n\n“How can I move thee?",
+      "first_sentence": "Everywhere I see bliss, from which I\nalone am irrevocably excluded."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 13,
+      "chapter_title": "Chapter 11",
+      "start_char_pos": 180514,
+      "end_char_pos": 180827,
+      "token_count": 58,
+      "text": "I\ntried, therefore, to dress my food in the same manner, placing it on\nthe live embers. I found that the berries were spoiled by this\noperation, and the nuts and roots much improved.\n\n“Food, however, became scarce, and I often spent the whole day\nsearching in vain for a few acorns to assuage the pangs of hunger.",
+      "first_sentence": "I\ntried, therefore, to dress my food in the same manner, placing it on\nthe live embers."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 13,
+      "chapter_title": "Chapter 11",
+      "start_char_pos": 185646,
+      "end_char_pos": 185996,
+      "token_count": 64,
+      "text": "It was\nindeed a paradise compared to the bleak forest, my former residence,\nthe rain-dropping branches, and dank earth. I ate my breakfast with\npleasure and was about to remove a plank to procure myself a little\nwater when I heard a step, and looking through a small chink, I beheld\na young creature, with a pail on her head, passing before my hovel.",
+      "first_sentence": "It was\nindeed a paradise compared to the bleak forest, my former residence,\nthe rain-dropping branches, and dank earth."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 14,
+      "chapter_title": "Chapter 12",
+      "start_char_pos": 196939,
+      "end_char_pos": 197354,
+      "token_count": 69,
+      "text": "It was not thus\nwith Felix. He was always the saddest of the group, and even to my\nunpractised senses, he appeared to have suffered more deeply than his\nfriends. But if his countenance was more sorrowful, his voice was more\ncheerful than that of his sister, especially when he addressed the old\nman.\n\n“I could mention innumerable instances which, although slight, marked\nthe dispositions of these amiable cottagers.",
+      "first_sentence": "It was not thus\nwith Felix."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 15,
+      "chapter_title": "Chapter 13",
+      "start_char_pos": 209147,
+      "end_char_pos": 209608,
+      "token_count": 80,
+      "text": "I should not have understood the purport of this book had not\nFelix, in reading it, given very minute explanations. He had chosen this\nwork, he said, because the declamatory style was framed in imitation of the\nEastern authors. Through this work I obtained a cursory knowledge of history\nand a view of the several empires at present existing in the world; it gave\nme an insight into the manners, governments, and religions of the different\nnations of the earth.",
+      "first_sentence": "I should not have understood the purport of this book had not\nFelix, in reading it, given very minute explanations."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 16,
+      "chapter_title": "Chapter 14",
+      "start_char_pos": 220029,
+      "end_char_pos": 220352,
+      "token_count": 56,
+      "text": "They conversed with one another through the means of an\ninterpreter, and sometimes with the interpretation of looks; and Safie\nsang to him the divine airs of her native country.\n\n“The Turk allowed this intimacy to take place and encouraged the hopes\nof the youthful lovers, while in his heart he had formed far other\nplans.",
+      "first_sentence": "They conversed with one another through the means of an\ninterpreter, and sometimes with the interpretation of looks; and Safie\nsang to him the divine airs of her native country."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 17,
+      "chapter_title": "Chapter 15",
+      "start_char_pos": 230701,
+      "end_char_pos": 230972,
+      "token_count": 45,
+      "text": "It was\nyour journal of the four months that preceded my creation. You\nminutely described in these papers every step you took in the progress\nof your work; this history was mingled with accounts of domestic\noccurrences. You doubtless recollect these papers. Here they are.",
+      "first_sentence": "It was\nyour journal of the four months that preceded my creation."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 17,
+      "chapter_title": "Chapter 15",
+      "start_char_pos": 236317,
+      "end_char_pos": 236660,
+      "token_count": 56,
+      "text": "At first his\ncountenance was illuminated with pleasure, but as he continued,\nthoughtfulness and sadness succeeded; at length, laying aside the\ninstrument, he sat absorbed in reflection.\n\n“My heart beat quick; this was the hour and moment of trial, which\nwould decide my hopes or realise my fears. The servants were gone to a\nneighbouring fair.",
+      "first_sentence": "At first his\ncountenance was illuminated with pleasure, but as he continued,\nthoughtfulness and sadness succeeded; at length, laying aside the\ninstrument, he sat absorbed in reflection."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 18,
+      "chapter_title": "Chapter 16",
+      "start_char_pos": 248105,
+      "end_char_pos": 248431,
+      "token_count": 65,
+      "text": "I lighted the\ndry branch of a tree and danced with fury around the devoted cottage,\nmy eyes still fixed on the western horizon, the edge of which the moon\nnearly touched. A part of its orb was at length hid, and I waved my\nbrand; it sank, and with a loud scream I fired the straw, and heath,\nand bushes, which I had collected.",
+      "first_sentence": "I lighted the\ndry branch of a tree and danced with fury around the devoted cottage,\nmy eyes still fixed on the western horizon, the edge of which the moon\nnearly touched."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 18,
+      "chapter_title": "Chapter 16",
+      "start_char_pos": 253729,
+      "end_char_pos": 254121,
+      "token_count": 74,
+      "text": "Inflamed by\npain, I vowed eternal hatred and vengeance to all mankind. But the\nagony of my wound overcame me; my pulses paused, and I fainted.\n\n“For some weeks I led a miserable life in the woods, endeavouring to\ncure the wound which I had received. The ball had entered my shoulder,\nand I knew not whether it had remained there or passed through; at any\nrate I had no means of extracting it.",
+      "first_sentence": "Inflamed by\npain, I vowed eternal hatred and vengeance to all mankind."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 19,
+      "chapter_title": "Chapter 17",
+      "start_char_pos": 264743,
+      "end_char_pos": 265152,
+      "token_count": 78,
+      "text": "My evil passions\nwill have fled, for I shall meet with sympathy! My life will flow quietly\naway, and in my dying moments I shall not curse my maker.”\n\nHis words had a strange effect upon me. I compassionated him and\nsometimes felt a wish to console him, but when I looked upon him, when\nI saw the filthy mass that moved and talked, my heart sickened and my\nfeelings were altered to those of horror and hatred.",
+      "first_sentence": "My evil passions\nwill have fled, for I shall meet with sympathy!"
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 20,
+      "chapter_title": "Chapter 18",
+      "start_char_pos": 275338,
+      "end_char_pos": 275738,
+      "token_count": 68,
+      "text": "I was aware also that I\nshould often lose all self-command, all capacity of hiding the\nharrowing sensations that would possess me during the progress of my\nunearthly occupation. I must absent myself from all I loved while thus\nemployed. Once commenced, it would quickly be achieved, and I might be\nrestored to my family in peace and happiness. My promise fulfilled,\nthe monster would depart for ever.",
+      "first_sentence": "I was aware also that I\nshould often lose all self-command, all capacity of hiding the\nharrowing sensations that would possess me during the progress of my\nunearthly occupation."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 20,
+      "chapter_title": "Chapter 18",
+      "start_char_pos": 280686,
+      "end_char_pos": 281032,
+      "token_count": 58,
+      "text": "During this\nvoyage we passed many willowy islands and saw several beautiful towns.\nWe stayed a day at Mannheim, and on the fifth from our departure from\nStrasburgh, arrived at Mainz. The course of the Rhine below Mainz\nbecomes much more picturesque. The river descends rapidly and winds\nbetween hills, not high, but steep, and of beautiful forms.",
+      "first_sentence": "During this\nvoyage we passed many willowy islands and saw several beautiful towns."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 21,
+      "chapter_title": "Chapter 19",
+      "start_char_pos": 288121,
+      "end_char_pos": 288537,
+      "token_count": 76,
+      "text": "I often refused to accompany him,\nalleging another engagement, that I might remain alone. I now also\nbegan to collect the materials necessary for my new creation, and this\nwas to me like the torture of single drops of water continually falling\non the head. Every thought that was devoted to it was an extreme\nanguish, and every word that I spoke in allusion to it caused my lips\nto quiver, and my heart to palpitate.",
+      "first_sentence": "I often refused to accompany him,\nalleging another engagement, that I might remain alone."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 22,
+      "chapter_title": "I. h",
+      "start_char_pos": 295522,
+      "end_char_pos": 295894,
+      "token_count": 66,
+      "text": "I visited Edinburgh with languid eyes and mind; and yet that city might\nhave interested the most unfortunate being. Clerval did not like it so well\nas Oxford, for the antiquity of the latter city was more pleasing to him.\nBut the beauty and regularity of the new town of Edinburgh, its romantic\ncastle and its environs, the most delightful in the world, Arthur’s\nSeat, St.",
+      "first_sentence": "I visited Edinburgh with languid eyes and mind; and yet that city might\nhave interested the most unfortunate being."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 23,
+      "chapter_title": "Chapter 20",
+      "start_char_pos": 307198,
+      "end_char_pos": 307526,
+      "token_count": 62,
+      "text": "Beware, for I am fearless and therefore powerful. I will watch with\nthe wiliness of a snake, that I may sting with its venom. Man, you shall\nrepent of the injuries you inflict.”\n\n“Devil, cease; and do not poison the air with these sounds of malice.\nI have declared my resolution to you, and I am no coward to bend\nbeneath words.",
+      "first_sentence": "Beware, for I am fearless and therefore powerful."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 23,
+      "chapter_title": "Chapter 20",
+      "start_char_pos": 313554,
+      "end_char_pos": 313915,
+      "token_count": 68,
+      "text": "At one time the moon, which had before been clear, was\nsuddenly overspread by a thick cloud, and I took advantage of the moment of\ndarkness and cast my basket into the sea; I listened to the gurgling sound\nas it sank and then sailed away from the spot. The sky became clouded, but\nthe air was pure, although chilled by the northeast breeze that was then\nrising.",
+      "first_sentence": "At one time the moon, which had before been clear, was\nsuddenly overspread by a thick cloud, and I took advantage of the moment of\ndarkness and cast my basket into the sea; I listened to the gurgling sound\nas it sank and then sailed away from the spot."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 24,
+      "chapter_title": "Chapter 21",
+      "start_char_pos": 326689,
+      "end_char_pos": 327009,
+      "token_count": 64,
+      "text": "Her tone expressed her entire indifference; she addressed me in English, and the voice struck me as one that I had heard during my sufferings. “Are you better now, sir?” said she. I replied in the same language, with a feeble voice, “I believe I am; but if it be all true, if indeed I did not dream, I am sorry that I am",
+      "first_sentence": "Her tone expressed her entire indifference; she addressed me in English, and the voice struck me as one that I had heard during my sufferings."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 24,
+      "chapter_title": "Chapter 21",
+      "start_char_pos": 333551,
+      "end_char_pos": 333884,
+      "token_count": 60,
+      "text": "Yes, my father,” replied I; “some destiny of the\nmost horrible kind hangs over me, and I must live to fulfil it, or surely I\nshould have died on the coffin of Henry.”\n\nWe were not allowed to converse for any length of time, for the\nprecarious state of my health rendered every precaution necessary that\ncould ensure tranquillity. Mr.",
+      "first_sentence": "Yes, my father,” replied I; “some destiny of the\nmost horrible kind hangs over me, and I must live to fulfil it, or surely I\nshould have died on the coffin of Henry."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 25,
+      "chapter_title": "Chapter 22",
+      "start_char_pos": 346650,
+      "end_char_pos": 346990,
+      "token_count": 66,
+      "text": "But this is false reasoning. I confess to you, my friend, that I love\nyou and that in my airy dreams of futurity you have been my constant\nfriend and companion. But it is your happiness I desire as well as my\nown when I declare to you that our marriage would render me eternally\nmiserable unless it were the dictate of your own free choice.",
+      "first_sentence": "But this is false reasoning."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 25,
+      "chapter_title": "Chapter 22",
+      "start_char_pos": 353197,
+      "end_char_pos": 353498,
+      "token_count": 57,
+      "text": "But death was no evil to me if the loss of Elizabeth were\nbalanced with it, and I therefore, with a contented and even cheerful\ncountenance, agreed with my father that if my cousin would consent, the\nceremony should take place in ten days, and thus put, as I imagined,\nthe seal to my fate.\n\nGreat God!",
+      "first_sentence": "But death was no evil to me if the loss of Elizabeth were\nbalanced with it, and I therefore, with a contented and even cheerful\ncountenance, agreed with my father that if my cousin would consent, the\nceremony should take place in ten days, and thus put, as I imagined,\nthe seal to my fate."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 26,
+      "chapter_title": "Chapter 23",
+      "start_char_pos": 364002,
+      "end_char_pos": 364256,
+      "token_count": 42,
+      "text": "After passing several hours, we\nreturned hopeless, most of my companions believing it to have been a\nform conjured up by my fancy. After having landed, they proceeded to\nsearch the country, parties going in different directions among the\nwoods and vines.",
+      "first_sentence": "After passing several hours, we\nreturned hopeless, most of my companions believing it to have been a\nform conjured up by my fancy."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 26,
+      "chapter_title": "Chapter 23",
+      "start_char_pos": 368707,
+      "end_char_pos": 369036,
+      "token_count": 64,
+      "text": "I was possessed by a maddening rage when I thought of him, and desired and ardently prayed that I might have him within my grasp to wreak a great and signal revenge on his cursed head. Nor did my hate long confine itself to useless wishes; I began to reflect on the best means of securing him; and for this purpose, about a month",
+      "first_sentence": "I was possessed by a maddening rage when I thought of him, and desired and ardently prayed that I might have him within my grasp to wreak a great and signal revenge on his cursed head."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 27,
+      "chapter_title": "Chapter 24",
+      "start_char_pos": 380995,
+      "end_char_pos": 381337,
+      "token_count": 63,
+      "text": "You will find near this place, if\nyou follow not too tardily, a dead hare; eat and be refreshed. Come on, my\nenemy; we have yet to wrestle for our lives, but many hard and miserable\nhours must you endure until that period shall arrive.”\n\nScoffing devil! Again do I vow vengeance; again do I devote thee,\nmiserable fiend, to torture and death.",
+      "first_sentence": "You will find near this place, if\nyou follow not too tardily, a dead hare; eat and be refreshed."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 27,
+      "chapter_title": "Chapter 24",
+      "start_char_pos": 388707,
+      "end_char_pos": 389055,
+      "token_count": 71,
+      "text": "When will my guiding spirit, in conducting me to the dæmon, allow\nme the rest I so much desire; or must I die, and he yet live? If I do,\nswear to me, Walton, that he shall not escape, that you will seek him\nand satisfy my vengeance in his death. And do I dare to ask of you to\nundertake my pilgrimage, to endure the hardships that I have undergone?",
+      "first_sentence": "When will my guiding spirit, in conducting me to the dæmon, allow\nme the rest I so much desire; or must I die, and he yet live?"
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 27,
+      "chapter_title": "Chapter 24",
+      "start_char_pos": 396275,
+      "end_char_pos": 396596,
+      "token_count": 61,
+      "text": "But\nsuch is not my destiny; I must pursue and destroy the being to whom I\ngave existence; then my lot on earth will be fulfilled and I may die.”\n\nMy beloved Sister,\n\nSeptember 2d.\n\nI write to you, encompassed by peril and ignorant whether I am ever\ndoomed to see again dear England and the dearer friends that inhabit\nit.",
+      "first_sentence": "But\nsuch is not my destiny; I must pursue and destroy the being to whom I\ngave existence; then my lot on earth will be fulfilled and I may die."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 27,
+      "chapter_title": "Chapter 24",
+      "start_char_pos": 403786,
+      "end_char_pos": 404101,
+      "token_count": 55,
+      "text": "Frankenstein, who was dozing, awoke and asked the\ncause of the tumult. “They shout,” I said, “because they\nwill soon return to England.”\n\n“Do you, then, really return?”\n\n“Alas! Yes; I cannot withstand their demands. I cannot lead them\nunwillingly to danger, and I must return.”\n\n“Do so, if you will; but I will not.",
+      "first_sentence": "Frankenstein, who was dozing, awoke and asked the\ncause of the tumult."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 27,
+      "chapter_title": "Chapter 24",
+      "start_char_pos": 411424,
+      "end_char_pos": 411878,
+      "token_count": 76,
+      "text": "I pitied Frankenstein; my pity amounted to horror; I\nabhorred myself. But when I discovered that he, the author at once of\nmy existence and of its unspeakable torments, dared to hope for\nhappiness, that while he accumulated wretchedness and despair upon me\nhe sought his own enjoyment in feelings and passions from the\nindulgence of which I was for ever barred, then impotent envy and bitter\nindignation filled me with an insatiable thirst for vengeance.",
+      "first_sentence": "I pitied Frankenstein; my pity amounted to horror; I\nabhorred myself."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 27,
+      "chapter_title": "Chapter 24",
+      "start_char_pos": 396275,
+      "end_char_pos": 396596,
+      "token_count": 61,
+      "text": "But\nsuch is not my destiny; I must pursue and destroy the being to whom I\ngave existence; then my lot on earth will be fulfilled and I may die.”\n\nMy beloved Sister,\n\nSeptember 2d.\n\nI write to you, encompassed by peril and ignorant whether I am ever\ndoomed to see again dear England and the dearer friends that inhabit\nit.",
+      "first_sentence": "But\nsuch is not my destiny; I must pursue and destroy the being to whom I\ngave existence; then my lot on earth will be fulfilled and I may die."
+    }
+  ]
+}

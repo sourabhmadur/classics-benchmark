@@ -1,0 +1,945 @@
+{
+  "novel_key": "great_expectations",
+  "novel_file": "great_expectations.txt",
+  "text_length": 993782,
+  "chapters_detected": 62,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "Chapter II",
+      "start_pos": 22,
+      "end_pos": 10489,
+      "length": 10467
+    },
+    {
+      "chapter_num": 2,
+      "title": "Chapter II",
+      "start_pos": 10501,
+      "end_pos": 28744,
+      "length": 18243
+    },
+    {
+      "chapter_num": 3,
+      "title": "Chapter III",
+      "start_pos": 28757,
+      "end_pos": 38893,
+      "length": 10136
+    },
+    {
+      "chapter_num": 4,
+      "title": "Chapter IV",
+      "start_pos": 38905,
+      "end_pos": 57469,
+      "length": 18564
+    },
+    {
+      "chapter_num": 5,
+      "title": "Chapter V",
+      "start_pos": 57480,
+      "end_pos": 79851,
+      "length": 22371
+    },
+    {
+      "chapter_num": 6,
+      "title": "Chapter VI",
+      "start_pos": 79863,
+      "end_pos": 83973,
+      "length": 4110
+    },
+    {
+      "chapter_num": 7,
+      "title": "Chapter VII",
+      "start_pos": 83986,
+      "end_pos": 105338,
+      "length": 21352
+    },
+    {
+      "chapter_num": 8,
+      "title": "Chapter VIII",
+      "start_pos": 105352,
+      "end_pos": 130496,
+      "length": 25144
+    },
+    {
+      "chapter_num": 9,
+      "title": "Chapter IX",
+      "start_pos": 130508,
+      "end_pos": 144745,
+      "length": 14237
+    },
+    {
+      "chapter_num": 10,
+      "title": "Chapter X",
+      "start_pos": 144756,
+      "end_pos": 158311,
+      "length": 13555
+    },
+    {
+      "chapter_num": 11,
+      "title": "Chapter XI",
+      "start_pos": 158323,
+      "end_pos": 186971,
+      "length": 28648
+    },
+    {
+      "chapter_num": 12,
+      "title": "Chapter XII",
+      "start_pos": 186984,
+      "end_pos": 199086,
+      "length": 12102
+    },
+    {
+      "chapter_num": 13,
+      "title": "Chapter XIII",
+      "start_pos": 199100,
+      "end_pos": 214617,
+      "length": 15517
+    },
+    {
+      "chapter_num": 14,
+      "title": "Chapter XIV",
+      "start_pos": 214630,
+      "end_pos": 218922,
+      "length": 4292
+    },
+    {
+      "chapter_num": 15,
+      "title": "Chapter XV",
+      "start_pos": 218934,
+      "end_pos": 241920,
+      "length": 22986
+    },
+    {
+      "chapter_num": 16,
+      "title": "Chapter XVI",
+      "start_pos": 241933,
+      "end_pos": 252455,
+      "length": 10522
+    },
+    {
+      "chapter_num": 17,
+      "title": "Chapter XVII",
+      "start_pos": 252469,
+      "end_pos": 270168,
+      "length": 17699
+    },
+    {
+      "chapter_num": 18,
+      "title": "Chapter XVIII",
+      "start_pos": 270183,
+      "end_pos": 297370,
+      "length": 27187
+    },
+    {
+      "chapter_num": 19,
+      "title": "Chapter XIX",
+      "start_pos": 297383,
+      "end_pos": 327943,
+      "length": 30560
+    },
+    {
+      "chapter_num": 20,
+      "title": "Chapter XX",
+      "start_pos": 327955,
+      "end_pos": 335632,
+      "length": 7677
+    },
+    {
+      "chapter_num": 21,
+      "title": "I. T",
+      "start_pos": 335637,
+      "end_pos": 344930,
+      "length": 9293
+    },
+    {
+      "chapter_num": 22,
+      "title": "Chapter XXI",
+      "start_pos": 344943,
+      "end_pos": 354408,
+      "length": 9465
+    },
+    {
+      "chapter_num": 23,
+      "title": "Chapter XXII",
+      "start_pos": 354422,
+      "end_pos": 374431,
+      "length": 20009
+    },
+    {
+      "chapter_num": 24,
+      "title": "did.\n\nO",
+      "start_pos": 374439,
+      "end_pos": 381360,
+      "length": 6921
+    },
+    {
+      "chapter_num": 25,
+      "title": "Chapter XXIII",
+      "start_pos": 381375,
+      "end_pos": 399037,
+      "length": 17662
+    },
+    {
+      "chapter_num": 26,
+      "title": "Chapter XXIV",
+      "start_pos": 399051,
+      "end_pos": 411625,
+      "length": 12574
+    },
+    {
+      "chapter_num": 27,
+      "title": "Chapter XXV",
+      "start_pos": 411638,
+      "end_pos": 427487,
+      "length": 15849
+    },
+    {
+      "chapter_num": 28,
+      "title": "Chapter XXVI",
+      "start_pos": 427501,
+      "end_pos": 442808,
+      "length": 15307
+    },
+    {
+      "chapter_num": 29,
+      "title": "Chapter XXVII",
+      "start_pos": 442823,
+      "end_pos": 459059,
+      "length": 16236
+    },
+    {
+      "chapter_num": 30,
+      "title": "Chapter XXVIII",
+      "start_pos": 459075,
+      "end_pos": 472230,
+      "length": 13155
+    },
+    {
+      "chapter_num": 31,
+      "title": "Chapter XXIX",
+      "start_pos": 472244,
+      "end_pos": 498367,
+      "length": 26123
+    },
+    {
+      "chapter_num": 32,
+      "title": "Chapter XXX",
+      "start_pos": 498380,
+      "end_pos": 516629,
+      "length": 18249
+    },
+    {
+      "chapter_num": 33,
+      "title": "Chapter XXXI",
+      "start_pos": 516643,
+      "end_pos": 528538,
+      "length": 11895
+    },
+    {
+      "chapter_num": 34,
+      "title": "Chapter XXXII",
+      "start_pos": 528553,
+      "end_pos": 540627,
+      "length": 12074
+    },
+    {
+      "chapter_num": 35,
+      "title": "Chapter XXXIII",
+      "start_pos": 540643,
+      "end_pos": 555133,
+      "length": 14490
+    },
+    {
+      "chapter_num": 36,
+      "title": "Chapter XXXIV",
+      "start_pos": 555148,
+      "end_pos": 568034,
+      "length": 12886
+    },
+    {
+      "chapter_num": 37,
+      "title": "Chapter XXXV",
+      "start_pos": 568048,
+      "end_pos": 572869,
+      "length": 4821
+    },
+    {
+      "chapter_num": 38,
+      "title": "did. I",
+      "start_pos": 572876,
+      "end_pos": 584339,
+      "length": 11463
+    },
+    {
+      "chapter_num": 39,
+      "title": "Chapter XXXVI",
+      "start_pos": 584354,
+      "end_pos": 598106,
+      "length": 13752
+    },
+    {
+      "chapter_num": 40,
+      "title": "Chapter XXXVII",
+      "start_pos": 598122,
+      "end_pos": 613599,
+      "length": 15477
+    },
+    {
+      "chapter_num": 41,
+      "title": "Chapter XXXVIII",
+      "start_pos": 613616,
+      "end_pos": 640043,
+      "length": 26427
+    },
+    {
+      "chapter_num": 42,
+      "title": "Chapter XXXIX",
+      "start_pos": 640058,
+      "end_pos": 665224,
+      "length": 25166
+    },
+    {
+      "chapter_num": 43,
+      "title": "Chapter XL",
+      "start_pos": 665236,
+      "end_pos": 692886,
+      "length": 27650
+    },
+    {
+      "chapter_num": 44,
+      "title": "Chapter XLI",
+      "start_pos": 692899,
+      "end_pos": 704393,
+      "length": 11494
+    },
+    {
+      "chapter_num": 45,
+      "title": "Chapter XLII",
+      "start_pos": 704407,
+      "end_pos": 719737,
+      "length": 15330
+    },
+    {
+      "chapter_num": 46,
+      "title": "Chapter XLIII",
+      "start_pos": 719752,
+      "end_pos": 730216,
+      "length": 10464
+    },
+    {
+      "chapter_num": 47,
+      "title": "Chapter XLIV",
+      "start_pos": 730230,
+      "end_pos": 745450,
+      "length": 15220
+    },
+    {
+      "chapter_num": 48,
+      "title": "Chapter XLV",
+      "start_pos": 745463,
+      "end_pos": 761381,
+      "length": 15918
+    },
+    {
+      "chapter_num": 49,
+      "title": "Chapter XLVI",
+      "start_pos": 761395,
+      "end_pos": 777628,
+      "length": 16233
+    },
+    {
+      "chapter_num": 50,
+      "title": "Chapter XLVII",
+      "start_pos": 777643,
+      "end_pos": 791356,
+      "length": 13713
+    },
+    {
+      "chapter_num": 51,
+      "title": "Chapter XLVIII",
+      "start_pos": 791372,
+      "end_pos": 805944,
+      "length": 14572
+    },
+    {
+      "chapter_num": 52,
+      "title": "Chapter XLIX",
+      "start_pos": 805958,
+      "end_pos": 824749,
+      "length": 18791
+    },
+    {
+      "chapter_num": 53,
+      "title": "Chapter L",
+      "start_pos": 824760,
+      "end_pos": 832780,
+      "length": 8020
+    },
+    {
+      "chapter_num": 54,
+      "title": "Chapter LI",
+      "start_pos": 832792,
+      "end_pos": 849024,
+      "length": 16232
+    },
+    {
+      "chapter_num": 55,
+      "title": "Chapter LII",
+      "start_pos": 849037,
+      "end_pos": 860012,
+      "length": 10975
+    },
+    {
+      "chapter_num": 56,
+      "title": "Chapter LIII",
+      "start_pos": 860026,
+      "end_pos": 887267,
+      "length": 27241
+    },
+    {
+      "chapter_num": 57,
+      "title": "Chapter LIV",
+      "start_pos": 887280,
+      "end_pos": 917466,
+      "length": 30186
+    },
+    {
+      "chapter_num": 58,
+      "title": "Chapter LV",
+      "start_pos": 917478,
+      "end_pos": 932868,
+      "length": 15390
+    },
+    {
+      "chapter_num": 59,
+      "title": "Chapter LVI",
+      "start_pos": 932881,
+      "end_pos": 944505,
+      "length": 11624
+    },
+    {
+      "chapter_num": 60,
+      "title": "Chapter LVII",
+      "start_pos": 944519,
+      "end_pos": 969902,
+      "length": 25383
+    },
+    {
+      "chapter_num": 61,
+      "title": "Chapter LVIII",
+      "start_pos": 969917,
+      "end_pos": 986118,
+      "length": 16201
+    },
+    {
+      "chapter_num": 62,
+      "title": "Chapter LIX",
+      "start_pos": 986131,
+      "end_pos": 993782,
+      "length": 7651
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 5551,
+      "end_char_pos": 6002,
+      "token_count": 83,
+      "text": "Joe Gargery,—wife of Joe Gargery, the blacksmith,\nsir.”\n\n“Blacksmith, eh?” said he. And looked down at his leg.\n\nAfter darkly looking at his leg and me several times, he came closer to\nmy tombstone, took me by both arms, and tilted me back as far as he\ncould hold me; so that his eyes looked most powerfully down into mine,\nand mine looked most helplessly up into his.\n\n“Now lookee here,” he said, “the question being whether you’re to be\nlet to live.",
+      "first_sentence": "Joe Gargery,—wife of Joe Gargery, the blacksmith,\nsir."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 19683,
+      "end_char_pos": 19926,
+      "token_count": 47,
+      "text": "But such a—” he moved his chair and looked about the floor\nbetween us, and then again at me—“such a most oncommon Bolt as that!”\n\n“Been bolting his food, has he?” cried my sister.\n\n“You know, old chap,” said Joe, looking at me, and not at Mrs.",
+      "first_sentence": "But such a—” he moved his chair and looked about the floor\nbetween us, and then again at me—“such a most oncommon Bolt as that!"
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 33979,
+      "end_char_pos": 34278,
+      "token_count": 56,
+      "text": "Some real or\nfancied sound, some clink upon the river or breathing of beast upon the\nmarsh, now gave him a start, and he said, suddenly,—\n\n“You’re not a deceiving imp? You brought no one with you?”\n\n“No, sir! No!”\n\n“Nor giv’ no one the office to follow you?”\n\n“No!”\n\n“Well,” said he, “I believe you.",
+      "first_sentence": "Some real or\nfancied sound, some clink upon the river or breathing of beast upon the\nmarsh, now gave him a start, and he said, suddenly,—\n\n“You’re not a deceiving imp?"
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 4,
+      "chapter_title": "Chapter IV",
+      "start_char_pos": 48251,
+      "end_char_pos": 48685,
+      "token_count": 77,
+      "text": "Upon which my sister fixed me with her eye, and said, in a low\nreproachful voice, “Do you hear that? Be grateful.”\n\n“Especially,” said Mr. Pumblechook, “be grateful, boy, to them which\nbrought you up by hand.”\n\nMrs. Hubble shook her head, and contemplating me with a mournful\npresentiment that I should come to no good, asked, “Why is it that the\nyoung are never grateful?” This moral mystery seemed too much for the\ncompany until Mr.",
+      "first_sentence": "Upon which my sister fixed me with her eye, and said, in a low\nreproachful voice, “Do you hear that?"
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 82043,
+      "end_char_pos": 82297,
+      "token_count": 48,
+      "text": "In\nhis lay capacity, he persisted in sitting down in the damp to such an\ninsane extent, that when his coat was taken off to be dried at the\nkitchen fire, the circumstantial evidence on his trousers would have\nhanged him, if it had been a capital offence.",
+      "first_sentence": "In\nhis lay capacity, he persisted in sitting down in the damp to such an\ninsane extent, that when his coat was taken off to be dried at the\nkitchen fire, the circumstantial evidence on his trousers would have\nhanged him, if it had been a capital offence."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 94665,
+      "end_char_pos": 94995,
+      "token_count": 64,
+      "text": "When I got acquainted with your sister, it were the talk how she was bringing you up by hand. Very kind of her too, all the folks said, and I said, along with all the folks. As to you,” Joe pursued with a countenance expressive of seeing something very nasty indeed, “if you could have been aware how small and flabby and mean you",
+      "first_sentence": "When I got acquainted with your sister, it were the talk how she was bringing you up by hand."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 8,
+      "chapter_title": "Chapter VIII",
+      "start_char_pos": 118309,
+      "end_char_pos": 118641,
+      "token_count": 63,
+      "text": "At the door.”\n\nTo stand in the dark in a mysterious passage of an unknown house,\nbawling Estella to a scornful young lady neither visible nor\nresponsive, and feeling it a dreadful liberty so to roar out her name,\nwas almost as bad as playing to order. But she answered at last, and\nher light came along the dark passage like a star.",
+      "first_sentence": "At the door."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 9,
+      "chapter_title": "Chapter IX",
+      "start_char_pos": 137728,
+      "end_char_pos": 138131,
+      "token_count": 77,
+      "text": "The subject still held them when Joe came in from his work to\nhave a cup of tea. To whom my sister, more for the relief of her own\nmind than for the gratification of his, related my pretended\nexperiences.\n\nNow, when I saw Joe open his blue eyes and roll them all round the\nkitchen in helpless amazement, I was overtaken by penitence; but only\nas regarded him,—not in the least as regarded the other two.",
+      "first_sentence": "The subject still held them when Joe came in from his work to\nhave a cup of tea."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 11,
+      "chapter_title": "Chapter XI",
+      "start_char_pos": 172700,
+      "end_char_pos": 173025,
+      "token_count": 64,
+      "text": "If I could be less affectionate and sensitive,\nI should have a better digestion and an iron set of nerves. I am sure I\nwish it could be so. But as to not thinking of you in the night—The\nidea!” Here, a burst of tears.\n\nThe Raymond referred to, I understood to be the gentleman present, and\nhim I understood to be Mr. Camilla.",
+      "first_sentence": "If I could be less affectionate and sensitive,\nI should have a better digestion and an iron set of nerves."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 12,
+      "chapter_title": "Chapter XII",
+      "start_char_pos": 193161,
+      "end_char_pos": 193553,
+      "token_count": 72,
+      "text": "What could I become with these surroundings? How could my character\nfail to be influenced by them? Is it to be wondered at if my thoughts\nwere dazed, as my eyes were, when I came out into the natural light\nfrom the misty yellow rooms?\n\nPerhaps I might have told Joe about the pale young gentleman, if I had\nnot previously been betrayed into those enormous inventions to which I\nhad confessed.",
+      "first_sentence": "What could I become with these surroundings?"
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 13,
+      "chapter_title": "Chapter XIII",
+      "start_char_pos": 206986,
+      "end_char_pos": 207235,
+      "token_count": 42,
+      "text": "My reason is to be found in what\ntook place in Mr. Pumblechook’s parlour: where, on our presenting\nourselves, my sister sat in conference with that detested seedsman.\n\n“Well?” cried my sister, addressing us both at once. “And what’s\nhappened to you?",
+      "first_sentence": "My reason is to be found in what\ntook place in Mr."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 15,
+      "chapter_title": "Chapter XV",
+      "start_char_pos": 230569,
+      "end_char_pos": 230897,
+      "token_count": 64,
+      "text": "What did that fellow Orlick say to me, Pip? What did he call me, with my husband standing by? Oh! oh! oh!” Each of these exclamations was a shriek; and I must remark of my sister, what is equally true of all the violent women I have ever seen, that passion was no excuse for her, because it is undeniable that instead of lapsing",
+      "first_sentence": "What did that fellow Orlick say to me, Pip?"
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 16,
+      "chapter_title": "Chapter XVI",
+      "start_char_pos": 247299,
+      "end_char_pos": 247644,
+      "token_count": 56,
+      "text": "But not quite, for they never did it.\n\nLong after these constitutional powers had dispersed, my sister lay\nvery ill in bed. Her sight was disturbed, so that she saw objects\nmultiplied, and grasped at visionary teacups and wineglasses instead of\nthe realities; her hearing was greatly impaired; her memory also; and\nher speech was unintelligible.",
+      "first_sentence": "But not quite, for they never did it."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 17,
+      "chapter_title": "Chapter XVII",
+      "start_char_pos": 261336,
+      "end_char_pos": 261680,
+      "token_count": 64,
+      "text": "It was not to be shuffled off now, however, and I answered, “The beautiful young lady at Miss Havisham’s, and she’s more beautiful than anybody ever was, and I admire her dreadfully, and I want to be a gentleman on her account.” Having made this lunatic confession, I began to throw my torn-up grass into the river, as if I had some thoughts of",
+      "first_sentence": "It was not to be shuffled off now, however, and I answered, “The beautiful young lady at Miss Havisham’s, and she’s more beautiful than anybody ever was, and I admire her dreadfully, and I want to be a gentleman on her account."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 18,
+      "chapter_title": "Chapter XVIII",
+      "start_char_pos": 283857,
+      "end_char_pos": 284160,
+      "token_count": 58,
+      "text": "Pip,” he retorted;\n“keep to the record. If you long for it now, that’s enough. Am I\nanswered that you are ready to be placed at once under some proper\ntutor? Is that it?”\n\nI stammered yes, that was it.\n\n“Good. Now, your inclinations are to be consulted. I don’t think that\nwise, mind, but it’s my trust.",
+      "first_sentence": "Pip,” he retorted;\n“keep to the record."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 19,
+      "chapter_title": "Chapter XIX",
+      "start_char_pos": 317821,
+      "end_char_pos": 318188,
+      "token_count": 67,
+      "text": "Finally, I went out\ninto the air, with a dim perception that there was something unwonted\nin the conduct of the sunshine, and found that I had slumberously got\nto the turnpike without having taken any account of the road.\n\nThere, I was roused by Mr. Pumblechook’s hailing me. He was a long way\ndown the sunny street, and was making expressive gestures for me to\nstop.",
+      "first_sentence": "Finally, I went out\ninto the air, with a dim perception that there was something unwonted\nin the conduct of the sunshine, and found that I had slumberously got\nto the turnpike without having taken any account of the road."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 20,
+      "chapter_title": "Chapter XX",
+      "start_char_pos": 331888,
+      "end_char_pos": 332263,
+      "token_count": 67,
+      "text": "The room was but small, and the\nclients seemed to have had a habit of backing up against the wall; the\nwall, especially opposite to Mr. Jaggers’s chair, being greasy with\nshoulders. I recalled, too, that the one-eyed gentleman had shuffled\nforth against the wall when I was the innocent cause of his being\nturned out.\n\nI sat down in the cliental chair placed over against Mr.",
+      "first_sentence": "The room was but small, and the\nclients seemed to have had a habit of backing up against the wall; the\nwall, especially opposite to Mr."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 21,
+      "chapter_title": "I. T",
+      "start_char_pos": 340393,
+      "end_char_pos": 340820,
+      "token_count": 74,
+      "text": "Without further\ninterruption, we reached the front office, where we found the clerk and\nthe man in velveteen with the fur cap.\n\n“Here’s Mike,” said the clerk, getting down from his stool, and\napproaching Mr. Jaggers confidentially.\n\n“Oh!” said Mr. Jaggers, turning to the man, who was pulling a lock of\nhair in the middle of his forehead, like the Bull in Cock Robin pulling\nat the bell-rope; “your man comes on this afternoon.",
+      "first_sentence": "Without further\ninterruption, we reached the front office, where we found the clerk and\nthe man in velveteen with the fur cap."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 23,
+      "chapter_title": "Chapter XXII",
+      "start_char_pos": 364433,
+      "end_char_pos": 364772,
+      "token_count": 58,
+      "text": "Her half-brother had now ample means again, but what\nwith debts and what with new madness wasted them most fearfully again.\nThere were stronger differences between him and her than there had been\nbetween him and his father, and it is suspected that he cherished a\ndeep and mortal grudge against her as having influenced the father’s\nanger.",
+      "first_sentence": "Her half-brother had now ample means again, but what\nwith debts and what with new madness wasted them most fearfully again."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 24,
+      "chapter_title": "did.\n\nO",
+      "start_char_pos": 377902,
+      "end_char_pos": 378245,
+      "token_count": 64,
+      "text": "Her countenance immediately assumed a knitted and intent expression as if she had been reading for a week, but before she could have read half a dozen lines, she fixed her eyes upon me, and said, “I hope your mamma is quite well?” This unexpected inquiry put me into such a difficulty that I began saying in the absurdest way that if there had",
+      "first_sentence": "Her countenance immediately assumed a knitted and intent expression as if she had been reading for a week, but before she could have read half a dozen lines, she fixed her eyes upon me, and said, “I hope your mamma is quite well?"
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 25,
+      "chapter_title": "Chapter XXIII",
+      "start_char_pos": 390214,
+      "end_char_pos": 390730,
+      "token_count": 95,
+      "text": "Coiler then changed the subject and began to flatter me. I liked\nit for a few moments, but she flattered me so very grossly that the\npleasure was soon over. She had a serpentine way of coming close at me\nwhen she pretended to be vitally interested in the friends and\nlocalities I had left, which was altogether snaky and fork-tongued; and\nwhen she made an occasional bounce upon Startop (who said very little\nto her), or upon Drummle (who said less), I rather envied them for\nbeing on the opposite side of the table.",
+      "first_sentence": "Coiler then changed the subject and began to flatter me."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 26,
+      "chapter_title": "Chapter XXIV",
+      "start_char_pos": 405402,
+      "end_char_pos": 405869,
+      "token_count": 86,
+      "text": "Wemmick presented\nto me as a smelter who kept his pot always boiling, and who would melt\nme anything I pleased,—and who was in an excessive white-perspiration,\nas if he had been trying his art on himself. In a back room, a\nhigh-shouldered man with a face-ache tied up in dirty flannel, who was\ndressed in old black clothes that bore the appearance of having been\nwaxed, was stooping over his work of making fair copies of the notes of\nthe other two gentlemen, for Mr.",
+      "first_sentence": "Wemmick presented\nto me as a smelter who kept his pot always boiling, and who would melt\nme anything I pleased,—and who was in an excessive white-perspiration,\nas if he had been trying his art on himself."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 28,
+      "chapter_title": "Chapter XXVI",
+      "start_char_pos": 435244,
+      "end_char_pos": 435493,
+      "token_count": 48,
+      "text": "By some invisible\nagency, my guardian wound him up to a pitch little short of ferocity\nabout this trifle; and he fell to baring and spanning his arm to show\nhow muscular it was, and we all fell to baring and spanning our arms in\na ridiculous manner.",
+      "first_sentence": "By some invisible\nagency, my guardian wound him up to a pitch little short of ferocity\nabout this trifle; and he fell to baring and spanning his arm to show\nhow muscular it was, and we all fell to baring and spanning our arms in\na ridiculous manner."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 29,
+      "chapter_title": "Chapter XXVII",
+      "start_char_pos": 451541,
+      "end_char_pos": 451888,
+      "token_count": 67,
+      "text": "But don’t you never find it a little\n’eating?”\n\n“Say tea then,” said Herbert, pouring it out.\n\nHere Joe’s hat tumbled off the mantel-piece, and he started out of his\nchair and picked it up, and fitted it to the same exact spot. As if it\nwere an absolute point of good breeding that it should tumble off again\nsoon.\n\n“When did you come to town, Mr.",
+      "first_sentence": "But don’t you never find it a little\n’eating?"
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 30,
+      "chapter_title": "Chapter XXVIII",
+      "start_char_pos": 465844,
+      "end_char_pos": 466189,
+      "token_count": 66,
+      "text": "I thought what a\nblessed fortune it was, that he had found another name for me than Pip.\n\nIt is impossible to express with what acuteness I felt the convict’s\nbreathing, not only on the back of my head, but all along my spine. The\nsensation was like being touched in the marrow with some pungent and\nsearching acid, it set my very teeth on edge.",
+      "first_sentence": "I thought what a\nblessed fortune it was, that he had found another name for me than Pip."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 32,
+      "chapter_title": "Chapter XXX",
+      "start_char_pos": 507544,
+      "end_char_pos": 507874,
+      "token_count": 66,
+      "text": "On the whole, I by no means recognised the\nanalysis, but thought it not worth disputing.\n\n“When I ask what I am to call myself to-day, Herbert,” I went on, “I\nsuggest what I have in my thoughts. You say I am lucky. I know I have\ndone nothing to raise myself in life, and that Fortune alone has raised\nme; that is being very lucky.",
+      "first_sentence": "On the whole, I by no means recognised the\nanalysis, but thought it not worth disputing."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 33,
+      "chapter_title": "Chapter XXXI",
+      "start_char_pos": 522745,
+      "end_char_pos": 523134,
+      "token_count": 67,
+      "text": "Standing at the door was a Jewish man with an unnatural heavy\nsmear of eyebrow, who caught my eyes as we advanced, and said, when we\ncame up with him,—\n\n“Mr. Pip and friend?”\n\nIdentity of Mr. Pip and friend confessed.\n\n“Mr. Waldengarver,” said the man, “would be glad to have the honour.”\n\n“Waldengarver?” I repeated—when Herbert murmured in my ear, “Probably\nWopsle.”\n\n“Oh!” said I. “Yes.",
+      "first_sentence": "Standing at the door was a Jewish man with an unnatural heavy\nsmear of eyebrow, who caught my eyes as we advanced, and said, when we\ncame up with him,—\n\n“Mr."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 34,
+      "chapter_title": "Chapter XXXII",
+      "start_char_pos": 535246,
+      "end_char_pos": 535653,
+      "token_count": 78,
+      "text": "Was a soldier in the line and bought\nhis discharge.”\n\nI said, “Indeed?” and the man’s eyes looked at me, and then looked over\nmy head, and then looked all round me, and then he drew his hand across\nhis lips and laughed.\n\n“I think I shall be out of this on Monday, sir,” he said to Wemmick.\n\n“Perhaps,” returned my friend, “but there’s no knowing.”\n\n“I am glad to have the chance of bidding you good-bye, Mr.",
+      "first_sentence": "Was a soldier in the line and bought\nhis discharge."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 35,
+      "chapter_title": "Chapter XXXIII",
+      "start_char_pos": 547990,
+      "end_char_pos": 548370,
+      "token_count": 64,
+      "text": "Why repeat it a thousand times? So it always was. I rang for the tea, and the waiter, reappearing with his magic clue, brought in by degrees some fifty adjuncts to that refreshment, but of tea not a glimpse. A teaboard, cups and saucers, plates, knives and forks (including carvers), spoons (various), salt-cellars, a meek little muffin confined with the utmost precaution under a",
+      "first_sentence": "Why repeat it a thousand times?"
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 37,
+      "chapter_title": "Chapter XXXV",
+      "start_char_pos": 570583,
+      "end_char_pos": 570895,
+      "token_count": 58,
+      "text": "All the children of the village, and\nmost of the women, were admiring these sable warders and the closed\nwindows of the house and forge; and as I came up, one of the two\nwarders (the postboy) knocked at the door,—implying that I was far too\nmuch exhausted by grief to have strength remaining to knock for myself.",
+      "first_sentence": "All the children of the village, and\nmost of the women, were admiring these sable warders and the closed\nwindows of the house and forge; and as I came up, one of the two\nwarders (the postboy) knocked at the door,—implying that I was far too\nmuch exhausted by grief to have strength remaining to knock for myself."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 38,
+      "chapter_title": "did. I",
+      "start_char_pos": 578633,
+      "end_char_pos": 578992,
+      "token_count": 70,
+      "text": "If you want any mo—”\n\n“How am I going to live?” repeated Biddy, striking in, with a momentary\nflush upon her face. “I’ll tell you, Mr. Pip. I am going to try to get\nthe place of mistress in the new school nearly finished here. I can be\nwell recommended by all the neighbours, and I hope I can be industrious\nand patient, and teach myself while I teach others.",
+      "first_sentence": "If you want any mo—”\n\n“How am I going to live?"
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 39,
+      "chapter_title": "Chapter XXXVI",
+      "start_char_pos": 591308,
+      "end_char_pos": 591529,
+      "token_count": 46,
+      "text": "And as I felt that it came\nquicker, and as I felt that he saw that it came quicker, I felt that I\nhad less chance than ever of getting anything out of him.\n\n“Do you suppose it will still be years hence, Mr. Jaggers?”\n\nMr.",
+      "first_sentence": "And as I felt that it came\nquicker, and as I felt that he saw that it came quicker, I felt that I\nhad less chance than ever of getting anything out of him."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 40,
+      "chapter_title": "Chapter XXXVII",
+      "start_char_pos": 606125,
+      "end_char_pos": 606379,
+      "token_count": 49,
+      "text": "The\nresponsible duty of making the toast was delegated to the Aged, and\nthat excellent old gentleman was so intent upon it that he seemed to me\nin some danger of melting his eyes. It was no nominal meal that we were\ngoing to make, but a vigorous reality.",
+      "first_sentence": "The\nresponsible duty of making the toast was delegated to the Aged, and\nthat excellent old gentleman was so intent upon it that he seemed to me\nin some danger of melting his eyes."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 42,
+      "chapter_title": "Chapter XXXIX",
+      "start_char_pos": 652683,
+      "end_char_pos": 652918,
+      "token_count": 44,
+      "text": "I faltered, “I don’t know.”\n\n“Might a mere warmint ask whose property?” said he.\n\nI faltered again, “I don’t know.”\n\n“Could I make a guess, I wonder,” said the Convict, “at your income\nsince you come of age! As to the first figure now.",
+      "first_sentence": "I faltered, “I don’t know."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 43,
+      "chapter_title": "Chapter XL",
+      "start_char_pos": 679079,
+      "end_char_pos": 679397,
+      "token_count": 62,
+      "text": "If there’s Death hid inside of it,\nthere is, and let him come out, and I’ll face him, and then I’ll\nbelieve in him and not afore. And now let me have a look at my\ngentleman agen.”\n\nOnce more, he took me by both hands and surveyed me with an air of\nadmiring proprietorship: smoking with great complacency all the while.",
+      "first_sentence": "If there’s Death hid inside of it,\nthere is, and let him come out, and I’ll face him, and then I’ll\nbelieve in him and not afore."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 44,
+      "chapter_title": "Chapter XLI",
+      "start_char_pos": 698782,
+      "end_char_pos": 699106,
+      "token_count": 64,
+      "text": "More than that, he\nseems to me (I may misjudge him) to be a man of a desperate and fierce\ncharacter.”\n\n“I know he is,” I returned. “Let me tell you what evidence I have seen\nof it.” And I told him what I had not mentioned in my narrative, of\nthat encounter with the other convict.\n\n“See, then,” said Herbert; “think of this!",
+      "first_sentence": "More than that, he\nseems to me (I may misjudge him) to be a man of a desperate and fierce\ncharacter."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 46,
+      "chapter_title": "Chapter XLIII",
+      "start_char_pos": 725040,
+      "end_char_pos": 725418,
+      "token_count": 69,
+      "text": "Drummle looked at my boots, and I looked at his.\n\n“Have you been here long?” I asked, determined not to yield an inch of\nthe fire.\n\n“Long enough to be tired of it,” returned Drummle, pretending to yawn,\nbut equally determined.\n\n“Do you stay here long?”\n\n“Can’t say,” answered Mr. Drummle. “Do you?”\n\n“Can’t say,” said I.\n\nI felt here, through a tingling in my blood, that if Mr.",
+      "first_sentence": "Drummle looked at my boots, and I looked at his."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 47,
+      "chapter_title": "Chapter XLIV",
+      "start_char_pos": 737966,
+      "end_char_pos": 738325,
+      "token_count": 68,
+      "text": "But I think she did not. I think that,\nin the endurance of her own trial, she forgot mine, Estella.”\n\nI saw Miss Havisham put her hand to her heart and hold it there, as she\nsat looking by turns at Estella and at me.\n\n“It seems,” said Estella, very calmly, “that there are sentiments,\nfancies,—I don’t know how to call them,—which I am not able to\ncomprehend.",
+      "first_sentence": "But I think she did not."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 48,
+      "chapter_title": "Chapter XLV",
+      "start_char_pos": 753463,
+      "end_char_pos": 753821,
+      "token_count": 64,
+      "text": "Then he placed his breakfast before him with great care, and said, “All right, ain’t you, Aged P.?” To which the cheerful Aged replied, “All right, John, my boy, all right!” As there seemed to be a tacit understanding that the Aged was not in a presentable state, and was therefore to be considered invisible, I made a pretence of being in complete ignorance",
+      "first_sentence": "Then he placed his breakfast before him with great care, and said, “All right, ain’t you, Aged P.?"
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 49,
+      "chapter_title": "Chapter XLVI",
+      "start_char_pos": 769788,
+      "end_char_pos": 770175,
+      "token_count": 70,
+      "text": "In his two cabin rooms at the top of the house, which were fresh and\nairy, and in which Mr. Barley was less audible than below, I found\nProvis comfortably settled. He expressed no alarm, and seemed to feel\nnone that was worth mentioning; but it struck me that he was\nsoftened,—indefinably, for I could not have said how, and could never\nafterwards recall how when I tried, but certainly.",
+      "first_sentence": "In his two cabin rooms at the top of the house, which were fresh and\nairy, and in which Mr."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 51,
+      "chapter_title": "Chapter XLVIII",
+      "start_char_pos": 798743,
+      "end_char_pos": 799003,
+      "token_count": 51,
+      "text": "He nodded when I said\nthe subject was painful to me, clapped me on the back, put round the\nwine again, and went on with his dinner.\n\nOnly twice more did the housekeeper reappear, and then her stay in the\nroom was very short, and Mr. Jaggers was sharp with her.",
+      "first_sentence": "He nodded when I said\nthe subject was painful to me, clapped me on the back, put round the\nwine again, and went on with his dinner."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 52,
+      "chapter_title": "Chapter XLIX",
+      "start_char_pos": 815378,
+      "end_char_pos": 815726,
+      "token_count": 69,
+      "text": "But Estella is a different case, and\nif you can ever undo any scrap of what you have done amiss in keeping a\npart of her right nature away from her, it will be better to do that\nthan to bemoan the past through a hundred years.”\n\n“Yes, yes, I know it. But, Pip—my dear!” There was an earnest womanly\ncompassion for me in her new affection. “My dear!",
+      "first_sentence": "But Estella is a different case, and\nif you can ever undo any scrap of what you have done amiss in keeping a\npart of her right nature away from her, it will be better to do that\nthan to bemoan the past through a hundred years."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 53,
+      "chapter_title": "Chapter L",
+      "start_char_pos": 828776,
+      "end_char_pos": 829122,
+      "token_count": 65,
+      "text": "How did she murder? Whom did she murder?”\n\n“Why, the deed may not have merited quite so terrible a name,” said\nHerbert, “but, she was tried for it, and Mr. Jaggers defended her, and\nthe reputation of that defence first made his name known to Provis. It\nwas another and a stronger woman who was the victim, and there had been\na struggle—in a barn.",
+      "first_sentence": "How did she murder?"
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 55,
+      "chapter_title": "Chapter LII",
+      "start_char_pos": 854630,
+      "end_char_pos": 854995,
+      "token_count": 72,
+      "text": "Bring this with you.”\n\nI had had load enough upon my mind before the receipt of this strange\nletter. What to do now, I could not tell. And the worst was, that I\nmust decide quickly, or I should miss the afternoon coach, which would\ntake me down in time for to-night. To-morrow night I could not think of\ngoing, for it would be too close upon the time of the flight.",
+      "first_sentence": "Bring this with you."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 56,
+      "chapter_title": "Chapter LIII",
+      "start_char_pos": 873704,
+      "end_char_pos": 874048,
+      "token_count": 68,
+      "text": "They writes fifty hands;\nthey’re not like sneaking you, as writes but one. I’ve had a firm mind\nand a firm will to have your life, since you was down here at your\nsister’s burying. I han’t seen a way to get you safe, and I’ve looked\narter you to know your ins and outs. For, says Old Orlick to himself,\n‘Somehow or another I’ll have him!’ What!",
+      "first_sentence": "They writes fifty hands;\nthey’re not like sneaking you, as writes but one."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 57,
+      "chapter_title": "Chapter LIV",
+      "start_char_pos": 897394,
+      "end_char_pos": 897672,
+      "token_count": 55,
+      "text": "Our oarsmen were so fresh, by dint of having occasionally let her drive\nwith the tide for a minute or two, that a quarter of an hour’s rest\nproved full as much as they wanted. We got ashore among some slippery\nstones while we ate and drank what we had with us, and looked about.",
+      "first_sentence": "Our oarsmen were so fresh, by dint of having occasionally let her drive\nwith the tide for a minute or two, that a quarter of an hour’s rest\nproved full as much as they wanted."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 57,
+      "chapter_title": "Chapter LIV",
+      "start_char_pos": 907417,
+      "end_char_pos": 907778,
+      "token_count": 69,
+      "text": "But, to be sure, the\ntide was high, and there might have been some footprints under water.\n\nWhen he looked out from his shelter in the distance, and saw that I\nwaved my hat to him to come up, he rejoined me, and there we waited;\nsometimes lying on the bank, wrapped in our coats, and sometimes moving\nabout to warm ourselves, until we saw our boat coming round.",
+      "first_sentence": "But, to be sure, the\ntide was high, and there might have been some footprints under water."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 59,
+      "chapter_title": "Chapter LVI",
+      "start_char_pos": 938752,
+      "end_char_pos": 939028,
+      "token_count": 56,
+      "text": "Rising for a moment, a distinct speck of face\nin this way of light, the prisoner said, “My Lord, I have received my\nsentence of Death from the Almighty, but I bow to yours,” and sat down\nagain. There was some hushing, and the Judge went on with what he had\nto say to the rest.",
+      "first_sentence": "Rising for a moment, a distinct speck of face\nin this way of light, the prisoner said, “My Lord, I have received my\nsentence of Death from the Almighty, but I bow to yours,” and sat down\nagain."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 60,
+      "chapter_title": "Chapter LVII",
+      "start_char_pos": 957523,
+      "end_char_pos": 957874,
+      "token_count": 66,
+      "text": "Which she would have tapped yourn next,\nand draw’d it off with you a laying on it, and was then a carrying away\nthe coals gradiwally in the soup-tureen and wegetable-dishes, and the\nwine and spirits in your Wellington boots.”\n\nWe looked forward to the day when I should go out for a ride, as we had\nonce looked forward to the day of my apprenticeship.",
+      "first_sentence": "Which she would have tapped yourn next,\nand draw’d it off with you a laying on it, and was then a carrying away\nthe coals gradiwally in the soup-tureen and wegetable-dishes, and the\nwine and spirits in your Wellington boots."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 61,
+      "chapter_title": "Chapter LVIII",
+      "start_char_pos": 978406,
+      "end_char_pos": 978776,
+      "token_count": 65,
+      "text": "But, it was only the pleasanter to turn to Biddy and to Joe, whose\ngreat forbearance shone more brightly than before, if that could be,\ncontrasted with this brazen pretender. I went towards them slowly, for\nmy limbs were weak, but with a sense of increasing relief as I drew\nnearer to them, and a sense of leaving arrogance and untruthfulness\nfurther and further behind.",
+      "first_sentence": "But, it was only the pleasanter to turn to Biddy and to Joe, whose\ngreat forbearance shone more brightly than before, if that could be,\ncontrasted with this brazen pretender."
+    }
+  ]
+}

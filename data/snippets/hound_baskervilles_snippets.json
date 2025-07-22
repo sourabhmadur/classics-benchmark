@@ -1,0 +1,637 @@
+{
+  "novel_key": "hound_baskervilles",
+  "novel_file": "hound_baskervilles.txt",
+  "text_length": 323766,
+  "chapters_detected": 18,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "Chapter 2",
+      "start_pos": 40,
+      "end_pos": 1078,
+      "length": 1038
+    },
+    {
+      "chapter_num": 2,
+      "title": "C.C",
+      "start_pos": 1083,
+      "end_pos": 13368,
+      "length": 12285
+    },
+    {
+      "chapter_num": 3,
+      "title": "Chapter 2",
+      "start_pos": 13379,
+      "end_pos": 35018,
+      "length": 21639
+    },
+    {
+      "chapter_num": 4,
+      "title": "Chapter 3",
+      "start_pos": 35029,
+      "end_pos": 51245,
+      "length": 16216
+    },
+    {
+      "chapter_num": 5,
+      "title": "Chapter 4",
+      "start_pos": 51256,
+      "end_pos": 73811,
+      "length": 22555
+    },
+    {
+      "chapter_num": 6,
+      "title": "Chapter 5",
+      "start_pos": 73822,
+      "end_pos": 92714,
+      "length": 18892
+    },
+    {
+      "chapter_num": 7,
+      "title": "Chapter 6",
+      "start_pos": 92725,
+      "end_pos": 112034,
+      "length": 19309
+    },
+    {
+      "chapter_num": 8,
+      "title": "Chapter 7",
+      "start_pos": 112045,
+      "end_pos": 138991,
+      "length": 26946
+    },
+    {
+      "chapter_num": 9,
+      "title": "Chapter 8",
+      "start_pos": 139002,
+      "end_pos": 154075,
+      "length": 15073
+    },
+    {
+      "chapter_num": 10,
+      "title": "Chapter 9",
+      "start_pos": 154086,
+      "end_pos": 189167,
+      "length": 35081
+    },
+    {
+      "chapter_num": 11,
+      "title": "Chapter 10",
+      "start_pos": 189179,
+      "end_pos": 202573,
+      "length": 13394
+    },
+    {
+      "chapter_num": 12,
+      "title": "L. L",
+      "start_pos": 202579,
+      "end_pos": 208540,
+      "length": 5961
+    },
+    {
+      "chapter_num": 13,
+      "title": "Chapter 11",
+      "start_pos": 208552,
+      "end_pos": 222158,
+      "length": 13606
+    },
+    {
+      "chapter_num": 14,
+      "title": "v. M",
+      "start_pos": 222164,
+      "end_pos": 233306,
+      "length": 11142
+    },
+    {
+      "chapter_num": 15,
+      "title": "Chapter 12",
+      "start_pos": 233318,
+      "end_pos": 259588,
+      "length": 26270
+    },
+    {
+      "chapter_num": 16,
+      "title": "Chapter 13",
+      "start_pos": 259600,
+      "end_pos": 278392,
+      "length": 18792
+    },
+    {
+      "chapter_num": 17,
+      "title": "Chapter 14",
+      "start_pos": 278404,
+      "end_pos": 301013,
+      "length": 22609
+    },
+    {
+      "chapter_num": 18,
+      "title": "Chapter 15",
+      "start_pos": 301025,
+      "end_pos": 323766,
+      "length": 22741
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 580,
+      "end_char_pos": 853,
+      "token_count": 48,
+      "text": "Sherlock Holmes, who was usually very late in the mornings,\n save upon those not infrequent occasions when he was up all\n night, was seated at the breakfast table. I stood upon the\n hearth-rug and picked up the stick which our visitor had left\n behind him the night before.",
+      "first_sentence": "Sherlock Holmes, who was usually very late in the mornings,\n save upon those not infrequent occasions when he was up all\n night, was seated at the breakfast table."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "C.C",
+      "start_char_pos": 5236,
+      "end_char_pos": 5553,
+      "token_count": 58,
+      "text": "You know my methods. Apply them!”\n\n “I can only think of the obvious conclusion that the man has\n practised in town before going to the country.”\n\n “I think that we might venture a little farther than this. Look\n at it in this light. On what occasion would it be most probable\n that such a presentation would be made?",
+      "first_sentence": "You know my methods."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 2,
+      "chapter_title": "C.C",
+      "start_char_pos": 9321,
+      "end_char_pos": 9734,
+      "token_count": 72,
+      "text": "What does Dr. James Mortimer, the man of science, ask of Sherlock\n Holmes, the specialist in crime? Come in!”\n\n The appearance of our visitor was a surprise to me, since I had\n expected a typical country practitioner. He was a very tall, thin\n man, with a long nose like a beak, which jutted out between two\n keen, grey eyes, set closely together and sparkling brightly from\n behind a pair of gold-rimmed glasses.",
+      "first_sentence": "What does Dr."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 3,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 19101,
+      "end_char_pos": 19473,
+      "token_count": 68,
+      "text": "But anon\n their bemused wits awoke to the nature of the deed which\n was like to be done upon the moorlands. Everything was now\n in an uproar, some calling for their pistols, some for\n their horses, and some for another flask of wine. But at\n length some sense came back to their crazed minds, and the\n whole of them, thirteen in number, took horse and started\n in pursuit.",
+      "first_sentence": "But anon\n their bemused wits awoke to the nature of the deed which\n was like to be done upon the moorlands."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 3,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 24537,
+      "end_char_pos": 24953,
+      "token_count": 73,
+      "text": "Sir Charles, as is\n well known, made large sums of money in South African\n speculation. More wise than those who go on until the wheel\n turns against them, he realised his gains and returned to\n England with them. It is only two years since he took up his\n residence at Baskerville Hall, and it is common talk how large\n were those schemes of reconstruction and improvement which have\n been interrupted by his death.",
+      "first_sentence": "Sir Charles, as is\n well known, made large sums of money in South African\n speculation."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 3,
+      "chapter_title": "Chapter 2",
+      "start_char_pos": 29646,
+      "end_char_pos": 30003,
+      "token_count": 60,
+      "text": "This article, you say,\n contains all the public facts?”\n\n “It does.”\n\n “Then let me have the private ones.” He leaned back, put his\n finger-tips together, and assumed his most impassive and judicial\n expression.\n\n “In doing so,” said Dr. Mortimer, who had begun to show signs of\n some strong emotion, “I am telling that which I have not confided\n to anyone.",
+      "first_sentence": "This article, you say,\n contains all the public facts?"
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 4,
+      "chapter_title": "Chapter 3",
+      "start_char_pos": 39200,
+      "end_char_pos": 39658,
+      "token_count": 85,
+      "text": "I assure you that there is a reign of terror in the\n district, and that it is a hardy man who will cross the moor at\n night.”\n\n “And you, a trained man of science, believe it to be\n supernatural?”\n\n “I do not know what to believe.”\n\n Holmes shrugged his shoulders. “I have hitherto confined my\n investigations to this world,” said he. “In a modest way I have\n combated evil, but to take on the Father of Evil himself would,\n perhaps, be too ambitious a task.",
+      "first_sentence": "I assure you that there is a reign of terror in the\n district, and that it is a hardy man who will cross the moor at\n night."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 4,
+      "chapter_title": "Chapter 3",
+      "start_char_pos": 43397,
+      "end_char_pos": 43749,
+      "token_count": 65,
+      "text": "At ten o’clock tomorrow, Dr. Mortimer, I will\n be much obliged to you if you will call upon me here, and it will\n be of help to me in my plans for the future if you will bring Sir\n Henry Baskerville with you.”\n\n “I will do so, Mr. Holmes.” He scribbled the appointment on his\n shirt-cuff and hurried off in his strange, peering, absent-minded\n fashion.",
+      "first_sentence": "At ten o’clock tomorrow, Dr."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 4,
+      "chapter_title": "Chapter 3",
+      "start_char_pos": 47270,
+      "end_char_pos": 47619,
+      "token_count": 63,
+      "text": "I fancy the yew alley, though not marked under that\n name, must stretch along this line, with the moor, as you\n perceive, upon the right of it. This small clump of buildings\n here is the hamlet of Grimpen, where our friend Dr. Mortimer has\n his headquarters. Within a radius of five miles there are, as you\n see, only a very few scattered dwellings.",
+      "first_sentence": "I fancy the yew alley, though not marked under that\n name, must stretch along this line, with the moor, as you\n perceive, upon the right of it."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 5,
+      "chapter_title": "Chapter 4",
+      "start_char_pos": 56907,
+      "end_char_pos": 57257,
+      "token_count": 58,
+      "text": "The supra-orbital crest, the facial angle, the maxillary curve,\n the—”\n\n “But this is my special hobby, and the differences are equally\n obvious. There is as much difference to my eyes between the\n leaded bourgeois type of a Times article and the slovenly print\n of an evening half-penny paper as there could be between your\n negro and your Esquimau.",
+      "first_sentence": "The supra-orbital crest, the facial angle, the maxillary curve,\n the—”\n\n “But this is my special hobby, and the differences are equally\n obvious."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 5,
+      "chapter_title": "Chapter 4",
+      "start_char_pos": 62713,
+      "end_char_pos": 63064,
+      "token_count": 73,
+      "text": "That was why I\n put them out.”\n\n “Then I understand that on your arrival in London yesterday you\n went out at once and bought a pair of boots?”\n\n “I did a good deal of shopping. Dr. Mortimer here went round with\n me. You see, if I am to be squire down there I must dress the\n part, and it may be that I have got a little careless in my ways\n out West.",
+      "first_sentence": "That was why I\n put them out."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 5,
+      "chapter_title": "Chapter 4",
+      "start_char_pos": 68210,
+      "end_char_pos": 68579,
+      "token_count": 67,
+      "text": "Holmes looked eagerly round for another, but no empty one was in\n sight. Then he dashed in wild pursuit amid the stream of the\n traffic, but the start was too great, and already the cab was out\n of sight.\n\n “There now!” said Holmes bitterly as he emerged panting and white\n with vexation from the tide of vehicles. “Was ever such bad luck\n and such bad management, too?",
+      "first_sentence": "Holmes looked eagerly round for another, but no empty one was in\n sight."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 6,
+      "chapter_title": "Chapter 5",
+      "start_char_pos": 78800,
+      "end_char_pos": 79173,
+      "token_count": 69,
+      "text": "I have ample evidence that you are being dogged in\n London, and amid the millions of this great city it is difficult\n to discover who these people are or what their object can be. If\n their intentions are evil they might do you a mischief, and we\n should be powerless to prevent it. You did not know, Dr.\n Mortimer, that you were followed this morning from my house?”\n\n Dr.",
+      "first_sentence": "I have ample evidence that you are being dogged in\n London, and amid the millions of this great city it is difficult\n to discover who these people are or what their object can be."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 6,
+      "chapter_title": "Chapter 5",
+      "start_char_pos": 83289,
+      "end_char_pos": 83621,
+      "token_count": 63,
+      "text": "Mortimer returns with me.”\n\n “But Dr. Mortimer has his practice to attend to, and his house is\n miles away from yours. With all the goodwill in the world he may\n be unable to help you. No, Sir Henry, you must take with you\n someone, a trusty man, who will be always by your side.”\n\n “Is it possible that you could come yourself, Mr.",
+      "first_sentence": "Mortimer returns with me."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 6,
+      "chapter_title": "Chapter 5",
+      "start_char_pos": 88288,
+      "end_char_pos": 88653,
+      "token_count": 64,
+      "text": "My cab is out of Shipley’s Yard, near Waterloo Station.” Sherlock Holmes made a note of it. “Now, Clayton, tell me all about the fare who came and watched this house at ten o’clock this morning and afterwards followed the two gentlemen down Regent Street.” The man looked surprised and a little embarrassed. “Why, there’s no good my telling you things, for you seem",
+      "first_sentence": "My cab is out of Shipley’s Yard, near Waterloo Station."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 7,
+      "chapter_title": "Chapter 6",
+      "start_char_pos": 97627,
+      "end_char_pos": 97927,
+      "token_count": 61,
+      "text": "Thence I went straight to a friend in America. I\n tell you it is all as new to me as it is to Dr. Watson, and I’m\n as keen as possible to see the moor.”\n\n “Are you? Then your wish is easily granted, for there is your\n first sight of the moor,” said Dr. Mortimer, pointing out of the\n carriage window.",
+      "first_sentence": "Thence I went straight to a friend in America."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 7,
+      "chapter_title": "Chapter 6",
+      "start_char_pos": 102464,
+      "end_char_pos": 102824,
+      "token_count": 64,
+      "text": "A cold wind swept down from it and set us\n shivering. Somewhere there, on that desolate plain, was lurking\n this fiendish man, hiding in a burrow like a wild beast, his\n heart full of malignancy against the whole race which had cast\n him out. It needed but this to complete the grim suggestiveness\n of the barren waste, the chilling wind, and the darkling sky.",
+      "first_sentence": "A cold wind swept down from it and set us\n shivering."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 7,
+      "chapter_title": "Chapter 6",
+      "start_char_pos": 107288,
+      "end_char_pos": 107641,
+      "token_count": 60,
+      "text": "Barrymore had returned from taking our luggage to our rooms.\n He stood in front of us now with the subdued manner of a\n well-trained servant. He was a remarkable-looking man, tall,\n handsome, with a square black beard and pale, distinguished\n features.\n\n “Would you wish dinner to be served at once, sir?”\n\n “Is it ready?”\n\n “In a very few minutes, sir.",
+      "first_sentence": "Barrymore had returned from taking our luggage to our rooms."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 8,
+      "chapter_title": "Chapter 7",
+      "start_char_pos": 117533,
+      "end_char_pos": 117887,
+      "token_count": 64,
+      "text": "I prayed, as I walked back along the\n grey, lonely road, that my friend might soon be freed from his\n preoccupations and able to come down to take this heavy burden of\n responsibility from my shoulders.\n\n Suddenly my thoughts were interrupted by the sound of running\n feet behind me and by a voice which called me by name. I turned,\n expecting to see Dr.",
+      "first_sentence": "I prayed, as I walked back along the\n grey, lonely road, that my friend might soon be freed from his\n preoccupations and able to come down to take this heavy burden of\n responsibility from my shoulders."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 8,
+      "chapter_title": "Chapter 7",
+      "start_char_pos": 123037,
+      "end_char_pos": 123472,
+      "token_count": 81,
+      "text": "You cannot think the wonderful secrets which it contains.\n It is so vast, and so barren, and so mysterious.”\n\n “You know it well, then?”\n\n “I have only been here two years. The residents would call me a\n newcomer. We came shortly after Sir Charles settled. But my\n tastes led me to explore every part of the country round, and I\n should think that there are few men who know it better than I\n do.”\n\n “Is it hard to know?”\n\n “Very hard.",
+      "first_sentence": "You cannot think the wonderful secrets which it contains."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 8,
+      "chapter_title": "Chapter 7",
+      "start_char_pos": 128227,
+      "end_char_pos": 128509,
+      "token_count": 49,
+      "text": "To my dismay the creature flew straight for the\n great mire, and my acquaintance never paused for an instant,\n bounding from tuft to tuft behind it, his green net waving in the\n air. His grey clothes and jerky, zigzag, irregular progress made\n him not unlike some huge moth himself.",
+      "first_sentence": "To my dismay the creature flew straight for the\n great mire, and my acquaintance never paused for an instant,\n bounding from tuft to tuft behind it, his green net waving in the\n air."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 8,
+      "chapter_title": "Chapter 7",
+      "start_char_pos": 133810,
+      "end_char_pos": 134168,
+      "token_count": 64,
+      "text": "All this, Dr.\n Watson, has been brought upon your head by your expression as you\n surveyed the moor out of our window.”\n\n “It certainly did cross my mind that it might be a little\n dull—less for you, perhaps, than for your sister.”\n\n “No, no, I am never dull,” said she quickly.\n\n “We have books, we have our studies, and we have interesting\n neighbours. Dr.",
+      "first_sentence": "All this, Dr."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 9,
+      "chapter_title": "Chapter 8",
+      "start_char_pos": 144063,
+      "end_char_pos": 144378,
+      "token_count": 56,
+      "text": "In every way it corresponded with the scene of the old\n tragedy. Sir Henry was much interested and asked Stapleton more\n than once whether he did really believe in the possibility of the\n interference of the supernatural in the affairs of men. He spoke\n lightly, but it was evident that he was very much in earnest.",
+      "first_sentence": "In every way it corresponded with the scene of the old\n tragedy."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 9,
+      "chapter_title": "Chapter 8",
+      "start_char_pos": 149102,
+      "end_char_pos": 149463,
+      "token_count": 68,
+      "text": "If he would confine\n his energies to this all would be well, but there are rumours\n that he intends to prosecute Dr. Mortimer for opening a grave\n without the consent of the next of kin because he dug up the\n Neolithic skull in the barrow on Long Down. He helps to keep our\n lives from being monotonous and gives a little comic relief where\n it is badly needed.",
+      "first_sentence": "If he would confine\n his energies to this all would be well, but there are rumours\n that he intends to prosecute Dr."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 9",
+      "start_char_pos": 160064,
+      "end_char_pos": 160383,
+      "token_count": 65,
+      "text": "There, fearing that perhaps I had come in the\n wrong direction after all, I mounted a hill from which I could\n command a view—the same hill which is cut into the dark quarry.\n Thence I saw him at once. He was on the moor path about a quarter\n of a mile off, and a lady was by his side who could only be Miss\n Stapleton.",
+      "first_sentence": "There, fearing that perhaps I had come in the\n wrong direction after all, I mounted a hill from which I could\n command a view—the same hill which is cut into the dark quarry."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 9",
+      "start_char_pos": 165786,
+      "end_char_pos": 166127,
+      "token_count": 67,
+      "text": "With that I offered in as many words to\n marry her, but before she could answer, down came this brother of\n hers, running at us with a face on him like a madman. He was just\n white with rage, and those light eyes of his were blazing with\n fury. What was I doing with the lady? How dared I offer her\n attentions which were distasteful to her?",
+      "first_sentence": "With that I offered in as many words to\n marry her, but before she could answer, down came this brother of\n hers, running at us with a face on him like a madman."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 9",
+      "start_char_pos": 171726,
+      "end_char_pos": 172109,
+      "token_count": 67,
+      "text": "Sometimes it seemed\n impossible that he should fail to hear our approach. However, the\n man is fortunately rather deaf, and he was entirely preoccupied\n in that which he was doing. When at last we reached the door and\n peeped through we found him crouching at the window, candle in\n hand, his white, intent face pressed against the pane, exactly as\n I had seen him two nights before.",
+      "first_sentence": "Sometimes it seemed\n impossible that he should fail to hear our approach."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 9",
+      "start_char_pos": 177527,
+      "end_char_pos": 177870,
+      "token_count": 64,
+      "text": "That is the whole truth, as I am an\n honest Christian woman and you will see that if there is blame in\n the matter it does not lie with my husband but with me, for whose\n sake he has done all that he has.”\n\n The woman’s words came with an intense earnestness which carried\n conviction with them.\n\n “Is this true, Barrymore?”\n\n “Yes, Sir Henry.",
+      "first_sentence": "That is the whole truth, as I am an\n honest Christian woman and you will see that if there is blame in\n the matter it does not lie with my husband but with me, for whose\n sake he has done all that he has."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 10,
+      "chapter_title": "Chapter 9",
+      "start_char_pos": 183399,
+      "end_char_pos": 183695,
+      "token_count": 59,
+      "text": "But at last we could see\n whence it came, and then we knew that we were indeed very close.\n A guttering candle was stuck in a crevice of the rocks which\n flanked it on each side so as to keep the wind from it and also\n to prevent it from being visible, save in the direction of\n Baskerville Hall.",
+      "first_sentence": "But at last we could see\n whence it came, and then we knew that we were indeed very close."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 11,
+      "chapter_title": "Chapter 10",
+      "start_char_pos": 193669,
+      "end_char_pos": 194083,
+      "token_count": 79,
+      "text": "After a\n time the baronet opened his door and called for me. “Barrymore\n considers that he has a grievance,” he said. “He thinks that it\n was unfair on our part to hunt his brother-in-law down when he,\n of his own free will, had told us the secret.”\n\n The butler was standing very pale but very collected before us.\n\n “I may have spoken too warmly, sir,” said he, “and if I have, I\n am sure that I beg your pardon.",
+      "first_sentence": "After a\n time the baronet opened his door and called for me."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 11,
+      "chapter_title": "Chapter 10",
+      "start_char_pos": 198317,
+      "end_char_pos": 198726,
+      "token_count": 74,
+      "text": "I should\n not have noticed this one, only it happened to come alone.”\n\n “And you have no idea who L. L. is?”\n\n “No, sir. No more than you have. But I expect if we could lay our\n hands upon that lady we should know more about Sir Charles’s\n death.”\n\n “I cannot understand, Barrymore, how you came to conceal this\n important information.”\n\n “Well, sir, it was immediately after that our own trouble came to\n us.",
+      "first_sentence": "I should\n not have noticed this one, only it happened to come alone."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 12,
+      "chapter_title": "L. L",
+      "start_char_pos": 205755,
+      "end_char_pos": 206097,
+      "token_count": 67,
+      "text": "He’s in hiding,\n too, but he’s not a convict as far as I can make out. I don’t\n like it, Dr. Watson—I tell you straight, sir, that I don’t like\n it.” He spoke with a sudden passion of earnestness.\n\n “Now, listen to me, Barrymore! I have no interest in this matter\n but that of your master. I have come here with no object except\n to help him.",
+      "first_sentence": "He’s in hiding,\n too, but he’s not a convict as far as I can make out."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 13,
+      "chapter_title": "Chapter 11",
+      "start_char_pos": 213357,
+      "end_char_pos": 213761,
+      "token_count": 68,
+      "text": "One was Mr. Stapleton, a neighbour and intimate\n friend of Sir Charles’s. He was exceedingly kind, and it was\n through him that Sir Charles learned about my affairs.”\n\n I knew already that Sir Charles Baskerville had made Stapleton\n his almoner upon several occasions, so the lady’s statement bore\n the impress of truth upon it.\n\n “Did you ever write to Sir Charles asking him to meet you?” I\n continued.",
+      "first_sentence": "One was Mr."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 13,
+      "chapter_title": "Chapter 11",
+      "start_char_pos": 217926,
+      "end_char_pos": 218314,
+      "token_count": 72,
+      "text": "I could only check it by finding if she\n had, indeed, instituted divorce proceedings against her husband\n at or about the time of the tragedy.\n\n It was unlikely that she would dare to say that she had not been\n to Baskerville Hall if she really had been, for a trap would be\n necessary to take her there, and could not have returned to\n Coombe Tracey until the early hours of the morning.",
+      "first_sentence": "I could only check it by finding if she\n had, indeed, instituted divorce proceedings against her husband\n at or about the time of the tragedy."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 14,
+      "chapter_title": "v. M",
+      "start_char_pos": 226256,
+      "end_char_pos": 226606,
+      "token_count": 62,
+      "text": "Frankland clapped his eye\n to it and gave a cry of satisfaction.\n\n “Quick, Dr. Watson, quick, before he passes over the hill!”\n\n There he was, sure enough, a small urchin with a little bundle\n upon his shoulder, toiling slowly up the hill. When he reached\n the crest I saw the ragged uncouth figure outlined for an instant\n against the cold blue sky.",
+      "first_sentence": "Frankland clapped his eye\n to it and gave a cry of satisfaction."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 14,
+      "chapter_title": "v. M",
+      "start_char_pos": 229610,
+      "end_char_pos": 229883,
+      "token_count": 49,
+      "text": "This was certainly where the man lived. Some blankets\n rolled in a waterproof lay upon that very stone slab upon which\n Neolithic man had once slumbered. The ashes of a fire were heaped\n in a rude grate. Beside it lay some cooking utensils and a bucket\n half-full of water.",
+      "first_sentence": "This was certainly where the man lived."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 15,
+      "chapter_title": "Chapter 12",
+      "start_char_pos": 238660,
+      "end_char_pos": 238935,
+      "token_count": 57,
+      "text": "I felt also in my heart that he was right in\n what he said and that it was really best for our purpose that I\n should not have known that he was upon the moor.\n\n “That’s better,” said he, seeing the shadow rise from my face.\n “And now tell me the result of your visit to Mrs.",
+      "first_sentence": "I felt also in my heart that he was right in\n what he said and that it was really best for our purpose that I\n should not have known that he was upon the moor."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 15,
+      "chapter_title": "Chapter 12",
+      "start_char_pos": 243912,
+      "end_char_pos": 244265,
+      "token_count": 63,
+      "text": "What does it mean?”\n\n Holmes had sprung to his feet, and I saw his dark, athletic\n outline at the door of the hut, his shoulders stooping, his head\n thrust forward, his face peering into the darkness.\n\n “Hush!” he whispered. “Hush!”\n\n The cry had been loud on account of its vehemence, but it had\n pealed out from somewhere far off on the shadowy plain.",
+      "first_sentence": "What does it mean?"
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 15,
+      "chapter_title": "Chapter 12",
+      "start_char_pos": 249110,
+      "end_char_pos": 249393,
+      "token_count": 58,
+      "text": "It could only come from the lonely abode of the\n Stapletons. With a bitter curse I shook my fist at it as I gazed.\n\n “Why should we not seize him at once?”\n\n “Our case is not complete. The fellow is wary and cunning to the\n last degree. It is not what we know, but what we can prove.",
+      "first_sentence": "It could only come from the lonely abode of the\n Stapletons."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 15,
+      "chapter_title": "Chapter 12",
+      "start_char_pos": 254517,
+      "end_char_pos": 254920,
+      "token_count": 70,
+      "text": "He has rushed about the moor in a crazy state and\n eventually fallen over here and broken his neck.”\n\n “That seems the most reasonable theory,” said Stapleton, and he\n gave a sigh which I took to indicate his relief. “What do you\n think about it, Mr. Sherlock Holmes?”\n\n My friend bowed his compliments. “You are quick at\n identification,” said he.\n\n “We have been expecting you in these parts since Dr.",
+      "first_sentence": "He has rushed about the moor in a crazy state and\n eventually fallen over here and broken his neck."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 16,
+      "chapter_title": "Chapter 13",
+      "start_char_pos": 264442,
+      "end_char_pos": 264768,
+      "token_count": 58,
+      "text": "That is the cause of all\n the mischief, the wicked Hugo, who started the Hound of the\n Baskervilles. We’re not likely to forget him.”\n\n I gazed with interest and some surprise upon the portrait.\n\n “Dear me!” said Holmes, “he seems a quiet, meek-mannered man\n enough, but I dare say that there was a lurking devil in his\n eyes.",
+      "first_sentence": "That is the cause of all\n the mischief, the wicked Hugo, who started the Hound of the\n Baskervilles."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 16,
+      "chapter_title": "Chapter 13",
+      "start_char_pos": 269234,
+      "end_char_pos": 269576,
+      "token_count": 68,
+      "text": "We will drive in to Coombe Tracey,\n but Watson will leave his things as a pledge that he will come\n back to you. Watson, you will send a note to Stapleton to tell\n him that you regret that you cannot come.”\n\n “I have a good mind to go to London with you,” said the baronet.\n “Why should I stay here alone?”\n\n “Because it is your post of duty.",
+      "first_sentence": "We will drive in to Coombe Tracey,\n but Watson will leave his things as a pledge that he will come\n back to you."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 16,
+      "chapter_title": "Chapter 13",
+      "start_char_pos": 273736,
+      "end_char_pos": 274017,
+      "token_count": 55,
+      "text": "Prove it to me! And if you can do so—!”\n\n The fierce flash of her eyes said more than any words.\n\n “I have come prepared to do so,” said Holmes, drawing several\n papers from his pocket. “Here is a photograph of the couple taken\n in York four years ago. It is indorsed ‘Mr. and Mrs.",
+      "first_sentence": "Prove it to me!"
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 17,
+      "chapter_title": "Chapter 14",
+      "start_char_pos": 284153,
+      "end_char_pos": 284586,
+      "token_count": 73,
+      "text": "Broad bars of golden light from the lower\n windows stretched across the orchard and the moor. One of them\n was suddenly shut off. The servants had left the kitchen. There\n only remained the lamp in the dining-room where the two men, the\n murderous host and the unconscious guest, still chatted over\n their cigars.\n\n Every minute that white woolly plain which covered one-half of\n the moor was drifting closer and closer to the house.",
+      "first_sentence": "Broad bars of golden light from the lower\n windows stretched across the orchard and the moor."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 17,
+      "chapter_title": "Chapter 14",
+      "start_char_pos": 289793,
+      "end_char_pos": 290103,
+      "token_count": 59,
+      "text": "It was not a pure bloodhound and it\n was not a pure mastiff; but it appeared to be a combination of\n the two—gaunt, savage, and as large as a small lioness. Even now\n in the stillness of death, the huge jaws seemed to be dripping\n with a bluish flame and the small, deep-set, cruel eyes were\n ringed with fire.",
+      "first_sentence": "It was not a pure bloodhound and it\n was not a pure mastiff; but it appeared to be a combination of\n the two—gaunt, savage, and as large as a small lioness."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 17,
+      "chapter_title": "Chapter 14",
+      "start_char_pos": 295403,
+      "end_char_pos": 295706,
+      "token_count": 57,
+      "text": "Oh, if I could only have\n plucked them out today. Then indeed you would have had him at\n your mercy!”\n\n It was evident to us that all pursuit was in vain until the fog\n had lifted. Meanwhile we left Lestrade in possession of the house\n while Holmes and I went back with the baronet to Baskerville\n Hall.",
+      "first_sentence": "Oh, if I could only have\n plucked them out today."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 18,
+      "chapter_title": "Chapter 15",
+      "start_char_pos": 305725,
+      "end_char_pos": 305982,
+      "token_count": 55,
+      "text": "The idea of using her as a decoy\n was clearly already in his mind, though he may not have been\n certain how the details of his plot were to be arranged. He meant\n in the end to have the estate, and he was ready to use any tool\n or run any risk for that end.",
+      "first_sentence": "The idea of using her as a decoy\n was clearly already in his mind, though he may not have been\n certain how the details of his plot were to be arranged."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 18,
+      "chapter_title": "Chapter 15",
+      "start_char_pos": 310301,
+      "end_char_pos": 310647,
+      "token_count": 60,
+      "text": "You perceive\n the devilish cunning of it, for really it would be almost\n impossible to make a case against the real murderer. His only\n accomplice was one who could never give him away, and the\n grotesque, inconceivable nature of the device only served to make\n it more effective. Both of the women concerned in the case, Mrs.\n Stapleton and Mrs.",
+      "first_sentence": "You perceive\n the devilish cunning of it, for really it would be almost\n impossible to make a case against the real murderer."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 18,
+      "chapter_title": "Chapter 15",
+      "start_char_pos": 314747,
+      "end_char_pos": 315101,
+      "token_count": 60,
+      "text": "He returned\n to Dartmoor and awaited the arrival of the baronet.”\n\n “One moment!” said I. “You have, no doubt, described the sequence\n of events correctly, but there is one point which you have left\n unexplained. What became of the hound when its master was in\n London?”\n\n “I have given some attention to this matter and it is undoubtedly\n of importance.",
+      "first_sentence": "He returned\n to Dartmoor and awaited the arrival of the baronet."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 18,
+      "chapter_title": "Chapter 15",
+      "start_char_pos": 319328,
+      "end_char_pos": 319786,
+      "token_count": 84,
+      "text": "We\n succeeded in our object at a cost which both the specialist and\n Dr. Mortimer assure me will be a temporary one. A long journey\n may enable our friend to recover not only from his shattered\n nerves but also from his wounded feelings. His love for the lady\n was deep and sincere, and to him the saddest part of all this\n black business was that he should have been deceived by her.\n\n “It only remains to indicate the part which she had played\n throughout.",
+      "first_sentence": "We\n succeeded in our object at a cost which both the specialist and\n Dr."
+    }
+  ]
+}

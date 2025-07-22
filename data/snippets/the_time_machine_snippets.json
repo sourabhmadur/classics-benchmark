@@ -1,0 +1,630 @@
+{
+  "novel_key": "the_time_machine",
+  "novel_file": "the_time_machine.txt",
+  "text_length": 179585,
+  "chapters_detected": 17,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "I.\n I",
+      "start_pos": 447,
+      "end_pos": 10243,
+      "length": 9796
+    },
+    {
+      "chapter_num": 2,
+      "title": "II.\n T",
+      "start_pos": 10252,
+      "end_pos": 17771,
+      "length": 7519
+    },
+    {
+      "chapter_num": 3,
+      "title": "III.\n T",
+      "start_pos": 17781,
+      "end_pos": 28875,
+      "length": 11094
+    },
+    {
+      "chapter_num": 4,
+      "title": "IV.\n T",
+      "start_pos": 28884,
+      "end_pos": 32522,
+      "length": 3638
+    },
+    {
+      "chapter_num": 5,
+      "title": "dim. I",
+      "start_pos": 32529,
+      "end_pos": 40538,
+      "length": 8009
+    },
+    {
+      "chapter_num": 6,
+      "title": "V.\n I",
+      "start_pos": 40546,
+      "end_pos": 49865,
+      "length": 9319
+    },
+    {
+      "chapter_num": 7,
+      "title": "VI.\n T",
+      "start_pos": 49874,
+      "end_pos": 62444,
+      "length": 12570
+    },
+    {
+      "chapter_num": 8,
+      "title": "VII.\n A",
+      "start_pos": 62454,
+      "end_pos": 74940,
+      "length": 12486
+    },
+    {
+      "chapter_num": 9,
+      "title": "VIII.\n E",
+      "start_pos": 74951,
+      "end_pos": 98309,
+      "length": 23358
+    },
+    {
+      "chapter_num": 10,
+      "title": "IX.\n T",
+      "start_pos": 98318,
+      "end_pos": 110109,
+      "length": 11791
+    },
+    {
+      "chapter_num": 11,
+      "title": "X.\n W",
+      "start_pos": 110117,
+      "end_pos": 123870,
+      "length": 13753
+    },
+    {
+      "chapter_num": 12,
+      "title": "XI.\n T",
+      "start_pos": 123879,
+      "end_pos": 137561,
+      "length": 13682
+    },
+    {
+      "chapter_num": 13,
+      "title": "XII.\n I",
+      "start_pos": 137571,
+      "end_pos": 151541,
+      "length": 13970
+    },
+    {
+      "chapter_num": 14,
+      "title": "XIII.\n T",
+      "start_pos": 151552,
+      "end_pos": 157501,
+      "length": 5949
+    },
+    {
+      "chapter_num": 15,
+      "title": "XIV.\n T",
+      "start_pos": 157511,
+      "end_pos": 167914,
+      "length": 10403
+    },
+    {
+      "chapter_num": 16,
+      "title": "XV.\n T",
+      "start_pos": 167923,
+      "end_pos": 170582,
+      "length": 2659
+    },
+    {
+      "chapter_num": 17,
+      "title": "XVI.\n A",
+      "start_pos": 170592,
+      "end_pos": 179585,
+      "length": 8993
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "I.\n I",
+      "start_char_pos": 3289,
+      "end_char_pos": 3660,
+      "token_count": 68,
+      "text": "It\nis only another way of looking at Time. _There is no difference between\nTime and any of the three dimensions of Space except that our\nconsciousness moves along it_. But some foolish people have got hold of\nthe wrong side of that idea. You have all heard what they have to say\nabout this Fourth Dimension?”\n\n“I have not,” said the Provincial Mayor.\n\n“It is simply this.",
+      "first_sentence": "It\nis only another way of looking at Time."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 1,
+      "chapter_title": "I.\n I",
+      "start_char_pos": 5371,
+      "end_char_pos": 5653,
+      "token_count": 51,
+      "text": "This line I trace with my finger shows the movement of\nthe barometer. Yesterday it was so high, yesterday night it fell, then\nthis morning it rose again, and so gently upward to here. Surely the\nmercury did not trace this line in any of the dimensions of Space\ngenerally recognised?",
+      "first_sentence": "This line I trace with my finger shows the movement of\nthe barometer."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 1,
+      "chapter_title": "I.\n I",
+      "start_char_pos": 8308,
+      "end_char_pos": 8719,
+      "token_count": 64,
+      "text": "Long ago I had a vague inkling of a machine—” “To travel through Time!” exclaimed the Very Young Man. “That shall travel indifferently in any direction of Space and Time, as the driver determines.” Filby contented himself with laughter. “But I have experimental verification,” said the Time Traveller. “It would be remarkably convenient for the historian,” the Psychologist suggested. “One might travel back and",
+      "first_sentence": "Long ago I had a vague inkling of a machine—” “To travel through Time!"
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 2,
+      "chapter_title": "II.\n T",
+      "start_char_pos": 12760,
+      "end_char_pos": 12997,
+      "token_count": 44,
+      "text": "Look at the table too, and satisfy yourselves there is no\ntrickery. I don’t want to waste this model, and then be told I’m a\nquack.”\n\nThere was a minute’s pause perhaps. The Psychologist seemed about to\nspeak to me, but changed his mind.",
+      "first_sentence": "Look at the table too, and satisfy yourselves there is no\ntrickery."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 2,
+      "chapter_title": "II.\n T",
+      "start_char_pos": 15536,
+      "end_char_pos": 15948,
+      "token_count": 69,
+      "text": "You can explain that. It’s presentation below the threshold,\nyou know, diluted presentation.”\n\n“Of course,” said the Psychologist, and reassured us. “That’s a simple\npoint of psychology. I should have thought of it. It’s plain enough,\nand helps the paradox delightfully. We cannot see it, nor can we\nappreciate this machine, any more than we can the spoke of a wheel\nspinning, or a bullet flying through the air.",
+      "first_sentence": "You can explain that."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 3,
+      "chapter_title": "III.\n T",
+      "start_char_pos": 20629,
+      "end_char_pos": 21027,
+      "token_count": 71,
+      "text": "The Editor wanted that\nexplained to him, and the Psychologist volunteered a wooden account of\nthe “ingenious paradox and trick” we had witnessed that day week. He\nwas in the midst of his exposition when the door from the corridor\nopened slowly and without noise. I was facing the door, and saw it\nfirst. “Hallo!” I said. “At last!” And the door opened wider, and the\nTime Traveller stood before us.",
+      "first_sentence": "The Editor wanted that\nexplained to him, and the Psychologist volunteered a wooden account of\nthe “ingenious paradox and trick” we had witnessed that day week."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 3,
+      "chapter_title": "III.\n T",
+      "start_char_pos": 23327,
+      "end_char_pos": 23734,
+      "token_count": 67,
+      "text": "For a minute, perhaps, my mind was\nwool-gathering. Then, “Remarkable Behaviour of an Eminent Scientist,” I\nheard the Editor say, thinking (after his wont) in headlines. And this\nbrought my attention back to the bright dinner-table.\n\n“What’s the game?” said the Journalist. “Has he been doing the Amateur\nCadger? I don’t follow.” I met the eye of the Psychologist, and read my\nown interpretation in his face.",
+      "first_sentence": "For a minute, perhaps, my mind was\nwool-gathering."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 3,
+      "chapter_title": "III.\n T",
+      "start_char_pos": 26220,
+      "end_char_pos": 26548,
+      "token_count": 59,
+      "text": "The rest of the dinner\nwas uncomfortable. For my own part, sudden questions kept on rising to\nmy lips, and I dare say it was the same with the others. The Journalist\ntried to relieve the tension by telling anecdotes of Hettie Potter. The\nTime Traveller devoted his attention to his dinner, and displayed the\nappetite of a tramp.",
+      "first_sentence": "The rest of the dinner\nwas uncomfortable."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 4,
+      "chapter_title": "IV.\n T",
+      "start_char_pos": 30765,
+      "end_char_pos": 31146,
+      "token_count": 62,
+      "text": "Tomorrow\nnight came black, then day again, night again, day again, faster and\nfaster still. An eddying murmur filled my ears, and a strange, dumb\nconfusedness descended on my mind.\n\n“I am afraid I cannot convey the peculiar sensations of time\ntravelling. They are excessively unpleasant. There is a feeling exactly\nlike that one has upon a switchback—of a helpless headlong motion!",
+      "first_sentence": "Tomorrow\nnight came black, then day again, night again, day again, faster and\nfaster still."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 5,
+      "chapter_title": "dim. I",
+      "start_char_pos": 35198,
+      "end_char_pos": 35565,
+      "token_count": 64,
+      "text": "Now the risk was inevitable, I no longer saw it in the\nsame cheerful light. The fact is that, insensibly, the absolute\nstrangeness of everything, the sickly jarring and swaying of the\nmachine, above all, the feeling of prolonged falling, had absolutely\nupset my nerves. I told myself that I could never stop, and with a gust\nof petulance I resolved to stop forthwith.",
+      "first_sentence": "Now the risk was inevitable, I no longer saw it in the\nsame cheerful light."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 5,
+      "chapter_title": "dim. I",
+      "start_char_pos": 37883,
+      "end_char_pos": 38392,
+      "token_count": 79,
+      "text": "What if cruelty had grown into a common passion? What if in this\ninterval the race had lost its manliness, and had developed into\nsomething inhuman, unsympathetic, and overwhelmingly powerful? I might\nseem some old-world savage animal, only the more dreadful and\ndisgusting for our common likeness—a foul creature to be incontinently\nslain.\n\n“Already I saw other vast shapes—huge buildings with intricate parapets\nand tall columns, with a wooded hillside dimly creeping in upon me\nthrough the lessening storm.",
+      "first_sentence": "What if cruelty had grown into a common passion?"
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 6,
+      "chapter_title": "V.\n I",
+      "start_char_pos": 42878,
+      "end_char_pos": 43224,
+      "token_count": 60,
+      "text": "At\nonce a quaintly pretty little figure in chequered purple and white\nfollowed my gesture, and then astonished me by imitating the sound of\nthunder.\n\n“For a moment I was staggered, though the import of his gesture was\nplain enough. The question had come into my mind abruptly: were these\ncreatures fools? You may hardly understand how it took me.",
+      "first_sentence": "At\nonce a quaintly pretty little figure in chequered purple and white\nfollowed my gesture, and then astonished me by imitating the sound of\nthunder."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 6,
+      "chapter_title": "V.\n I",
+      "start_char_pos": 45302,
+      "end_char_pos": 45752,
+      "token_count": 79,
+      "text": "They grew scattered, as if wild, among the variegated\nshrubs, but, as I say, I did not examine them closely at this time. The\nTime Machine was left deserted on the turf among the rhododendrons.\n\n“The arch of the doorway was richly carved, but naturally I did not\nobserve the carving very narrowly, though I fancied I saw suggestions\nof old Phœnician decorations as I passed through, and it struck me that\nthey were very badly broken and weather-worn.",
+      "first_sentence": "They grew scattered, as if wild, among the variegated\nshrubs, but, as I say, I did not examine them closely at this time."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 6,
+      "chapter_title": "V.\n I",
+      "start_char_pos": 47599,
+      "end_char_pos": 47921,
+      "token_count": 60,
+      "text": "There were, perhaps, a couple of\nhundred people dining in the hall, and most of them, seated as near to\nme as they could come, were watching me with interest, their little\neyes shining over the fruit they were eating. All were clad in the same\nsoft, and yet strong, silky material.\n\n“Fruit, by the bye, was all their diet.",
+      "first_sentence": "There were, perhaps, a couple of\nhundred people dining in the hall, and most of them, seated as near to\nme as they could come, were watching me with interest, their little\neyes shining over the fruit they were eating."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 7,
+      "chapter_title": "VI.\n T",
+      "start_char_pos": 52622,
+      "end_char_pos": 52960,
+      "token_count": 61,
+      "text": "I looked at the\nhalf-dozen little figures that were following me. Then, in a flash, I\nperceived that all had the same form of costume, the same soft hairless\nvisage, and the same girlish rotundity of limb. It may seem strange,\nperhaps, that I had not noticed this before. But everything was so\nstrange. Now, I saw the fact plainly enough.",
+      "first_sentence": "I looked at the\nhalf-dozen little figures that were following me."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 7,
+      "chapter_title": "VI.\n T",
+      "start_char_pos": 54923,
+      "end_char_pos": 55206,
+      "token_count": 58,
+      "text": "I sat down on it, and I surveyed the broad view of our\nold world under the sunset of that long day. It was as sweet and fair a\nview as I have ever seen. The sun had already gone below the horizon\nand the west was flaming gold, touched with some horizontal bars of\npurple and crimson.",
+      "first_sentence": "I sat down on it, and I surveyed the broad view of our\nold world under the sunset of that long day."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 7,
+      "chapter_title": "VI.\n T",
+      "start_char_pos": 57499,
+      "end_char_pos": 57752,
+      "token_count": 43,
+      "text": "Some day all this will be better organised, and still\nbetter. That is the drift of the current in spite of the eddies. The\nwhole world will be intelligent, educated, and co-operating; things\nwill move faster and faster towards the subjugation of Nature.",
+      "first_sentence": "Some day all this will be better organised, and still\nbetter."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 7,
+      "chapter_title": "VI.\n T",
+      "start_char_pos": 60087,
+      "end_char_pos": 60443,
+      "token_count": 57,
+      "text": "For after the battle comes\nQuiet. Humanity had been strong, energetic, and intelligent, and had\nused all its abundant vitality to alter the conditions under which it\nlived. And now came the reaction of the altered conditions.\n\n“Under the new conditions of perfect comfort and security, that\nrestless energy, that with us is strength, would become weakness.",
+      "first_sentence": "For after the battle comes\nQuiet."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 8,
+      "chapter_title": "VII.\n A",
+      "start_char_pos": 65691,
+      "end_char_pos": 65973,
+      "token_count": 56,
+      "text": "It had moved, and was hid, only in space. But then, where\ncould it be?\n\n“I think I must have had a kind of frenzy. I remember running violently\nin and out among the moonlit bushes all round the sphinx, and startling\nsome white animal that, in the dim light, I took for a small deer.",
+      "first_sentence": "It had moved, and was hid, only in space."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 8,
+      "chapter_title": "VII.\n A",
+      "start_char_pos": 68755,
+      "end_char_pos": 69041,
+      "token_count": 58,
+      "text": "It behoves me to be calm and patient, to learn\nthe way of the people, to get a clear idea of the method of my loss,\nand the means of getting materials and tools; so that in the end,\nperhaps, I may make another.’ That would be my only hope, a poor hope,\nperhaps, but better than despair.",
+      "first_sentence": "It behoves me to be calm and patient, to learn\nthe way of the people, to get a clear idea of the method of my loss,\nand the means of getting materials and tools; so that in the end,\nperhaps, I may make another."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 8,
+      "chapter_title": "VII.\n A",
+      "start_char_pos": 71821,
+      "end_char_pos": 72107,
+      "token_count": 60,
+      "text": "In three\nstrides I was after him, had him by the loose part of his robe round\nthe neck, and began dragging him towards the sphinx. Then I saw the\nhorror and repugnance of his face, and all of a sudden I let him go.\n\n“But I was not beaten yet. I banged with my fist at the bronze panels.",
+      "first_sentence": "In three\nstrides I was after him, had him by the loose part of his robe round\nthe neck, and began dragging him towards the sphinx."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\n E",
+      "start_char_pos": 77873,
+      "end_char_pos": 78188,
+      "token_count": 55,
+      "text": "I was\nsensible of much which was unseen, and which contributed to my comfort;\nbut save for a general impression of automatic organisation, I fear I\ncan convey very little of the difference to your mind.\n\n“In the matter of sepulture, for instance, I could see no signs of\ncrematoria nor anything suggestive of tombs.",
+      "first_sentence": "I was\nsensible of much which was unseen, and which contributed to my comfort;\nbut save for a general impression of automatic organisation, I fear I\ncan convey very little of the difference to your mind."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\n E",
+      "start_char_pos": 80836,
+      "end_char_pos": 81233,
+      "token_count": 77,
+      "text": "I\nhad got to such a low estimate of her kind that I did not expect any\ngratitude from her. In that, however, I was wrong.\n\n“This happened in the morning. In the afternoon I met my little woman,\nas I believe it was, as I was returning towards my centre from an\nexploration, and she received me with cries of delight and presented me\nwith a big garland of flowers—evidently made for me and me alone.",
+      "first_sentence": "I\nhad got to such a low estimate of her kind that I did not expect any\ngratitude from her."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\n E",
+      "start_char_pos": 83759,
+      "end_char_pos": 84131,
+      "token_count": 68,
+      "text": "Yet I was still such a\nblockhead that I missed the lesson of that fear, and in spite of\nWeena’s distress, I insisted upon sleeping away from these slumbering\nmultitudes.\n\n“It troubled her greatly, but in the end her odd affection for me\ntriumphed, and for five of the nights of our acquaintance, including\nthe last night of all, she slept with her head pillowed on my arm.",
+      "first_sentence": "Yet I was still such a\nblockhead that I missed the lesson of that fear, and in spite of\nWeena’s distress, I insisted upon sleeping away from these slumbering\nmultitudes."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\n E",
+      "start_char_pos": 86698,
+      "end_char_pos": 87025,
+      "token_count": 62,
+      "text": "I cannot account for it. It may be that the sun was\nhotter, or the earth nearer the sun. It is usual to assume that the sun\nwill go on cooling steadily in the future. But people, unfamiliar with\nsuch speculations as those of the younger Darwin, forget that the\nplanets must ultimately fall back one by one into the parent body.",
+      "first_sentence": "I cannot account for it."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\n E",
+      "start_char_pos": 92579,
+      "end_char_pos": 92943,
+      "token_count": 60,
+      "text": "And last of all, that\nevident confusion in the sunshine, that hasty yet fumbling awkward\nflight towards dark shadow, and that peculiar carriage of the head\nwhile in the light—all reinforced the theory of an extreme\nsensitiveness of the retina.\n\n“Beneath my feet, then, the earth must be tunnelled enormously, and\nthese tunnellings were the habitat of the New Race.",
+      "first_sentence": "And last of all, that\nevident confusion in the sunshine, that hasty yet fumbling awkward\nflight towards dark shadow, and that peculiar carriage of the head\nwhile in the light—all reinforced the theory of an extreme\nsensitiveness of the retina."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 9,
+      "chapter_title": "VIII.\n E",
+      "start_char_pos": 95387,
+      "end_char_pos": 95780,
+      "token_count": 69,
+      "text": "So, in the end, above ground you must have the Haves,\npursuing pleasure and comfort and beauty, and below ground the\nHave-nots, the Workers getting continually adapted to the conditions of\ntheir labour. Once they were there, they would no doubt have to pay\nrent, and not a little of it, for the ventilation of their caverns; and\nif they refused, they would starve or be suffocated for arrears.",
+      "first_sentence": "So, in the end, above ground you must have the Haves,\npursuing pleasure and comfort and beauty, and below ground the\nHave-nots, the Workers getting continually adapted to the conditions of\ntheir labour."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 10,
+      "chapter_title": "IX.\n T",
+      "start_char_pos": 101280,
+      "end_char_pos": 101618,
+      "token_count": 61,
+      "text": "She danced beside me to the well, but when\nshe saw me lean over the mouth and look downward, she seemed strangely\ndisconcerted. ‘Good-bye, little Weena,’ I said, kissing her; and then\nputting her down, I began to feel over the parapet for the climbing\nhooks. Rather hastily, I may as well confess, for I feared my courage\nmight leak away!",
+      "first_sentence": "She danced beside me to the well, but when\nshe saw me lean over the mouth and look downward, she seemed strangely\ndisconcerted."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 10,
+      "chapter_title": "IX.\n T",
+      "start_char_pos": 104323,
+      "end_char_pos": 104740,
+      "token_count": 77,
+      "text": "But,\nso soon as I struck a match in order to see them, they fled\nincontinently, vanishing into dark gutters and tunnels, from which\ntheir eyes glared at me in the strangest fashion.\n\n“I tried to call to them, but the language they had was apparently\ndifferent from that of the Overworld people; so that I was needs left\nto my own unaided efforts, and the thought of flight before exploration\nwas even then in my mind.",
+      "first_sentence": "But,\nso soon as I struck a match in order to see them, they fled\nincontinently, vanishing into dark gutters and tunnels, from which\ntheir eyes glared at me in the strangest fashion."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 10,
+      "chapter_title": "IX.\n T",
+      "start_char_pos": 107214,
+      "end_char_pos": 107611,
+      "token_count": 70,
+      "text": "I fancied I heard the\nbreathing of a crowd of those dreadful little beings about me. I felt\nthe box of matches in my hand being gently disengaged, and other hands\nbehind me plucking at my clothing. The sense of these unseen creatures\nexamining me was indescribably unpleasant. The sudden realisation of my\nignorance of their ways of thinking and doing came home to me very\nvividly in the darkness.",
+      "first_sentence": "I fancied I heard the\nbreathing of a crowd of those dreadful little beings about me."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 11,
+      "chapter_title": "X.\n W",
+      "start_char_pos": 112962,
+      "end_char_pos": 113330,
+      "token_count": 70,
+      "text": "I tried\nto recall the form of it. I had a vague sense of something familiar,\nbut I could not tell what it was at the time.\n\n“Still, however helpless the little people in the presence of their\nmysterious Fear, I was differently constituted. I came out of this age\nof ours, this ripe prime of the human race, when Fear does not paralyse\nand mystery has lost its terrors.",
+      "first_sentence": "I tried\nto recall the form of it."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 11,
+      "chapter_title": "X.\n W",
+      "start_char_pos": 115712,
+      "end_char_pos": 116041,
+      "token_count": 61,
+      "text": "You know that great\npause that comes upon things before the dusk? Even the breeze stops in\nthe trees. To me there is always an air of expectation about that\nevening stillness. The sky was clear, remote, and empty save for a few\nhorizontal bars far down in the sunset. Well, that night the\nexpectation took the colour of my fears.",
+      "first_sentence": "You know that great\npause that comes upon things before the dusk?"
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 11,
+      "chapter_title": "X.\n W",
+      "start_char_pos": 118419,
+      "end_char_pos": 118822,
+      "token_count": 70,
+      "text": "Above me shone the stars,\nfor the night was very clear. I felt a certain sense of friendly\ncomfort in their twinkling. All the old constellations had gone from\nthe sky, however: that slow movement which is imperceptible in a\nhundred human lifetimes, had long since rearranged them in unfamiliar\ngroupings. But the Milky Way, it seemed to me, was still the same\ntattered streamer of star-dust as of yore.",
+      "first_sentence": "Above me shone the stars,\nfor the night was very clear."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 11,
+      "chapter_title": "X.\n W",
+      "start_char_pos": 121161,
+      "end_char_pos": 121533,
+      "token_count": 75,
+      "text": "We found some fruit wherewith\nto break our fast. We soon met others of the dainty ones, laughing and\ndancing in the sunlight as though there was no such thing in nature as\nthe night. And then I thought once more of the meat that I had seen. I\nfelt assured now of what it was, and from the bottom of my heart I\npitied this last feeble rill from the great flood of humanity.",
+      "first_sentence": "We found some fruit wherewith\nto break our fast."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 12,
+      "chapter_title": "XI.\n T",
+      "start_char_pos": 126655,
+      "end_char_pos": 127029,
+      "token_count": 69,
+      "text": "The place was very\nsilent. The thick dust deadened our footsteps. Weena, who had been\nrolling a sea urchin down the sloping glass of a case, presently came,\nas I stared about me, and very quietly took my hand and stood beside\nme.\n\n“And at first I was so much surprised by this ancient monument of an\nintellectual age that I gave no thought to the possibilities it\npresented.",
+      "first_sentence": "The place was very\nsilent."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 12,
+      "chapter_title": "XI.\n T",
+      "start_char_pos": 129387,
+      "end_char_pos": 129737,
+      "token_count": 71,
+      "text": "So suddenly that she\nstartled me. Had it not been for her I do not think I should have\nnoticed that the floor of the gallery sloped at all. [Footnote: It may\nbe, of course, that the floor did not slope, but that the museum was\nbuilt into the side of a hill.—ED.] The end I had come in at was quite\nabove ground, and was lit by rare slit-like windows.",
+      "first_sentence": "So suddenly that she\nstartled me."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 12,
+      "chapter_title": "XI.\n T",
+      "start_char_pos": 132157,
+      "end_char_pos": 132500,
+      "token_count": 61,
+      "text": "But here\nand there were warped boards and cracked metallic clasps that told the\ntale well enough. Had I been a literary man I might, perhaps, have\nmoralised upon the futility of all ambition. But as it was, the thing\nthat struck me with keenest force was the enormous waste of labour to\nwhich this sombre wilderness of rotting paper testified.",
+      "first_sentence": "But here\nand there were warped boards and cracked metallic clasps that told the\ntale well enough."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 12,
+      "chapter_title": "XI.\n T",
+      "start_char_pos": 134843,
+      "end_char_pos": 135188,
+      "token_count": 65,
+      "text": "I remember a long gallery of rusting stands of arms,\nand how I hesitated between my crowbar and a hatchet or a sword. I\ncould not carry both, however, and my bar of iron promised best against\nthe bronze gates. There were numbers of guns, pistols, and rifles. The\nmost were masses of rust, but many were of some new metal, and still\nfairly sound.",
+      "first_sentence": "I remember a long gallery of rusting stands of arms,\nand how I hesitated between my crowbar and a hatchet or a sword."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 13,
+      "chapter_title": "XII.\n I",
+      "start_char_pos": 140365,
+      "end_char_pos": 140632,
+      "token_count": 51,
+      "text": "Looking back presently,\nI could see, through the crowded stems, that from my heap of sticks the\nblaze had spread to some bushes adjacent, and a curved line of fire was\ncreeping up the grass of the hill. I laughed at that, and turned again\nto the dark trees before me.",
+      "first_sentence": "Looking back presently,\nI could see, through the crowded stems, that from my heap of sticks the\nblaze had spread to some bushes adjacent, and a curved line of fire was\ncreeping up the grass of the hill."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 13,
+      "chapter_title": "XII.\n I",
+      "start_char_pos": 143195,
+      "end_char_pos": 143535,
+      "token_count": 66,
+      "text": "Here and there out of the darkness round me the Morlocks’ eyes\nshone like carbuncles.\n\n“The camphor flickered and went out. I lit a match, and as I did so,\ntwo white forms that had been approaching Weena dashed hastily away.\nOne was so blinded by the light that he came straight for me, and I\nfelt his bones grind under the blow of my fist.",
+      "first_sentence": "Here and there out of the darkness round me the Morlocks’ eyes\nshone like carbuncles."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 13,
+      "chapter_title": "XII.\n I",
+      "start_char_pos": 145977,
+      "end_char_pos": 146404,
+      "token_count": 75,
+      "text": "I stood glaring at the blackness. Then suddenly came\nhope. What if the Morlocks were afraid? And close on the heels of that\ncame a strange thing. The darkness seemed to grow luminous. Very dimly\nI began to see the Morlocks about me—three battered at my feet—and then\nI recognised, with incredulous surprise, that the others were running,\nin an incessant stream, as it seemed, from behind me, and away through\nthe wood in front.",
+      "first_sentence": "I stood glaring at the blackness."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 13,
+      "chapter_title": "XII.\n I",
+      "start_char_pos": 148776,
+      "end_char_pos": 149092,
+      "token_count": 60,
+      "text": "I walked about the hill among\nthem and avoided them, looking for some trace of Weena. But Weena was\ngone.\n\n“At last I sat down on the summit of the hillock, and watched this\nstrange incredible company of blind things groping to and fro, and\nmaking uncanny noises to each other, as the glare of the fire beat on\nthem.",
+      "first_sentence": "I walked about the hill among\nthem and avoided them, looking for some trace of Weena."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 14,
+      "chapter_title": "XIII.\n T",
+      "start_char_pos": 153671,
+      "end_char_pos": 153978,
+      "token_count": 49,
+      "text": "But that\nperfect state had lacked one thing even for mechanical\nperfection—absolute permanency. Apparently as time went on, the feeding\nof an Underworld, however it was effected, had become disjointed.\nMother Necessity, who had been staved off for a few thousand years,\ncame back again, and she began below.",
+      "first_sentence": "But that\nperfect state had lacked one thing even for mechanical\nperfection—absolute permanency."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 14,
+      "chapter_title": "XIII.\n T",
+      "start_char_pos": 155600,
+      "end_char_pos": 155963,
+      "token_count": 67,
+      "text": "I threw my iron bar away, almost sorry\nnot to use it.\n\n“A sudden thought came into my head as I stooped towards the portal.\nFor once, at least, I grasped the mental operations of the Morlocks.\nSuppressing a strong inclination to laugh, I stepped through the bronze\nframe and up to the Time Machine. I was surprised to find it had been\ncarefully oiled and cleaned.",
+      "first_sentence": "I threw my iron bar away, almost sorry\nnot to use it."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 15,
+      "chapter_title": "XIV.\n T",
+      "start_char_pos": 160115,
+      "end_char_pos": 160405,
+      "token_count": 51,
+      "text": "North-eastward it was inky black, and out\nof the blackness shone brightly and steadily the pale white stars.\nOverhead it was a deep Indian red and starless, and south-eastward it\ngrew brighter to a glowing scarlet where, cut by the horizon, lay the\nhuge hull of the sun, red and motionless.",
+      "first_sentence": "North-eastward it was inky black, and out\nof the blackness shone brightly and steadily the pale white stars."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 15,
+      "chapter_title": "XIV.\n T",
+      "start_char_pos": 162836,
+      "end_char_pos": 163188,
+      "token_count": 68,
+      "text": "Its evil eyes were\nwriggling on their stalks, its mouth was all alive with appetite, and\nits vast ungainly claws, smeared with an algal slime, were descending\nupon me. In a moment my hand was on the lever, and I had placed a month\nbetween myself and these monsters. But I was still on the same beach,\nand I saw them distinctly now as soon as I stopped.",
+      "first_sentence": "Its evil eyes were\nwriggling on their stalks, its mouth was all alive with appetite, and\nits vast ungainly claws, smeared with an algal slime, were descending\nupon me."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 15,
+      "chapter_title": "XIV.\n T",
+      "start_char_pos": 165321,
+      "end_char_pos": 165734,
+      "token_count": 78,
+      "text": "I fancied I saw some black object flopping about upon this bank,\nbut it became motionless as I looked at it, and I judged that my eye\nhad been deceived, and that the black object was merely a rock. The\nstars in the sky were intensely bright and seemed to me to twinkle very\nlittle.\n\n“Suddenly I noticed that the circular westward outline of the sun had\nchanged; that a concavity, a bay, had appeared in the curve.",
+      "first_sentence": "I fancied I saw some black object flopping about upon this bank,\nbut it became motionless as I looked at it, and I judged that my eye\nhad been deceived, and that the black object was merely a rock."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 16,
+      "chapter_title": "XV.\n T",
+      "start_char_pos": 169258,
+      "end_char_pos": 169597,
+      "token_count": 64,
+      "text": "Just\nbefore that I seemed to see Hillyer for a moment; but he passed like a\nflash.\n\n“Then I stopped the machine, and saw about me again the old familiar\nlaboratory, my tools, my appliances just as I had left them. I got off\nthe thing very shakily, and sat down upon my bench. For several minutes\nI trembled violently. Then I became calmer.",
+      "first_sentence": "Just\nbefore that I seemed to see Hillyer for a moment; but he passed like a\nflash."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 17,
+      "chapter_title": "XVI.\n A",
+      "start_char_pos": 172873,
+      "end_char_pos": 173210,
+      "token_count": 64,
+      "text": "Then suddenly: “Certainly not.”\n\n“Where did you really get them?” said the Medical Man.\n\nThe Time Traveller put his hand to his head. He spoke like one who was\ntrying to keep hold of an idea that eluded him. “They were put into my\npocket by Weena, when I travelled into Time.” He stared round the room.\n“I’m damned if it isn’t all going.",
+      "first_sentence": "Then suddenly: “Certainly not."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 17,
+      "chapter_title": "XVI.\n A",
+      "start_char_pos": 175127,
+      "end_char_pos": 175450,
+      "token_count": 57,
+      "text": "At that the squat\nsubstantial-looking mass swayed like a bough shaken by the wind. Its\ninstability startled me extremely, and I had a queer reminiscence of\nthe childish days when I used to be forbidden to meddle. I came back\nthrough the corridor. The Time Traveller met me in the smoking-room. He\nwas coming from the house.",
+      "first_sentence": "At that the squat\nsubstantial-looking mass swayed like a bough shaken by the wind."
+    }
+  ]
+}

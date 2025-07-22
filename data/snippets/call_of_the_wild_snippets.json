@@ -1,0 +1,560 @@
+{
+  "novel_key": "call_of_the_wild",
+  "novel_file": "call_of_the_wild.txt",
+  "text_length": 175489,
+  "chapters_detected": 7,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "Chapter II",
+      "start_pos": 41,
+      "end_pos": 20869,
+      "length": 20828
+    },
+    {
+      "chapter_num": 2,
+      "title": "Chapter II",
+      "start_pos": 20881,
+      "end_pos": 39206,
+      "length": 18325
+    },
+    {
+      "chapter_num": 3,
+      "title": "Chapter III",
+      "start_pos": 39219,
+      "end_pos": 67582,
+      "length": 28363
+    },
+    {
+      "chapter_num": 4,
+      "title": "Chapter IV",
+      "start_pos": 67594,
+      "end_pos": 85121,
+      "length": 17527
+    },
+    {
+      "chapter_num": 5,
+      "title": "Chapter V",
+      "start_pos": 85132,
+      "end_pos": 114749,
+      "length": 29617
+    },
+    {
+      "chapter_num": 6,
+      "title": "Chapter VI",
+      "start_pos": 114761,
+      "end_pos": 141172,
+      "length": 26411
+    },
+    {
+      "chapter_num": 7,
+      "title": "Chapter VII",
+      "start_pos": 141185,
+      "end_pos": 175489,
+      "length": 34304
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 3074,
+      "end_char_pos": 3401,
+      "token_count": 54,
+      "text": "Among the terriers he stalked imperiously, and Toots and Ysabel he\nutterly ignored, for he was king,—king over all creeping, crawling,\nflying things of Judge Miller’s place, humans included.\n\nHis father, Elmo, a huge St. Bernard, had been the Judge’s inseparable\ncompanion, and Buck bid fair to follow in the way of his father.",
+      "first_sentence": "Among the terriers he stalked imperiously, and Toots and Ysabel he\nutterly ignored, for he was king,—king over all creeping, crawling,\nflying things of Judge Miller’s place, humans included."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 6060,
+      "end_char_pos": 6439,
+      "token_count": 72,
+      "text": "Then the rope\ntightened mercilessly, while Buck struggled in a fury, his tongue\nlolling out of his mouth and his great chest panting futilely. Never in\nall his life had he been so vilely treated, and never in all his life\nhad he been so angry. But his strength ebbed, his eyes glazed, and he\nknew nothing when the train was flagged and the two men threw him into\nthe baggage car.",
+      "first_sentence": "Then the rope\ntightened mercilessly, while Buck struggled in a fury, his tongue\nlolling out of his mouth and his great chest panting futilely."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 9032,
+      "end_char_pos": 9403,
+      "token_count": 64,
+      "text": "But the saloon-keeper let him alone, and in the morning four men\nentered and picked up the crate. More tormentors, Buck decided, for\nthey were evil-looking creatures, ragged and unkempt; and he stormed\nand raged at them through the bars. They only laughed and poked sticks\nat him, which he promptly assailed with his teeth till he realized that\nthat was what they wanted.",
+      "first_sentence": "But the saloon-keeper let him alone, and in the morning four men\nentered and picked up the crate."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 12013,
+      "end_char_pos": 12408,
+      "token_count": 71,
+      "text": "Buck rushed at the splintering wood, sinking his teeth into it, surging\nand wrestling with it. Wherever the hatchet fell on the outside, he was\nthere on the inside, snarling and growling, as furiously anxious to get\nout as the man in the red sweater was calmly intent on getting him out.\n\n“Now, you red-eyed devil,” he said, when he had made an opening\nsufficient for the passage of Buck’s body.",
+      "first_sentence": "Buck rushed at the splintering wood, sinking his teeth into it, surging\nand wrestling with it."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 14951,
+      "end_char_pos": 15291,
+      "token_count": 63,
+      "text": "You’ve learned your place, and I know mine. Be a good\ndog and all ’ll go well and the goose hang high. Be a bad dog, and I’ll\nwhale the stuffin’ outa you. Understand?”\n\nAs he spoke he fearlessly patted the head he had so mercilessly\npounded, and though Buck’s hair involuntarily bristled at touch of the\nhand, he endured it without protest.",
+      "first_sentence": "You’ve learned your place, and I know mine."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 1,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 18063,
+      "end_char_pos": 18449,
+      "token_count": 68,
+      "text": "Curly and he were taken\nbelow by Perrault and turned over to a black-faced giant called\nFrançois. Perrault was a French-Canadian, and swarthy; but François was\na French-Canadian half-breed, and twice as swarthy. They were a new\nkind of men to Buck (of which he was destined to see many more), and\nwhile he developed no affection for them, he none the less grew\nhonestly to respect them.",
+      "first_sentence": "Curly and he were taken\nbelow by Perrault and turned over to a black-faced giant called\nFrançois."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 2,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 23959,
+      "end_char_pos": 24339,
+      "token_count": 67,
+      "text": "Though\nhis dignity was sorely hurt by thus being made a draught animal, he was\ntoo wise to rebel. He buckled down with a will and did his best, though\nit was all new and strange. François was stern, demanding instant\nobedience, and by virtue of his whip receiving instant obedience; while\nDave, who was an experienced wheeler, nipped Buck’s hind quarters\nwhenever he was in error.",
+      "first_sentence": "Though\nhis dignity was sorely hurt by thus being made a draught animal, he was\ntoo wise to rebel."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 2,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 27106,
+      "end_char_pos": 27446,
+      "token_count": 58,
+      "text": "That night Buck faced the great problem of sleeping. The tent,\nillumined by a candle, glowed warmly in the midst of the white plain;\nand when he, as a matter of course, entered it, both Perrault and\nFrançois bombarded him with curses and cooking utensils, till he\nrecovered from his consternation and fled ignominiously into the outer\ncold.",
+      "first_sentence": "That night Buck faced the great problem of sleeping."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 2,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 30259,
+      "end_char_pos": 30592,
+      "token_count": 53,
+      "text": "A shout from François hailed his appearance. “Wot I say?” the\ndog-driver cried to Perrault. “Dat Buck for sure learn queek as\nanyt’ing.”\n\nPerrault nodded gravely. As courier for the Canadian Government,\nbearing important despatches, he was anxious to secure the best dogs,\nand he was particularly gladdened by the possession of Buck.",
+      "first_sentence": "A shout from François hailed his appearance."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 2,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 33154,
+      "end_char_pos": 33492,
+      "token_count": 65,
+      "text": "Buck made\nhis hole in the snow and slept the sleep of the exhausted just, but all\ntoo early was routed out in the cold darkness and harnessed with his\nmates to the sled.\n\nThat day they made forty miles, the trail being packed; but the next\nday, and for many days to follow, they broke their own trail, worked\nharder, and made poorer time.",
+      "first_sentence": "Buck made\nhis hole in the snow and slept the sleep of the exhausted just, but all\ntoo early was routed out in the cold darkness and harnessed with his\nmates to the sled."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 2,
+      "chapter_title": "Chapter II",
+      "start_char_pos": 36186,
+      "end_char_pos": 36539,
+      "token_count": 62,
+      "text": "But the\nclub of the man in the red sweater had beaten into him a more\nfundamental and primitive code. Civilized, he could have died for a\nmoral consideration, say the defence of Judge Miller’s riding-whip; but\nthe completeness of his decivilization was now evidenced by his ability\nto flee from the defence of a moral consideration and so save his hide.",
+      "first_sentence": "But the\nclub of the man in the red sweater had beaten into him a more\nfundamental and primitive code."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 42495,
+      "end_char_pos": 42800,
+      "token_count": 56,
+      "text": "They were crazed\nby the smell of the food. Perrault found one with head buried in the\ngrub-box. His club landed heavily on the gaunt ribs, and the grub-box\nwas capsized on the ground. On the instant a score of the famished\nbrutes were scrambling for the bread and bacon. The clubs fell upon\nthem unheeded.",
+      "first_sentence": "They were crazed\nby the smell of the food."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 45579,
+      "end_char_pos": 45907,
+      "token_count": 56,
+      "text": "Fully half their grub supply was gone. The huskies had\nchewed through the sled lashings and canvas coverings. In fact,\nnothing, no matter how remotely eatable, had escaped them. They had\neaten a pair of Perrault’s moose-hide moccasins, chunks out of the\nleather traces, and even two feet of lash from the end of François’s\nwhip.",
+      "first_sentence": "Fully half their grub supply was gone."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 48786,
+      "end_char_pos": 49162,
+      "token_count": 69,
+      "text": "By the time they made the Hootalinqua and good ice, Buck was played\nout. The rest of the dogs were in like condition; but Perrault, to make\nup lost time, pushed them late and early. The first day they covered\nthirty-five miles to the Big Salmon; the next day thirty-five more to\nthe Little Salmon; the third day forty miles, which brought them well\nup toward the Five Fingers.",
+      "first_sentence": "By the time they made the Hootalinqua and good ice, Buck was played\nout."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 51959,
+      "end_char_pos": 52298,
+      "token_count": 61,
+      "text": "Spitz, as lead-dog and\nacknowledged master of the team, felt his supremacy threatened by this\nstrange Southland dog. And strange Buck was to him, for of the many\nSouthland dogs he had known, not one had shown up worthily in camp and\non trail. They were all too soft, dying under the toil, the frost, and\nstarvation. Buck was the exception.",
+      "first_sentence": "Spitz, as lead-dog and\nacknowledged master of the team, felt his supremacy threatened by this\nstrange Southland dog."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 54993,
+      "end_char_pos": 55369,
+      "token_count": 65,
+      "text": "In the days that followed, as Dawson grew closer and closer, Buck still\ncontinued to interfere between Spitz and the culprits; but he did it\ncraftily, when François was not around, With the covert mutiny of Buck,\na general insubordination sprang up and increased. Dave and Sol-leks\nwere unaffected, but the rest of the team went from bad to worse.\nThings no longer went right.",
+      "first_sentence": "In the days that followed, as Dawson grew closer and closer, Buck still\ncontinued to interfere between Spitz and the culprits; but he did it\ncraftily, when François was not around, With the covert mutiny of Buck,\na general insubordination sprang up and increased."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 58141,
+      "end_char_pos": 58462,
+      "token_count": 59,
+      "text": "They made Sixty Mile, which is a fifty-mile run, on the first day; and\nthe second day saw them booming up the Yukon well on their way to\nPelly. But such splendid running was achieved not without great trouble\nand vexation on the part of François. The insidious revolt led by Buck\nhad destroyed the solidarity of the team.",
+      "first_sentence": "They made Sixty Mile, which is a fifty-mile run, on the first day; and\nthe second day saw them booming up the Yukon well on their way to\nPelly."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 61296,
+      "end_char_pos": 61519,
+      "token_count": 42,
+      "text": "There is an ecstasy that marks the summit of life, and beyond which\nlife cannot rise. And such is the paradox of living, this ecstasy comes\nwhen one is most alive, and it comes as a complete forgetfulness that\none is alive.",
+      "first_sentence": "There is an ecstasy that marks the summit of life, and beyond which\nlife cannot rise."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 3,
+      "chapter_title": "Chapter III",
+      "start_char_pos": 64497,
+      "end_char_pos": 64827,
+      "token_count": 64,
+      "text": "Bitter rage was his, but never\nblind rage. In passion to rend and destroy, he never forgot that his\nenemy was in like passion to rend and destroy. He never rushed till he\nwas prepared to receive a rush; never attacked till he had first\ndefended that attack.\n\nIn vain Buck strove to sink his teeth in the neck of the big white dog.",
+      "first_sentence": "Bitter rage was his, but never\nblind rage."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 4,
+      "chapter_title": "Chapter IV",
+      "start_char_pos": 70548,
+      "end_char_pos": 70882,
+      "token_count": 57,
+      "text": "François scratched his head again. He shook it and grinned\nsheepishly at the courier, who shrugged his shoulders in sign that they\nwere beaten. Then François went up to where Sol-leks stood and called\nto Buck. Buck laughed, as dogs laugh, yet kept his distance. François\nunfastened Sol-leks’s traces and put him back in his old place.",
+      "first_sentence": "François scratched his head again."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 4,
+      "chapter_title": "Chapter IV",
+      "start_char_pos": 73464,
+      "end_char_pos": 73793,
+      "token_count": 64,
+      "text": "The men rode and ran by turn, and the dogs were kept on\nthe jump, with but infrequent stoppages.\n\nThe Thirty Mile River was comparatively coated with ice, and they\ncovered in one day going out what had taken them ten days coming in. In\none run they made a sixty-mile dash from the foot of Lake Le Barge to\nthe White Horse Rapids.",
+      "first_sentence": "The men rode and ran by turn, and the dogs were kept on\nthe jump, with but infrequent stoppages."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 4,
+      "chapter_title": "Chapter IV",
+      "start_char_pos": 76375,
+      "end_char_pos": 76735,
+      "token_count": 64,
+      "text": "Sometimes he thought of Judge Miller’s\nbig house in the sun-kissed Santa Clara Valley, and of the cement\nswimming-tank, and Ysabel, the Mexican hairless, and Toots, the\nJapanese pug; but oftener he remembered the man in the red sweater, the\ndeath of Curly, the great fight with Spitz, and the good things he had\neaten or would like to eat. He was not homesick.",
+      "first_sentence": "Sometimes he thought of Judge Miller’s\nbig house in the sun-kissed Santa Clara Valley, and of the cement\nswimming-tank, and Ysabel, the Mexican hairless, and Toots, the\nJapanese pug; but oftener he remembered the man in the red sweater, the\ndeath of Curly, the great fight with Spitz, and the good things he had\neaten or would like to eat."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 4,
+      "chapter_title": "Chapter IV",
+      "start_char_pos": 79351,
+      "end_char_pos": 79683,
+      "token_count": 62,
+      "text": "They were short of weight and in poor condition when they\nmade Dawson, and should have had a ten days’ or a week’s rest at least.\nBut in two days’ time they dropped down the Yukon bank from the\nBarracks, loaded with letters for the outside. The dogs were tired, the\ndrivers grumbling, and to make matters worse, it snowed every day.",
+      "first_sentence": "They were short of weight and in poor condition when they\nmade Dawson, and should have had a ten days’ or a week’s rest at least."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 4,
+      "chapter_title": "Chapter IV",
+      "start_char_pos": 82271,
+      "end_char_pos": 82604,
+      "token_count": 62,
+      "text": "The half-breed tried to drive him away with the whip; but he paid no\nheed to the stinging lash, and the man had not the heart to strike\nharder. Dave refused to run quietly on the trail behind the sled, where\nthe going was easy, but continued to flounder alongside in the soft\nsnow, where the going was most difficult, till exhausted.",
+      "first_sentence": "The half-breed tried to drive him away with the whip; but he paid no\nheed to the stinging lash, and the man had not the heart to strike\nharder."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 88671,
+      "end_char_pos": 89032,
+      "token_count": 61,
+      "text": "When driven\nwith his mates to the new owners’ camp, Buck saw a slipshod and\nslovenly affair, tent half stretched, dishes unwashed, everything in\ndisorder; also, he saw a woman. “Mercedes” the men called her. She was\nCharles’s wife and Hal’s sister—a nice family party.\n\nBuck watched them apprehensively as they proceeded to take down the\ntent and load the sled.",
+      "first_sentence": "When driven\nwith his mates to the new owners’ camp, Buck saw a slipshod and\nslovenly affair, tent half stretched, dishes unwashed, everything in\ndisorder; also, he saw a woman."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 91763,
+      "end_char_pos": 92127,
+      "token_count": 67,
+      "text": "They need a\nrest.”\n\n“Rest be blanked,” said Hal, with his beardless lips; and Mercedes\nsaid, “Oh!” in pain and sorrow at the oath.\n\nBut she was a clannish creature, and rushed at once to the defence of\nher brother. “Never mind that man,” she said pointedly. “You’re driving\nour dogs, and you do what you think best with them.”\n\nAgain Hal’s whip fell upon the dogs.",
+      "first_sentence": "They need a\nrest."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 95033,
+      "end_char_pos": 95454,
+      "token_count": 72,
+      "text": "She clasped hands about knees,\nrocking back and forth broken-heartedly. She averred she would not go\nan inch, not for a dozen Charleses. She appealed to everybody and to\neverything, finally wiping her eyes and proceeding to cast out even\narticles of apparel that were imperative necessaries. And in her zeal,\nwhen she had finished with her own, she attacked the belongings of her\nmen and went through them like a tornado.",
+      "first_sentence": "She clasped hands about knees,\nrocking back and forth broken-heartedly."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 98323,
+      "end_char_pos": 98656,
+      "token_count": 60,
+      "text": "On other days they were unable to get started\nat all. And on no day did they succeed in making more than half the\ndistance used by the men as a basis in their dog-food computation.\n\nIt was inevitable that they should go short on dog-food. But they\nhastened it by overfeeding, bringing the day nearer when underfeeding\nwould commence.",
+      "first_sentence": "On other days they were unable to get started\nat all."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 101607,
+      "end_char_pos": 101877,
+      "token_count": 46,
+      "text": "It was\nthe cherished belief of each that he did more than his share of the\nwork, and neither forbore to speak this belief at every opportunity.\nSometimes Mercedes sided with her husband, sometimes with her brother.\nThe result was a beautiful and unending family quarrel.",
+      "first_sentence": "It was\nthe cherished belief of each that he did more than his share of the\nwork, and neither forbore to speak this belief at every opportunity."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 104928,
+      "end_char_pos": 105241,
+      "token_count": 60,
+      "text": "He pulled when he could; when he could no longer pull, he\nfell down and remained down till blows from whip or club drove him to\nhis feet again. All the stiffness and gloss had gone out of his\nbeautiful furry coat. The hair hung down, limp and draggled, or matted\nwith dried blood where Hal’s club had bruised him.",
+      "first_sentence": "He pulled when he could; when he could no longer pull, he\nfell down and remained down till blows from whip or club drove him to\nhis feet again."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 108283,
+      "end_char_pos": 108646,
+      "token_count": 62,
+      "text": "From every hill slope came the trickle of running water, the music of\nunseen fountains. All things were thawing, bending, snapping. The Yukon\nwas straining to break loose the ice that bound it down. It ate away\nfrom beneath; the sun ate from above. Air-holes formed, fissures sprang\nand spread apart, while thin sections of ice fell through bodily into\nthe river.",
+      "first_sentence": "From every hill slope came the trickle of running water, the music of\nunseen fountains."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 5,
+      "chapter_title": "Chapter V",
+      "start_char_pos": 111541,
+      "end_char_pos": 111863,
+      "token_count": 66,
+      "text": "He had a vague feeling of\nimpending doom. This had been strong upon him when he pulled in to the\nbank, and it had not departed from him. What of the thin and rotten ice\nhe had felt under his feet all day, it seemed that he sensed disaster\nclose at hand, out there ahead on the ice where his master was trying\nto drive him.",
+      "first_sentence": "He had a vague feeling of\nimpending doom."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 117710,
+      "end_char_pos": 118206,
+      "token_count": 89,
+      "text": "Buck knew no greater joy than that rough embrace and the sound\nof murmured oaths, and at each jerk back and forth it seemed that his\nheart would be shaken out of his body so great was its ecstasy. And\nwhen, released, he sprang to his feet, his mouth laughing, his eyes\neloquent, his throat vibrant with unuttered sound, and in that fashion\nremained without movement, John Thornton would reverently exclaim,\n“God! you can all but speak!”\n\nBuck had a trick of love expression that was akin to hurt.",
+      "first_sentence": "Buck knew no greater joy than that rough embrace and the sound\nof murmured oaths, and at each jerk back and forth it seemed that his\nheart would be shaken out of his body so great was its ecstasy."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 120790,
+      "end_char_pos": 121176,
+      "token_count": 64,
+      "text": "His face and body were scored by the teeth of many dogs, and he fought\nas fiercely as ever and more shrewdly. Skeet and Nig were too\ngood-natured for quarrelling,—besides, they belonged to John Thornton;\nbut the strange dog, no matter what the breed or valor, swiftly\nacknowledged Buck’s supremacy or found himself struggling for life with\na terrible antagonist. And Buck was merciless.",
+      "first_sentence": "His face and body were scored by the teeth of many dogs, and he fought\nas fiercely as ever and more shrewdly."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 123579,
+      "end_char_pos": 123926,
+      "token_count": 64,
+      "text": "They\nwere of the same large type as Thornton, living close to the earth,\nthinking simply and seeing clearly; and ere they swung the raft into\nthe big eddy by the saw-mill at Dawson, they understood Buck and his\nways, and did not insist upon an intimacy such as obtained with Skeet\nand Nig.\n\nFor Thornton, however, his love seemed to grow and grow.",
+      "first_sentence": "They\nwere of the same large type as Thornton, living close to the earth,\nthinking simply and seeing clearly; and ere they swung the raft into\nthe big eddy by the saw-mill at Dawson, they understood Buck and his\nways, and did not insist upon an intimacy such as obtained with Skeet\nand Nig."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 126499,
+      "end_char_pos": 126907,
+      "token_count": 74,
+      "text": "Later on, in the fall of the year, he saved John Thornton’s life in\nquite another fashion. The three partners were lining a long and narrow\npoling-boat down a bad stretch of rapids on the Forty-Mile Creek. Hans\nand Pete moved along the bank, snubbing with a thin Manila rope from\ntree to tree, while Thornton remained in the boat, helping its descent\nby means of a pole, and shouting directions to the shore.",
+      "first_sentence": "Later on, in the fall of the year, he saved John Thornton’s life in\nquite another fashion."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 129515,
+      "end_char_pos": 129889,
+      "token_count": 71,
+      "text": "Hans promptly snubbed with the rope, as though Buck were a boat. The\nrope thus tightening on him in the sweep of the current, he was jerked\nunder the surface, and under the surface he remained till his body\nstruck against the bank and he was hauled out. He was half drowned, and\nHans and Pete threw themselves upon him, pounding the breath into him\nand the water out of him.",
+      "first_sentence": "Hans promptly snubbed with the rope, as though Buck were a boat."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 132828,
+      "end_char_pos": 133152,
+      "token_count": 63,
+      "text": "And there it\nis.” So saying, he slammed a sack of gold dust of the size of a bologna\nsausage down upon the bar.\n\nNobody spoke. Thornton’s bluff, if bluff it was, had been called. He\ncould feel a flush of warm blood creeping up his face. His tongue had\ntricked him. He did not know whether Buck could start a thousand\npounds.",
+      "first_sentence": "And there it\nis."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 135512,
+      "end_char_pos": 135878,
+      "token_count": 61,
+      "text": "Matthewson waxed jubilant.\n\n“Three to one!” he proclaimed. “I’ll lay you another thousand at that\nfigure, Thornton. What d’ye say?”\n\nThornton’s doubt was strong in his face, but his fighting spirit was\naroused—the fighting spirit that soars above odds, fails to recognize\nthe impossible, and is deaf to all save the clamor for battle. He\ncalled Hans and Pete to him.",
+      "first_sentence": "Matthewson waxed jubilant."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 6,
+      "chapter_title": "Chapter VI",
+      "start_char_pos": 138236,
+      "end_char_pos": 138605,
+      "token_count": 66,
+      "text": "Thornton stepped well back.\n\n“Now, Buck,” he said.\n\nBuck tightened the traces, then slacked them for a matter of several\ninches. It was the way he had learned.\n\n“Gee!” Thornton’s voice rang out, sharp in the tense silence.\n\nBuck swung to the right, ending the movement in a plunge that took up\nthe slack and with a sudden jerk arrested his one hundred and fifty\npounds.",
+      "first_sentence": "Thornton stepped well back."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 144558,
+      "end_char_pos": 144899,
+      "token_count": 62,
+      "text": "And through another winter they wandered on the obliterated trails of\nmen who had gone before. Once, they came upon a path blazed through the\nforest, an ancient path, and the Lost Cabin seemed very near. But the\npath began nowhere and ended nowhere, and it remained mystery, as the\nman who made it and the reason he made it remained mystery.",
+      "first_sentence": "And through another winter they wandered on the obliterated trails of\nmen who had gone before."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 147446,
+      "end_char_pos": 147724,
+      "token_count": 54,
+      "text": "And closely akin to the visions of the hairy man was the call still\nsounding in the depths of the forest. It filled him with a great unrest\nand strange desires. It caused him to feel a vague, sweet gladness, and\nhe was aware of wild yearnings and stirrings for he knew not what.",
+      "first_sentence": "And closely akin to the visions of the hairy man was the call still\nsounding in the depths of the forest."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 150696,
+      "end_char_pos": 151102,
+      "token_count": 72,
+      "text": "Buck did not attack, but circled him about and hedged him in with\nfriendly advances. The wolf was suspicious and afraid; for Buck made\nthree of him in weight, while his head barely reached Buck’s shoulder.\nWatching his chance, he darted away, and the chase was resumed. Time\nand again he was cornered, and the thing repeated, though he was in\npoor condition, or Buck could not so easily have overtaken him.",
+      "first_sentence": "Buck did not attack, but circled him about and hedged him in with\nfriendly advances."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 153672,
+      "end_char_pos": 153953,
+      "token_count": 51,
+      "text": "But\nafter two days the call in the forest began to sound more imperiously\nthan ever. Buck’s restlessness came back on him, and he was haunted by\nrecollections of the wild brother, and of the smiling land beyond the\ndivide and the run side by side through the wide forest stretches.",
+      "first_sentence": "But\nafter two days the call in the forest began to sound more imperiously\nthan ever."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 156820,
+      "end_char_pos": 157211,
+      "token_count": 67,
+      "text": "To sights and sounds and events which\nrequired action, he responded with lightning-like rapidity. Quickly as\na husky dog could leap to defend from attack or to attack, he could\nleap twice as quickly. He saw the movement, or heard sound, and\nresponded in less time than another dog required to compass the mere\nseeing or hearing. He perceived and determined and responded in the\nsame instant.",
+      "first_sentence": "To sights and sounds and events which\nrequired action, he responded with lightning-like rapidity."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 159910,
+      "end_char_pos": 160218,
+      "token_count": 62,
+      "text": "It was no slight task. He\nwould bark and dance about in front of the bull, just out of reach of\nthe great antlers and of the terrible splay hoofs which could have\nstamped his life out with a single blow. Unable to turn his back on the\nfanged danger and go on, the bull would be driven into paroxysms of\nrage.",
+      "first_sentence": "It was no slight task."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 163107,
+      "end_char_pos": 163441,
+      "token_count": 64,
+      "text": "He took to standing for long\nperiods, with nose to the ground and dejected ears dropped limply; and\nBuck found more time in which to get water for himself and in which to\nrest. At such moments, panting with red lolling tongue and with eyes\nfixed upon the big bull, it appeared to Buck that a change was coming\nover the face of things.",
+      "first_sentence": "He took to standing for long\nperiods, with nose to the ground and dejected ears dropped limply; and\nBuck found more time in which to get water for himself and in which to\nrest."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 166179,
+      "end_char_pos": 166508,
+      "token_count": 57,
+      "text": "This dog was thrashing about in a\ndeath-struggle, directly on the trail, and Buck passed around him\nwithout stopping. From the camp came the faint sound of many voices,\nrising and falling in a sing-song chant. Bellying forward to the edge\nof the clearing, he found Hans, lying on his face, feathered with\narrows like a porcupine.",
+      "first_sentence": "This dog was thrashing about in a\ndeath-struggle, directly on the trail, and Buck passed around him\nwithout stopping."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 169358,
+      "end_char_pos": 169665,
+      "token_count": 62,
+      "text": "At times, when he\npaused to contemplate the carcasses of the Yeehats, he forgot the pain\nof it; and at such times he was aware of a great pride in himself,—a\npride greater than any he had yet experienced. He had killed man, the\nnoblest game of all, and he had killed in the face of the law of club\nand fang.",
+      "first_sentence": "At times, when he\npaused to contemplate the carcasses of the Yeehats, he forgot the pain\nof it; and at such times he was aware of a great pride in himself,—a\npride greater than any he had yet experienced."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 7,
+      "chapter_title": "Chapter VII",
+      "start_char_pos": 172415,
+      "end_char_pos": 172827,
+      "token_count": 74,
+      "text": "The tongues of all were out and lolling, the\nwhite fangs showing cruelly white in the moonlight. Some were lying\ndown with heads raised and ears pricked forward; others stood on their\nfeet, watching him; and still others were lapping water from the pool.\nOne wolf, long and lean and gray, advanced cautiously, in a friendly\nmanner, and Buck recognized the wild brother with whom he had run for a\nnight and a day.",
+      "first_sentence": "The tongues of all were out and lolling, the\nwhite fangs showing cruelly white in the moonlight."
+    }
+  ]
+}

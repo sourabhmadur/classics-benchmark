@@ -1,0 +1,595 @@
+{
+  "novel_key": "alice_in_wonderland",
+  "novel_file": "alice_in_wonderland.txt",
+  "text_length": 143500,
+  "chapters_detected": 12,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER II",
+      "start_pos": 43,
+      "end_pos": 11776,
+      "length": 11733
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER II",
+      "start_pos": 11788,
+      "end_pos": 22683,
+      "length": 10895
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER III",
+      "start_pos": 22696,
+      "end_pos": 31863,
+      "length": 9167
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER IV",
+      "start_pos": 31875,
+      "end_pos": 45704,
+      "length": 13829
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER V",
+      "start_pos": 45715,
+      "end_pos": 57526,
+      "length": 11811
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER VI",
+      "start_pos": 57538,
+      "end_pos": 71315,
+      "length": 13777
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER VII",
+      "start_pos": 71328,
+      "end_pos": 83958,
+      "length": 12630
+    },
+    {
+      "chapter_num": 8,
+      "title": "CHAPTER VIII",
+      "start_pos": 83972,
+      "end_pos": 97603,
+      "length": 13631
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER IX",
+      "start_pos": 97615,
+      "end_pos": 110203,
+      "length": 12588
+    },
+    {
+      "chapter_num": 10,
+      "title": "CHAPTER X",
+      "start_pos": 110214,
+      "end_pos": 121562,
+      "length": 11348
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER XI",
+      "start_pos": 121574,
+      "end_pos": 131915,
+      "length": 10341
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER XII",
+      "start_pos": 131928,
+      "end_pos": 143500,
+      "length": 11572
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 2559,
+      "end_char_pos": 2951,
+      "token_count": 74,
+      "text": "She took down a jar from one of the shelves as she\npassed; it was labelled “ORANGE MARMALADE”, but to her great\ndisappointment it was empty: she did not like to drop the jar for fear\nof killing somebody underneath, so managed to put it into one of the\ncupboards as she fell past it.\n\n“Well!” thought Alice to herself, “after such a fall as this, I shall\nthink nothing of tumbling down stairs!",
+      "first_sentence": "She took down a jar from one of the shelves as she\npassed; it was labelled “ORANGE MARMALADE”, but to her great\ndisappointment it was empty: she did not like to drop the jar for fear\nof killing somebody underneath, so managed to put it into one of the\ncupboards as she fell past it."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 4754,
+      "end_char_pos": 5013,
+      "token_count": 54,
+      "text": "There are\nno mice in the air, I’m afraid, but you might catch a bat, and that’s\nvery like a mouse, you know. But do cats eat bats, I wonder?” And here\nAlice began to get rather sleepy, and went on saying to herself, in a\ndreamy sort of way, “Do cats eat bats?",
+      "first_sentence": "There are\nno mice in the air, I’m afraid, but you might catch a bat, and that’s\nvery like a mouse, you know."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 7317,
+      "end_char_pos": 7559,
+      "token_count": 46,
+      "text": "Oh,\nhow I wish I could shut up like a telescope! I think I could, if I only\nknew how to begin.” For, you see, so many out-of-the-way things had\nhappened lately, that Alice had begun to think that very few things\nindeed were really impossible.",
+      "first_sentence": "Oh,\nhow I wish I could shut up like a telescope!"
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 9483,
+      "end_char_pos": 9806,
+      "token_count": 64,
+      "text": "I wonder what I should be like then?” And she tried to fancy what the flame of a candle is like after the candle is blown out, for she could not remember ever having seen such a thing. After a while, finding that nothing more happened, she decided on going into the garden at once; but, alas for poor Alice! when she got to",
+      "first_sentence": "I wonder what I should be like then?"
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 14248,
+      "end_char_pos": 14561,
+      "token_count": 62,
+      "text": "Alice took up the fan and gloves, and, as the hall was very hot, she\nkept fanning herself all the time she went on talking: “Dear, dear! How\nqueer everything is to-day! And yesterday things went on just as usual.\nI wonder if I’ve been changed in the night? Let me think: was I the\nsame when I got up this morning?",
+      "first_sentence": "Alice took up the fan and gloves, and, as the hall was very hot, she\nkept fanning herself all the time she went on talking: “Dear, dear!"
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 16321,
+      "end_char_pos": 16743,
+      "token_count": 85,
+      "text": "No, I’ve\nmade up my mind about it; if I’m Mabel, I’ll stay down here! It’ll be\nno use their putting their heads down and saying ‘Come up again, dear!’\nI shall only look up and say ‘Who am I then? Tell me that first, and\nthen, if I like being that person, I’ll come up: if not, I’ll stay down\nhere till I’m somebody else’—but, oh dear!” cried Alice, with a sudden\nburst of tears, “I do wish they would put their heads down!",
+      "first_sentence": "No, I’ve\nmade up my mind about it; if I’m Mabel, I’ll stay down here!"
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 18639,
+      "end_char_pos": 19096,
+      "token_count": 89,
+      "text": "That will be a queer thing, to be\nsure! However, everything is queer to-day.”\n\nJust then she heard something splashing about in the pool a little way\noff, and she swam nearer to make out what it was: at first she thought\nit must be a walrus or hippopotamus, but then she remembered how small\nshe was now, and she soon made out that it was only a mouse that had\nslipped in like herself.\n\n“Would it be of any use, now,” thought Alice, “to speak to this mouse?",
+      "first_sentence": "That will be a queer thing, to be\nsure!"
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 20532,
+      "end_char_pos": 20864,
+      "token_count": 64,
+      "text": "She is such a dear quiet thing,” Alice went on, half to herself, as she swam lazily about in the pool, “and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she’s such a capital one for catching mice—oh, I beg your pardon!” cried Alice again, for this time",
+      "first_sentence": "She is such a dear quiet thing,” Alice went on, half to herself, as she swam lazily about in the pool, “and she sits purring so nicely by the fire, licking her paws and washing her face—and she is such a nice soft thing to nurse—and she’s such a capital one for catching mice—oh, I beg your pardon!"
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 25007,
+      "end_char_pos": 25349,
+      "token_count": 64,
+      "text": "But the insolence of his Normans—’ How are you getting on now, my dear?” it continued, turning to Alice as it spoke. “As wet as ever,” said Alice in a melancholy tone: “it doesn’t seem to dry me at all.” “In that case,” said the Dodo solemnly, rising to its feet, “I move that the meeting adjourn, for the immediate adoption of more energetic",
+      "first_sentence": "But the insolence of his Normans—’ How are you getting on now, my dear?"
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 27379,
+      "end_char_pos": 27674,
+      "token_count": 53,
+      "text": "There was exactly\none a-piece, all round.\n\n“But she must have a prize herself, you know,” said the Mouse.\n\n“Of course,” the Dodo replied very gravely. “What else have you got in\nyour pocket?” he went on, turning to Alice.\n\n“Only a thimble,” said Alice sadly.\n\n“Hand it over here,” said the Dodo.",
+      "first_sentence": "There was exactly\none a-piece, all round."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 30287,
+      "end_char_pos": 30658,
+      "token_count": 70,
+      "text": "Let this be a lesson to you never to lose\nyour temper!” “Hold your tongue, Ma!” said the young Crab, a little\nsnappishly. “You’re enough to try the patience of an oyster!”\n\n“I wish I had our Dinah here, I know I do!” said Alice aloud,\naddressing nobody in particular. “She’d soon fetch it back!”\n\n“And who is Dinah, if I might venture to ask the question?” said the\nLory.",
+      "first_sentence": "Let this be a lesson to you never to lose\nyour temper!"
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 34239,
+      "end_char_pos": 34497,
+      "token_count": 48,
+      "text": "There was no label\nthis time with the words “DRINK ME,” but nevertheless she uncorked it\nand put it to her lips. “I know something interesting is sure to\nhappen,” she said to herself, “whenever I eat or drink anything; so\nI’ll just see what this bottle does.",
+      "first_sentence": "There was no label\nthis time with the words “DRINK ME,” but nevertheless she uncorked it\nand put it to her lips."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 36512,
+      "end_char_pos": 36898,
+      "token_count": 70,
+      "text": "Oh, I shouldn’t like that!”\n\n“Oh, you foolish Alice!” she answered herself. “How can you learn\nlessons in here? Why, there’s hardly room for you, and no room at all\nfor any lesson-books!”\n\nAnd so she went on, taking first one side and then the other, and\nmaking quite a conversation of it altogether; but after a few minutes\nshe heard a voice outside, and stopped to listen.\n\n“Mary Ann!",
+      "first_sentence": "Oh, I shouldn’t like that!"
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 38920,
+      "end_char_pos": 39259,
+      "token_count": 64,
+      "text": "As for pulling me out of the window, I only wish they could! I’m sure I don’t want to stay in here any longer!” She waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: “Where’s the other ladder?—Why, I hadn’t to",
+      "first_sentence": "As for pulling me out of the window, I only wish they could!"
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 41190,
+      "end_char_pos": 41686,
+      "token_count": 94,
+      "text": "If they had any sense, they’d take the\nroof off.” After a minute or two, they began moving about again, and\nAlice heard the Rabbit say, “A barrowful will do, to begin with.”\n\n“A barrowful of what?” thought Alice; but she had not long to doubt,\nfor the next moment a shower of little pebbles came rattling in at the\nwindow, and some of them hit her in the face. “I’ll put a stop to\nthis,” she said to herself, and shouted out, “You’d better not do that\nagain!” which produced another dead silence.",
+      "first_sentence": "If they had any sense, they’d take the\nroof off."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 43418,
+      "end_char_pos": 43741,
+      "token_count": 64,
+      "text": "Hardly knowing what she did, she picked up a little bit of stick, and held it out to the puppy; whereupon the puppy jumped into the air off all its feet at once, with a yelp of delight, and rushed at the stick, and made believe to worry it; then Alice dodged behind a great thistle, to keep herself from being run over; and",
+      "first_sentence": "Hardly knowing what she did, she picked up a little bit of stick, and held it out to the puppy; wher..."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 48505,
+      "end_char_pos": 48847,
+      "token_count": 64,
+      "text": "Alice folded her hands, and began:— “You are old, Father William,” the young man said, “And your hair has become very white; And yet you incessantly stand on your head— Do you think, at your age, it is right?” “In my youth,” Father William replied to his son, “I feared it might injure the brain; But, now that I’m perfectly sure I have none,",
+      "first_sentence": "Alice folded her hands, and began:— “You are old, Father William,” the young man said, “And your hair has become very white; And yet you incessantly stand on your head— Do you think, at your age, it is right?"
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 50458,
+      "end_char_pos": 50963,
+      "token_count": 91,
+      "text": "Alice said nothing: she had never been so much contradicted in her life\nbefore, and she felt that she was losing her temper.\n\n“Are you content now?” said the Caterpillar.\n\n“Well, I should like to be a little larger, sir, if you wouldn’t\nmind,” said Alice: “three inches is such a wretched height to be.”\n\n“It is a very good height indeed!” said the Caterpillar angrily,\nrearing itself upright as it spoke (it was exactly three inches high).\n\n“But I’m not used to it!” pleaded poor Alice in a piteous tone.",
+      "first_sentence": "Alice said nothing: she had never been so much contradicted in her life\nbefore, and she felt that she was losing her temper."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 53048,
+      "end_char_pos": 53434,
+      "token_count": 77,
+      "text": "And oh, my poor hands, how is it I can’t see you?”\nShe was moving them about as she spoke, but no result seemed to follow,\nexcept a little shaking among the distant green leaves.\n\nAs there seemed to be no chance of getting her hands up to her head,\nshe tried to get her head down to them, and was delighted to find that\nher neck would bend about easily in any direction, like a serpent.",
+      "first_sentence": "And oh, my poor hands, how is it I can’t see you?"
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 55346,
+      "end_char_pos": 55685,
+      "token_count": 64,
+      "text": "You’re a serpent; and there’s no use denying it. I suppose you’ll be telling me next that you never tasted an egg!” “I have tasted eggs, certainly,” said Alice, who was a very truthful child; “but little girls eat eggs quite as much as serpents do, you know.” “I don’t believe it,” said the Pigeon; “but if they do, why then they’re a kind",
+      "first_sentence": "You’re a serpent; and there’s no use denying it."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 60539,
+      "end_char_pos": 60954,
+      "token_count": 73,
+      "text": "It’s enough to drive one crazy!”\n\nThe Footman seemed to think this a good opportunity for repeating his\nremark, with variations. “I shall sit here,” he said, “on and off, for\ndays and days.”\n\n“But what am I to do?” said Alice.\n\n“Anything you like,” said the Footman, and began whistling.\n\n“Oh, there’s no use in talking to him,” said Alice desperately: “he’s\nperfectly idiotic!” And she opened the door and went in.",
+      "first_sentence": "It’s enough to drive one crazy!"
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 62545,
+      "end_char_pos": 62802,
+      "token_count": 47,
+      "text": "While she\nwas trying to fix on one, the cook took the cauldron of soup off the\nfire, and at once set to work throwing everything within her reach at\nthe Duchess and the baby—the fire-irons came first; then followed a\nshower of saucepans, plates, and dishes.",
+      "first_sentence": "While she\nwas trying to fix on one, the cook took the cauldron of soup off the\nfire, and at once set to work throwing everything within her reach at\nthe Duchess and the baby—the fire-irons came first; then followed a\nshower of saucepans, plates, and dishes."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 64816,
+      "end_char_pos": 65071,
+      "token_count": 46,
+      "text": "The cook\nthrew a frying-pan after her as she went out, but it just missed her.\n\nAlice caught the baby with some difficulty, as it was a queer-shaped\nlittle creature, and held out its arms and legs in all directions,\n“just like a star-fish,” thought Alice.",
+      "first_sentence": "The cook\nthrew a frying-pan after her as she went out, but it just missed her."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 66782,
+      "end_char_pos": 67097,
+      "token_count": 64,
+      "text": "This time there could be no mistake about it: it was neither more nor less than a pig, and she felt that it would be quite absurd for her to carry it further. So she set the little creature down, and felt quite relieved to see it trot away quietly into the wood. “If it had grown up,” she said to herself, “it would",
+      "first_sentence": "This time there could be no mistake about it: it was neither more nor less than a pig, and she felt that it would be quite absurd for her to carry it further."
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 69074,
+      "end_char_pos": 69417,
+      "token_count": 63,
+      "text": "Now I growl when I’m pleased,\nand wag my tail when I’m angry. Therefore I’m mad.”\n\n“I call it purring, not growling,” said Alice.\n\n“Call it what you like,” said the Cat. “Do you play croquet with the\nQueen to-day?”\n\n“I should like it very much,” said Alice, “but I haven’t been invited\nyet.”\n\n“You’ll see me there,” said the Cat, and vanished.",
+      "first_sentence": "Now I growl when I’m pleased,\nand wag my tail when I’m angry."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 73877,
+      "end_char_pos": 74113,
+      "token_count": 48,
+      "text": "The Hatter was the first to break the silence. “What day of the month\nis it?” he said, turning to Alice: he had taken his watch out of his\npocket, and was looking at it uneasily, shaking it every now and then,\nand holding it to his ear.",
+      "first_sentence": "The Hatter was the first to break the silence."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 76446,
+      "end_char_pos": 76979,
+      "token_count": 96,
+      "text": "For instance, suppose it were nine o’clock in\nthe morning, just time to begin lessons: you’d only have to whisper a\nhint to Time, and round goes the clock in a twinkling! Half-past one,\ntime for dinner!”\n\n(“I only wish it was,” the March Hare said to itself in a whisper.)\n\n“That would be grand, certainly,” said Alice thoughtfully: “but then—I\nshouldn’t be hungry for it, you know.”\n\n“Not at first, perhaps,” said the Hatter: “but you could keep it to\nhalf-past one as long as you liked.”\n\n“Is that the way you manage?” Alice asked.",
+      "first_sentence": "For instance, suppose it were nine o’clock in\nthe morning, just time to begin lessons: you’d only have to whisper a\nhint to Time, and round goes the clock in a twinkling!"
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 80091,
+      "end_char_pos": 80431,
+      "token_count": 64,
+      "text": "Alice did not quite know what to say to this: so she helped herself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated her question. “Why did they live at the bottom of a well?” The Dormouse again took a minute or two to think about it, and then said, “It was a treacle-well.” “There’s no such thing!” Alice was",
+      "first_sentence": "Alice did not quite know what to say to this: so she helped herself to some tea and bread-and-butter, and then turned to the Dormouse, and repeated her question."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 81528,
+      "end_char_pos": 81890,
+      "token_count": 64,
+      "text": "Where did they draw the treacle from?” “You can draw water out of a water-well,” said the Hatter; “so I should think you could draw treacle out of a treacle-well—eh, stupid?” “But they were in the well,” Alice said to the Dormouse, not choosing to notice this last remark. “Of course they were,” said the Dormouse; “—well in.” This answer so confused poor Alice,",
+      "first_sentence": "Where did they draw the treacle from?"
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 86429,
+      "end_char_pos": 86961,
+      "token_count": 98,
+      "text": "Then followed the Knave of Hearts, carrying\nthe King’s crown on a crimson velvet cushion; and, last of all this\ngrand procession, came THE KING AND QUEEN OF HEARTS.\n\nAlice was rather doubtful whether she ought not to lie down on her face\nlike the three gardeners, but she could not remember ever having heard\nof such a rule at processions; “and besides, what would be the use of a\nprocession,” thought she, “if people had all to lie down upon their\nfaces, so that they couldn’t see it?” So she stood still where she was,\nand waited.",
+      "first_sentence": "Then followed the Knave of Hearts, carrying\nthe King’s crown on a crimson velvet cushion; and, last of all this\ngrand procession, came THE KING AND QUEEN OF HEARTS."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 89077,
+      "end_char_pos": 89673,
+      "token_count": 100,
+      "text": "The three soldiers wandered about for a\nminute or two, looking for them, and then quietly marched off after the\nothers.\n\n“Are their heads off?” shouted the Queen.\n\n“Their heads are gone, if it please your Majesty!” the soldiers shouted\nin reply.\n\n“That’s right!” shouted the Queen. “Can you play croquet?”\n\nThe soldiers were silent, and looked at Alice, as the question was\nevidently meant for her.\n\n“Yes!” shouted Alice.\n\n“Come on, then!” roared the Queen, and Alice joined the procession,\nwondering very much what would happen next.\n\n“It’s—it’s a very fine day!” said a timid voice at her side.",
+      "first_sentence": "The three soldiers wandered about for a\nminute or two, looking for them, and then quietly marched off after the\nothers."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 90891,
+      "end_char_pos": 91245,
+      "token_count": 64,
+      "text": "The chief difficulty Alice found at first was in managing her flamingo: she succeeded in getting its body tucked away, comfortably enough, under her arm, with its legs hanging down, but generally, just as she had got its neck nicely straightened out, and was going to give the hedgehog a blow with its head, it would twist itself round and look up in her",
+      "first_sentence": "The chief difficulty Alice found at first was in managing her flamingo: she succeeded in getting its..."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 93140,
+      "end_char_pos": 93486,
+      "token_count": 64,
+      "text": "The Cat seemed to think that there was enough of it now in sight, and no more of it appeared. “I don’t think they play at all fairly,” Alice began, in rather a complaining tone, “and they all quarrel so dreadfully one can’t hear oneself speak—and they don’t seem to have any rules in particular; at least, if there are, nobody attends to them—and",
+      "first_sentence": "The Cat seemed to think that there was enough of it now in sight, and no more of it appeared."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 95352,
+      "end_char_pos": 95713,
+      "token_count": 68,
+      "text": "So she went in search of her hedgehog.\n\nThe hedgehog was engaged in a fight with another hedgehog, which seemed\nto Alice an excellent opportunity for croqueting one of them with the\nother: the only difficulty was, that her flamingo was gone across to\nthe other side of the garden, where Alice could see it trying in a\nhelpless sort of way to fly up into a tree.",
+      "first_sentence": "So she went in search of her hedgehog."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 100274,
+      "end_char_pos": 100643,
+      "token_count": 63,
+      "text": "And\nthe moral of that is—‘Birds of a feather flock together.’”\n\n“Only mustard isn’t a bird,” Alice remarked.\n\n“Right, as usual,” said the Duchess: “what a clear way you have of\nputting things!”\n\n“It’s a mineral, I think,” said Alice.\n\n“Of course it is,” said the Duchess, who seemed ready to agree to\neverything that Alice said; “there’s a large mustard-mine near here.",
+      "first_sentence": "And\nthe moral of that is—‘Birds of a feather flock together."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 102761,
+      "end_char_pos": 102995,
+      "token_count": 41,
+      "text": "The other guests had taken advantage of the Queen’s absence, and were\nresting in the shade: however, the moment they saw her, they hurried\nback to the game, the Queen merely remarking that a moment’s delay\nwould cost them their lives.",
+      "first_sentence": "The other guests had taken advantage of the Queen’s absence, and were\nresting in the shade: however, the moment they saw her, they hurried\nback to the game, the Queen merely remarking that a moment’s delay\nwould cost them their lives."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 105226,
+      "end_char_pos": 105565,
+      "token_count": 64,
+      "text": "She pitied him deeply. “What is his sorrow?” she asked the Gryphon, and the Gryphon answered, very nearly in the same words as before, “It’s all his fancy, that: he hasn’t got no sorrow, you know. Come on!” So they went up to the Mock Turtle, who looked at them with large eyes full of tears, but said nothing. “This here young lady,” said",
+      "first_sentence": "She pitied him deeply."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 108353,
+      "end_char_pos": 108730,
+      "token_count": 64,
+      "text": "Never heard of uglifying!” it exclaimed. “You know what to beautify is, I suppose?” “Yes,” said Alice doubtfully: “it means—to—make—anything—prettier.” “Well, then,” the Gryphon went on, “if you don’t know what to uglify is, you are a simpleton.” Alice did not feel encouraged to ask any more questions about it, so she turned to the Mock Turtle, and said “What else had you to",
+      "first_sentence": "Never heard of uglifying!"
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 112771,
+      "end_char_pos": 113290,
+      "token_count": 99,
+      "text": "See how eagerly the lobsters and the turtles all advance!\nThey are waiting on the shingle—will you come and join the dance?\nWill you, won’t you, will you, won’t you, will you join the dance?\nWill you, won’t you, will you, won’t you, won’t you join the dance?\n\n“You can really have no notion how delightful it will be\nWhen they take us up and throw us, with the lobsters, out to sea!”\nBut the snail replied “Too far, too far!” and gave a look askance—\nSaid he thanked the whiting kindly, but he would not join the dance.",
+      "first_sentence": "See how eagerly the lobsters and the turtles all advance!"
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 114767,
+      "end_char_pos": 115213,
+      "token_count": 82,
+      "text": "So they had to\nfall a long way. So they got their tails fast in their mouths. So they\ncouldn’t get them out again. That’s all.”\n\n“Thank you,” said Alice, “it’s very interesting. I never knew so much\nabout a whiting before.”\n\n“I can tell you more than that, if you like,” said the Gryphon. “Do you\nknow why it’s called a whiting?”\n\n“I never thought about it,” said Alice. “Why?”\n\n“_It does the boots and shoes_,” the Gryphon replied very solemnly.",
+      "first_sentence": "So they had to\nfall a long way."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 117096,
+      "end_char_pos": 117524,
+      "token_count": 74,
+      "text": "Her listeners were perfectly quiet till she got to the part\nabout her repeating “_You are old, Father William_,” to the\nCaterpillar, and the words all coming different, and then the Mock\nTurtle drew a long breath, and said “That’s very curious.”\n\n“It’s all about as curious as it can be,” said the Gryphon.\n\n“It all came different!” the Mock Turtle repeated thoughtfully. “I\nshould like to hear her try and repeat something now.",
+      "first_sentence": "Her listeners were perfectly quiet till she got to the part\nabout her repeating “_You are old, Father William_,” to the\nCaterpillar, and the words all coming different, and then the Mock\nTurtle drew a long breath, and said “That’s very curious."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 119589,
+      "end_char_pos": 119881,
+      "token_count": 54,
+      "text": "When the pie was all finished, the Owl, as a boon,\nWas kindly permitted to pocket the spoon:\nWhile the Panther received knife and fork with a growl,\nAnd concluded the banquet—]\n\n“What is the use of repeating all that stuff,” the Mock Turtle\ninterrupted, “if you don’t explain it as you go on?",
+      "first_sentence": "When the pie was all finished, the Owl, as a boon,\nWas kindly permitted to pocket the spoon:\nWhile the Panther received knife and fork with a growl,\nAnd concluded the banquet—]\n\n“What is the use of repeating all that stuff,” the Mock Turtle\ninterrupted, “if you don’t explain it as you go on?"
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 123780,
+      "end_char_pos": 124129,
+      "token_count": 65,
+      "text": "Alice could see, as well as if she were looking over their shoulders,\nthat all the jurors were writing down “stupid things!” on their slates,\nand she could even make out that one of them didn’t know how to spell\n“stupid,” and that he had to ask his neighbour to tell him. “A nice\nmuddle their slates’ll be in before the trial’s over!” thought Alice.",
+      "first_sentence": "Alice could see, as well as if she were looking over their shoulders,\nthat all the jurors were writing down “stupid things!"
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 126173,
+      "end_char_pos": 126611,
+      "token_count": 80,
+      "text": "I’m a hatter.”\n\nHere the Queen put on her spectacles, and began staring at the Hatter,\nwho turned pale and fidgeted.\n\n“Give your evidence,” said the King; “and don’t be nervous, or I’ll\nhave you executed on the spot.”\n\nThis did not seem to encourage the witness at all: he kept shifting\nfrom one foot to the other, looking uneasily at the Queen, and in his\nconfusion he bit a large piece out of his teacup instead of the\nbread-and-butter.",
+      "first_sentence": "I’m a hatter."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 129064,
+      "end_char_pos": 129401,
+      "token_count": 64,
+      "text": "Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of the court. (As that is rather a hard word, I will just explain to you how it was done. They had a large canvas bag, which tied up at the mouth with strings: into this they slipped the guinea-pig, head first, and then sat upon it.) “I’m glad I’ve seen",
+      "first_sentence": "Here one of the guinea-pigs cheered, and was immediately suppressed by the officers of the court."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 130400,
+      "end_char_pos": 130674,
+      "token_count": 50,
+      "text": "The next witness was the Duchess’s cook. She carried the pepper-box in\nher hand, and Alice guessed who it was, even before she got into the\ncourt, by the way the people near the door began sneezing all at once.\n\n“Give your evidence,” said the King.\n\n“Shan’t,” said the cook.",
+      "first_sentence": "The next witness was the Duchess’s cook."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 134428,
+      "end_char_pos": 134981,
+      "token_count": 100,
+      "text": "At this moment the King, who had been for some time busily writing in\nhis note-book, cackled out “Silence!” and read out from his book, “Rule\nForty-two. _All persons more than a mile high to leave the court_.”\n\nEverybody looked at Alice.\n\n“I’m not a mile high,” said Alice.\n\n“You are,” said the King.\n\n“Nearly two miles high,” added the Queen.\n\n“Well, I shan’t go, at any rate,” said Alice: “besides, that’s not a\nregular rule: you invented it just now.”\n\n“It’s the oldest rule in the book,” said the King.\n\n“Then it ought to be Number One,” said Alice.",
+      "first_sentence": "At this moment the King, who had been for some time busily writing in\nhis note-book, cackled out “Silence!"
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 136630,
+      "end_char_pos": 136989,
+      "token_count": 68,
+      "text": "The White Rabbit put on his spectacles. “Where shall I begin, please\nyour Majesty?” he asked.\n\n“Begin at the beginning,” the King said gravely, “and go on till you\ncome to the end: then stop.”\n\nThese were the verses the White Rabbit read:—\n\n“They told me you had been to her,\n And mentioned me to him:\nShe gave me a good character,\n But said I could not swim.",
+      "first_sentence": "The White Rabbit put on his spectacles."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 139500,
+      "end_char_pos": 139981,
+      "token_count": 80,
+      "text": "There was a dead silence.\n\n“It’s a pun!” the King added in an offended tone, and everybody\nlaughed, “Let the jury consider their verdict,” the King said, for\nabout the twentieth time that day.\n\n“No, no!” said the Queen. “Sentence first—verdict afterwards.”\n\n“Stuff and nonsense!” said Alice loudly. “The idea of having the\nsentence first!”\n\n“Hold your tongue!” said the Queen, turning purple.\n\n“I won’t!” said Alice.\n\n“Off with her head!” the Queen shouted at the top of her voice.",
+      "first_sentence": "There was a dead silence."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 141673,
+      "end_char_pos": 142061,
+      "token_count": 64,
+      "text": "The long grass rustled at her feet as the White Rabbit hurried by—the frightened Mouse splashed his way through the neighbouring pool—she could hear the rattle of the teacups as the March Hare and his friends shared their never-ending meal, and the shrill voice of the Queen ordering off her unfortunate guests to execution—once more the pig-baby was sneezing on the Duchess’s knee, while",
+      "first_sentence": "The long grass rustled at her feet as the White Rabbit hurried by—the frightened Mouse splashed his..."
+    }
+  ]
+}

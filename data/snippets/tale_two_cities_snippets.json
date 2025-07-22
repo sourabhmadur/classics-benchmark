@@ -1,0 +1,833 @@
+{
+  "novel_key": "tale_two_cities",
+  "novel_file": "tale_two_cities.txt",
+  "text_length": 756660,
+  "chapters_detected": 46,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "CHAPTER II",
+      "start_pos": 32,
+      "end_pos": 1029,
+      "length": 997
+    },
+    {
+      "chapter_num": 2,
+      "title": "CHAPTER V",
+      "start_pos": 1040,
+      "end_pos": 7171,
+      "length": 6131
+    },
+    {
+      "chapter_num": 3,
+      "title": "CHAPTER II",
+      "start_pos": 7183,
+      "end_pos": 18359,
+      "length": 11176
+    },
+    {
+      "chapter_num": 4,
+      "title": "CHAPTER III",
+      "start_pos": 18372,
+      "end_pos": 27314,
+      "length": 8942
+    },
+    {
+      "chapter_num": 5,
+      "title": "CHAPTER IV",
+      "start_pos": 27326,
+      "end_pos": 51720,
+      "length": 24394
+    },
+    {
+      "chapter_num": 6,
+      "title": "CHAPTER V",
+      "start_pos": 51731,
+      "end_pos": 75151,
+      "length": 23420
+    },
+    {
+      "chapter_num": 7,
+      "title": "CHAPTER VI",
+      "start_pos": 75163,
+      "end_pos": 97321,
+      "length": 22158
+    },
+    {
+      "chapter_num": 8,
+      "title": "CHAPTER I",
+      "start_pos": 97332,
+      "end_pos": 111008,
+      "length": 13676
+    },
+    {
+      "chapter_num": 9,
+      "title": "CHAPTER II",
+      "start_pos": 111020,
+      "end_pos": 124271,
+      "length": 13251
+    },
+    {
+      "chapter_num": 10,
+      "title": "CHAPTER III",
+      "start_pos": 124284,
+      "end_pos": 151715,
+      "length": 27431
+    },
+    {
+      "chapter_num": 11,
+      "title": "CHAPTER IV",
+      "start_pos": 151727,
+      "end_pos": 164190,
+      "length": 12463
+    },
+    {
+      "chapter_num": 12,
+      "title": "CHAPTER V",
+      "start_pos": 164201,
+      "end_pos": 176053,
+      "length": 11852
+    },
+    {
+      "chapter_num": 13,
+      "title": "CHAPTER VI",
+      "start_pos": 176065,
+      "end_pos": 201735,
+      "length": 25670
+    },
+    {
+      "chapter_num": 14,
+      "title": "CHAPTER VII",
+      "start_pos": 201748,
+      "end_pos": 220899,
+      "length": 19151
+    },
+    {
+      "chapter_num": 15,
+      "title": "CHAPTER VIII",
+      "start_pos": 220913,
+      "end_pos": 231451,
+      "length": 10538
+    },
+    {
+      "chapter_num": 16,
+      "title": "CHAPTER IX",
+      "start_pos": 231463,
+      "end_pos": 254230,
+      "length": 22767
+    },
+    {
+      "chapter_num": 17,
+      "title": "CHAPTER X",
+      "start_pos": 254241,
+      "end_pos": 270140,
+      "length": 15899
+    },
+    {
+      "chapter_num": 18,
+      "title": "CHAPTER XI",
+      "start_pos": 270152,
+      "end_pos": 277673,
+      "length": 7521
+    },
+    {
+      "chapter_num": 19,
+      "title": "CHAPTER XII",
+      "start_pos": 277686,
+      "end_pos": 291740,
+      "length": 14054
+    },
+    {
+      "chapter_num": 20,
+      "title": "CHAPTER XIII",
+      "start_pos": 291754,
+      "end_pos": 301487,
+      "length": 9733
+    },
+    {
+      "chapter_num": 21,
+      "title": "CHAPTER XIV",
+      "start_pos": 301500,
+      "end_pos": 323469,
+      "length": 21969
+    },
+    {
+      "chapter_num": 22,
+      "title": "CHAPTER XV",
+      "start_pos": 323481,
+      "end_pos": 346771,
+      "length": 23290
+    },
+    {
+      "chapter_num": 23,
+      "title": "CHAPTER XVI",
+      "start_pos": 346784,
+      "end_pos": 368795,
+      "length": 22011
+    },
+    {
+      "chapter_num": 24,
+      "title": "CHAPTER XVII",
+      "start_pos": 368809,
+      "end_pos": 379021,
+      "length": 10212
+    },
+    {
+      "chapter_num": 25,
+      "title": "CHAPTER XVIII",
+      "start_pos": 379036,
+      "end_pos": 392181,
+      "length": 13145
+    },
+    {
+      "chapter_num": 26,
+      "title": "CHAPTER XIX",
+      "start_pos": 392194,
+      "end_pos": 407665,
+      "length": 15471
+    },
+    {
+      "chapter_num": 27,
+      "title": "CHAPTER XX",
+      "start_pos": 407677,
+      "end_pos": 414818,
+      "length": 7141
+    },
+    {
+      "chapter_num": 28,
+      "title": "CHAPTER XXI",
+      "start_pos": 414831,
+      "end_pos": 438731,
+      "length": 23900
+    },
+    {
+      "chapter_num": 29,
+      "title": "CHAPTER XXII",
+      "start_pos": 438745,
+      "end_pos": 450184,
+      "length": 11439
+    },
+    {
+      "chapter_num": 30,
+      "title": "CHAPTER XXIII",
+      "start_pos": 450199,
+      "end_pos": 465188,
+      "length": 14989
+    },
+    {
+      "chapter_num": 31,
+      "title": "CHAPTER XXIV",
+      "start_pos": 465202,
+      "end_pos": 489891,
+      "length": 24689
+    },
+    {
+      "chapter_num": 32,
+      "title": "CHAPTER I",
+      "start_pos": 489902,
+      "end_pos": 514026,
+      "length": 24124
+    },
+    {
+      "chapter_num": 33,
+      "title": "CHAPTER II",
+      "start_pos": 514038,
+      "end_pos": 527806,
+      "length": 13768
+    },
+    {
+      "chapter_num": 34,
+      "title": "CHAPTER III",
+      "start_pos": 527819,
+      "end_pos": 537507,
+      "length": 9688
+    },
+    {
+      "chapter_num": 35,
+      "title": "CHAPTER IV",
+      "start_pos": 537519,
+      "end_pos": 549413,
+      "length": 11894
+    },
+    {
+      "chapter_num": 36,
+      "title": "CHAPTER V",
+      "start_pos": 549424,
+      "end_pos": 562146,
+      "length": 12722
+    },
+    {
+      "chapter_num": 37,
+      "title": "CHAPTER VI",
+      "start_pos": 562158,
+      "end_pos": 576308,
+      "length": 14150
+    },
+    {
+      "chapter_num": 38,
+      "title": "CHAPTER VII",
+      "start_pos": 576321,
+      "end_pos": 586714,
+      "length": 10393
+    },
+    {
+      "chapter_num": 39,
+      "title": "CHAPTER VIII",
+      "start_pos": 586728,
+      "end_pos": 612742,
+      "length": 26014
+    },
+    {
+      "chapter_num": 40,
+      "title": "CHAPTER IX",
+      "start_pos": 612754,
+      "end_pos": 638328,
+      "length": 25574
+    },
+    {
+      "chapter_num": 41,
+      "title": "CHAPTER X",
+      "start_pos": 638339,
+      "end_pos": 669337,
+      "length": 30998
+    },
+    {
+      "chapter_num": 42,
+      "title": "CHAPTER XI",
+      "start_pos": 669349,
+      "end_pos": 677066,
+      "length": 7717
+    },
+    {
+      "chapter_num": 43,
+      "title": "CHAPTER XII",
+      "start_pos": 677079,
+      "end_pos": 694579,
+      "length": 17500
+    },
+    {
+      "chapter_num": 44,
+      "title": "CHAPTER XIII",
+      "start_pos": 694593,
+      "end_pos": 718839,
+      "length": 24246
+    },
+    {
+      "chapter_num": 45,
+      "title": "CHAPTER XIV",
+      "start_pos": 718852,
+      "end_pos": 744569,
+      "length": 25717
+    },
+    {
+      "chapter_num": 46,
+      "title": "CHAPTER XV",
+      "start_pos": 744581,
+      "end_pos": 756660,
+      "length": 12079
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 1388,
+      "end_char_pos": 1692,
+      "token_count": 64,
+      "text": "The Period It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had",
+      "first_sentence": "The Period It was the best of times, it was the worst of times, it was the age of wisdom, it was the..."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 4120,
+      "end_char_pos": 4451,
+      "token_count": 58,
+      "text": "It is likely enough that in the rough outhouses\nof some tillers of the heavy lands adjacent to Paris, there were\nsheltered from the weather that very day, rude carts, bespattered with\nrustic mire, snuffed about by pigs, and roosted in by poultry, which\nthe Farmer, Death, had already set apart to be his tumbrils of\nthe Revolution.",
+      "first_sentence": "It is likely enough that in the rough outhouses\nof some tillers of the heavy lands adjacent to Paris, there were\nsheltered from the weather that very day, rude carts, bespattered with\nrustic mire, snuffed about by pigs, and roosted in by poultry, which\nthe Farmer, Death, had already set apart to be his tumbrils of\nthe Revolution."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 3,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 12876,
+      "end_char_pos": 13206,
+      "token_count": 59,
+      "text": "The panting of the horses communicated a tremulous motion to\nthe coach, as if it were in a state of agitation. The hearts of the\npassengers beat loud enough perhaps to be heard; but at any rate, the\nquiet pause was audibly expressive of people out of breath, and holding\nthe breath, and having the pulses quickened by expectation.",
+      "first_sentence": "The panting of the horses communicated a tremulous motion to\nthe coach, as if it were in a state of agitation."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 4,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 23031,
+      "end_char_pos": 23579,
+      "token_count": 99,
+      "text": "The rattle of the harness was the chink of money,\nand more drafts were honoured in five minutes than even Tellson’s, with\nall its foreign and home connection, ever paid in thrice the time. Then\nthe strong-rooms underground, at Tellson’s, with such of their valuable\nstores and secrets as were known to the passenger (and it was not a\nlittle that he knew about them), opened before him, and he went in among\nthem with the great keys and the feebly-burning candle, and found them\nsafe, and strong, and sound, and still, just as he had last seen them.",
+      "first_sentence": "The rattle of the harness was the chink of money,\nand more drafts were honoured in five minutes than even Tellson’s, with\nall its foreign and home connection, ever paid in thrice the time."
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 5,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 35524,
+      "end_char_pos": 35947,
+      "token_count": 75,
+      "text": "The obscurity was so difficult to penetrate that Mr. Lorry, picking his\nway over the well-worn Turkey carpet, supposed Miss Manette to be, for\nthe moment, in some adjacent room, until, having got past the two tall\ncandles, he saw standing to receive him by the table between them and\nthe fire, a young lady of not more than seventeen, in a riding-cloak,\nand still holding her straw travelling-hat by its ribbon in her hand.",
+      "first_sentence": "The obscurity was so difficult to penetrate that Mr."
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 59802,
+      "end_char_pos": 60169,
+      "token_count": 68,
+      "text": "Let them bring\nanother.”\n\nThere, his eyes happening to catch the tall joker writing up his joke,\nhe called to him across the way:\n\n“Say, then, my Gaspard, what do you do there?”\n\nThe fellow pointed to his joke with immense significance, as is often\nthe way with his tribe. It missed its mark, and completely failed, as is\noften the way with his tribe too.\n\n“What now?",
+      "first_sentence": "Let them bring\nanother."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 6,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 67403,
+      "end_char_pos": 67858,
+      "token_count": 87,
+      "text": "God help him, who should be with him!” said the other, in the\nsame low voice.\n\n“Is he always alone, then?”\n\n“Yes.”\n\n“Of his own desire?”\n\n“Of his own necessity. As he was, when I first saw him after they\nfound me and demanded to know if I would take him, and, at my peril be\ndiscreet--as he was then, so he is now.”\n\n“He is greatly changed?”\n\n“Changed!”\n\nThe keeper of the wine-shop stopped to strike the wall with his hand,\nand mutter a tremendous curse.",
+      "first_sentence": "God help him, who should be with him!"
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 7,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 86337,
+      "end_char_pos": 86613,
+      "token_count": 55,
+      "text": "He turned her full to the\nlight, and looked at her.\n\n“She had laid her head upon my shoulder, that night when I was summoned\nout--she had a fear of my going, though I had none--and when I was\nbrought to the North Tower they found these upon my sleeve. ‘You will\nleave me them?",
+      "first_sentence": "He turned her full to the\nlight, and looked at her."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 8,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 104173,
+      "end_char_pos": 104610,
+      "token_count": 79,
+      "text": "Cruncher, looking out of bed for a boot. “You’re at it\nagin, are you?”\n\nAfter hailing the morn with this second salutation, he threw a boot at\nthe woman as a third. It was a very muddy boot, and may introduce the\nodd circumstance connected with Mr. Cruncher’s domestic economy, that,\nwhereas he often came home after banking hours with clean boots, he\noften got up next morning to find the same boots covered with clay.\n\n“What,” said Mr.",
+      "first_sentence": "Cruncher, looking out of bed for a boot."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 9,
+      "chapter_title": "CHAPTER II",
+      "start_char_pos": 117712,
+      "end_char_pos": 118082,
+      "token_count": 70,
+      "text": "Eager faces strained round\npillars and corners, to get a sight of him; spectators in back rows\nstood up, not to miss a hair of him; people on the floor of the court,\nlaid their hands on the shoulders of the people before them, to help\nthemselves, at anybody’s cost, to a view of him--stood a-tiptoe, got\nupon ledges, stood upon next to nothing, to see every inch of him.",
+      "first_sentence": "Eager faces strained round\npillars and corners, to get a sight of him; spectators in back rows\nstood up, not to miss a hair of him; people on the floor of the court,\nlaid their hands on the shoulders of the people before them, to help\nthemselves, at anybody’s cost, to a view of him--stood a-tiptoe, got\nupon ledges, stood upon next to nothing, to see every inch of him."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 10,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 142776,
+      "end_char_pos": 143068,
+      "token_count": 51,
+      "text": "My Lord being prayed to bid my learned friend lay aside\nhis wig, and giving no very gracious consent, the likeness became\nmuch more remarkable. My Lord inquired of Mr. Stryver (the prisoner’s\ncounsel), whether they were next to try Mr. Carton (name of my learned\nfriend) for treason? But, Mr.",
+      "first_sentence": "My Lord being prayed to bid my learned friend lay aside\nhis wig, and giving no very gracious consent, the likeness became\nmuch more remarkable."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 11,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 157988,
+      "end_char_pos": 158315,
+      "token_count": 53,
+      "text": "Lorry, thoroughly heated by his indifference,\n“business is a very good thing, and a very respectable thing. And, sir,\nif business imposes its restraints and its silences and impediments, Mr.\nDarnay as a young gentleman of generosity knows how to make allowance\nfor that circumstance. Mr. Darnay, good night, God bless you, sir!",
+      "first_sentence": "Lorry, thoroughly heated by his indifference,\n“business is a very good thing, and a very respectable thing."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 12,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 170287,
+      "end_char_pos": 170623,
+      "token_count": 63,
+      "text": "At length the jackal had got together a compact repast for the lion, and\nproceeded to offer it to him. The lion took it with care and caution,\nmade his selections from it, and his remarks upon it, and the jackal\nassisted both. When the repast was fully discussed, the lion put his\nhands in his waistband again, and lay down to meditate.",
+      "first_sentence": "At length the jackal had got together a compact repast for the lion, and\nproceeded to offer it to him."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 184624,
+      "end_char_pos": 185069,
+      "token_count": 76,
+      "text": "Lorry knew Miss Pross to be very jealous, but he also knew her by\nthis time to be, beneath the service of her eccentricity, one of those\nunselfish creatures--found only among women--who will, for pure love and\nadmiration, bind themselves willing slaves, to youth when they have lost\nit, to beauty that they never had, to accomplishments that they were\nnever fortunate enough to gain, to bright hopes that never shone upon\ntheir own sombre lives.",
+      "first_sentence": "Lorry knew Miss Pross to be very jealous, but he also knew her by\nthis time to be, beneath the service of her eccentricity, one of those\nunselfish creatures--found only among women--who will, for pure love and\nadmiration, bind themselves willing slaves, to youth when they have lost\nit, to beauty that they never had, to accomplishments that they were\nnever fortunate enough to gain, to bright hopes that never shone upon\ntheir own sombre lives."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 13,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 193216,
+      "end_char_pos": 193535,
+      "token_count": 53,
+      "text": "On this occasion,\nMiss Pross, responding to Ladybird’s pleasant face and pleasant efforts\nto please her, unbent exceedingly; so the dinner was very pleasant, too.\n\nIt was an oppressive day, and, after dinner, Lucie proposed that the\nwine should be carried out under the plane-tree, and they should sit\nthere in the air.",
+      "first_sentence": "On this occasion,\nMiss Pross, responding to Ladybird’s pleasant face and pleasant efforts\nto please her, unbent exceedingly; so the dinner was very pleasant, too."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 15,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 226422,
+      "end_char_pos": 226690,
+      "token_count": 44,
+      "text": "Put him aside, Monsieur\nGabelle!”\n\nMonsieur Gabelle was the Postmaster, and some other taxing functionary\nunited; he had come out with great obsequiousness to assist at this\nexamination, and had held the examined by the drapery of his arm in an\nofficial manner.\n\n“Bah!",
+      "first_sentence": "Put him aside, Monsieur\nGabelle!"
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 16,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 239230,
+      "end_char_pos": 239470,
+      "token_count": 46,
+      "text": "They are sought by so many, and they are granted\n(comparatively) to so few! It used not to be so, but France in all such\nthings is changed for the worse. Our not remote ancestors held the right\nof life and death over the surrounding vulgar.",
+      "first_sentence": "They are sought by so many, and they are granted\n(comparatively) to so few!"
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 16,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 246653,
+      "end_char_pos": 247084,
+      "token_count": 76,
+      "text": "At the same\ntime, the thin straight lines of the setting of the eyes, and the thin\nstraight lips, and the markings in the nose, curved with a sarcasm that\nlooked handsomely diabolic.\n\n“Yes,” repeated the Marquis. “A Doctor with a daughter. Yes. So\ncommences the new philosophy! You are fatigued. Good night!”\n\nIt would have been of as much avail to interrogate any stone face\noutside the chateau as to interrogate that face of his.",
+      "first_sentence": "At the same\ntime, the thin straight lines of the setting of the eyes, and the thin\nstraight lips, and the markings in the nose, curved with a sarcasm that\nlooked handsomely diabolic."
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 17,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 262227,
+      "end_char_pos": 262553,
+      "token_count": 62,
+      "text": "I know that in loving you she sees and loves her mother at her\nown age, sees and loves you at my age, loves her mother broken-hearted,\nloves you through your dreadful trial and in your blessed restoration. I\nhave known this, night and day, since I have known you in your home.”\n\nHer father sat silent, with his face bent down.",
+      "first_sentence": "I know that in loving you she sees and loves her mother at her\nown age, sees and loves you at my age, loves her mother broken-hearted,\nloves you through your dreadful trial and in your blessed restoration."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 18,
+      "chapter_title": "CHAPTER XI",
+      "start_char_pos": 274037,
+      "end_char_pos": 274435,
+      "token_count": 69,
+      "text": "As\nto me--will you never understand that I am incorrigible?”\n\nHe asked the question with some appearance of scorn.\n\n“You have no business to be incorrigible,” was his friend’s answer,\ndelivered in no very soothing tone.\n\n“I have no business to be, at all, that I know of,” said Sydney Carton.\n“Who is the lady?”\n\n“Now, don’t let my announcement of the name make you uncomfortable,\nSydney,” said Mr.",
+      "first_sentence": "As\nto me--will you never understand that I am incorrigible?"
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 20,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 296709,
+      "end_char_pos": 297038,
+      "token_count": 57,
+      "text": "Since I knew you, I have been troubled by a remorse that\nI thought would never reproach me again, and have heard whispers from\nold voices impelling me upward, that I thought were silent for ever. I\nhave had unformed ideas of striving afresh, beginning anew, shaking off\nsloth and sensuality, and fighting out the abandoned fight.",
+      "first_sentence": "Since I knew you, I have been troubled by a remorse that\nI thought would never reproach me again, and have heard whispers from\nold voices impelling me upward, that I thought were silent for ever."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 21,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 312599,
+      "end_char_pos": 312972,
+      "token_count": 65,
+      "text": "Cruncher, and sullenly holding her in\nconversation that she might be prevented from meditating any petitions\nto his disadvantage. With this view, he urged his son to hold her in\nconversation also, and led the unfortunate woman a hard life by dwelling\non any causes of complaint he could bring against her, rather than\nhe would leave her for a moment to her own reflections.",
+      "first_sentence": "Cruncher, and sullenly holding her in\nconversation that she might be prevented from meditating any petitions\nto his disadvantage."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 22,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 331401,
+      "end_char_pos": 331755,
+      "token_count": 71,
+      "text": "Also, I see that\ntheir long shadows are on the hollow ridge on the opposite side of the\nroad, and are on the hill above it, and are like the shadows of giants.\nAlso, I see that they are covered with dust, and that the dust moves\nwith them as they come, tramp, tramp! But when they advance quite near\nto me, I recognise the tall man, and he recognises me.",
+      "first_sentence": "Also, I see that\ntheir long shadows are on the hollow ridge on the opposite side of the\nroad, and are on the hill above it, and are like the shadows of giants."
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 22,
+      "chapter_title": "CHAPTER XV",
+      "start_char_pos": 339049,
+      "end_char_pos": 339577,
+      "token_count": 97,
+      "text": "How can the women and the children draw\nwater! Who can gossip of an evening, under that shadow! Under it, have\nI said? When I left the village, Monday evening as the sun was going to\nbed, and looked back from the hill, the shadow struck across the church,\nacross the mill, across the prison--seemed to strike across the earth,\nmessieurs, to where the sky rests upon it!”\n\nThe hungry man gnawed one of his fingers as he looked at the other\nthree, and his finger quivered with the craving that was on him.\n\n“That’s all, messieurs.",
+      "first_sentence": "How can the women and the children draw\nwater!"
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 23,
+      "chapter_title": "CHAPTER XVI",
+      "start_char_pos": 357912,
+      "end_char_pos": 358187,
+      "token_count": 53,
+      "text": "I may find a use for it one day. If I do--Well,” said\nmadame, drawing a breath and nodding her head with a stern kind of\ncoquetry, “I’ll use it!”\n\nIt was remarkable; but, the taste of Saint Antoine seemed to be\ndecidedly opposed to a rose on the head-dress of Madame Defarge.",
+      "first_sentence": "I may find a use for it one day."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 25,
+      "chapter_title": "CHAPTER XVIII",
+      "start_char_pos": 385623,
+      "end_char_pos": 386041,
+      "token_count": 78,
+      "text": "Lorry said what he could to calm her, and went himself into the\nDoctor’s room. The bench was turned towards the light, as it had been\nwhen he had seen the shoemaker at his work before, and his head was bent\ndown, and he was very busy.\n\n“Doctor Manette. My dear friend, Doctor Manette!”\n\nThe Doctor looked at him for a moment--half inquiringly, half as if he\nwere angry at being spoken to--and bent over his work again.",
+      "first_sentence": "Lorry said what he could to calm her, and went himself into the\nDoctor’s room."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 26,
+      "chapter_title": "CHAPTER XIX",
+      "start_char_pos": 400096,
+      "end_char_pos": 400529,
+      "token_count": 71,
+      "text": "Some intense associations of a most\ndistressing nature were vividly recalled, I think. It is probable that\nthere had long been a dread lurking in his mind, that those associations\nwould be recalled--say, under certain circumstances--say, on a\nparticular occasion. He tried to prepare himself in vain; perhaps the\neffort to prepare himself made him less able to bear it.”\n\n“Would he remember what took place in the relapse?” asked Mr.",
+      "first_sentence": "Some intense associations of a most\ndistressing nature were vividly recalled, I think."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 27,
+      "chapter_title": "CHAPTER XX",
+      "start_char_pos": 411322,
+      "end_char_pos": 411616,
+      "token_count": 62,
+      "text": "I\ndoubt if I should abuse the permission. It is a hundred to one if I\nshould avail myself of it four times in a year. It would satisfy me, I\ndare say, to know that I had it.”\n\n“Will you try?”\n\n“That is another way of saying that I am placed on the footing I have\nindicated. I thank you, Darnay.",
+      "first_sentence": "I\ndoubt if I should abuse the permission."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 28,
+      "chapter_title": "CHAPTER XXI",
+      "start_char_pos": 422846,
+      "end_char_pos": 423167,
+      "token_count": 61,
+      "text": "Our customers over there, seem not to be able\nto confide their property to us fast enough. There is positively a mania\namong some of them for sending it to England.”\n\n“That has a bad look,” said Darnay--\n\n“A bad look, you say, my dear Darnay? Yes, but we don’t know what reason\nthere is in it. People are so unreasonable!",
+      "first_sentence": "Our customers over there, seem not to be able\nto confide their property to us fast enough."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 28,
+      "chapter_title": "CHAPTER XXI",
+      "start_char_pos": 430840,
+      "end_char_pos": 431395,
+      "token_count": 99,
+      "text": "But\nthere is no one there.”\n\n“What is the meaning of One Hundred and Five, North Tower?” asked\nDefarge. “Quick!”\n\n“The meaning, monsieur?”\n\n“Does it mean a captive, or a place of captivity? Or do you mean that I\nshall strike you dead?”\n\n“Kill him!” croaked Jacques Three, who had come close up.\n\n“Monsieur, it is a cell.”\n\n“Show it me!”\n\n“Pass this way, then.”\n\nJacques Three, with his usual craving on him, and evidently disappointed\nby the dialogue taking a turn that did not seem to promise bloodshed,\nheld by Defarge’s arm as he held by the turnkey’s.",
+      "first_sentence": "But\nthere is no one there."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 30,
+      "chapter_title": "CHAPTER XXIII",
+      "start_char_pos": 457871,
+      "end_char_pos": 458202,
+      "token_count": 60,
+      "text": "When the village had taken its poor supper, it did not creep to bed,\nas it usually did, but came out of doors again, and remained there. A\ncurious contagion of whispering was upon it, and also, when it gathered\ntogether at the fountain in the dark, another curious contagion of\nlooking expectantly at the sky in one direction only.",
+      "first_sentence": "When the village had taken its poor supper, it did not creep to bed,\nas it usually did, but came out of doors again, and remained there."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 31,
+      "chapter_title": "CHAPTER XXIV",
+      "start_char_pos": 473552,
+      "end_char_pos": 473876,
+      "token_count": 64,
+      "text": "It was too much the way of Monseigneur under his reverses as a refugee, and it was much too much the way of native British orthodoxy, to talk of this terrible Revolution as if it were the only harvest ever known under the skies that had not been sown--as if nothing had ever been done, or omitted to be done, that had led to",
+      "first_sentence": "It was too much the way of Monseigneur under his reverses as a refugee, and it was much too much the..."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 31,
+      "chapter_title": "CHAPTER XXIV",
+      "start_char_pos": 481785,
+      "end_char_pos": 482037,
+      "token_count": 49,
+      "text": "The peril of an old servant and a good one, whose\nonly crime was fidelity to himself and his family, stared him so\nreproachfully in the face, that, as he walked to and fro in the Temple\nconsidering what to do, he almost hid his face from the passersby.",
+      "first_sentence": "The peril of an old servant and a good one, whose\nonly crime was fidelity to himself and his family, stared him so\nreproachfully in the face, that, as he walked to and fro in the Temple\nconsidering what to do, he almost hid his face from the passersby."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 32,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 498313,
+      "end_char_pos": 498558,
+      "token_count": 43,
+      "text": "Daylight at last found them before the wall of Paris. The barrier was\nclosed and strongly guarded when they rode up to it.\n\n“Where are the papers of this prisoner?” demanded a resolute-looking man\nin authority, who was summoned out by the guard.",
+      "first_sentence": "Daylight at last found them before the wall of Paris."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 32,
+      "chapter_title": "CHAPTER I",
+      "start_char_pos": 506027,
+      "end_char_pos": 506371,
+      "token_count": 65,
+      "text": "Troubled as the future\nwas, it was the unknown future, and in its obscurity there was ignorant\nhope. The horrible massacre, days and nights long, which, within a few\nrounds of the clock, was to set a great mark of blood upon the blessed\ngarnering time of harvest, was as far out of his knowledge as if it had\nbeen a hundred thousand years away.",
+      "first_sentence": "Troubled as the future\nwas, it was the unknown future, and in its obscurity there was ignorant\nhope."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 34,
+      "chapter_title": "CHAPTER III",
+      "start_char_pos": 532740,
+      "end_char_pos": 533041,
+      "token_count": 55,
+      "text": "Lorry, striking in to explain; “there are frequent\nrisings in the streets; and, although it is not likely they will ever\ntrouble you, Madame Defarge wishes to see those whom she has the power\nto protect at such times, to the end that she may know them--that she\nmay identify them. I believe,” said Mr.",
+      "first_sentence": "Lorry, striking in to explain; “there are frequent\nrisings in the streets; and, although it is not likely they will ever\ntrouble you, Madame Defarge wishes to see those whom she has the power\nto protect at such times, to the end that she may know them--that she\nmay identify them."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 35,
+      "chapter_title": "CHAPTER IV",
+      "start_char_pos": 543549,
+      "end_char_pos": 544035,
+      "token_count": 86,
+      "text": "The Doctor knew, that up to that\ntime, his imprisonment had been associated in the minds of his daughter\nand his friend, with his personal affliction, deprivation, and weakness.\nNow that this was changed, and he knew himself to be invested through\nthat old trial with forces to which they both looked for Charles’s\nultimate safety and deliverance, he became so far exalted by the change,\nthat he took the lead and direction, and required them as the weak, to\ntrust to him as the strong.",
+      "first_sentence": "The Doctor knew, that up to that\ntime, his imprisonment had been associated in the minds of his daughter\nand his friend, with his personal affliction, deprivation, and weakness."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 36,
+      "chapter_title": "CHAPTER V",
+      "start_char_pos": 555840,
+      "end_char_pos": 556188,
+      "token_count": 55,
+      "text": "It was a day of some wild\nrejoicing, and a festival. She had seen the houses, as she came along,\ndecorated with little pikes, and with little red caps stuck upon them;\nalso, with tricoloured ribbons; also, with the standard inscription\n(tricoloured letters were the favourite), Republic One and Indivisible.\nLiberty, Equality, Fraternity, or Death!",
+      "first_sentence": "It was a day of some wild\nrejoicing, and a festival."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 37,
+      "chapter_title": "CHAPTER VI",
+      "start_char_pos": 569281,
+      "end_char_pos": 569581,
+      "token_count": 52,
+      "text": "The President required the name of that citizen. The accused explained\nthat the citizen was his first witness. He also referred with confidence\nto the citizen’s letter, which had been taken from him at the Barrier,\nbut which he did not doubt would be found among the papers then before\nthe President.",
+      "first_sentence": "The President required the name of that citizen."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 38,
+      "chapter_title": "CHAPTER VII",
+      "start_char_pos": 582083,
+      "end_char_pos": 582370,
+      "token_count": 50,
+      "text": "Cruncher, in an access of loyalty, growlingly repeated the words\nafter Miss Pross, like somebody at church.\n\n“I am glad you have so much of the Englishman in you, though I wish you\nhad never taken that cold in your voice,” said Miss Pross, approvingly.\n“But the question, Doctor Manette.",
+      "first_sentence": "Cruncher, in an access of loyalty, growlingly repeated the words\nafter Miss Pross, like somebody at church."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 39,
+      "chapter_title": "CHAPTER VIII",
+      "start_char_pos": 604295,
+      "end_char_pos": 604559,
+      "token_count": 46,
+      "text": "Once denounced, and on such\ngrave grounds as had just now been suggested to his mind, he foresaw\nthat the dreadful woman of whose unrelenting character he had seen many\nproofs, would produce against him that fatal register, and would quash\nhis last chance of life.",
+      "first_sentence": "Once denounced, and on such\ngrave grounds as had just now been suggested to his mind, he foresaw\nthat the dreadful woman of whose unrelenting character he had seen many\nproofs, would produce against him that fatal register, and would quash\nhis last chance of life."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 40,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 621420,
+      "end_char_pos": 621635,
+      "token_count": 45,
+      "text": "As I was telling you last night when Lucie came in so\nunexpectedly, I have at length done all that I can do here. I hoped to\nhave left them in perfect safety, and then to have quitted Paris. I have\nmy Leave to Pass.",
+      "first_sentence": "As I was telling you last night when Lucie came in so\nunexpectedly, I have at length done all that I can do here."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 40,
+      "chapter_title": "CHAPTER IX",
+      "start_char_pos": 629828,
+      "end_char_pos": 630150,
+      "token_count": 64,
+      "text": "At one of the theatre doors, there was a little girl with a mother, looking for a way across the street through the mud. He carried the child over, and before the timid arm was loosed from his neck asked her for a kiss. “I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet",
+      "first_sentence": "At one of the theatre doors, there was a little girl with a mother, looking for a way across the street through the mud."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 41,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 648952,
+      "end_char_pos": 649412,
+      "token_count": 88,
+      "text": "The wound was a sword-thrust, received from twenty to twenty-four hours\nbefore, but no skill could have saved him if it had been looked to\nwithout delay. He was then dying fast. As I turned my eyes to the elder\nbrother, I saw him looking down at this handsome boy whose life was\nebbing out, as if he were a wounded bird, or hare, or rabbit; not at all\nas if he were a fellow-creature.\n\n“‘How has this been done, monsieur?’ said I.\n\n“‘A crazed young common dog!",
+      "first_sentence": "The wound was a sword-thrust, received from twenty to twenty-four hours\nbefore, but no skill could have saved him if it had been looked to\nwithout delay."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 41,
+      "chapter_title": "CHAPTER X",
+      "start_char_pos": 659050,
+      "end_char_pos": 659404,
+      "token_count": 70,
+      "text": "There is no confusion or\nfailure in my memory; it can recall, and could detail, every word that\nwas ever spoken between me and those brothers.\n\n“She lingered for a week. Towards the last, I could understand some few\nsyllables that she said to me, by placing my ear close to her lips. She\nasked me where she was, and I told her; who I was, and I told her.",
+      "first_sentence": "There is no confusion or\nfailure in my memory; it can recall, and could detail, every word that\nwas ever spoken between me and those brothers."
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 43,
+      "chapter_title": "CHAPTER XII",
+      "start_char_pos": 685864,
+      "end_char_pos": 686192,
+      "token_count": 58,
+      "text": "He waited and waited, and the clock struck twelve; but Doctor Manette\ndid not come back. Mr. Lorry returned, and found no tidings of him, and\nbrought none. Where could he be?\n\nThey were discussing this question, and were almost building up some\nweak structure of hope on his prolonged absence, when they heard him on\nthe stairs.",
+      "first_sentence": "He waited and waited, and the clock struck twelve; but Doctor Manette\ndid not come back."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 44,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 702683,
+      "end_char_pos": 703054,
+      "token_count": 67,
+      "text": "Lose\nno time!”\n\nThe door was quickly opened and closed, and there stood before him\nface to face, quiet, intent upon him, with the light of a smile on his\nfeatures, and a cautionary finger on his lip, Sydney Carton.\n\nThere was something so bright and remarkable in his look, that, for the\nfirst moment, the prisoner misdoubted him to be an apparition of his own\nimagining.",
+      "first_sentence": "Lose\nno time!"
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 44,
+      "chapter_title": "CHAPTER XIII",
+      "start_char_pos": 710846,
+      "end_char_pos": 711137,
+      "token_count": 53,
+      "text": "Sounds that he was not afraid of, for he divined their meaning, then\nbegan to be audible. Several doors were opened in succession, and\nfinally his own. A gaoler, with a list in his hand, looked in, merely\nsaying, “Follow me, Evrémonde!” and he followed into a large dark room,\nat a distance.",
+      "first_sentence": "Sounds that he was not afraid of, for he divined their meaning, then\nbegan to be audible."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 45,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 727463,
+      "end_char_pos": 727814,
+      "token_count": 60,
+      "text": "Lying hidden in her\nbosom, was a loaded pistol. Lying hidden at her waist, was a sharpened\ndagger. Thus accoutred, and walking with the confident tread of such\na character, and with the supple freedom of a woman who had habitually\nwalked in her girlhood, bare-foot and bare-legged, on the brown\nsea-sand, Madame Defarge took her way along the streets.",
+      "first_sentence": "Lying hidden in her\nbosom, was a loaded pistol."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 45,
+      "chapter_title": "CHAPTER XIV",
+      "start_char_pos": 736131,
+      "end_char_pos": 736622,
+      "token_count": 93,
+      "text": "She saw a tight,\nhard, wiry woman before her, as Mr. Lorry had seen in the same figure a\nwoman with a strong hand, in the years gone by. She knew full well that\nMiss Pross was the family’s devoted friend; Miss Pross knew full well\nthat Madame Defarge was the family’s malevolent enemy.\n\n“On my way yonder,” said Madame Defarge, with a slight movement of\nher hand towards the fatal spot, “where they reserve my chair and my\nknitting for me, I am come to make my compliments to her in passing.",
+      "first_sentence": "She saw a tight,\nhard, wiry woman before her, as Mr."
+    }
+  ]
+}

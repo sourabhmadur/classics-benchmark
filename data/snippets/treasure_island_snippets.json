@@ -1,0 +1,532 @@
+{
+  "novel_key": "treasure_island",
+  "novel_file": "treasure_island.txt",
+  "text_length": 363154,
+  "chapters_detected": 3,
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "title": "I. T",
+      "start_pos": 933,
+      "end_pos": 1986,
+      "length": 1053
+    },
+    {
+      "chapter_num": 2,
+      "title": "XVIII. N",
+      "start_pos": 1996,
+      "end_pos": 3004,
+      "length": 1008
+    },
+    {
+      "chapter_num": 3,
+      "title": "XXXIV. A",
+      "start_pos": 3014,
+      "end_pos": 363154,
+      "length": 360140
+    }
+  ],
+  "snippets_extracted": 50,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "chapter_num": 1,
+      "chapter_title": "I. T",
+      "start_char_pos": 1487,
+      "end_char_pos": 1732,
+      "token_count": 72,
+      "text": "WHAT I HEARD IN THE APPLE-BARREL . . . . . . 70\n XII. COUNCIL OF WAR . . . . . . . . . . . . . . 76\n\n PART THREE\n My Shore Adventure\n\n XIII. HOW I BEGAN MY SHORE ADVENTURE . . . . . . 82\n XIV. THE FIRST BLOW . . . . . . . . . . . . . . . 87\n XV.",
+      "first_sentence": "WHAT I HEARD IN THE APPLE-BARREL ."
+    },
+    {
+      "snippet_id": 2,
+      "chapter_num": 2,
+      "chapter_title": "XVIII. N",
+      "start_char_pos": 2522,
+      "end_char_pos": 2761,
+      "token_count": 72,
+      "text": "ISRAEL HANDS . . . . . . . . . . . . . . . 153\n XXVII. “PIECES OF EIGHT” . . . . . . . . . . . 161\n\n PART SIX\n Captain Silver\n\n XXVIII. IN THE ENEMY’S CAMP . . . . . . . . . . 168\n XXIX. THE BLACK SPOT AGAIN . . . . . . . . . . . 176\n XXX.",
+      "first_sentence": "ISRAEL HANDS ."
+    },
+    {
+      "snippet_id": 3,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 10109,
+      "end_char_pos": 10486,
+      "token_count": 75,
+      "text": "In one way, indeed, he bade fair to ruin us, for he kept on staying week\nafter week, and at last month after month, so that all the money had\nbeen long exhausted, and still my father never plucked up the heart to\ninsist on having more. If ever he mentioned it, the captain blew through\nhis nose so loudly that you might say he roared, and stared my poor\nfather out of the room.",
+      "first_sentence": "In one way, indeed, he bade fair to ruin us, for he kept on staying week\nafter week, and at last month after month, so that all the money had\nbeen long exhausted, and still my father never plucked up the heart to\ninsist on having more."
+    },
+    {
+      "snippet_id": 4,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 17207,
+      "end_char_pos": 17613,
+      "token_count": 80,
+      "text": "Which way is he gone?”\n\nAnd when I had pointed out the rock and told him how the captain was\nlikely to return, and how soon, and answered a few other questions,\n“Ah,” said he, “this’ll be as good as drink to my mate Bill.”\n\nThe expression of his face as he said these words was not at all\npleasant, and I had my own reasons for thinking that the stranger was\nmistaken, even supposing he meant what he said.",
+      "first_sentence": "Which way is he gone?"
+    },
+    {
+      "snippet_id": 5,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 24400,
+      "end_char_pos": 24770,
+      "token_count": 68,
+      "text": "Jim,” he said, “are you afraid of blood?”\n\n“No, sir,” said I.\n\n“Well, then,” said he, “you hold the basin”; and with that he took his\nlancet and opened a vein.\n\nA great deal of blood was taken before the captain opened his eyes\nand looked mistily about him. First he recognized the doctor with\nan unmistakable frown; then his glance fell upon me, and he looked\nrelieved.",
+      "first_sentence": "Jim,” he said, “are you afraid of blood?"
+    },
+    {
+      "snippet_id": 6,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 31375,
+      "end_char_pos": 31632,
+      "token_count": 51,
+      "text": "He got downstairs next morning, to be sure, and had his meals as usual,\nthough he ate little and had more, I am afraid, than his usual supply of\nrum, for he helped himself out of the bar, scowling and blowing through\nhis nose, and no one dared to cross him.",
+      "first_sentence": "He got downstairs next morning, to be sure, and had his meals as usual,\nthough he ate little and had more, I am afraid, than his usual supply of\nrum, for he helped himself out of the bar, scowling and blowing through\nhis nose, and no one dared to cross him."
+    },
+    {
+      "snippet_id": 7,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 38340,
+      "end_char_pos": 38588,
+      "token_count": 46,
+      "text": "Something must speedily\nbe resolved upon, and it occurred to us at last to go forth together\nand seek help in the neighbouring hamlet. No sooner said than done.\nBare-headed as we were, we ran out at once in the gathering evening and\nthe frosty fog.",
+      "first_sentence": "Something must speedily\nbe resolved upon, and it occurred to us at last to go forth together\nand seek help in the neighbouring hamlet."
+    },
+    {
+      "snippet_id": 8,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 45437,
+      "end_char_pos": 45719,
+      "token_count": 53,
+      "text": "When we were about half-way through, I suddenly put my hand upon her\narm, for I had heard in the silent frosty air a sound that brought my\nheart into my mouth--the tap-tapping of the blind man’s stick upon the\nfrozen road. It drew nearer and nearer, while we sat holding our breath.",
+      "first_sentence": "When we were about half-way through, I suddenly put my hand upon her\narm, for I had heard in the silent frosty air a sound that brought my\nheart into my mouth--the tap-tapping of the blind man’s stick upon the\nfrozen road."
+    },
+    {
+      "snippet_id": 9,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 52544,
+      "end_char_pos": 52837,
+      "token_count": 61,
+      "text": "You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking. There wasn’t one of you dared face Bill, and\nI did it--a blind man! And I’m to lose my chance for you! I’m to be a\npoor, crawling beggar, sponging for rum, when I might be rolling in a\ncoach!",
+      "first_sentence": "You’d\nbe as rich as kings if you could find it, and you know it’s here, and\nyou stand there skulking."
+    },
+    {
+      "snippet_id": 10,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 59601,
+      "end_char_pos": 59888,
+      "token_count": 52,
+      "text": "His\neyebrows were very black, and moved readily, and this gave him a look of\nsome temper, not bad, you would say, but quick and high.\n\n“Come in, Mr. Dance,” says he, very stately and condescending.\n\n“Good evening, Dance,” says the doctor with a nod. “And good evening to\nyou, friend Jim.",
+      "first_sentence": "His\neyebrows were very black, and moved readily, and this gave him a look of\nsome temper, not bad, you would say, but quick and high."
+    },
+    {
+      "snippet_id": 11,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 67014,
+      "end_char_pos": 67318,
+      "token_count": 60,
+      "text": "Skeleton Island E.S.E. and by E.\n\n Ten feet.\n\n The bar silver is in the north cache; you can find\n it by the trend of the east hummock, ten fathoms\n south of the black crag with the face on it.\n\n The arms are easy found, in the sand-hill, N.\n point of north inlet cape, bearing E. and a\n quarter N.\n J.F.",
+      "first_sentence": "Skeleton Island E."
+    },
+    {
+      "snippet_id": 12,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 73624,
+      "end_char_pos": 74087,
+      "token_count": 87,
+      "text": "So now, Livesey, come\n post; do not lose an hour, if you respect me.\n\n Let young Hawkins go at once to see his\n mother, with Redruth for a guard; and then both\n come full speed to Bristol.\n John Trelawney\n\n Postscript.--I did not tell you that Blandly,\n who, by the way, is to send a consort after us if\n we don’t turn up by the end of August, had found\n an admirable fellow for sailing master--a stiff\n man, which I regret, but in all other respects a\n treasure.",
+      "first_sentence": "So now, Livesey, come\n post; do not lose an hour, if you respect me."
+    },
+    {
+      "snippet_id": 13,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 80703,
+      "end_char_pos": 80954,
+      "token_count": 48,
+      "text": "I plucked up courage at once, crossed the threshold, and walked right up\nto the man where he stood, propped on his crutch, talking to a customer.\n\n“Mr. Silver, sir?” I asked, holding out the note.\n\n“Yes, my lad,” said he; “such is my name, to be sure.",
+      "first_sentence": "I plucked up courage at once, crossed the threshold, and walked right up\nto the man where he stood, propped on his crutch, talking to a customer."
+    },
+    {
+      "snippet_id": 14,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 87750,
+      "end_char_pos": 88293,
+      "token_count": 98,
+      "text": "Livesey, “I don’t put much faith in your\ndiscoveries, as a general thing; but I will say this, John Silver suits\nme.”\n\n“The man’s a perfect trump,” declared the squire.\n\n“And now,” added the doctor, “Jim may come on board with us, may he\nnot?”\n\n“To be sure he may,” says squire. “Take your hat, Hawkins, and we’ll see\nthe ship.”\n\nIX\nPowder and Arms\n\nThe Hispaniola lay some way out, and we went under the figureheads and\nround the sterns of many other ships, and their cables sometimes grated\nunderneath our keel, and sometimes swung above us.",
+      "first_sentence": "Livesey, “I don’t put much faith in your\ndiscoveries, as a general thing; but I will say this, John Silver suits\nme."
+    },
+    {
+      "snippet_id": 15,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 95217,
+      "end_char_pos": 95576,
+      "token_count": 65,
+      "text": "Arrow stood\nby superintending.\n\nThe new arrangement was quite to my liking. The whole schooner had been\noverhauled; six berths had been made astern out of what had been the\nafter-part of the main hold; and this set of cabins was only joined to\nthe galley and forecastle by a sparred passage on the port side. It had\nbeen originally meant that the captain, Mr.",
+      "first_sentence": "Arrow stood\nby superintending."
+    },
+    {
+      "snippet_id": 16,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 101932,
+      "end_char_pos": 102374,
+      "token_count": 84,
+      "text": "I seen him grapple\nfour and knock their heads together--him unarmed.”\n\nAll the crew respected and even obeyed him. He had a way of talking\nto each and doing everybody some particular service. To me he was\nunweariedly kind, and always glad to see me in the galley, which he kept\nas clean as a new pin, the dishes hanging up burnished and his parrot in\na cage in one corner.\n\n“Come away, Hawkins,” he would say; “come and have a yarn with John.",
+      "first_sentence": "I seen him grapple\nfour and knock their heads together--him unarmed."
+    },
+    {
+      "snippet_id": 17,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 108985,
+      "end_char_pos": 109239,
+      "token_count": 48,
+      "text": "Old Pew, as had lost\nhis sight, and might have thought shame, spends twelve hundred pound in\na year, like a lord in Parliament. Where is he now? Well, he’s dead now\nand under hatches; but for two year before that, shiver my timbers,\nthe man was starving!",
+      "first_sentence": "Old Pew, as had lost\nhis sight, and might have thought shame, spends twelve hundred pound in\na year, like a lord in Parliament."
+    },
+    {
+      "snippet_id": 18,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 115994,
+      "end_char_pos": 116327,
+      "token_count": 64,
+      "text": "Or cut ’em down like that much pork? That\nwould have been Flint’s, or Billy Bones’s.”\n\n“Billy was the man for that,” said Israel. “‘Dead men don’t bite,’ says\nhe. Well, he’s dead now hisself; he knows the long and short on it now;\nand if ever a rough hand come to port, it was Billy.”\n\n“Right you are,” said Silver; “rough and ready.",
+      "first_sentence": "Or cut ’em down like that much pork?"
+    },
+    {
+      "snippet_id": 19,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 123145,
+      "end_char_pos": 123564,
+      "token_count": 80,
+      "text": "And with that he turned on his heel and rejoined the other two. They\nspoke together for a little, and though none of them started, or raised\nhis voice, or so much as whistled, it was plain enough that Dr. Livesey\nhad communicated my request, for the next thing that I heard was the\ncaptain giving an order to Job Anderson, and all hands were piped on\ndeck.\n\n“My lads,” said Captain Smollett, “I’ve a word to say to you.",
+      "first_sentence": "And with that he turned on his heel and rejoined the other two."
+    },
+    {
+      "snippet_id": 20,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 130152,
+      "end_char_pos": 130479,
+      "token_count": 65,
+      "text": "We had a dreary morning’s work before us, for there was no sign of any\nwind, and the boats had to be got out and manned, and the ship warped\nthree or four miles round the corner of the island and up the narrow\npassage to the haven behind Skeleton Island. I volunteered for one of\nthe boats, where I had, of course, no business.",
+      "first_sentence": "We had a dreary morning’s work before us, for there was no sign of any\nwind, and the boats had to be got out and manned, and the ship warped\nthree or four miles round the corner of the island and up the narrow\npassage to the haven behind Skeleton Island."
+    },
+    {
+      "snippet_id": 21,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 137490,
+      "end_char_pos": 137801,
+      "token_count": 62,
+      "text": "But you may suppose I paid no heed; jumping, ducking, and breaking\nthrough, I ran straight before my nose till I could run no longer.\n\nXIV\nThe First Blow\n\nI was so pleased at having given the slip to Long John that I began to\nenjoy myself and look around me with some interest on the strange land\nthat I was in.",
+      "first_sentence": "But you may suppose I paid no heed; jumping, ducking, and breaking\nthrough, I ran straight before my nose till I could run no longer."
+    },
+    {
+      "snippet_id": 22,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 144313,
+      "end_char_pos": 144659,
+      "token_count": 66,
+      "text": "It struck poor Tom, point foremost, and with stunning violence, right\nbetween the shoulders in the middle of his back. His hands flew up, he\ngave a sort of gasp, and fell.\n\nWhether he were injured much or little, none could ever tell. Like\nenough, to judge from the sound, his back was broken on the spot. But he\nhad no time given him to recover.",
+      "first_sentence": "It struck poor Tom, point foremost, and with stunning violence, right\nbetween the shoulders in the middle of his back."
+    },
+    {
+      "snippet_id": 23,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 151328,
+      "end_char_pos": 151793,
+      "token_count": 84,
+      "text": "You\nmightn’t happen to have a piece of cheese about you, now? No? Well,\nmany’s the long night I’ve dreamed of cheese--toasted, mostly--and woke\nup again, and here I were.”\n\n“If ever I can get aboard again,” said I, “you shall have cheese by the\nstone.”\n\nAll this time he had been feeling the stuff of my jacket, smoothing\nmy hands, looking at my boots, and generally, in the intervals of\nhis speech, showing a childish pleasure in the presence of a fellow\ncreature.",
+      "first_sentence": "You\nmightn’t happen to have a piece of cheese about you, now?"
+    },
+    {
+      "snippet_id": 24,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 158664,
+      "end_char_pos": 159002,
+      "token_count": 61,
+      "text": "Under the\ntrees with you! Theer’s where I killed my first goat. They don’t come\ndown here now; they’re all mastheaded on them mountings for the fear\nof Benjamin Gunn. Ah! And there’s the cetemery”--cemetery, he must have\nmeant. “You see the mounds? I come here and prayed, nows and thens, when\nI thought maybe a Sunday would be about doo.",
+      "first_sentence": "Under the\ntrees with you!"
+    },
+    {
+      "snippet_id": 25,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 165447,
+      "end_char_pos": 165901,
+      "token_count": 79,
+      "text": "All three made the first journey, heavily\nladen, and tossed our stores over the palisade. Then, leaving Joyce to\nguard them--one man, to be sure, but with half a dozen muskets--Hunter\nand I returned to the jolly-boat and loaded ourselves once more. So\nwe proceeded without pausing to take breath, till the whole cargo was\nbestowed, when the two servants took up their position in the block\nhouse, and I, with all my power, sculled back to the HISPANIOLA.",
+      "first_sentence": "All three made the first journey, heavily\nladen, and tossed our stores over the palisade."
+    },
+    {
+      "snippet_id": 26,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 179728,
+      "end_char_pos": 180042,
+      "token_count": 61,
+      "text": "He had found a longish fir-tree\nlying felled and trimmed in the enclosure, and with the help of Hunter\nhe had set it up at the corner of the log-house where the trunks crossed\nand made an angle. Then, climbing on the roof, he had with his own hand\nbent and run up the colours.\n\nThis seemed mightily to relieve him.",
+      "first_sentence": "He had found a longish fir-tree\nlying felled and trimmed in the enclosure, and with the help of Hunter\nhe had set it up at the corner of the log-house where the trunks crossed\nand made an angle."
+    },
+    {
+      "snippet_id": 27,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 186676,
+      "end_char_pos": 187157,
+      "token_count": 86,
+      "text": "For a good hour to come frequent reports shook the island, and\nballs kept crashing through the woods. I moved from hiding-place to\nhiding-place, always pursued, or so it seemed to me, by these terrifying\nmissiles. But towards the end of the bombardment, though still I durst\nnot venture in the direction of the stockade, where the balls fell\noftenest, I had begun, in a manner, to pluck up my heart again, and\nafter a long detour to the east, crept down among the shore-side trees.",
+      "first_sentence": "For a good hour to come frequent reports shook the island, and\nballs kept crashing through the woods."
+    },
+    {
+      "snippet_id": 28,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 194029,
+      "end_char_pos": 194295,
+      "token_count": 53,
+      "text": "It’s always a ship, and they can get to\nbuccaneering again, I suppose.”\n\n“First ship that ever I lost,” said Captain Smollett.\n\nI was dead tired, as you may fancy; and when I got to sleep, which was\nnot till after a great deal of tossing, I slept like a log of wood.",
+      "first_sentence": "It’s always a ship, and they can get to\nbuccaneering again, I suppose."
+    },
+    {
+      "snippet_id": 29,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 200725,
+      "end_char_pos": 201083,
+      "token_count": 69,
+      "text": "What I mean is, we want your chart. Now, I never meant\nyou no harm, myself.”\n\n“That won’t do with me, my man,” interrupted the captain. “We know\nexactly what you meant to do, and we don’t care, for now, you see, you\ncan’t do it.”\n\nAnd the captain looked at him calmly and proceeded to fill a pipe.\n\n“If Abe Gray--” Silver broke out.\n\n“Avast there!” cried Mr.",
+      "first_sentence": "What I mean is, we want your chart."
+    },
+    {
+      "snippet_id": 30,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 207821,
+      "end_char_pos": 208163,
+      "token_count": 64,
+      "text": "An hour passed away.\n\n“Hang them!” said the captain. “This is as dull as the doldrums. Gray,\nwhistle for a wind.”\n\nAnd just at that moment came the first news of the attack.\n\n“If you please, sir,” said Joyce, “if I see anyone, am I to fire?”\n\n“I told you so!” cried the captain.\n\n“Thank you, sir,” returned Joyce with the same quiet civility.",
+      "first_sentence": "An hour passed away."
+    },
+    {
+      "snippet_id": 31,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 215159,
+      "end_char_pos": 215468,
+      "token_count": 59,
+      "text": "Five against three\nleaves us four to nine. That’s better odds than we had at starting. We\nwere seven to nineteen then, or thought we were, and that’s as bad to\nbear.” *\n\n*The mutineers were soon only eight in number, for the man shot by Mr.\nTrelawney on board the schooner died that same evening of his wound.",
+      "first_sentence": "Five against three\nleaves us four to nine."
+    },
+    {
+      "snippet_id": 32,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 222181,
+      "end_char_pos": 222573,
+      "token_count": 66,
+      "text": "The HISPANIOLA, in that unbroken mirror, was exactly portrayed from\nthe truck to the waterline, the Jolly Roger hanging from her peak.\n\nAlongside lay one of the gigs, Silver in the stern-sheets--him I could\nalways recognize--while a couple of men were leaning over the stern\nbulwarks, one of them with a red cap--the very rogue that I had seen\nsome hours before stride-legs upon the palisade.",
+      "first_sentence": "The HISPANIOLA, in that unbroken mirror, was exactly portrayed from\nthe truck to the waterline, the Jolly Roger hanging from her peak."
+    },
+    {
+      "snippet_id": 33,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 229099,
+      "end_char_pos": 229549,
+      "token_count": 84,
+      "text": "Now, however, when I had nothing else to\ndo, I began to pay more heed.\n\nOne I recognized for the coxswain’s, Israel Hands, that had been Flint’s\ngunner in former days. The other was, of course, my friend of the red\nnight-cap. Both men were plainly the worse of drink, and they were still\ndrinking, for even while I was listening, one of them, with a drunken\ncry, opened the stern window and threw out something, which I divined to\nbe an empty bottle.",
+      "first_sentence": "Now, however, when I had nothing else to\ndo, I began to pay more heed."
+    },
+    {
+      "snippet_id": 34,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 236180,
+      "end_char_pos": 236538,
+      "token_count": 67,
+      "text": "I have understood since that they were sea lions, and entirely harmless.\nBut the look of them, added to the difficulty of the shore and the\nhigh running of the surf, was more than enough to disgust me of that\nlanding-place. I felt willing rather to starve at sea than to confront\nsuch perils.\n\nIn the meantime I had a better chance, as I supposed, before me.",
+      "first_sentence": "I have understood since that they were sea lions, and entirely harmless."
+    },
+    {
+      "snippet_id": 35,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 243196,
+      "end_char_pos": 243505,
+      "token_count": 57,
+      "text": "I could not choose but suppose she was deserted. If not, the men\nwere lying drunk below, where I might batten them down, perhaps, and do\nwhat I chose with the ship.\n\nFor some time she had been doing the worse thing possible for\nme--standing still. She headed nearly due south, yawing, of course, all\nthe time.",
+      "first_sentence": "I could not choose but suppose she was deserted."
+    },
+    {
+      "snippet_id": 36,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 250162,
+      "end_char_pos": 250373,
+      "token_count": 43,
+      "text": "He must have drunk a gill before he took the bottle from his mouth.\n\n“Aye,” said he, “by thunder, but I wanted some o’ that!”\n\nI had sat down already in my own corner and begun to eat.\n\n“Much hurt?” I asked him.",
+      "first_sentence": "He must have drunk a gill before he took the bottle from his mouth."
+    },
+    {
+      "snippet_id": 37,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 257412,
+      "end_char_pos": 257788,
+      "token_count": 69,
+      "text": "But I’ll have\nto dig for it.”\n\nWith that I scuttled down the companion with all the noise I could,\nslipped off my shoes, ran quietly along the sparred gallery, mounted the\nforecastle ladder, and popped my head out of the fore companion. I\nknew he would not expect to see me there, yet I took every precaution\npossible, and certainly the worst of my suspicions proved too true.",
+      "first_sentence": "But I’ll have\nto dig for it."
+    },
+    {
+      "snippet_id": 38,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 264306,
+      "end_char_pos": 264680,
+      "token_count": 74,
+      "text": "At the same instant, he threw himself forward and I leapt\nsideways towards the bows. As I did so, I let go of the tiller, which\nsprang sharp to leeward, and I think this saved my life, for it struck\nHands across the chest and stopped him, for the moment, dead.\n\nBefore he could recover, I was safe out of the corner where he had me\ntrapped, with all the deck to dodge about.",
+      "first_sentence": "At the same instant, he threw himself forward and I leapt\nsideways towards the bows."
+    },
+    {
+      "snippet_id": 39,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 271338,
+      "end_char_pos": 271675,
+      "token_count": 66,
+      "text": "It was my first thought to pluck forth the dirk, but either it stuck too\nhard or my nerve failed me, and I desisted with a violent shudder. Oddly\nenough, that very shudder did the business. The knife, in fact, had come\nthe nearest in the world to missing me altogether; it held me by a mere\npinch of skin, and this the shudder tore away.",
+      "first_sentence": "It was my first thought to pluck forth the dirk, but either it stuck too\nhard or my nerve failed me, and I desisted with a violent shudder."
+    },
+    {
+      "snippet_id": 40,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 278452,
+      "end_char_pos": 278792,
+      "token_count": 64,
+      "text": "There was not\na soul stirring nor a sound beside the noises of the breeze.\n\nI stopped, with much wonder in my heart, and perhaps a little terror\nalso. It had not been our way to build great fires; we were, indeed,\nby the captain’s orders, somewhat niggardly of firewood, and I began to\nfear that something had gone wrong while I was absent.",
+      "first_sentence": "There was not\na soul stirring nor a sound beside the noises of the breeze."
+    },
+    {
+      "snippet_id": 41,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 285639,
+      "end_char_pos": 285980,
+      "token_count": 63,
+      "text": "And then, in\nhis first gracious tones, he replied to me, “Yesterday morning, Mr.\nHawkins,” said he, “in the dog-watch, down came Doctor Livesey with a\nflag of truce. Says he, ‘Cap’n Silver, you’re sold out. Ship’s gone.’\nWell, maybe we’d been taking a glass, and a song to help it round. I\nwon’t say no. Leastways, none of us had looked out.",
+      "first_sentence": "And then, in\nhis first gracious tones, he replied to me, “Yesterday morning, Mr."
+    },
+    {
+      "snippet_id": 42,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 292738,
+      "end_char_pos": 293009,
+      "token_count": 47,
+      "text": "One after another the rest followed his\nexample, each making a salute as he passed, each adding some apology.\n“According to rules,” said one. “Forecastle council,” said Morgan. And\nso with one remark or another all marched out and left Silver and me\nalone with the torch.",
+      "first_sentence": "One after another the rest followed his\nexample, each making a salute as he passed, each adding some apology."
+    },
+    {
+      "snippet_id": 43,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 299598,
+      "end_char_pos": 299873,
+      "token_count": 54,
+      "text": "Second, you let the enemy out o’ this here\ntrap for nothing. Why did they want out? I dunno, but it’s pretty plain\nthey wanted it. Third, you wouldn’t let us go at them upon the march.\nOh, we see through you, John Silver; you want to play booty, that’s\nwhat’s wrong with you.",
+      "first_sentence": "Second, you let the enemy out o’ this here\ntrap for nothing."
+    },
+    {
+      "snippet_id": 44,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 306826,
+      "end_char_pos": 307312,
+      "token_count": 86,
+      "text": "He himself slept\npeacefully and snored aloud, yet my heart was sore for him, wicked as he\nwas, to think on the dark perils that environed and the shameful gibbet\nthat awaited him.\n\nXXX\nOn Parole\n\nI was wakened--indeed, we were all wakened, for I could see even the\nsentinel shake himself together from where he had fallen against the\ndoor-post--by a clear, hearty voice hailing us from the margin of the\nwood:\n\n“Block house, ahoy!” it cried. “Here’s the doctor.”\n\nAnd the doctor it was.",
+      "first_sentence": "He himself slept\npeacefully and snored aloud, yet my heart was sore for him, wicked as he\nwas, to think on the dark perils that environed and the shameful gibbet\nthat awaited him."
+    },
+    {
+      "snippet_id": 45,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 314090,
+      "end_char_pos": 314431,
+      "token_count": 64,
+      "text": "Doctor, when a man’s steering as near the wind as me--playing chuck-farthing with the last breath in his body, like--you wouldn’t think it too much, mayhap, to give him one good word? You’ll please bear in mind it’s not my life only now--it’s that boy’s into the bargain; and you’ll speak me fair, doctor, and give me a bit o’ hope to go on,",
+      "first_sentence": "Doctor, when a man’s steering as near the wind as me--playing chuck-farthing with the last breath in his body, like--you wouldn’t think it too much, mayhap, to give him one good word?"
+    },
+    {
+      "snippet_id": 46,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 320766,
+      "end_char_pos": 321097,
+      "token_count": 63,
+      "text": "Even Silver, eating away, with Captain Flint upon his shoulder, had not\na word of blame for their recklessness. And this the more surprised me,\nfor I thought he had never shown himself so cunning as he did then.\n\n“Aye, mates,” said he, “it’s lucky you have Barbecue to think for you\nwith this here head. I got what I wanted, I did.",
+      "first_sentence": "Even Silver, eating away, with Captain Flint upon his shoulder, had not\na word of blame for their recklessness."
+    },
+    {
+      "snippet_id": 47,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 327956,
+      "end_char_pos": 328451,
+      "token_count": 92,
+      "text": "At the foot of a pretty big pine and involved in a green\ncreeper, which had even partly lifted some of the smaller bones, a human\nskeleton lay, with a few shreds of clothing, on the ground. I believe a\nchill struck for a moment to every heart.\n\n“He was a seaman,” said George Merry, who, bolder than the rest, had\ngone up close and was examining the rags of clothing. “Leastways, this\nis good sea-cloth.”\n\n“Aye, aye,” said Silver; “like enough; you wouldn’t look to find a\nbishop here, I reckon.",
+      "first_sentence": "At the foot of a pretty big pine and involved in a green\ncreeper, which had even partly lifted some of the smaller bones, a human\nskeleton lay, with a few shreds of clothing, on the ground."
+    },
+    {
+      "snippet_id": 48,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 335019,
+      "end_char_pos": 335395,
+      "token_count": 65,
+      "text": "Long after the voice had died away they still stared in\nsilence, dreadfully, before them.\n\n“That fixes it!” gasped one. “Let’s go.”\n\n“They was his last words,” moaned Morgan, “his last words above board.”\n\nDick had his Bible out and was praying volubly. He had been well brought\nup, had Dick, before he came to sea and fell among bad companions.\n\nStill Silver was unconquered.",
+      "first_sentence": "Long after the voice had died away they still stared in\nsilence, dreadfully, before them."
+    },
+    {
+      "snippet_id": 49,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 341969,
+      "end_char_pos": 342279,
+      "token_count": 57,
+      "text": "In this were the shaft\nof a pick broken in two and the boards of several packing-cases strewn\naround. On one of these boards I saw, branded with a hot iron, the name\nWALRUS--the name of Flint’s ship.\n\nAll was clear to probation. The CACHE had been found and rifled; the\nseven hundred thousand pounds were gone!",
+      "first_sentence": "In this were the shaft\nof a pick broken in two and the boards of several packing-cases strewn\naround."
+    },
+    {
+      "snippet_id": 50,
+      "chapter_num": 3,
+      "chapter_title": "XXXIV. A",
+      "start_char_pos": 349178,
+      "end_char_pos": 349491,
+      "token_count": 61,
+      "text": "You would have let old John be cut to bits, and never given it a\nthought, doctor.”\n\n“Not a thought,” replied Dr. Livesey cheerily.\n\nAnd by this time we had reached the gigs. The doctor, with the pick-axe,\ndemolished one of them, and then we all got aboard the other and set out\nto go round by sea for North Inlet.",
+      "first_sentence": "You would have let old John be cut to bits, and never given it a\nthought, doctor."
+    }
+  ]
+}
