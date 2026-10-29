@@ -30,7 +30,7 @@ setup(
     long_description_content_type="text/markdown",
     author="CLASSICS-EMR Team",
     author_email="",
-    url="https://github.com/your-username/classics_benchmark",
+    url="https://github.com/sourabhmadur/classics-benchmark",
     
     # Package configuration
     package_dir={"": "src"},
